@@ -1,0 +1,12 @@
+{
+    "pad": 0,
+    "monopthongs": 1,
+    "dipthongs": 2,
+    "r_colored_vowels": 3,
+    "stops": 4, 
+    "affricates": 5,
+    "fricatives": 6,
+    "nasals": 7,
+    "liquids": 8,
+    "semivowels": 9
+}
