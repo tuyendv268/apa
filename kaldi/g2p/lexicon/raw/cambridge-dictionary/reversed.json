@@ -1,0 +1,68 @@
+{
+    "word": "reversed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nreverse ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈvɜːs"
+                            ],
+                            "us": [
+                                "rɪˈvɝːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change the direction, order, position, result, etc. of something to its opposite: ",
+                            "examples": [
+                                "The new manager hoped to reverse the decline in the company's fortunes.",
+                                "Now that you have a job and I don't, our situations are reversed.",
+                                "The Court of Appeal reversed the earlier judgment."
+                            ]
+                        },
+                        {
+                            "explanation": "to drive a vehicle backwards: ",
+                            "examples": [
+                                "He reversed into a lamppost and damaged the back of the car.",
+                                "She reversed the car into the parking space."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a phone call that is paid for by the person receiving it",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "splat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "splæt"
+                            ],
+                            "us": [
+                                "splæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the sound of something wet hitting a surface or of something hitting the surface of a liquid: ",
+                            "examples": [
+                                "I could hear the splat of paint as the artist flicked it onto the canvas. ",
+                                "The wet sock landed on the floor with a splat."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "splæt"
+                            ],
+                            "us": [
+                                "splæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that makes the sound of something wet hitting a surface or of something hitting the surface of a liquid: ",
+                            "examples": [
+                                "She fell splat into the water.",
+                                "She flipped an omelette, only to have it go splat all over the floor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

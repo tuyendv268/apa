@@ -1,0 +1,38 @@
+{
+    "word": "thrombosis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "θrɒmˈbəʊ.sɪs"
+                            ],
+                            "us": [
+                                "θrɑːmˈboʊ.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "θrɒmˈbəʊ.siːz"
+                            ],
+                            "us_other_tense": [
+                                "θrɑːmˈboʊ.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a medical condition in which the flow of blood in the body is blocked by a clot (= partly solid mass) of blood: ",
+                            "examples": [
+                                "Maintaining whatever mobility is possible can prevent thrombosis.",
+                                "Travellers risk deep vein thromboses if they sit in cramped seats for too long."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

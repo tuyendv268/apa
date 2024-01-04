@@ -1,0 +1,35 @@
+{
+    "word": "central tendency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsen.trəl ˈten.dən.si"
+                            ],
+                            "us": [
+                                "ˌsen.trəl ˈten.dən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in statistics, the degree to which the values of a random variable cluster (= form groups) around the mean, median, and mode: ",
+                            "examples": [
+                                "The first phase consisted of generating measures of central tendency for all relevant variables in the dataset.",
+                                "Mean values indicate central tendency, but convey little information about the edges of a population.",
+                                "We examined individual differences in responses, regardless of central tendency findings."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

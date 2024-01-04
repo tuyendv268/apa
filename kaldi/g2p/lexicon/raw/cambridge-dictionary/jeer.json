@@ -1,0 +1,59 @@
+{
+    "word": "jeer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dʒɪər"
+                            ],
+                            "us": [
+                                "dʒɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to laugh or shout insults at someone to show you have no respect for them: ",
+                            "examples": [
+                                "The people at the back of the hall jeered the speaker.",
+                                "Critics jeered at his moral stance.",
+                                "\"Angry because you don't like the truth?\" he jeered."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dʒɪər"
+                            ],
+                            "us": [
+                                "dʒɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a way of laughing and shouting insults at someone to show a lack of respect: ",
+                            "examples": [
+                                "The news that the performance was being cancelled was greeted by boos and jeers from the audience."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

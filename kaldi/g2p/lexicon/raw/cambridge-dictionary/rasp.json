@@ -1,0 +1,68 @@
+{
+    "word": "rasp",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɑːsp"
+                            ],
+                            "us": [
+                                "ræsp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tool with a rough blade, used for shaping wood or metal",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a rough unpleasant noise, like metal being rubbed against metal: ",
+                            "examples": [
+                                "There was the rasp of a bolt and the door suddenly opened."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɑːsp"
+                            ],
+                            "us": [
+                                "ræsp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a rough unpleasant sound, especially while breathing or speaking: ",
+                            "examples": [
+                                "I heard his breath rasping in his chest.",
+                                "The gunman rasped (out) an urgent order (= gave it in an unpleasant-sounding voice) to the other members of the gang."
+                            ]
+                        },
+                        {
+                            "explanation": "to rub something roughly: ",
+                            "examples": [
+                                "The horse rasped my hand with his tongue as I fed him the apple."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

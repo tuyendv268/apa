@@ -1,0 +1,34 @@
+{
+    "word": "counter-question",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkaʊn.təˌkwes.tʃən"
+                            ],
+                            "us": [
+                                "ˈkaʊn.t̬ɚˌkwes.tʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a question that is asked in reply to another question: ",
+                            "examples": [
+                                "She answered with a counter-question.",
+                                "To the question \"What does it mean?\" he poses a counterquestion: \"How does it feel?\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

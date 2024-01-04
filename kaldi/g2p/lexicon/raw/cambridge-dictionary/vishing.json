@@ -1,0 +1,34 @@
+{
+    "word": "vishing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɪʃ.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈvɪʃ.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an attempt to trick someone into giving information over the telephone that would allow someone else to take money from them, for example by taking money out of their bank account: ",
+                            "examples": [
+                                "Cyber criminals are targeting internet-based telephone networks in what has become known as vishing. ",
+                                "The vulnerability may leave organizations open to vishing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

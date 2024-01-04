@@ -1,0 +1,54 @@
+{
+    "word": "car",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kɑːr"
+                            ],
+                            "us": [
+                                "kɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a road vehicle with an engine, four wheels, and seats for a small number of people: ",
+                            "examples": [
+                                "They don't have a car.",
+                                "Where did you park your car?",
+                                "It's quicker by car.",
+                                "a car chase/accident/factory"
+                            ]
+                        },
+                        {
+                            "explanation": "a part of a train used for a special purpose: ",
+                            "examples": [
+                                "a restaurant/sleeping car"
+                            ]
+                        },
+                        {
+                            "explanation": "any of the separate parts of a train in which the passengers sit: ",
+                            "examples": [
+                                "a railroad car"
+                            ]
+                        },
+                        {
+                            "explanation": "a part of a train that is used for carrying goods or animals: ",
+                            "examples": [
+                                "Hundreds of refugees were herded into cattle cars for the gruelling ten-hour journey."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

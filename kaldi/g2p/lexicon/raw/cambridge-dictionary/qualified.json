@@ -1,0 +1,41 @@
+{
+    "word": "qualified",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkwɒl.ɪ.faɪd"
+                            ],
+                            "us": [
+                                "ˈkwɑː.lə.faɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having finished a training course, or having particular skills, etc.: ",
+                            "examples": [
+                                "Tim is now a qualified architect.",
+                                "What makes you think that you are qualified for this job?",
+                                "I'm not qualified to give advice on such matters."
+                            ]
+                        },
+                        {
+                            "explanation": "limited: ",
+                            "examples": [
+                                "There seems to be qualified support for the idea."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "word": "mention",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmen.ʃən"
+                            ],
+                            "us": [
+                                "ˈmen.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak about something quickly, giving little detail or using few words: ",
+                            "examples": [
+                                "I'll mention your ideas to Jacinta.",
+                                "He casually mentioned (that) he was leaving his job.",
+                                "My wife mentioned seeing you the other day.",
+                                "Did she happen to mention whether she would be coming?"
+                            ]
+                        },
+                        {
+                            "explanation": "to refer to something or someone: ",
+                            "examples": [
+                                "I promised never to mention the incident again.",
+                                "Did she mention me in her letter?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmen.ʃən"
+                            ],
+                            "us": [
+                                "ˈmen.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short remark or written statement: ",
+                            "examples": [
+                                "The story didn't even get a mention in the newspaper.",
+                                "When I ordered the catalogue, there was no mention of any payment."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when something or someone is mentioned: ",
+                            "examples": [
+                                "Even the mention of her name makes him blush."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when a product, person etc. is referred to on a social media site: ",
+                            "examples": [
+                                "Tracking brand mentions can lead to a clearer understanding of how others interact with your brand's products or services.",
+                                "Mentions are a useful way to measure brand awareness and find out who’s really talking about you online."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when a person is publicly praised for having done something, such as their job, extremely well: ",
+                            "examples": [
+                                "At the awards ceremony, Chrissie Scott got/received a special mention for her reporting on the conflict."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

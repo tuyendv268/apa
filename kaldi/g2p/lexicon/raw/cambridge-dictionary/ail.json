@@ -1,0 +1,39 @@
+{
+    "word": "ail",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "eɪl"
+                            ],
+                            "us": [
+                                "eɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause difficulty and problems for someone or something: ",
+                            "examples": [
+                                "The government seems to have no understanding of what ails the country."
+                            ]
+                        },
+                        {
+                            "explanation": "to be ill, or to cause to be ill: ",
+                            "examples": [
+                                "She had been ailing for years before she died."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

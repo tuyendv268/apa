@@ -1,0 +1,45 @@
+{
+    "word": "exportable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspɔː.tə.bəl"
+                            ],
+                            "us": [
+                                "ɪkˈspɔːr.t̬ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to be sent to another country for sale: ",
+                            "examples": [
+                                "Their economy produces few exportable goods."
+                            ]
+                        },
+                        {
+                            "explanation": "(of something from a particular country) able to be used in other countries: ",
+                            "examples": [
+                                "The value of the new television technology to the company is that it is highly exportable."
+                            ]
+                        },
+                        {
+                            "explanation": "(of information from a computer) able to be copied to a different part of the computer's memory or to another computer device: ",
+                            "examples": [
+                                "The formats should be exportable to any format."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

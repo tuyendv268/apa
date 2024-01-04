@@ -1,0 +1,80 @@
+{
+    "word": "battle",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæt.əl"
+                            ],
+                            "us": [
+                                "ˈbæt̬.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fight between armed forces: ",
+                            "examples": [
+                                "the Battle of the Somme",
+                                "Her only brother was killed in battle (= while fighting)."
+                            ]
+                        },
+                        {
+                            "explanation": "an argument between two groups or against a situation that a group wants to change: ",
+                            "examples": [
+                                "The aid agency continues the battle against ignorance and superstition.",
+                                "The battle for women's rights still goes on."
+                            ]
+                        },
+                        {
+                            "explanation": "a determined effort to achieve something in a difficult situation or to change a bad situation: ",
+                            "examples": [
+                                "a long battle against cancer"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæt.əl"
+                            ],
+                            "us": [
+                                "ˈbæt̬.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fight: ",
+                            "examples": [
+                                "Police battled with residents in this part of the city for three days.",
+                                "For years the two nations battled over territory."
+                            ]
+                        },
+                        {
+                            "explanation": "to try hard to achieve something in a difficult situation: ",
+                            "examples": [
+                                "He had to battle against prejudice to get a job.",
+                                "Her parents battled for the right to be involved in the decision-making.",
+                                "We battled with the elements to get the roof fixed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

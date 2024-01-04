@@ -1,0 +1,57 @@
+{
+    "word": "electroplated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nelectroplate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "iˈlek.trəʊ.pleɪt"
+                            ],
+                            "us": [
+                                "iˈlek.troʊ.pleɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cover the surface of a metal object with a thin layer of a different metal, often silver, using electrolysis (= method that uses electric current): ",
+                            "examples": [
+                                "The firm uses chemical baths to electroplate metal products.",
+                                "The attractive appearance of silver can be achieved by electroplating silver onto an article made from a cheaper metal such as nickel. ",
+                                "electroplated brass"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

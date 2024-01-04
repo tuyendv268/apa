@@ -1,0 +1,61 @@
+{
+    "word": "sterilized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsterilize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈster.ɪ.laɪz"
+                            ],
+                            "us": [
+                                "ˈster.ə.laɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to perform a medical operation on someone in order to make them unable to have children: ",
+                            "examples": [
+                                "After having five children, she decided to be sterilized."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something completely clean and free from bacteria: ",
+                            "examples": [
+                                "All equipment must be sterilized before use."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

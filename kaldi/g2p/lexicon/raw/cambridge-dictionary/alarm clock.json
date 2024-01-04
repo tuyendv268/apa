@@ -1,0 +1,34 @@
+{
+    "word": "alarm clock",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈlɑːm ˌklɒk"
+                            ],
+                            "us": [
+                                "əˈlɑːrm ˌklɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a clock that you can set to wake you up at a particular time with a loud noise: ",
+                            "examples": [
+                                "My alarm clock went off at 7.30.",
+                                "I've set the alarm for 7.30."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

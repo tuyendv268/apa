@@ -1,0 +1,34 @@
+{
+    "word": "non-coplanar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.kəʊˈpleɪnər"
+                            ],
+                            "us": [
+                                "ˌnɑːn.koʊˈpleɪnɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not on the same plane (= flat surface): ",
+                            "examples": [
+                                "non-coplanar points/beams/lines",
+                                "Although the computation only requires six non-coplanar points, all the points of the calibration grid are considered to increase the precision."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

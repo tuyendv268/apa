@@ -1,0 +1,66 @@
+{
+    "word": "snake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sneɪk"
+                            ],
+                            "us": [
+                                "sneɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a reptile with a long body and no legs: ",
+                            "examples": [
+                                "He's terrified of being bitten by a snake.",
+                                "a snake bite",
+                                "Snake venom contains a complex mix of proteins that can be used to thin the blood."
+                            ]
+                        },
+                        {
+                            "explanation": "an unpleasant person who cannot be trusted: ",
+                            "examples": [
+                                "I don't trust him - he's a snake in the grass."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sneɪk"
+                            ],
+                            "us": [
+                                "sneɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move along a route that includes a lot of twists or bends: ",
+                            "examples": [
+                                "The river snakes through some of the most spectacular countryside in France.",
+                                "The queue for tickets snaked all the way around the block."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

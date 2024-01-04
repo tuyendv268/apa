@@ -1,0 +1,40 @@
+{
+    "word": "shul",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʃuːl",
+                                "ʃʊl"
+                            ],
+                            "us": [
+                                "ʃʊl"
+                            ],
+                            "uk_other_tense": [
+                                "ʃuːln",
+                                "ʃʊln"
+                            ],
+                            "us_other_tense": [
+                                "ʃʊln"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "another word for a synagogue (= a building in which Jewish people worship and study their religion), used by some Jewish people: ",
+                            "examples": [
+                                "In the synagogue, or shul, everything was marked according to the festivals.",
+                                "The tradition is to fast and stay in shul all day on Yom Kippur."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

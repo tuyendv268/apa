@@ -1,0 +1,41 @@
+{
+    "word": "primality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun ",
+                        "ipa": {
+                            "uk": [
+                                "praɪˈmæl.ə.ti"
+                            ],
+                            "us": [
+                                "praɪˈmæl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of being primal (= relating to an early stage of development, or to the time when human life on earth began) : ",
+                            "examples": [
+                                "A forest can be a place of primality and confusion.",
+                                "Clearly there’s a primality to eating, fulfilling one of our most basic needs."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of being a prime number (= a number that cannot be divided by any other number except itself and the number 1) : ",
+                            "examples": [
+                                "Volunteers are given specific numbers to test for primality.",
+                                "This computer program can be used to test the primality of numbers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

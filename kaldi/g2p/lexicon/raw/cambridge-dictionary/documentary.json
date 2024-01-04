@@ -1,0 +1,64 @@
+{
+    "word": "documentary",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdɒk.jəˈmen.tər.i"
+                            ],
+                            "us": [
+                                "ˌdɑː.kjəˈmen.t̬ɚ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a film or television or radio programme that gives facts and information about a subject: ",
+                            "examples": [
+                                "The documentary took a fresh look at the life of Darwin.",
+                                "They showed a documentary on animal communication."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌdɒk.jəˈmen.tər.i"
+                            ],
+                            "us": [
+                                "ˌdɑː.kjəˈmen.t̬ɚ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the form of documents: ",
+                            "examples": [
+                                "Human rights campaigners have discovered documentary evidence of torture."
+                            ]
+                        },
+                        {
+                            "explanation": "giving facts and information about a subject in the form of a film or television or radio programme: ",
+                            "examples": [
+                                "Most of her movies have a documentary style."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

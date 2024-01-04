@@ -1,0 +1,51 @@
+{
+    "word": "student",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstjuː.dənt"
+                            ],
+                            "us": [
+                                "ˈstuː.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who is learning at a college or university: ",
+                            "examples": [
+                                "a law/philosophy/medical student ",
+                                "a graduate/postgraduate student (= one who has completed a first degree)",
+                                "a full-time/part-time student ",
+                                "a student teacher/nurse/doctor (= a person training to become a teacher, nurse, etc.)",
+                                "He was a student at the University of Chicago."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who is learning at a school: ",
+                            "examples": [
+                                "Teachers use a variety of materials to inspire their students.",
+                                "Students are not allowed to bring mobile phones in to the test.",
+                                "The school has 24 students in kindergarten."
+                            ]
+                        },
+                        {
+                            "explanation": "If someone is a student of a particular subject, they know about it and are interested in it: ",
+                            "examples": [
+                                "As a nurse, you have to be a student of (= to know and learn about) human nature."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

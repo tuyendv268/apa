@@ -1,0 +1,62 @@
+{
+    "word": "obscured",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nobscure ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əbˈskjʊər"
+                            ],
+                            "us": [
+                                "əbˈskjʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to prevent something from being seen or heard: ",
+                            "examples": [
+                                "Two new skyscrapers had sprung up, obscuring the view from her window.",
+                                "The sun was obscured by clouds."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something difficult to discover and understand: ",
+                            "examples": [
+                                "Managers deliberately obscured the real situation from federal investigators."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

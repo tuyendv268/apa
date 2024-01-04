@@ -1,0 +1,34 @@
+{
+    "word": "gpu",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒiː.piːˈjuː"
+                            ],
+                            "us": [
+                                "ˌdʒiː.piːˈjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for graphics processing unit: a special type of processor used in computers and other devices that is designed to make them able to deal more quickly with graphics (= images) : ",
+                            "examples": [
+                                "A faster GPU results in better performance generally.",
+                                "The GPU chip handles streaming digital video."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

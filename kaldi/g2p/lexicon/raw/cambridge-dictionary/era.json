@@ -1,0 +1,43 @@
+{
+    "word": "era",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪə.rə"
+                            ],
+                            "us": [
+                                "ˈɪr.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a period of time of which particular events or stages of development are typical: ",
+                            "examples": [
+                                "the Jefferson era",
+                                "a bygone (= past) era",
+                                "the post-war era",
+                                "They had worked for peace during the long era of conflict.",
+                                "The fall of the Berlin wall marked the end of an era."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of time in which the history of the earth is measured, into which an eon can be divided and which itself can be divided into epochs: ",
+                            "examples": [
+                                "The Phanerozoic eon is divided into the Paleozoic, Mesozoic, and Cenozoic eras."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

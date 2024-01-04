@@ -1,0 +1,57 @@
+{
+    "word": "invoice",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.vɔɪs"
+                            ],
+                            "us": [
+                                "ˈɪn.vɔɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of things provided or work done together with their cost, for payment at a later time: ",
+                            "examples": [
+                                "Invoices must be submitted by the 24th of every month."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.vɔɪs"
+                            ],
+                            "us": [
+                                "ˈɪn.vɔɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to supply an invoice: ",
+                            "examples": [
+                                "We'll invoice you for parts and labour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "said",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sed"
+                            ],
+                            "us": [
+                                "sed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of say",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "sed"
+                            ],
+                            "us": [
+                                "sed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used before the name of a person or thing you have already mentioned: ",
+                            "examples": [
+                                "The said Joseph Brown was seen outside the house on the night of 15 January."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

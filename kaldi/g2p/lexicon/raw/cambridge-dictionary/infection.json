@@ -1,0 +1,41 @@
+{
+    "word": "infection",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈfek.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˈfek.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a condition in which bacteria or viruses that cause disease have entered the body: ",
+                            "examples": [
+                                "a serious infection",
+                                "a throat infection",
+                                "Bandage the wound to reduce the risk of infection."
+                            ]
+                        },
+                        {
+                            "explanation": "an act of passing harmful programs into a computer or file, or the harmful programs themselves: ",
+                            "examples": [
+                                "You only have to open an attachment to pass the infection from computer to computer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

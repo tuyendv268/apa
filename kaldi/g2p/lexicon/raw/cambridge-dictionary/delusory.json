@@ -1,0 +1,41 @@
+{
+    "word": "delusory",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈluː.sər.i"
+                            ],
+                            "us": [
+                                "dɪˈluː.sɚ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "false: ",
+                            "examples": [
+                                "Their sales talk always seems to include a comforting, though largely delusory, message.",
+                                "By sending delusory email messages, hackers can persuade users to log onto an imitation of the real site."
+                            ]
+                        },
+                        {
+                            "explanation": "believing things that are not true: ",
+                            "examples": [
+                                "A forensic psychologist for the defence testified that he was delusory and paranoid.",
+                                "His life deteriorated into a delusory state of confusion and guilt."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "word": "had",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "hæd",
+                                "həd",
+                                "əd"
+                            ],
+                            "us": [
+                                "hæd",
+                                "həd",
+                                "əd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of\nhave , also used with the past participle of other verbs to form the past perfect: ",
+                            "examples": [
+                                "When I was a child I had a dog.",
+                                "No more food please - I've had enough.",
+                                "I had heard/I'd heard they were planning to move to Boston.",
+                                "Had I known (= if I had known), I would have come home sooner."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a machine, etc.) to be in such a bad condition that it is not useful or (of a person, team, etc.) to be doing so badly that they are certain to fail: ",
+                            "examples": [
+                                "I think this computer's had it."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "hæd"
+                            ],
+                            "us": [
+                                "hæd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be tricked and given less than you agreed or paid for: ",
+                            "examples": [
+                                "\"I paid £2,000 for this car.\" \"You've been had, mate. It's not worth more than £1,000 .\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

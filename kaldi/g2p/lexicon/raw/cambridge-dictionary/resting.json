@@ -1,0 +1,80 @@
+{
+    "word": "resting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nrest ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rest"
+                            ],
+                            "us": [
+                                "rest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause someone or something to) stop doing a particular activity or stop being active for a period of time in order to relax and get back your strength: ",
+                            "examples": [
+                                "The doctor told him that he should rest for a few days.",
+                                "He looked away from the computer screen to rest his eyes.",
+                                "She promised that she would not rest (= would not stop looking) until the murderer of her son was caught and imprisoned."
+                            ]
+                        },
+                        {
+                            "explanation": "to be an actor who does not have any work: ",
+                            "examples": [
+                                "Over 90 percent of professional actors are resting at any given time."
+                            ]
+                        },
+                        {
+                            "explanation": "said by lawyers in a law court when they have finished the explanation of their case",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to lie or lean on something, or to put something on something else so that its weight is supported: ",
+                            "examples": [
+                                "She rested her head on my shoulder.",
+                                "The bicycle was resting against the wall."
+                            ]
+                        },
+                        {
+                            "explanation": "to remain in a particular state or place: ",
+                            "examples": [
+                                "We cannot allow the matter to rest here (= to remain as it is)- further action has to be taken."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

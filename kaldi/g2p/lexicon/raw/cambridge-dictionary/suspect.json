@@ -1,0 +1,101 @@
+{
+    "word": "suspect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səˈspekt"
+                            ],
+                            "us": [
+                                "səˈspekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to think or believe something to be true or probable: ",
+                            "examples": [
+                                "So far, the police do not suspect foul play.",
+                                "We had no reason to suspect (that) he might try to kill himself.",
+                                "\"Do you think she'll have told them?\" \"I suspect not/so.\""
+                            ]
+                        },
+                        {
+                            "explanation": "to think that someone has committed a crime or done something wrong: ",
+                            "examples": [
+                                "No one knows who killed her, but the police suspect her husband.",
+                                "The police suspect him of carrying out two bomb attacks.",
+                                "Three suspected terrorists have been arrested."
+                            ]
+                        },
+                        {
+                            "explanation": "to not trust; to doubt: ",
+                            "examples": [
+                                "I have no reason to suspect her honesty/loyalty.",
+                                "We suspected his motives in making his offer."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌs.pekt"
+                            ],
+                            "us": [
+                                "ˈsʌs.pekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person believed to have committed a crime or done something wrong, or something believed to have caused something bad: ",
+                            "examples": [
+                                "Police have issued a photograph of the suspect.",
+                                "The prime suspect in the case committed suicide.",
+                                "No one knows what caused the outbreak of food poisoning, but shellfish is the main suspect (= is thought to have caused it)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌs.pekt"
+                            ],
+                            "us": [
+                                "ˈsʌs.pekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "possibly false or dangerous: ",
+                            "examples": [
+                                "The study was carried out with such a small sample that its results are suspect.",
+                                "A suspect parcel was found at the station."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

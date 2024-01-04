@@ -11,7 +11,7 @@ from src.gop import (
 import glob
 import pickle
 from multiprocessing.pool import Pool
-
+import argparse
 import torch
 
 def calculate_lpps(alignments, features):
@@ -28,15 +28,25 @@ def calculate_lpps(alignments, features):
         phonemes.append((phoneme, start_frame, duration))
         index += 1
 
-    indices[indices==-1] = indices.max() + 1
+    if -1 in indices:
+        indices[indices==-1] = indices.max() + 1
 
-    indices = torch.nn.functional.one_hot(
-        indices.long(), num_classes=int(indices.max().item())+1).cuda()
-    indices = indices / indices.sum(0, keepdim=True)
+        indices = torch.nn.functional.one_hot(
+            indices.long(), num_classes=int(indices.max().item())+1).cuda()
+        indices = indices / indices.sum(0, keepdim=True)
+        
+        features = torch.matmul(indices.transpose(0, 1), features.cuda())
+        return features[:-1]
     
-    features = torch.matmul(indices.transpose(0, 1), features.cuda())
+    else:
+        indices[indices==-1] = indices.max() + 1
 
-    return features[:-1]
+        indices = torch.nn.functional.one_hot(
+            indices.long(), num_classes=int(indices.max().item())+1).cuda()
+        indices = indices / indices.sum(0, keepdim=True)
+        
+        features = torch.matmul(indices.transpose(0, 1), features.cuda())
+        return features
 
 def load_alignments(path):
     alignment_df = pd.read_csv(
@@ -67,8 +77,12 @@ def run_gop(data_dir, phone_pure_to_id):
     id2alignment = load_alignments(align_path)
 
     id2gop = {}
-    for key, loglikes in prob_reader:
-        alignment = id2alignment[int(key)]
+    for key, loglikes in tqdm(prob_reader):
+        try:
+            alignment = id2alignment[int(key)]
+        except:
+            alignment = id2alignment[key]
+
         phonemes = extract_phones_from_alignments(alignment)
 
         loglikes = torch.from_numpy(loglikes)
@@ -79,7 +93,6 @@ def run_gop(data_dir, phone_pure_to_id):
         )
         phone_pure_ids = [
             [index, int(phone_pure_to_id[phone_pure[0]]) - 1] for index, phone_pure in enumerate(phonemes)]
-        
         lprs = torch.Tensor(
             [
                 lpps[index[0], index[1]] 
@@ -107,6 +120,7 @@ def run(data_dirs, phone_pure_to_id):
                 phone_pure_to_id=phone_pure_to_id
             )
         except:
+            print("Some errors occur")
             continue
 
 if __name__ == "__main__":
@@ -129,7 +143,13 @@ if __name__ == "__main__":
     )
     phone_pure_to_id = df_phones_pure.set_index("phone_name")["phone_pure"].to_dict()
 
-    data_dir = "data/train/train-12-v2"
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        '-d', '--data_dir', type=str, default="data/train/info_qt_10_trainset-aug")
+    
+    args = parser.parse_args()
+
+    data_dir = args.data_dir
     data_dirs = glob.glob(f'{data_dir}/*')
 
     run(

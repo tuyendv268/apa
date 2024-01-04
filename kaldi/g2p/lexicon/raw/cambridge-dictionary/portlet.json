@@ -1,0 +1,34 @@
+{
+    "word": "portlet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɔːt.lət"
+                            ],
+                            "us": [
+                                "ˈpɔːrt.lət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of software that is displayed in a portal (= a website or page on the internet that allows people, especially a group of people who are interested in a particular subject, to get useful information and to find other websites): ",
+                            "examples": [
+                                "This portlet can be added to a page by any user with the appropriate privileges.",
+                                "The portal acts as a simple test driver to run the portlet container."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

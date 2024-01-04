@@ -1,0 +1,59 @@
+{
+    "word": "pending",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpen.dɪŋ"
+                            ],
+                            "us": [
+                                "ˈpen.dɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "about to happen or waiting to happen: ",
+                            "examples": [
+                                "There were whispers that a deal was pending.",
+                                "The pending releases of the prisoners are meant to create a climate for negotiation."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "ˈpen.dɪŋ"
+                            ],
+                            "us": [
+                                "ˈpen.dɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to say that one thing must wait until another thing happens: ",
+                            "examples": [
+                                "The identity of the four people was not made public, pending (the) notification of relatives.",
+                                "Flights were suspended pending (an) investigation of the crash."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

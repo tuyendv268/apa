@@ -1,0 +1,65 @@
+{
+    "word": "overtime",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈəʊ.və.taɪm"
+                            ],
+                            "us": [
+                                "ˈoʊ.vɚ.taɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(time spent working) after the usual time needed or expected in a job: ",
+                            "examples": [
+                                "They're doing/working overtime to get the job done on time.",
+                                "Everyone is on overtime (= being paid extra for working after the usual time) this weekend."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of time in a sports game in which play continues if neither team has won in the usual time allowed for the game: ",
+                            "examples": [
+                                "If the game ends in a tie, overtime will be played.",
+                                "They lost to the Bears in overtime."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈəʊ.və.taɪm"
+                            ],
+                            "us": [
+                                "ˈoʊ.vɚ.taɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "extra payment for working after the usual time: ",
+                            "examples": [
+                                "You can earn some overtime by working after 6.00 p.m. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

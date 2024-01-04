@@ -1,0 +1,35 @@
+{
+    "word": "general relativity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒen.ər.əl rel.əˈtɪv.ə.ti"
+                            ],
+                            "us": [
+                                "ˌdʒen.ər.əl rel.əˈtɪv.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the idea, proposed by Albert Einstein in 1915, that gravity is caused by a curving of space and time: ",
+                            "examples": [
+                                "General relativity predicted that light would not always travel in straight lines.",
+                                "The theory of General Relativity predicted that the universe was expanding. ",
+                                "The general theory of relativity represented far more than just a new approach to gravity."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

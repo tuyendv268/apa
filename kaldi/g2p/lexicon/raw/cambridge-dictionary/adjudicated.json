@@ -1,0 +1,57 @@
+{
+    "word": "adjudicated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nadjudicate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈdʒuː.dɪ.keɪt"
+                            ],
+                            "us": [
+                                "əˈdʒuː.də.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to act as judge in a competition or argument, or to make a formal decision about something: ",
+                            "examples": [
+                                "He was asked to adjudicate on the dispute.",
+                                "He was called in to adjudicate a local land dispute.",
+                                "The game was adjudicated a win for Black."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

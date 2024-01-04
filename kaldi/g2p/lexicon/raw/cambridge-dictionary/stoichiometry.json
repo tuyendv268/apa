@@ -1,0 +1,34 @@
+{
+    "word": "stoichiometry",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌstɔɪ.kiˈɒm.ə.tri"
+                            ],
+                            "us": [
+                                "ˌstɔɪ.kiˈɑː.mə.tri"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(the study of) the relationship between the quantities of substances involved in a chemical reaction and the substances that are produced as a result of that chemical reaction: ",
+                            "examples": [
+                                "Stoichiometry is of fundamental importance in modern chemistry.",
+                                "We can find the stoichiometry of a reaction if we know the amounts of each reactant that react together and the amounts of each product formed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

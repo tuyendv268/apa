@@ -1,0 +1,58 @@
+{
+    "word": "quip",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kwɪp"
+                            ],
+                            "us": [
+                                "kwɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a humorous and clever remark: ",
+                            "examples": [
+                                "It was Oscar Wilde who made the famous quip about life mimicking art."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kwɪp"
+                            ],
+                            "us": [
+                                "kwɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a quip: ",
+                            "examples": [
+                                "When asked why he seemed to be so relaxed, Mr McCarthy quipped: \"It's the drugs\".",
+                                "\"Everyone wants to be Cary Grant. Even I want to be Cary Grant,\" Grant once quipped."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

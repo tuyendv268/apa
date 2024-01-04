@@ -1,0 +1,40 @@
+{
+    "word": "graph",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡrɑːf",
+                                "ɡræf"
+                            ],
+                            "us": [
+                                "ɡræf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a picture that shows how two sets of information or variables (= amounts that can change) are related, usually by lines or curves: ",
+                            "examples": [
+                                "This graph shows how crime has varied in relationship to unemployment over the last 20 years."
+                            ]
+                        },
+                        {
+                            "explanation": "the group of all points on a line or plane that are solutions of an equation (= statement that two amounts are equal): ",
+                            "examples": [
+                                "Learn how to draw a graph of the equation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

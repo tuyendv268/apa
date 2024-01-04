@@ -1,0 +1,65 @@
+{
+    "word": "woe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "wəʊ"
+                            ],
+                            "us": [
+                                "woʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "big problems or troubles: ",
+                            "examples": [
+                                "The country has been beset by economic woes for the past decade."
+                            ]
+                        },
+                        {
+                            "explanation": "extreme sadness: ",
+                            "examples": [
+                                "Her face was lined and full of woe.",
+                                "He told me a real tale of woe about how he had lost both his job and his house in the same week."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "wəʊ"
+                            ],
+                            "us": [
+                                "woʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an expression of great sadness: ",
+                            "examples": [
+                                "Oh, woe!",
+                                "\"Woe!\" cried the creature."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

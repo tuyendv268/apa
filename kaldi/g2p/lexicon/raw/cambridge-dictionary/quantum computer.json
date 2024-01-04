@@ -1,0 +1,34 @@
+{
+    "word": "quantum computer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkwɒn.təm kəmˈpjuː.tər"
+                            ],
+                            "us": [
+                                "ˌkwɑːn.t̬əm kəmˈpjuː.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a computer that does certain types of complicated calculations much faster than a traditional computer, using qubits (= units of computer information that have quantum characteristics ) instead of bits (= units of computer information that must be either 0 or 1): ",
+                            "examples": [
+                                "A quantum computer would need hundreds or thousands of qubits to do meaningful work.",
+                                "A quantum computer could easily factor large integers, allowing them to break most cryptographic systems."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

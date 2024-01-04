@@ -1,0 +1,39 @@
+{
+    "word": "echo chamber",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.əʊ ˌtʃeɪm.bər"
+                            ],
+                            "us": [
+                                "ˈek.oʊ ˌtʃeɪm.bɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a room or space in which sound echoes (= is repeated because it is reflected from the walls, etc.): ",
+                            "examples": [
+                                "The drum sound threatens to drown the vocals and the orchestra. It's as if it were recorded in an echo chamber. "
+                            ]
+                        },
+                        {
+                            "explanation": "a situation in which people only hear opinions of one type, or opinions that are similar to their own: ",
+                            "examples": [
+                                "We don't always agree on everything; we're not mutual echo chambers for each other's policies. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

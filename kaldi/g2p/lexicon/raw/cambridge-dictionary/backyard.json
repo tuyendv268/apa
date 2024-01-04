@@ -1,0 +1,39 @@
+{
+    "word": "backyard",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌbækˈjɑːd"
+                            ],
+                            "us": [
+                                "ˌbækˈjɑːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small space surrounded by walls at the back of a house, usually with a hard surface: ",
+                            "examples": [
+                                "The house has a small backyard, surrounded by a high brick wall."
+                            ]
+                        },
+                        {
+                            "explanation": "a space at the back of a house, usually surrounded by a fence, and covered with grass: ",
+                            "examples": [
+                                "The kids were playing in the backyard."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

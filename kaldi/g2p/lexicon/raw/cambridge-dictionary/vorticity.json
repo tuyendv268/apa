@@ -1,0 +1,34 @@
+{
+    "word": "vorticity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "vɔːˈtɪs.ə.ti"
+                            ],
+                            "us": [
+                                "vɔːrˈtɪs.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the size or speed of a vortex (= a mass of air or water that spins around very fast and pulls objects into its empty centre), or the fact that it exists: ",
+                            "examples": [
+                                "This technique might be used to calculate a local vortex density, or vorticity.",
+                                "Vorticity is generated as the cylinder moves through the fluid."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

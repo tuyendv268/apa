@@ -1,0 +1,36 @@
+{
+    "word": "ambulance",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæm.bjə.ləns"
+                            ],
+                            "us": [
+                                "ˈæm.bjə.ləns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a special vehicle used to take sick or injured people to hospital: ",
+                            "examples": [
+                                "I called an ambulance.",
+                                "We were woken in the night by the wail of ambulance sirens.",
+                                "an ambulance driver",
+                                "An ambulance crew was called to his home, but he was dead by the time they arrived."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "word": "peeking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npeek ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "piːk"
+                            ],
+                            "us": [
+                                "piːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to look, especially for a short time or while trying to avoid being seen: ",
+                            "examples": [
+                                "Close your eyes. Don't peek. I've got a surprise for you.",
+                                "I peeked out the window to see who was there.",
+                                "The children peeked over the wall to see where the ball had gone.",
+                                "The film peeks behind the scenes of a multinational corporation."
+                            ]
+                        },
+                        {
+                            "explanation": "to stick out slightly and be partly seen: ",
+                            "examples": [
+                                "I could just see her petticoat peeking out from under her skirt."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

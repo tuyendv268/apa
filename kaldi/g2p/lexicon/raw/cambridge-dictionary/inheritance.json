@@ -1,0 +1,41 @@
+{
+    "word": "inheritance",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈher.ɪ.təns"
+                            ],
+                            "us": [
+                                "ɪnˈher.ɪ.təns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "money or objects that someone gives you when they die: ",
+                            "examples": [
+                                "The large inheritance from his aunt meant that he could buy his own boat.",
+                                "At 21 she came into her inheritance (= it was given to her)."
+                            ]
+                        },
+                        {
+                            "explanation": "a physical or mental characteristic inherited from your parents, or the process by which this happens: ",
+                            "examples": [
+                                "genetic inheritance",
+                                "A particular gene is responsible for the inheritance of eye colour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

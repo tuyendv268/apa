@@ -1,0 +1,68 @@
+{
+    "word": "driven",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈdrɪv.ən"
+                            ],
+                            "us": [
+                                "ˈdrɪv.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Someone who is driven is so determined to achieve something or be successful that all of their behaviour is directed towards this aim: ",
+                            "examples": [
+                                "Like most of the lawyers that I know, Rachel is driven."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -drɪv.ən"
+                            ],
+                            "us": [
+                                " -drɪv.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "providing the power to keep a machine working, or to make something happen: ",
+                            "examples": [
+                                "The new ships, propelled by gas turbines, require less maintenance than older, steam-driven ones.",
+                                "The fact remains that there are some public services that cannot be entirely market-driven (= controlled by economic forces)."
+                            ]
+                        },
+                        {
+                            "explanation": "describing the person driving a vehicle: ",
+                            "examples": [
+                                "He arrived every morning by chauffeur-driven car."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

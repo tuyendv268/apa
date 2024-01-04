@@ -1,0 +1,52 @@
+{
+    "word": "themselves",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "ðəmˈselvz"
+                            ],
+                            "us": [
+                                "ðəmˈselvz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used when the subject of the verb is \"they\" or a group of people, and the object is the same group of people: ",
+                            "examples": [
+                                "They asked themselves where they had gone wrong.",
+                                "Did the children enjoy themselves at the party?"
+                            ]
+                        },
+                        {
+                            "explanation": "used for emphasis when the subject is \"they\": ",
+                            "examples": [
+                                "They themselves had no knowledge of what was happening."
+                            ]
+                        },
+                        {
+                            "explanation": "alone or without help from anyone else: ",
+                            "examples": [
+                                "Young children should not be left by themselves."
+                            ]
+                        },
+                        {
+                            "explanation": "for their use only: ",
+                            "examples": [
+                                "They had the whole campsite to themselves."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

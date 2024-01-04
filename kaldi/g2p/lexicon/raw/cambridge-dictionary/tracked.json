@@ -1,0 +1,88 @@
+{
+    "word": "tracked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntrack ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "træk"
+                            ],
+                            "us": [
+                                "træk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to follow a person or animal by looking for proof that they have been somewhere, or by using electronic equipment: ",
+                            "examples": [
+                                "It's difficult to track an animal over stony ground.",
+                                "The military use radar satellites to track targets through clouds and at night.",
+                                "The terrorists were tracked to (= found in) Amsterdam."
+                            ]
+                        },
+                        {
+                            "explanation": "to record the progress or development of something over a period: ",
+                            "examples": [
+                                "The study tracked the careers of 1,226 doctors who trained at the Medical School."
+                            ]
+                        },
+                        {
+                            "explanation": "If a film or video camera tracks in a particular direction, it moves along while it is filming: ",
+                            "examples": [
+                                "The movie ends with a long tracking shot around the deserted house."
+                            ]
+                        },
+                        {
+                            "explanation": "If a moving part of a recording machine tracks, it gets into the correct position for operating: ",
+                            "examples": [
+                                "Our VCR tracks automatically."
+                            ]
+                        },
+                        {
+                            "explanation": "to follow the level of an interest rate, share price, etc.: ",
+                            "examples": [
+                                "The mortgage deal will track the Bank of England base rate plus 0.75 percent.",
+                                "Tony is putting £500 a month into a a savings account that tracks the FTSE All-Share index."
+                            ]
+                        },
+                        {
+                            "explanation": "to group and teach together school students with similar abilities who are approximately the same age: ",
+                            "examples": [
+                                "We start to track the children in the third form."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

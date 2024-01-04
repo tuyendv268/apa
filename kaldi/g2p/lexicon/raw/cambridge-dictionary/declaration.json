@@ -1,0 +1,41 @@
+{
+    "word": "declaration",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdek.ləˈreɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌdek.ləˈreɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an announcement, often one that is written and official: ",
+                            "examples": [
+                                "Members of Congress have to make a declaration of their business interests.",
+                                "As witnesses to the accident, we were asked to make written declarations of what we had seen.",
+                                "The company made a declaration of intent to follow an equal opportunities policy."
+                            ]
+                        },
+                        {
+                            "explanation": "in cricket, a situation in which a team stops batting (= hitting the ball) because they think they already have enough runs (= points) to win: ",
+                            "examples": [
+                                "a cleverly timed declaration"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "rhetoric",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈret.ər.ɪk"
+                            ],
+                            "us": [
+                                "ˈret̬.ɚ.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "speech or writing intended to be effective and influence people: ",
+                            "examples": [
+                                "How far the president will be able to translate his campaign rhetoric into action remains to be seen.",
+                                "I was swayed by her rhetoric into donating all my savings to the charity."
+                            ]
+                        },
+                        {
+                            "explanation": "the study of the ways of using language effectively",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "clever language that sounds good but is not sincere or has no real meaning: ",
+                            "examples": [
+                                "In reply to the question, he just produced a lot of empty (= meaningless) rhetoric."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

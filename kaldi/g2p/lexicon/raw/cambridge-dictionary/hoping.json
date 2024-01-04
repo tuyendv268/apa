@@ -1,0 +1,61 @@
+{
+    "word": "hoping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nhope ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "həʊp"
+                            ],
+                            "us": [
+                                "hoʊp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to want something to happen or to be true, and usually have a good reason to think that it might: ",
+                            "examples": [
+                                "I'm hoping for an interview next week.",
+                                "She's hoping (that) she won't be away too long.",
+                                "I hope (that) she'll win.",
+                                "We have to hope and pray (that) the operation will go well.",
+                                "They hope to visit us next year.",
+                                "It's good news, I hope.",
+                                "\"Will you be at the meeting tomorrow?\" \"I hope not/so\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "apheresis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌeɪ.fə'ri.sɪs",
+                                "ˌæ.fə'ri.sɪs",
+                                "əˈfɪe.rə.sɪs"
+                            ],
+                            "us": [
+                                "ˌeɪ.fə'ri.sɪs",
+                                "ˌæ.fə'ri.sɪs",
+                                "əˈfe.rə.sɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a process in which a particular substance or part of someone's blood is removed from the blood and the rest returned to their body: ",
+                            "examples": [
+                                "The stem cells are filtered out in a process called apheresis.",
+                                "Platelets can derived by aphaeresis, a technique that collects one component of the blood and returns the rest to the donor.",
+                                "A total of 356 aphereses were performed on 125 patients."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of not pronouncing the first sound in a word, for example saying \"specially\" instead of \"especially\": ",
+                            "examples": [
+                                "A striking feature of many of these nicknames is aphaeresis (initial syllabic deletion), as in \"Bastien\" for \"Sebastien\" or \"Toinette\" for \"Antoinette\".",
+                                "In apheresis, words lose their initial syllable."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

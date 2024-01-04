@@ -1,0 +1,79 @@
+{
+    "word": "resident",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈrez.ɪ.dənt"
+                            ],
+                            "us": [
+                                "ˈrez.ə.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who lives or has their home in a place: ",
+                            "examples": [
+                                "a resident of the UK/Australia",
+                                "The local residents were angry at the lack of parking spaces.",
+                                "The hotel bar was only open to residents (= to people staying at the hotel)."
+                            ]
+                        },
+                        {
+                            "explanation": "a doctor who is still training, and who works in a hospital: ",
+                            "examples": [
+                                "She's a first-year resident in oncology at Boston General Hospital."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈrez.ɪ.dənt"
+                            ],
+                            "us": [
+                                "ˈrez.ə.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "living or staying in a place: ",
+                            "examples": [
+                                "She's resident abroad/in Moscow."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to someone who has a special skill or quality in a group or organization: ",
+                            "examples": [
+                                "She is the university's resident expert on Italian literature.",
+                                "Tony is the company's resident clown."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to an artist, writer, dancer, or musician who is invited to work for a particular amount of time in an organization that provides them with space, money, and materials: ",
+                            "examples": [
+                                "After the concert, we viewed paintings exhibited by two resident artists.",
+                                "For two years, he was resident choreographer at the American Ballet Theater."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

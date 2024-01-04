@@ -1,0 +1,40 @@
+{
+    "word": "murderous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɜː.dər.əs"
+                            ],
+                            "us": [
+                                "ˈmɝː.dɚ.əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "extremely dangerous and likely to commit murder: ",
+                            "examples": [
+                                "He was a murderous gangster.",
+                                "She gave me a look of murderous hatred."
+                            ]
+                        },
+                        {
+                            "explanation": "extremely unpleasant: ",
+                            "examples": [
+                                "The traffic was murderous today."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "simulation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsɪm.jəˈleɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌsɪm.jəˈleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a model of a set of problems or events that can be used to teach someone how to do something, or the process of making such a model: ",
+                            "examples": [
+                                "The manager prepared a computer simulation of likely sales performance for the rest of the year."
+                            ]
+                        },
+                        {
+                            "explanation": "in football, the act of pretending to have been fouled to try to win a penalty or free kick unfairly: ",
+                            "examples": [
+                                "Young should have been booked for simulation, not awarded a penalty."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "vocalic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "vəʊˈkæl.ɪk"
+                            ],
+                            "us": [
+                                "voʊˈkæl.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a vowel or vowels : ",
+                            "examples": [
+                                "The schwa vowel is omitted in syllables that contain vocalic r, l, m or n.",
+                                "These vowels play an important role in the vocalic systems of Slavic languages. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

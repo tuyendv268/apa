@@ -1,0 +1,47 @@
+{
+    "word": "probation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "prəˈbeɪ.ʃən"
+                            ],
+                            "us": [
+                                "proʊˈbeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a period of time when a criminal must behave well and not commit any more crimes in order to avoid being sent to prison: ",
+                            "examples": [
+                                "He was fined and given two years' probation.",
+                                "The judge put him on probation for two years.",
+                                "He served a year in prison and was then let out on probation."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of time at the start of a new job when you are watched and tested to see if you are suitable for the job: ",
+                            "examples": [
+                                "a period of probation"
+                            ]
+                        },
+                        {
+                            "explanation": "a period of time during which a student who has not performed well must continue to have a particular grade point average in order to stay in school: ",
+                            "examples": [
+                                "Gene's on probation this semester."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

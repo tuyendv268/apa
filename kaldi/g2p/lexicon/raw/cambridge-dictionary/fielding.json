@@ -1,0 +1,68 @@
+{
+    "word": "fielding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nfield ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fiːld"
+                            ],
+                            "us": [
+                                "fiːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to catch or pick up the ball after it has been hit in a game such as cricket or baseball, and to try to prevent the other team from scoring: ",
+                            "examples": [
+                                "He fielded the ball well.",
+                                "Our team is fielding first."
+                            ]
+                        },
+                        {
+                            "explanation": "to deal with a question, often by not answering it directly: ",
+                            "examples": [
+                                "He fielded some awkward questions very skilfully."
+                            ]
+                        },
+                        {
+                            "explanation": "to have or produce a team of people to take part in an activity or event: ",
+                            "examples": [
+                                "The company fielded a group of experts to take part in the conference."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

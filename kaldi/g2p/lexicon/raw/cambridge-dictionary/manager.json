@@ -1,0 +1,54 @@
+{
+    "word": "manager",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæn.ɪ.dʒər"
+                            ],
+                            "us": [
+                                "ˈmæn.ə.dʒɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the person who is responsible for managing an organization: ",
+                            "examples": [
+                                "a bank manager",
+                                "a station manager",
+                                "a store manager",
+                                "the production manager",
+                                "I would like to speak to the manager."
+                            ]
+                        },
+                        {
+                            "explanation": "the person whose job is to organize and sometimes train a sports team: ",
+                            "examples": [
+                                "a football manager"
+                            ]
+                        },
+                        {
+                            "explanation": "The manager of a singer, actor, or other performer is a person whose job is to arrange the business part of their work.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a computer program or system that helps you to control or organize a particular type of activity: ",
+                            "examples": [
+                                "You can click on a file in the file manager.",
+                                "A password manager is a must for anyone with multiple logons."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

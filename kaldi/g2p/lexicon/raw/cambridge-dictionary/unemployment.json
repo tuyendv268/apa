@@ -1,0 +1,41 @@
+{
+    "word": "unemployment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.ɪmˈplɔɪ.mənt"
+                            ],
+                            "us": [
+                                "ˌʌn.ɪmˈplɔɪ.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number of people who do not have a job that provides money: ",
+                            "examples": [
+                                "Unemployment has fallen/risen again for the third consecutive month."
+                            ]
+                        },
+                        {
+                            "explanation": "the state of being unemployed",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "→ \nunemployment benefit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "hazarded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nhazard ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæz.əd"
+                            ],
+                            "us": [
+                                "ˈhæz.ɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to risk doing something, especially making a guess, suggestion, etc.: ",
+                            "examples": [
+                                "I wouldn't like to hazard a guess."
+                            ]
+                        },
+                        {
+                            "explanation": "to risk doing something that might cause harm to someone or something else: ",
+                            "examples": [
+                                "The policy hazarded the islands and put the lives of the inhabitants at risk."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

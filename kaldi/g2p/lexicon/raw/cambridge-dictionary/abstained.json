@@ -1,0 +1,67 @@
+{
+    "word": "abstained",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nabstain ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "æbˈsteɪn"
+                            ],
+                            "us": [
+                                "æbˈsteɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to not do something, especially something enjoyable that you think might be bad: ",
+                            "examples": [
+                                "He took a vow to abstain from alcohol/smoking/sex."
+                            ]
+                        },
+                        {
+                            "explanation": "to decide not to use your vote: ",
+                            "examples": [
+                                "63 members voted in favour, 39 opposed, and 15 abstained."
+                            ]
+                        },
+                        {
+                            "explanation": "to stay away from work: ",
+                            "examples": [
+                                "During a recent general strike, employees of all major trade unions abstained."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

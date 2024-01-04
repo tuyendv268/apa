@@ -1,0 +1,63 @@
+{
+    "word": "apple green",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæp.əl ˈɡriːn"
+                            ],
+                            "us": [
+                                "ˌæp.əl ˈɡriːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a light, bright green colour : ",
+                            "examples": [
+                                "Consider painting the walls in bright yellow, orange, or apple green.",
+                                "I like the apple green but the red is also nice."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæp.əl ˈɡriːn"
+                            ],
+                            "us": [
+                                "ˌæp.əl ˈɡriːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of a light, bright green colour : ",
+                            "examples": [
+                                "The living room had pale yellow walls and an apple-green rug.",
+                                "I wanted apple green bedding for the crib."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

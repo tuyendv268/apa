@@ -1,0 +1,35 @@
+{
+    "word": "anisotropic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌænˌaɪ.səˈtrɒp.ɪk"
+                            ],
+                            "us": [
+                                "ænˌaɪ.səˈtrɑː.pɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Something that is anisotropic changes in size or in its physical properties according to the direction in which it is measured: ",
+                            "examples": [
+                                "Graphite is an anisotropic material. This means that its properties depend on direction. ",
+                                "Carbon fibre is anisotropic, meaning it possesses directional stiffness.",
+                                "anisotropic conductivity"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

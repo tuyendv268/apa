@@ -1,0 +1,34 @@
+{
+    "word": "cab driver",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæb ˌdraɪ.vər"
+                            ],
+                            "us": [
+                                "ˈkæb ˌdraɪ.vɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who drives a taxi as a job: ",
+                            "examples": [
+                                "I used to be a New York City cab driver, so I know my way around.",
+                                "The cab driver dropped her on the corner."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

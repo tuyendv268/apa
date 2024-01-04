@@ -1,0 +1,41 @@
+{
+    "word": "personnel",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɜː.sənˈel"
+                            ],
+                            "us": [
+                                "ˌpɝː.sənˈel"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the people who are employed in a company, organization, or one of the armed forces: ",
+                            "examples": [
+                                "The new director is likely to make major changes in personnel.",
+                                "military personnel"
+                            ]
+                        },
+                        {
+                            "explanation": "the department of a company or organization that deals with its employees when they first join, when they need training, or when they have any problems: ",
+                            "examples": [
+                                "Personnel will help you find somewhere to live.",
+                                "For more information about the job, please contact the personnel manager."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

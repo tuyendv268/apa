@@ -1,0 +1,41 @@
+{
+    "word": "non-success",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.səkˈses"
+                            ],
+                            "us": [
+                                "ˌnɑːn.səkˈses"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "failure to achieve the results wanted or hoped for: ",
+                            "examples": [
+                                "Not recruiting and training younger team members is a recipe for non-success in this market.",
+                                "The success or non-success of our work depends on the patients’ willingness to cooperate."
+                            ]
+                        },
+                        {
+                            "explanation": "something that does not achieve positive results: ",
+                            "examples": [
+                                "Each trial was categorized as either a \"success\" or a \"non-success\".",
+                                "We celebrate our successes and mourn our non-successes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

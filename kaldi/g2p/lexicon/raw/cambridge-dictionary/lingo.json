@@ -1,0 +1,39 @@
+{
+    "word": "lingo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪŋ.ɡəʊ"
+                            ],
+                            "us": [
+                                "ˈlɪŋ.ɡoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a foreign language: ",
+                            "examples": [
+                                "In Italy, of course, Stef can speak the lingo."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of language that contains a lot of unusual or technical expressions: ",
+                            "examples": [
+                                "internet lingo"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

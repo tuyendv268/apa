@@ -1,0 +1,39 @@
+{
+    "word": "non-liquid",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈlɪk.wɪd"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈlɪk.wɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not consisting of money or something that can be bought or sold for money easily: ",
+                            "examples": [
+                                "They offer flat-fee services to clients whose wealth is tied up in non-liquid assets, such as a business or real estate."
+                            ]
+                        },
+                        {
+                            "explanation": "not in the form of a liquid (= a substance, such as water, that is not a solid or a gas and can be poured easily): ",
+                            "examples": [
+                                "Most world cuisines use metric weights for non-liquid ingredients and metric volumes for liquids. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

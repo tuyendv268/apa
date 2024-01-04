@@ -1,0 +1,47 @@
+{
+    "word": "temperature",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtem.prə.tʃər"
+                            ],
+                            "us": [
+                                "ˈtem.pɚ.ə.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the measured amount of heat in a place or in the body: ",
+                            "examples": [
+                                "Preheat the oven to a temperature of 200 degrees Celsius.",
+                                "Temperatures have risen over the past few days (= the weather has become warmer).",
+                                "The doctor examined him and took his temperature (= measured it)."
+                            ]
+                        },
+                        {
+                            "explanation": "to have a higher body temperature than normal and to be ill: ",
+                            "examples": [
+                                "She had a temperature and was feeling rather queasy."
+                            ]
+                        },
+                        {
+                            "explanation": "If you say that the temperature in a particular situation is rising, you mean that it is likely to become violent because people have become angry: ",
+                            "examples": [
+                                "The temperature of the discussion started to rise as each side added its own arguments."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

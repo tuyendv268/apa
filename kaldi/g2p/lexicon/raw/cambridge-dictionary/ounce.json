@@ -1,0 +1,41 @@
+{
+    "word": "ounce",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "aʊns"
+                            ],
+                            "us": [
+                                "aʊns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of weight equal to approximately 28 grams: ",
+                            "examples": [
+                                "There are 16 ounces in one pound.",
+                                "a twelve-oz pack of bacon"
+                            ]
+                        },
+                        {
+                            "explanation": "a very small amount: ",
+                            "examples": [
+                                "She can eat as much as she wants and she never puts on an ounce (= her weight does not increase).",
+                                "If he has an ounce of common sense, he'll realize that this project is bound to fail."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "federal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfed.ər.əl"
+                            ],
+                            "us": [
+                                "ˈfed.ɚ.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the central government, and not to the government of a region, of some countries such as the US: ",
+                            "examples": [
+                                "the federal government",
+                                "a federal agency/employee"
+                            ]
+                        },
+                        {
+                            "explanation": "A federal system of government consists of a group of regions that are controlled by a central government.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

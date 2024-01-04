@@ -6,6 +6,7 @@ from src.align import (
     load_data,
     split_data,
 )
+import argparse
 
 if __name__ == "__main__":
     config_dict = load_config("configs/general.yaml")
@@ -14,9 +15,21 @@ if __name__ == "__main__":
     n_split = config_dict["n-split"]
     conf_path = config_dict["conf-path"]
 
-    data_dir = "data/train/train-12-v2"
-    wav_dir = "/data/audio_data/prep_submission_audio/12/"
-    metadata_path = "prep_data/csv/train-data-type-12-v2.csv"
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        '-d', '--data_dir', type=str, default="data/train/info_qt_10_trainset-aug")
+    
+    parser.add_argument(
+        '-w', '--wav_dir', type=str, default="/data/audio_data/prep_submission_audio/10")
+    
+    parser.add_argument(
+        '-m', '--metadata_path', type=str, default="prep_data/csv/info_qt_10_trainset-aug.csv")
+
+    args = parser.parse_args()
+
+    data_dir = args.data_dir
+    wav_dir = args.wav_dir
+    metadata_path = args.metadata_path
 
     data = load_data(
         metadata_path=metadata_path,

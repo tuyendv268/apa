@@ -1,0 +1,62 @@
+{
+    "word": "working class",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌwɜː.kɪŋ ˈklɑːs"
+                            ],
+                            "us": [
+                                "ˌwɝː.kɪŋ ˈklæs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a social group that consists of people who earn little money, often being paid only for the hours or days that they work, and who usually do physical work: ",
+                            "examples": [
+                                "The working class usually react/reacts in a predictable way to government policies."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌwɜː.kɪŋˈklɑːs"
+                            ],
+                            "us": [
+                                "ˌwɝː.kɪŋˈklæs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to a social group that consists of people who earn less than other groups, often being paid only for the hours or days that they work, and who usually do physical work rather than work for which you need an advanced education: ",
+                            "examples": [
+                                "working-class people/families",
+                                "He was born to Irish immigrants and grew up in a working-class neighbourhood."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

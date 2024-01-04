@@ -1,0 +1,33 @@
+{
+    "word": "-fired",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -faɪəd"
+                            ],
+                            "us": [
+                                " -faɪrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "using the stated type of fuel: ",
+                            "examples": [
+                                "Gas-fired power stations are expected to produce cheaper electricity than coal-fired ones."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

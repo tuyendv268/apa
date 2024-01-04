@@ -1,0 +1,55 @@
+{
+    "word": "decrypted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndecrypt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈkrɪpt"
+                            ],
+                            "us": [
+                                "dɪˈkrɪpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change electronic information or signals that were stored, written, or sent in the form of a secret code (= a system of letters, numbers, or symbols) back into a form that you can understand and use normally: ",
+                            "examples": [
+                                "Messages encrypted using the public key can be decrypted only by someone with the private key."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

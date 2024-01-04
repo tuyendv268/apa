@@ -1,0 +1,61 @@
+{
+    "word": "blight",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "blaɪt"
+                            ],
+                            "us": [
+                                "blaɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a disease that damages and kills plants",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "something that spoils or has a very bad effect on something, often for a long time: ",
+                            "examples": [
+                                "His arrival cast a blight on the wedding day."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "blaɪt"
+                            ],
+                            "us": [
+                                "blaɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to spoil something: ",
+                            "examples": [
+                                "A broken leg blighted her chances of winning the championship."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

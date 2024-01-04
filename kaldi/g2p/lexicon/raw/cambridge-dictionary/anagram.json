@@ -1,0 +1,33 @@
+{
+    "word": "anagram",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæn.ə.ɡræm"
+                            ],
+                            "us": [
+                                "ˈæn.ə.ɡræm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word or phrase made by using the letters of another word or phrase in a different order: ",
+                            "examples": [
+                                "\"Neat\" is an anagram of \"a net\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

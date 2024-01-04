@@ -1,0 +1,40 @@
+{
+    "word": "biannually",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "baɪˈæn.ju.ə.li"
+                            ],
+                            "us": [
+                                "baɪˈæn.ju.ə.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "twice a year: ",
+                            "examples": [
+                                "The registry is updated biannually on 1 January and 1 July.",
+                                "The Committee meets biannually."
+                            ]
+                        },
+                        {
+                            "explanation": "once every two years: ",
+                            "examples": [
+                                "The fair has been held biannually since the 1980s."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

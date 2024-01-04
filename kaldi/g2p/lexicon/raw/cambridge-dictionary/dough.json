@@ -1,0 +1,41 @@
+{
+    "word": "dough",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dəʊ"
+                            ],
+                            "us": [
+                                "doʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "flour mixed with water and often yeast, fat, or sugar, so that it is ready for baking: ",
+                            "examples": [
+                                "bread dough",
+                                "pastry dough",
+                                "She kneaded the dough and left it to rise."
+                            ]
+                        },
+                        {
+                            "explanation": "money: ",
+                            "examples": [
+                                "I don't want to work but I need the dough."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

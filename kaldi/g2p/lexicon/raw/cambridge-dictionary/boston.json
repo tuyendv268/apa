@@ -1,0 +1,34 @@
+{
+    "word": "boston",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɒs.tən"
+                            ],
+                            "us": [
+                                "ˈbɑː.stən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the capital and largest city of the northeastern US state of Massachusetts and one of the oldest cities in the US: ",
+                            "examples": [
+                                "He was working as a chef in Boston.",
+                                "She flew from Boston to Tampa."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

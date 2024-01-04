@@ -1,0 +1,54 @@
+{
+    "word": "world",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "wɜːld"
+                            ],
+                            "us": [
+                                "wɝːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the earth and all the people, places, and things on it: ",
+                            "examples": [
+                                "Different parts of the world have very different climatic conditions.",
+                                "Which bridge has the longest span in the world?",
+                                "News of the disaster shocked the (whole/entire) world.",
+                                "We live in a changing world and people must learn to adapt.",
+                                "She's a world authority on foetal development.",
+                                "a world record/championship"
+                            ]
+                        },
+                        {
+                            "explanation": "a group of things such as countries or animals, or an area of human activity or understanding: ",
+                            "examples": [
+                                "the Muslim world",
+                                "the modern/industrialized world",
+                                "the animal world",
+                                "stars from the rock music world",
+                                "Unexpected things can happen in the world of subatomic particles."
+                            ]
+                        },
+                        {
+                            "explanation": "a planet or other part of the universe, especially one where life might or does exist: ",
+                            "examples": [
+                                "There was a man on the news last night who believes we've been visited by beings from other worlds."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "unsmoothed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈsmuːðd"
+                            ],
+                            "us": [
+                                "ʌnˈsmuːðd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An unsmoothed surface is rough or irregular, rather than having been made smooth or regular: ",
+                            "examples": [
+                                "The edges were left unsmoothed.",
+                                "The structure was covered with stones and sealed with a thick layer of unsmoothed stucco."
+                            ]
+                        },
+                        {
+                            "explanation": "based on average values or amounts, rather than on unexplained or unexpected values or amounts that are considered less important: ",
+                            "examples": [
+                                "The data (smoothed or unsmoothed) suggest a fairly regular pattern.",
+                                "The means were then smoothed, although we also plotted unsmoothed means."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

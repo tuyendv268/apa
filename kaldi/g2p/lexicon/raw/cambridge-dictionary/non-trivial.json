@@ -1,0 +1,41 @@
+{
+    "word": "non-trivial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈtrɪv.i.əl"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈtrɪv.i.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having value or importance: ",
+                            "examples": [
+                                "The police are trying to concentrate their efforts on non-trivial crimes.",
+                                "The decision about funding is a non-trivial one which could have a long-lasting effect."
+                            ]
+                        },
+                        {
+                            "explanation": "A non-trivial problem is not easy to solve: ",
+                            "examples": [
+                                "I soon realized that this was a non-trivial problem that was going to require a lot of time and thought.",
+                                "It's one of those challenges that looks easy at first, but once you try to solve it, you find it's non-trivial."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

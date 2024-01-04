@@ -1,0 +1,58 @@
+{
+    "word": "interlayer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tə.leɪ.ər"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ɚ.leɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a layer that exists or is placed between other layers: ",
+                            "examples": [
+                                "The glass has an interlayer of plastic or resin sandwiched between two panes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tə.leɪ.ər"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ɚ.leɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "existing or placed between layers of a material: ",
+                            "examples": [
+                                "The heating drives off any interlayer water.",
+                                "The semiconductor device includes an interlayer insulation film."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

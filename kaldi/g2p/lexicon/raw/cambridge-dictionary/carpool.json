@@ -1,0 +1,60 @@
+{
+    "word": "carpool",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɑːˌpuːl"
+                            ],
+                            "us": [
+                                "ˈkɑːrˌpuːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of people who travel together, especially to work or school, usually in a different member's car each day",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a group of cars, owned by a company or other organization, that can be used by any of its employees",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɑːˌpuːl"
+                            ],
+                            "us": [
+                                "ˈkɑːrˌpuːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to travel together in someone's car, making a regular journey to work or school: ",
+                            "examples": [
+                                "The campaign asks drivers to voluntarily carpool or use the bus on high pollution days.",
+                                "Ron's father carpooled to work each day to a chemical plant an hour away."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "nonsense word",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnɒn.səns ˌwɜːd"
+                            ],
+                            "us": [
+                                "ˈnɑːn.sens ˌwɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word that is invented and does not exist in the language you are using: ",
+                            "examples": [
+                                "The teacher asked children to spell nonsense words.",
+                                "Some of the nonsense words from \"The Jabberwocky\" have been taken into standard dictionaries of the English language."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

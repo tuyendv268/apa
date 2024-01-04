@@ -1,0 +1,41 @@
+{
+    "word": "dissect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "daɪˈsekt",
+                                "dɪˈsekt"
+                            ],
+                            "us": [
+                                "daɪˈsekt",
+                                "dɪˈsekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut open something, especially a dead body or a plant, and study its structure: ",
+                            "examples": [
+                                "In biology classes we used to dissect rats."
+                            ]
+                        },
+                        {
+                            "explanation": "to examine or consider something in detail: ",
+                            "examples": [
+                                "He's the kind of person who watches a movie and then dissects it for hours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

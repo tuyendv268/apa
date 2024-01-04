@@ -1,0 +1,62 @@
+{
+    "word": "looted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nloot ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "luːt"
+                            ],
+                            "us": [
+                                "luːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(usually of large numbers of people during a violent event) to steal from shops and houses: ",
+                            "examples": [
+                                "During the riot shops were looted and cars damaged or set on fire."
+                            ]
+                        },
+                        {
+                            "explanation": "to steal something from a place or person: ",
+                            "examples": [
+                                "Burglars looted cash and mobiles from a shop in Tagore Town.",
+                                "The passengers in the general compartment of Shramjivi Express were looted and robbed of their valuables."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

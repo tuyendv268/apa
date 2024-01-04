@@ -1,0 +1,76 @@
+{
+    "word": "cure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kjʊər"
+                            ],
+                            "us": [
+                                "kjʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone with an illness healthy again: ",
+                            "examples": [
+                                "At one time doctors couldn't cure TB/cure people of TB."
+                            ]
+                        },
+                        {
+                            "explanation": "to solve a problem: ",
+                            "examples": [
+                                "The president and his advisors meet this week to discuss how to cure inflation."
+                            ]
+                        },
+                        {
+                            "explanation": "to treat food, tobacco, etc. with smoke, salt, etc. in order to preserve it: ",
+                            "examples": [
+                                "cured meats"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kjʊər"
+                            ],
+                            "us": [
+                                "kjʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that makes someone who is sick healthy again: ",
+                            "examples": [
+                                "There's still no cure for cancer.",
+                                "The disease has no known cure (= a cure has not yet been found)."
+                            ]
+                        },
+                        {
+                            "explanation": "a solution to a problem: ",
+                            "examples": [
+                                "The best cure for boredom is hard work!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

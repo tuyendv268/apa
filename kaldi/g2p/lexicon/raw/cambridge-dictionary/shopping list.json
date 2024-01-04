@@ -1,0 +1,41 @@
+{
+    "word": "shopping list",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃɒp.ɪŋ ˌlɪst"
+                            ],
+                            "us": [
+                                "ˈʃɑː.pɪŋ ˌlɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of all the things you need to buy when you go shopping: ",
+                            "examples": [
+                                "The book is full of healthy recipes and the ingredients are laid out on a shopping list.",
+                                "We had a lengthy shopping list for a trip to the local hardware store."
+                            ]
+                        },
+                        {
+                            "explanation": "a list of all the things or people that you want or need: ",
+                            "examples": [
+                                "These players would be the first names on any football team's shopping list if they had £145 million to spend.",
+                                "The unions handed bosses a shopping list of demands."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

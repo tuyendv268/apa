@@ -1,0 +1,63 @@
+{
+    "word": "heft",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "heft"
+                            ],
+                            "us": [
+                                "heft"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to lift, hold, or carry something heavy using your hands: ",
+                            "examples": [
+                                "I watched him heft the heavy sack onto his shoulder."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "heft"
+                            ],
+                            "us": [
+                                "heft"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the weight of something: ",
+                            "examples": [
+                                "Despite their considerable heft, buffalo are agile creatures."
+                            ]
+                        },
+                        {
+                            "explanation": "the influence, ability, or importance that someone or something has: ",
+                            "examples": [
+                                "Does Brady have the intellectual heft to run the city?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

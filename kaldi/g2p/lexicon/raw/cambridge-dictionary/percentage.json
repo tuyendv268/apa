@@ -1,0 +1,40 @@
+{
+    "word": "percentage",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəˈsen.tɪdʒ"
+                            ],
+                            "us": [
+                                "pɚˈsen.t̬ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an amount of something, often expressed as a number out of 100: ",
+                            "examples": [
+                                "What percentage of women return to work after having a baby?",
+                                "Interest rates have risen by two percentage points."
+                            ]
+                        },
+                        {
+                            "explanation": "an advantage: ",
+                            "examples": [
+                                "There's no percentage in working such long hours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

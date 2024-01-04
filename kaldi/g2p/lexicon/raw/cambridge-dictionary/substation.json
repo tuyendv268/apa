@@ -1,0 +1,39 @@
+{
+    "word": "substation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsʌbˈsteɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌsʌbˈsteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a place that allows electricity to go from one part of the electricity production system to another: ",
+                            "examples": [
+                                "Rebels have attacked an electricity substation just outside the city."
+                            ]
+                        },
+                        {
+                            "explanation": "a division of an organization that works under the general control of a larger office: ",
+                            "examples": [
+                                "a police substation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

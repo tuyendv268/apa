@@ -1,0 +1,39 @@
+{
+    "word": "sickness",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪk.nəs"
+                            ],
+                            "us": [
+                                "ˈsɪk.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the condition of being ill: ",
+                            "examples": [
+                                "There's a lot of sickness around this winter."
+                            ]
+                        },
+                        {
+                            "explanation": "vomiting: ",
+                            "examples": [
+                                "Drinking unclean water can cause diarrhoea and sickness."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

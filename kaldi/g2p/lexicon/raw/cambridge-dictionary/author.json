@@ -1,0 +1,69 @@
+{
+    "word": "author",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.θər"
+                            ],
+                            "us": [
+                                "ˈɑː.θɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the writer of a book, article, play, etc.: ",
+                            "examples": [
+                                "He is the author of two books on French history."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who begins or creates something: ",
+                            "examples": [
+                                "She's the author of the company's recent success/of all our troubles."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.θər"
+                            ],
+                            "us": [
+                                "ˈɑː.θɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to write a book, article, etc.: ",
+                            "examples": [
+                                "He has authored more than 30 books."
+                            ]
+                        },
+                        {
+                            "explanation": "to create something: ",
+                            "examples": [
+                                "The deal is being authored by a Greek diplomat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

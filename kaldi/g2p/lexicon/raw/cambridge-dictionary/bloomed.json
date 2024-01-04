@@ -1,0 +1,61 @@
+{
+    "word": "bloomed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbloom ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bluːm"
+                            ],
+                            "us": [
+                                "bluːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When a flower blooms, it opens or is open, and when a plant or tree blooms it produces flowers: ",
+                            "examples": [
+                                "These flowers will bloom all through the summer."
+                            ]
+                        },
+                        {
+                            "explanation": "to grow or develop successfully: ",
+                            "examples": [
+                                "Rimbaud's poetic genius bloomed early."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

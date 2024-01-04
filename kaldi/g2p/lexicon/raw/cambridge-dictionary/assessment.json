@@ -1,0 +1,43 @@
+{
+    "word": "assessment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈses.mənt"
+                            ],
+                            "us": [
+                                "əˈses.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of judging or deciding the amount, value, quality, or importance of something, or the judgment or decision that is made: ",
+                            "examples": [
+                                "Would you say that is a fair assessment of the situation?",
+                                "Both their assessments of production costs were hopelessly inaccurate.",
+                                "We conduct an annual assessment of the system to determine the need for any safety improvements."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of testing, and making a judgment about, someone's knowledge, ability, skills, etc., or the judgment that is made: ",
+                            "examples": [
+                                "The usual means of assessment for our taught courses is by written essay.",
+                                "External validation of the teachers' assessments is carried out.",
+                                "We are conducting a review of our training methods and our assessment criteria."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

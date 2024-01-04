@@ -1,0 +1,59 @@
+{
+    "word": "towel",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "taʊəl"
+                            ],
+                            "us": [
+                                "taʊəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of cloth or paper used for drying someone or something that is wet: ",
+                            "examples": [
+                                "She came downstairs after her shower, wrapped in a towel.",
+                                "He used a paper towel to mop up the spill."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "taʊəl"
+                            ],
+                            "us": [
+                                "taʊəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "US usually"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to rub something with a towel to dry it: ",
+                            "examples": [
+                                "She towelled her hair dry.",
+                                "After our swim, we quickly towelled ourselves down."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

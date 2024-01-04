@@ -1,0 +1,66 @@
+{
+    "word": "ergative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɜː.ɡə.tɪv"
+                            ],
+                            "us": [
+                                "ˈɜː˞.ɡə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to refer to a verb that can be transitive (= used with an object) or intransitive (= used without an object), with the object of the transitive verb used as the subject of the intransitive verb. For example, close is an ergative verb (I closed the door| The door closed): ",
+                            "examples": [
+                                "Ergative verbs are both transitive and intransitive.",
+                                "a sentence in which the main verb is ergative"
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a type of noun in which the person who does an action is the object of the verb rather than the subject: ",
+                            "examples": [
+                                "Grammatical features such as ergative pronouns can be detected.",
+                                "Ergative is the case marking transitive subject."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɜː.ɡə.tɪv"
+                            ],
+                            "us": [
+                                "ˈɜː˞.ɡə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an ergative verb: ",
+                            "examples": [
+                                "The verb \"capsize\" is an ergative.",
+                                "Do not confuse ergatives with passives."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

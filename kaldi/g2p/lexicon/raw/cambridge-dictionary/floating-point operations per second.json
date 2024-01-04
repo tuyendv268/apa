@@ -1,0 +1,34 @@
+{
+    "word": "floating-point operations per second",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfləʊ.tɪŋ.pɔɪnt ɒp.ərˌeɪ.ʃənz ˌpɜː ˈsek.ənd"
+                            ],
+                            "us": [
+                                "ˌfloʊ.tɪŋ.pɔɪnt ɑː.pəˌreɪ.ʃənz pɝː ˈsek.ənd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit for measuring a computer's speed, based on how many of a particular type of mathematical operation it can do in a second: ",
+                            "examples": [
+                                "In many cases, floating-point operations per second is a more accurate measure of a computer's performance than instructions per second.",
+                                "One gigaflop is a billion floating-point operations per second."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

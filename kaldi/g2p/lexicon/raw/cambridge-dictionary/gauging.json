@@ -1,0 +1,63 @@
+{
+    "word": "gauging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ngauge ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡeɪdʒ"
+                            ],
+                            "us": [
+                                "ɡeɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to calculate an amount, especially by using a measuring device: ",
+                            "examples": [
+                                "Use a thermometer to gauge the temperature.",
+                                "I tried to gauge (= guess) the weight of the box."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a judgment about something, usually people's feelings: ",
+                            "examples": [
+                                "A poll was conducted to gauge consumers' attitudes.",
+                                "It's difficult to gauge how they'll react."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

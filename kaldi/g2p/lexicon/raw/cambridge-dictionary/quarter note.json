@@ -1,0 +1,31 @@
+{
+    "word": "quarter note",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkwɔː.tə ˌnəʊt"
+                            ],
+                            "us": [
+                                "ˈkwɔːr.t̬ɚ ˌnoʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a musical note with a time value equal to two quavers or half a minim",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "word": "trigger",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtrɪɡ.ər"
+                            ],
+                            "us": [
+                                "ˈtrɪɡ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a part of a gun that causes the gun to fire when pressed: ",
+                            "examples": [
+                                "It's not clear who actually pulled the trigger."
+                            ]
+                        },
+                        {
+                            "explanation": "an event or situation, etc. that causes something to start: ",
+                            "examples": [
+                                "There are fears that the incident may be a trigger for more violence in the capital."
+                            ]
+                        },
+                        {
+                            "explanation": "something that causes someone to feel upset and frightened because they are made to remember something bad that has happened in the past: ",
+                            "examples": [
+                                "A trigger is something that sets off a flashback, transporting the person back to the traumatic event."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtrɪɡ.ər"
+                            ],
+                            "us": [
+                                "ˈtrɪɡ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause something to start: ",
+                            "examples": [
+                                "Some people find that certain foods trigger their headaches.",
+                                "Ultraviolet-B radiation triggers the skin to produce vitamin D.",
+                                "The racial killings at the weekend have triggered off a wave of protests."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause a strong emotional reaction of fear, shock, anger, or worry in someone, especially because they are made to remember something bad that has happened in the past: ",
+                            "examples": [
+                                "Seeing him come towards me just triggered me and I screamed.",
+                                "He could be triggered by a loud noise."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

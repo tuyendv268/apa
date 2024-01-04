@@ -1,0 +1,71 @@
+{
+    "word": "reboot",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈbuːt"
+                            ],
+                            "us": [
+                                "ˌriːˈbuːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a computer) to switch off and then start again immediately, or to make a computer do this: ",
+                            "examples": [
+                                "If this doesn't work, close the application and reboot the system.",
+                                "I'm just waiting for my laptop to reboot."
+                            ]
+                        },
+                        {
+                            "explanation": "to start something again or do something again, in a way that is new and interesting: ",
+                            "examples": [
+                                "With his new movie he reboots the classic Western."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈriː.buːt"
+                            ],
+                            "us": [
+                                "ˈriː.buːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an occasion when a computer is switched off and then starts again immediately: ",
+                            "examples": [
+                                "The system shuts down, forcing a reboot."
+                            ]
+                        },
+                        {
+                            "explanation": "a new and interesting version of something such as a film or television show, or the act of making a new and interesting version: ",
+                            "examples": [
+                                "They have made a much-needed \"Wizard of Oz\" reboot called \"Tin Man.\" ",
+                                "The series needs a reboot; it has grown increasingly bizarre and forced."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

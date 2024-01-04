@@ -1,0 +1,35 @@
+{
+    "word": "text mining",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtekst ˌmaɪ.nɪŋ"
+                            ],
+                            "us": [
+                                "ˈtekst ˌmaɪ.nɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of using special software to look at large amounts of text in order to find out useful information: ",
+                            "examples": [
+                                "A well-known area of text mining is web search engines.",
+                                "A number of software products have incorporated NLP for performing text mining.",
+                                "She uses text-mining algorithms to produce computer-generated summaries of news articles."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "literature",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪt.rə.tʃər"
+                            ],
+                            "us": [
+                                "ˈlɪt̬.ɚ.ə.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written artistic works, especially those with a high and lasting artistic value: ",
+                            "examples": [
+                                "classical/modern literature",
+                                "\"Wuthering Heights\" is a classic of English literature."
+                            ]
+                        },
+                        {
+                            "explanation": "all the information relating to a subject, especially information written by experts: ",
+                            "examples": [
+                                "It's important to keep up-to-date with the literature in your field.",
+                                "There is very little literature on the disease."
+                            ]
+                        },
+                        {
+                            "explanation": "printed material published by a company that is intended to encourage people to buy that company's products or services; material that an organization publishes in order to persuade people to agree with its opinions: ",
+                            "examples": [
+                                "Could you send me your literature on/about car insurance policies, please?",
+                                "The Republicans were quick to highlight the Democrats' proposed tax increases in their campaign literature."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

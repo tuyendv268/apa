@@ -1,0 +1,39 @@
+{
+    "word": "bodega",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bəˈdeɪ.ɡə"
+                            ],
+                            "us": [
+                                "boʊˈdeɪ.ɡə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small shop that sells things that are often needed, especially one in an area of a US city where a lot of Latino people live (= people whose families originally come from Latin America): ",
+                            "examples": [
+                                "Around the neighbourhood, bodegas and groceries sit vacant."
+                            ]
+                        },
+                        {
+                            "explanation": "a bar or wine shop, especially in Spain or a Spanish-speaking country: ",
+                            "examples": [
+                                "Try to visit a bodega, one of the large wine cellars to be found in towns and most villages."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

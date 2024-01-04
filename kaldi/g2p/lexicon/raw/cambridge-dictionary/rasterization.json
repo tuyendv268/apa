@@ -1,0 +1,34 @@
+{
+    "word": "rasterization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌræs.tə.raɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌræs.tɚ.əˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of changing a digital image into a raster image (= one based on a rectangular pattern of lines and columns with small dots in them): ",
+                            "examples": [
+                                "This graphics chip is very good at rasterization, or putting the pixels that make up a graphic image on a screen.",
+                                "The system makes extensive use of PostScript and rasterization of data to convert the data into a format suitable for the destination printer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

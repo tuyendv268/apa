@@ -1,0 +1,80 @@
+{
+    "word": "buggy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌɡ.i"
+                            ],
+                            "us": [
+                                "ˈbʌɡ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small car, usually with no roof: ",
+                            "examples": [
+                                "He continued to play golf, but had to move around the course in a buggy.",
+                                "a golf/dune buggy"
+                            ]
+                        },
+                        {
+                            "explanation": "a small folding chair on wheels that a baby or small child sits in and is pushed around in: ",
+                            "examples": [
+                                "The baby was strapped into his buggy.",
+                                "A man went by with a child in a buggy.",
+                                "She was pushing a baby buggy."
+                            ]
+                        },
+                        {
+                            "explanation": "a light carriage (= a road vehicle pulled by horses that was used in the past) pulled by one horse: ",
+                            "examples": [
+                                "Her brother drove her to school by horse and buggy every day. ",
+                                "The family had to cross the creek in their buggy."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌɡ.i"
+                            ],
+                            "us": [
+                                "ˈbʌɡ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Computer programs that are buggy contain mistakes and do not work correctly: ",
+                            "examples": [
+                                "A hasty, buggy fix can be worse that the problem it is supposed to correct.",
+                                "buggy code"
+                            ]
+                        },
+                        {
+                            "explanation": "full of annoying bugs (= insects): ",
+                            "examples": [
+                                "It's too buggy to eat outside this time of year."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

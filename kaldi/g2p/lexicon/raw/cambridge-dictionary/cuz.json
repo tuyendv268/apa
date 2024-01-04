@@ -1,0 +1,33 @@
+{
+    "word": "cuz",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "kəz"
+                            ],
+                            "us": [
+                                "kəz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not standard for because: ",
+                            "examples": [
+                                "You can cook dinner tonight cuz I did it last night."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

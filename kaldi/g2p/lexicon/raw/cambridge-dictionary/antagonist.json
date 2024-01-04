@@ -1,0 +1,44 @@
+{
+    "word": "antagonist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ænˈtæɡ.ən.ɪst"
+                            ],
+                            "us": [
+                                "ænˈtæɡ.ən.ɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who is strongly opposed to something or someone: ",
+                            "examples": [
+                                "The antagonists in this dispute are quite unwilling to compromise.",
+                                "He sued several of his antagonists for libel."
+                            ]
+                        },
+                        {
+                            "explanation": "a muscle that performs the opposite action to another muscle, for example making a movement slower or returning the body to its original position",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a substance that stops or reduces a change or reaction in the body: ",
+                            "examples": [
+                                "a seratonin antagonist"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

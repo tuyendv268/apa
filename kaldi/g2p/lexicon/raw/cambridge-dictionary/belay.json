@@ -1,0 +1,69 @@
+{
+    "word": "belay",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbiː.leɪ"
+                            ],
+                            "us": [
+                                "bɪˈleɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to control a rope that a climber is attached to and keep it tight, so that if the climber falls, they do not fall very far: ",
+                            "examples": [
+                                "The leader will then belay and instruct the second climber to follow."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a climber safe with a rope that has been fixed at a particular point: ",
+                            "examples": [
+                                "The knot would let Jim belay himself."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbiː.leɪ"
+                            ],
+                            "us": [
+                                "bɪˈleɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a place where a climbing rope is or can be fixed: ",
+                            "examples": [
+                                "To the right a tree stump offers a belay."
+                            ]
+                        },
+                        {
+                            "explanation": "an act of fixing a climbing rope: ",
+                            "examples": [
+                                "You may need several belays."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

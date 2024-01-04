@@ -1,0 +1,33 @@
+{
+    "word": "portmanteau word",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɔːtˈmæn.təʊ ˌwɜːd"
+                            ],
+                            "us": [
+                                "pɔːrtˈmæn.toʊ ˌwɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word formed by combining two other words: ",
+                            "examples": [
+                                "\"Jeggings\" is a portmanteau word formed from \"jeans\" and \"leggings\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "word": "passive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpæs.ɪv"
+                            ],
+                            "us": [
+                                "ˈpæs.ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "The passive form of a verb is being used when the grammatical subject is the person or thing that experiences the effect of an action, rather than the person or thing that causes the effect: ",
+                            "examples": [
+                                "'He was released from prison' is a passive sentence.",
+                                "In the sentence \"He was hit by the ball\", \"was hit\" is in the passive voice."
+                            ]
+                        },
+                        {
+                            "explanation": "not acting to influence or change a situation; allowing other people to be in control: ",
+                            "examples": [
+                                "He's very passive in the relationship.",
+                                "Traditionally in many professions women have been confined to more passive roles."
+                            ]
+                        },
+                        {
+                            "explanation": "Passive income is money that you earn without having to work for it every day, for example money that you receive from renting out a property. : ",
+                            "examples": [
+                                "Buying a second home can provide a rental that you can use to create passive income.",
+                                "You collect passive income from certain businesses in which you aren't an active participant."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpæs.ɪv"
+                            ],
+                            "us": [
+                                "ˈpæs.ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the form of a verb used when the grammatical subject is the person or thing that experiences the effect of an action, rather than the person or thing that causes the effect: ",
+                            "examples": [
+                                "When changed into the passive, \"The dog chased the cat\" becomes \"The cat was chased by the dog\".",
+                                "Passives are much more common in Sesotho than in English."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

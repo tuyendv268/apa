@@ -1,0 +1,59 @@
+{
+    "word": "restart",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈstɑːt"
+                            ],
+                            "us": [
+                                "ˌriːˈstɑːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to start something again: ",
+                            "examples": [
+                                "Our car stalled and wouldn't restart.",
+                                "Please restart your computer to complete installation."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈriːˌstɑːt"
+                            ],
+                            "us": [
+                                "ˈriːˌstɑːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an occasion when something is started again: ",
+                            "examples": [
+                                "The screen takes a moment to settle down after a restart.",
+                                "Jones, one of the original team members, was asked to lead the restart of the project. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

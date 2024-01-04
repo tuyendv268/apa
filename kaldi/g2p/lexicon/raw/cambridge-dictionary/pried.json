@@ -1,0 +1,63 @@
+{
+    "word": "pried",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npry ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "praɪ"
+                            ],
+                            "us": [
+                                "praɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to find out private facts about a person: ",
+                            "examples": [
+                                "As a reporter, I was paid to pry into other people's lives.",
+                                "I hope you don't think I'm prying, but has your boyfriend ever lived with anyone before?",
+                                "She wanted a private holiday away from prying eyes (= where no one would be trying to see her)."
+                            ]
+                        },
+                        {
+                            "explanation": "to move or lift something by pressing a tool against a fixed point: ",
+                            "examples": [
+                                "The car trunk had been pried open and all her equipment was gone."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

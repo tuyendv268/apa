@@ -1,0 +1,33 @@
+{
+    "word": "telephony",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "təˈlef.ə.ni"
+                            ],
+                            "us": [
+                                "təˈlef.ə.ni"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the activity or process of communicating by phone: ",
+                            "examples": [
+                                "We provide support for users of mobile and fixed-line telephony."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "pseudonym",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsjuː.də.nɪm"
+                            ],
+                            "us": [
+                                "ˈsuː.də.nɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a name someone uses instead of their real name, especially on a written work: ",
+                            "examples": [
+                                "She writes under a pseudonym.",
+                                "George Orwell was a pseudonym - his real name was Eric Blair."
+                            ]
+                        },
+                        {
+                            "explanation": "a number or name with no meaning that is used instead of information relating to a particular person, for example, a name or email address, so that it is impossible to see who the information relates to: ",
+                            "examples": [
+                                "A pseudonym is an identifier that relates to a particular individual.",
+                                "Pseudonymization uses a form of encryption to translate identifiable personal data to unique artificial identifiers called pseudonyms."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

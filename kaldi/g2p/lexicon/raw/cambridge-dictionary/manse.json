@@ -1,0 +1,41 @@
+{
+    "word": "manse",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mæns"
+                            ],
+                            "us": [
+                                "mæns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "especially in Scotland, a house in which a minister of a church lives, provided by the church: ",
+                            "examples": [
+                                "The manse is just next to the church.",
+                                "He was brought up in a Church of Scotland manse."
+                            ]
+                        },
+                        {
+                            "explanation": "a large house with a lot of land: ",
+                            "examples": [
+                                "The four-bedroom manse features Italian-marble floors, tennis court, wine cellar and, of course, hair salon.",
+                                "She still lives in the family's rambling manse on Fayerweather Street."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

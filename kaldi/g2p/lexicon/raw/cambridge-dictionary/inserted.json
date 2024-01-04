@@ -1,0 +1,61 @@
+{
+    "word": "inserted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ninsert ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈsɜːt"
+                            ],
+                            "us": [
+                                "ɪnˈsɝːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put something inside something else: ",
+                            "examples": [
+                                "Insert the key in/into the lock."
+                            ]
+                        },
+                        {
+                            "explanation": "to add writing to a text, form, etc.: ",
+                            "examples": [
+                                "I've filled in the form, but you still need to insert (= add) your bank details and date of birth."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

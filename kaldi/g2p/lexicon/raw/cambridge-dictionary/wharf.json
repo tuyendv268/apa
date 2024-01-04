@@ -1,0 +1,33 @@
+{
+    "word": "wharf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "wɔːf"
+                            ],
+                            "us": [
+                                "wɔːrf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area like a wide wall built near the edge of the sea or a river where ships can be tied and goods can be taken off them: ",
+                            "examples": [
+                                "The crates were unloaded onto the wharf."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "dielectric",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaɪ.ɪˈlek.trɪk"
+                            ],
+                            "us": [
+                                "ˌdaɪ.ɪˈlek.trɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to contain an electric field without conducting (= passing along) electricity: ",
+                            "examples": [
+                                "Dielectric grease can be applied to the exposed metal parts of virtually any electrical connection to seal and protect it.",
+                                "The polymers are dielectric, meaning they are not conductors of electric currents but act as vehicles for the registration of electric fields. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaɪ.ɪˈlek.trɪk"
+                            ],
+                            "us": [
+                                "ˌdaɪ.ɪˈlek.trɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance or device that is able to contain an electric field without conducting (= passing along) electricity: ",
+                            "examples": [
+                                "Dielectrics are an essential constituent of capacitors."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

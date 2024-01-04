@@ -235,3 +235,32 @@ class PrepModel(nn.Module):
 
         return utt_score, phone_score, word_score
     
+    def extract_embedding(self, x, phn, rel_pos=None):
+        phn_one_hot = torch.nn.functional.one_hot(
+            phn.long()+1, num_classes=self.num_phone).float()
+        
+        phn_embed = self.phn_proj(phn_one_hot)
+        if self.embed_dim != self.input_dim:
+            x = self.in_proj(x)
+
+        p_x = x + phn_embed + self.pos_embed(x)
+        for block in self.phone_encoders:
+            p_x = block(p_x)
+
+        return p_x
+    
+    def forwar_phn(self, x, phn, rel_pos=None):
+        phn_one_hot = torch.nn.functional.one_hot(
+            phn.long()+1, num_classes=self.num_phone).float()
+        
+        phn_embed = self.phn_proj(phn_one_hot)
+        if self.embed_dim != self.input_dim:
+            x = self.in_proj(x)
+
+        p_x = x + phn_embed + self.pos_embed(x)
+        for block in self.phone_encoders:
+            p_x = block(p_x)
+
+        phone_score = self.phone_head(p_x)
+        
+        return phone_score

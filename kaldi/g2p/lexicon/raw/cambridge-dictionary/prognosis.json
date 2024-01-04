@@ -1,0 +1,39 @@
+{
+    "word": "prognosis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "prɒɡˈnəʊ.sɪs"
+                            ],
+                            "us": [
+                                "prɑːɡˈnoʊ.sɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a doctor's judgment of the likely or expected development of a disease or of the chances of getting better: ",
+                            "examples": [
+                                "The prognosis after the operation was for a full recovery."
+                            ]
+                        },
+                        {
+                            "explanation": "a statement of what is judged likely to happen in the future, especially in connection with a particular situation: ",
+                            "examples": [
+                                "I was reading a gloomy economic prognosis in the paper this morning."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

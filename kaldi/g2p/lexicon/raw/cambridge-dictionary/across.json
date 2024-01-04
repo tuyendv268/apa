@@ -1,0 +1,65 @@
+{
+    "word": "across",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "əˈkrɒs"
+                            ],
+                            "us": [
+                                "əˈkrɑːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "from one side to the other of something with clear limits, such as an area of land, a road, or a river: ",
+                            "examples": [
+                                "She walked across the field/road.",
+                                "They're building a new bridge across the river.",
+                                "When I reached the river, I simply swam across."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "əˈkrɒs"
+                            ],
+                            "us": [
+                                "əˈkrɑːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "on the opposite side of: ",
+                            "examples": [
+                                "The library is just across the road."
+                            ]
+                        },
+                        {
+                            "explanation": "in every part of a particular place or country: ",
+                            "examples": [
+                                "Voting took place peacefully across most of the country."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

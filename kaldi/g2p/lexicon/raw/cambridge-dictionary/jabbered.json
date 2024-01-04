@@ -1,0 +1,56 @@
+{
+    "word": "jabbered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \njabber ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒæb.ər"
+                            ],
+                            "us": [
+                                "ˈdʒæb.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak or say something quickly in a way that is difficult to understand: ",
+                            "examples": [
+                                "The train was full of people jabbering (away) into their mobile phones.",
+                                "He jabbered (out) something about an accident further down the road."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

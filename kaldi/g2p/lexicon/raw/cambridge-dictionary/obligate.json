@@ -1,0 +1,66 @@
+{
+    "word": "obligate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒb.lɪ.ɡeɪt"
+                            ],
+                            "us": [
+                                "ˈɑːb.lɪ.ɡeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to force someone to do something, or to make it necessary for someone to do something: ",
+                            "examples": [
+                                "The law obligates financial institutions to make monthly reports on large transactions.",
+                                "The contract obligated them to pay hundreds of pounds monthly to a private recruiting firm.",
+                                "Our financial advice service is free, impartial, and does not obligate you in any way."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒb.lɪ.ɡət"
+                            ],
+                            "us": [
+                                "ˈɑːb.lɪ.ɡeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "needing to do something or to have particular conditions in order to live: ",
+                            "examples": [
+                                "Horses are obligate nasal breathers during exercise.",
+                                "As obligate parasites, viruses are dependent on their hosts."
+                            ]
+                        },
+                        {
+                            "explanation": "certain to have something, such as a gene (= a part of the DNA in a cell that controls the physical development, behaviour, etc. of an individual plant or animal and is passed on from its parents): ",
+                            "examples": [
+                                "She is an obligate carrier, absolutely certain to carry the gene."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

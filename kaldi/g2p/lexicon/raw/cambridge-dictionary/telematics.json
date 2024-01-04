@@ -1,0 +1,33 @@
+{
+    "word": "telematics",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌtel.ɪˈmæt.ɪks"
+                            ],
+                            "us": [
+                                "ˌtel.əˈmæt̬.ɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the area of technology that deals with sending digital information over long distances using wireless forms of communication: ",
+                            "examples": [
+                                "In vehicles, telematics can be used to monitor hours used and miles driven, each of which can be recorded in real time."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

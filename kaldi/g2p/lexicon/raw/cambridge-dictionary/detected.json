@@ -1,0 +1,63 @@
+{
+    "word": "detected",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndetect ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈtekt"
+                            ],
+                            "us": [
+                                "dɪˈtekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to notice something that is partly hidden or not clear, or to discover something, especially using a special method: ",
+                            "examples": [
+                                "Some sounds cannot be detected by the human ear.",
+                                "Financial experts have detected signs that the economy is beginning to improve."
+                            ]
+                        },
+                        {
+                            "explanation": "to discover something, usually using special equipment: ",
+                            "examples": [
+                                "High levels of lead were detected in the atmosphere.",
+                                "Radar equipment is used to detect (= find the position of) enemy aircraft."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "renaming",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nrename ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈneɪm"
+                            ],
+                            "us": [
+                                "ˌriːˈneɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give something a new name: ",
+                            "examples": [
+                                "You must rename the file before you save it.",
+                                "The ship was sold, painted, and renamed the Suez Star."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

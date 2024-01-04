@@ -1,0 +1,74 @@
+{
+    "word": "shadowed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nshadow ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃæd.əʊ"
+                            ],
+                            "us": [
+                                "ˈʃæd.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to follow closely: ",
+                            "examples": [
+                                "The police think that the robbers shadowed their victims for days before the crime.",
+                                "The euro has closely shadowed the dollar."
+                            ]
+                        },
+                        {
+                            "explanation": "to follow someone else while they are at work in order to learn about that person's job: ",
+                            "examples": [
+                                "Your first week in the job will be spent shadowing one of our more experienced employees."
+                            ]
+                        },
+                        {
+                            "explanation": "to produce a shadow: ",
+                            "examples": [
+                                "We came across a glade shadowed by large trees."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a person unhappy or to make their life less happy: ",
+                            "examples": [
+                                "Mental illness had shadowed him for more than a decade."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

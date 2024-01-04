@@ -1,0 +1,39 @@
+{
+    "word": "criticality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkrɪt.ɪˈkæl.ə.ti"
+                            ],
+                            "us": [
+                                "ˌkrɪt.ɪˈkæl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a nuclear chain reaction that is able to continue by itself, or the conditions under which this happens: ",
+                            "examples": [
+                                "A criticality can occur when too much radioactive material is placed together."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of being extremely important: ",
+                            "examples": [
+                                "Without denying the criticality of this particular problem, there are also others that need to be considered."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

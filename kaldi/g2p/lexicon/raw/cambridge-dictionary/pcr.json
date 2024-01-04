@@ -1,0 +1,41 @@
+{
+    "word": "pcr",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpiː.siːˈɑːr"
+                            ],
+                            "us": [
+                                "ˌpiː.siːˈɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for polymerase chain reaction: a process in which a particular piece of DNA is copied many times in a laboratory (= a place where scientific tests are done) so that the DNA can be examined in detail: ",
+                            "examples": [
+                                "PCR can be used to detect HSV in the spinal fluid.",
+                                "We've been using PCR for identification of decomposed bodies since 1986."
+                            ]
+                        },
+                        {
+                            "explanation": "a test in which a sample is tested in a laboratory (= a place where scientific tests are done) by copying a particular piece of DNA many times so that the DNA can be examined in detail. PCR is an abbreviation for polymerase chain reaction: ",
+                            "examples": [
+                                "My PCR showed I was positive for Covid-19.",
+                                "I think you should do a PCR."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

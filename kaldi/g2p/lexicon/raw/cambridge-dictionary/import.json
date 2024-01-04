@@ -1,0 +1,85 @@
+{
+    "word": "import",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˈpɔːt"
+                            ],
+                            "us": [
+                                "ɪmˈpɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to buy or bring in products from another country: ",
+                            "examples": [
+                                "We import a large number of cars from Japan."
+                            ]
+                        },
+                        {
+                            "explanation": "to introduce new goods, customs, or ideas to one country from another: ",
+                            "examples": [
+                                "Jazz is an American modification of musical conventions imported from Europe.",
+                                "the spelling of imported words"
+                            ]
+                        },
+                        {
+                            "explanation": "to copy information from one computer or computer program to another: ",
+                            "examples": [
+                                "I need to import data from the database into this spreadsheet.",
+                                "imported files"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪm.pɔːt"
+                            ],
+                            "us": [
+                                "ˈɪm.pɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "goods bought by one country from another: ",
+                            "examples": [
+                                "restrictions on foreign imports"
+                            ]
+                        },
+                        {
+                            "explanation": "the action of bringing goods or fashions into a country: ",
+                            "examples": [
+                                "the illegal importation of drugs",
+                                "an import licence",
+                                "import duties"
+                            ]
+                        },
+                        {
+                            "explanation": "importance or meaning: ",
+                            "examples": [
+                                "Whether it is to be a \"working\" visit or an \"official\" visit is of little/no import."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

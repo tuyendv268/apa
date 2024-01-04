@@ -1,0 +1,55 @@
+{
+    "word": "mapping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæp.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈmæp.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the activity or process of making a map: ",
+                            "examples": [
+                                "the mapping of underground sites",
+                                "A GPS device uses mapping software to help drivers navigate.",
+                                "a polar mapping expedition"
+                            ]
+                        },
+                        {
+                            "explanation": "the activity or process of creating a picture or diagram that represents something: ",
+                            "examples": [
+                                "data mapping",
+                                "the mapping of supply chains"
+                            ]
+                        },
+                        {
+                            "explanation": "the activity of describing where particular genes are found on a chromosome: ",
+                            "examples": [
+                                "genetic mapping",
+                                "the mapping of the human genome"
+                            ]
+                        },
+                        {
+                            "explanation": "the activity of discovering where in the brain particular tasks are performed: ",
+                            "examples": [
+                                "brain/neurological mapping"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

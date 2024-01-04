@@ -1,0 +1,47 @@
+{
+    "word": "mechanical",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "məˈkæn.ɪ.kəl"
+                            ],
+                            "us": [
+                                "məˈkæn.ɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "operated by a machine, or connected with machines or their parts: ",
+                            "examples": [
+                                "a mechanical device",
+                                "The company produces mechanical parts for airplane engines.",
+                                "The plane appeared to have crashed because of a mechanical problem."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to movement, or to mechanics (= the study of the effect of physical forces on objects and their movement): ",
+                            "examples": [
+                                "a study of the effects of mechanical forces on bones"
+                            ]
+                        },
+                        {
+                            "explanation": "without thinking about what you are doing, especially because you do something often: ",
+                            "examples": [
+                                "He gave a mechanical response."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "word": "drafting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndraft ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "drɑːft"
+                            ],
+                            "us": [
+                                "dræft"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to write the first version of a document such as a letter, essay, or law, which may have details added, changed, or corrected later: ",
+                            "examples": [
+                                "Draft a proposal for the project and we can discuss it at the meeting.",
+                                "She helped me draft a letter of complaint.",
+                                "He is drafting legislation to control internet sales to minors.",
+                                "The software can be used as a tool for drafting school papers."
+                            ]
+                        },
+                        {
+                            "explanation": "to draw the plans for a new building, structure, machine, etc.: ",
+                            "examples": [
+                                "They hired an architect to draft the plans for their new home."
+                            ]
+                        },
+                        {
+                            "explanation": "to order people by law to join the armed forces: ",
+                            "examples": [
+                                "He was drafted (into the army) at 18."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

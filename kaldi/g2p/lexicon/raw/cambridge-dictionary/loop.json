@@ -1,0 +1,104 @@
+{
+    "word": "loop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "luːp"
+                            ],
+                            "us": [
+                                "luːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the curved shape made when something long and thin, such as a piece of string, bends until one part of it nearly touches or crosses another part of it: ",
+                            "examples": [
+                                "Tie the ends of the rope together in a loop.",
+                                "the loop of the river"
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of string, thread, material, etc. bent into a curved shape: ",
+                            "examples": [
+                                "a loop of string",
+                                "belt loops"
+                            ]
+                        },
+                        {
+                            "explanation": "a vertical circle made by an aircraft in the sky: ",
+                            "examples": [
+                                "The pilot swung the plane into a tight loop.",
+                                "Planes flew acrobatics, loops, and rolls."
+                            ]
+                        },
+                        {
+                            "explanation": "a turning or curving movement made in ice skating (= the sport of moving on ice wearing special boots): ",
+                            "examples": [
+                                "She practised her axels and toe loops."
+                            ]
+                        },
+                        {
+                            "explanation": "a short section of recorded music that is repeated all through a song or part of a song: ",
+                            "examples": [
+                                "His piping and fiddle-playing blend traditional music with sampled beats and loops.",
+                                "Full songs are divided into sections such as choruses, verses, intros and endings in order to make it easier for songwriters to choose the most appropriate loops for their music."
+                            ]
+                        },
+                        {
+                            "explanation": "a series of instructions that is repeated until a particular thing happens: ",
+                            "examples": [
+                                "The CPU world relies upon condition variables, branches, and loops. "
+                            ]
+                        },
+                        {
+                            "explanation": "If something runs in a loop, or is on a loop, it runs continuously, so that the same things are repeated again and again: ",
+                            "examples": [
+                                "The tape ran in a continuous loop, repeating the same songs over and over."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "luːp"
+                            ],
+                            "us": [
+                                "luːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a loop or curve: ",
+                            "examples": [
+                                "Loop the rope over the bar.",
+                                "Turn left where the road loops round the farm buildings."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a short piece of recorded music) to be repeated all through a song or part of a song: ",
+                            "examples": [
+                                "The sample is automatically looped to repeat continuously until you tell it to stop."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

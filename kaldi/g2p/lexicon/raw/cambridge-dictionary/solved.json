@@ -1,0 +1,59 @@
+{
+    "word": "solved",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsolve ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sɒlv"
+                            ],
+                            "us": [
+                                "sɑːlv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to find an answer to a problem: ",
+                            "examples": [
+                                "to solve a problem",
+                                "to solve a mystery/puzzle",
+                                "Just calm down - shouting won't solve anything!",
+                                "This strategy could cause more problems than it solves.",
+                                "The police are still no nearer to solving the crime."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

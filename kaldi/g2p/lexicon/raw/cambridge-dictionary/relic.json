@@ -1,0 +1,40 @@
+{
+    "word": "relic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈrel.ɪk"
+                            ],
+                            "us": [
+                                "ˈrel.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an object, tradition, or system from the past that continues to exist: ",
+                            "examples": [
+                                "During the dig, the archaeological team found some relics from the Stone Age.",
+                                "The country's employment system is a relic of the 1960s when jobs were scarce."
+                            ]
+                        },
+                        {
+                            "explanation": "a part of the body or something that belonged to a holy person: ",
+                            "examples": [
+                                "These bones are the relics of a 12th-century saint."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

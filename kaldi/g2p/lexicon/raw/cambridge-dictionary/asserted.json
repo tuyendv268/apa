@@ -1,0 +1,68 @@
+{
+    "word": "asserted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nassert ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈsɜːt"
+                            ],
+                            "us": [
+                                "-ˈsɝːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to behave in a way that expresses your confidence, importance, or power and earns you respect from others: ",
+                            "examples": [
+                                "I really must assert myself more in meetings."
+                            ]
+                        },
+                        {
+                            "explanation": "to say that something is certainly true: ",
+                            "examples": [
+                                "He asserts that she stole money from him."
+                            ]
+                        },
+                        {
+                            "explanation": "to do something to show that you have power: ",
+                            "examples": [
+                                "Throughout the Cold War, the Allies asserted their right to move freely between the two Berlins.",
+                                "She very rarely asserts her authority over the children."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

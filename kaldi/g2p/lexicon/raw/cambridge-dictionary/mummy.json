@@ -1,0 +1,38 @@
+{
+    "word": "mummy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmʌm.i"
+                            ],
+                            "us": [
+                                "ˈmʌm.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "child's word for mother: ",
+                            "examples": [
+                                "I want to go home, Mummy.",
+                                "Could I speak to your mummy please, Phoebe?"
+                            ]
+                        },
+                        {
+                            "explanation": "(especially in ancient Egypt) a dead body that is prevented from decaying by being treated with special substances before being wrapped in cloth",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

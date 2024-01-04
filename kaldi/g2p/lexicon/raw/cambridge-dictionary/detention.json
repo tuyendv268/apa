@@ -1,0 +1,39 @@
+{
+    "word": "detention",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈten.ʃən"
+                            ],
+                            "us": [
+                                "dɪˈten.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of officially detaining someone: ",
+                            "examples": [
+                                "Concern has been expressed about the death in detention of a number of political prisoners."
+                            ]
+                        },
+                        {
+                            "explanation": "a form of punishment in which children are made to stay at school for a short time after classes have ended: ",
+                            "examples": [
+                                "She's had four detentions this term."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

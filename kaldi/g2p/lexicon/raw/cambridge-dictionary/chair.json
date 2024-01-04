@@ -1,0 +1,73 @@
+{
+    "word": "chair",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tʃeər"
+                            ],
+                            "us": [
+                                "tʃer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a seat for one person that has a back, usually four legs, and sometimes two arms",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "informal for\nthe electric chair ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(the official position of) a person in charge of a meeting, official group or organization: ",
+                            "examples": [
+                                "Who will take the chair at the next meeting?",
+                                "All questions should be addressed to the chair.",
+                                "She is the chair of the board of governors at a local school."
+                            ]
+                        },
+                        {
+                            "explanation": "(the position of) the person in charge of a college or university department: ",
+                            "examples": [
+                                "He was appointed to the Chair of Physics at Cambridge in the early 20th century."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tʃeər"
+                            ],
+                            "us": [
+                                "tʃer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be the person in charge of a meeting, etc.: ",
+                            "examples": [
+                                "Would you like to chair tomorrow's meeting?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

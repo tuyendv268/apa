@@ -1,0 +1,33 @@
+{
+    "word": "significant figures",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɪɡˌnɪf.ɪ.kənt ˈfɪɡ.əz"
+                            ],
+                            "us": [
+                                "sɪɡˌnɪf.ɪ.kənt ˈfɪɡ.jɚz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the numbers used to write a number to be as exact as is needed: ",
+                            "examples": [
+                                "2.3945 to two significant figures is 2.4."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

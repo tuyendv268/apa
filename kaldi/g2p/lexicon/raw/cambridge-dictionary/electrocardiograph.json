@@ -1,0 +1,36 @@
+{
+    "word": "electrocardiograph",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "iˌlek.trəˈkɑː.di.ə.ɡrɑːf ",
+                                "iˌlek.trəˈkɑː.di.ə.ɡræf"
+                            ],
+                            "us": [
+                                "iˌlek.trəˈkɑːrdi.ə.ɡræf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a machine that records the electrical activity of the heart as it beats",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a test done using an electrocardiograph ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

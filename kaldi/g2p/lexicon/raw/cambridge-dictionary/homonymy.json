@@ -1,0 +1,34 @@
+{
+    "word": "homonymy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "həˈmɒn.ɪ.mi"
+                            ],
+                            "us": [
+                                "həˈmɑː.nə.mi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of words having the same spelling or pronunciation or both, but different meanings: ",
+                            "examples": [
+                                "There are two types of homonymy: homography and homophony.",
+                                "The aim of this study was to explore why children have difficulty with homonymy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

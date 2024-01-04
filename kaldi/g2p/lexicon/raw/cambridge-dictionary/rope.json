@@ -1,0 +1,72 @@
+{
+    "word": "rope",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rəʊp"
+                            ],
+                            "us": [
+                                "roʊp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(a piece of) strong, thick string made of long twisted threads: ",
+                            "examples": [
+                                "A sailor threw a rope ashore and we tied the boat to a post.",
+                                "a coil of rope"
+                            ]
+                        },
+                        {
+                            "explanation": "several of one type of object connected together on a string: ",
+                            "examples": [
+                                "a rope of garlic",
+                                "a rope of pearls"
+                            ]
+                        },
+                        {
+                            "explanation": "thick rope which surrounds an area used for boxing (= sport in which two people hit each other) or wrestling: ",
+                            "examples": [
+                                "The middleweight boxing champion had his opponent up against the ropes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rəʊp"
+                            ],
+                            "us": [
+                                "roʊp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to tie things together with rope: ",
+                            "examples": [
+                                "I'll rope my horse to your car and pull you out of the ditch.",
+                                "The climbers roped themselves together."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "congruent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒŋ.ɡru.ənt"
+                            ],
+                            "us": [
+                                "ˈkɑːŋ.ɡru.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "similar to or in agreement with something, so that the two things can both exist or can be combined without problems: ",
+                            "examples": [
+                                "Our goals are congruent; there is no conflict.",
+                                "We need the freedom to direct funds in a way that is congruent with local priorities."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a shape in mathematics that has the same shape and size as another: ",
+                            "examples": [
+                                "congruent triangles"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

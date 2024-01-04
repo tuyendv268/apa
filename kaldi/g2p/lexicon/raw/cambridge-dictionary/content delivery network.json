@@ -1,0 +1,34 @@
+{
+    "word": "content delivery network",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒn.tent dɪˈlɪv.ər.i ˌnet.wɜːk"
+                            ],
+                            "us": [
+                                "ˌkɑːn.tent dɪˈlɪv.ɚ.i ˌnet.wɝːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number of connected proxy servers (= computers that communicate between a central computer and other devices) kept in buildings in many different places across the world that enable information, images, video, etc. to be shared quickly on the internet: ",
+                            "examples": [
+                                "You can download the tools from a free content delivery network.",
+                                "These companies are all rapidly building their own content delivery networks."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

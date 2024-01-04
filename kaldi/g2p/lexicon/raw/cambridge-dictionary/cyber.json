@@ -1,0 +1,89 @@
+{
+    "word": "cyber",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪ.bər"
+                            ],
+                            "us": [
+                                "ˈsaɪ.bɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving, using, or relating to computers, especially the internet: ",
+                            "examples": [
+                                "The risks posed by cyber criminals are greater than ever before.",
+                                "This virtual universe allows participants to operate cyber versions of themselves.",
+                                "The attacks yesterday appeared to be cyber in nature."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪ.bər"
+                            ],
+                            "us": [
+                                "ˈsaɪ.bɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "computers, especially the internet, and activities that use them: ",
+                            "examples": [
+                                "Their national security priorities are counterterrorism, counterintelligence and cyber. ",
+                                "This online magazine will keep you keep up with everything new in the worlds of cyber, fashion, and music. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "saɪ.bər-"
+                            ],
+                            "us": [
+                                "saɪ.bɚ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving, using, or relating to computers, especially the internet: ",
+                            "examples": [
+                                "cybercrime",
+                                "cyberculture"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

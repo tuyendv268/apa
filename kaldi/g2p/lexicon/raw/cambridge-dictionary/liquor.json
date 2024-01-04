@@ -1,0 +1,41 @@
+{
+    "word": "liquor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪk.ər"
+                            ],
+                            "us": [
+                                "ˈlɪk.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "strong alcoholic drink: ",
+                            "examples": [
+                                "He spent most of his money on liquor and drugs.",
+                                "Count a drink as 12 ounces of regular beer, 5 ounces of wine or one shot of liquor or spirits."
+                            ]
+                        },
+                        {
+                            "explanation": "the liquid in which food is cooked or steeped (= kept in to improve its flavour): ",
+                            "examples": [
+                                "Take the mixture off the heat once it has concentrated to a thin but aromatic liquor.",
+                                "Lift the pears out of the liquor into a serving bowl."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "trope",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "trəʊp"
+                            ],
+                            "us": [
+                                "troʊp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something such as an idea, phrase, or image that is often used in a particular artist's work, in a particular type of art, in the media, etc. : ",
+                            "examples": [
+                                "Human-like robots are a classic trope of science fiction.",
+                                "The politician's speech was full of racist tropes."
+                            ]
+                        },
+                        {
+                            "explanation": "in rhetoric (= the study of the ways of using language effectively), a way of using words that means something different from their ordinary meaning: ",
+                            "examples": [
+                                "For those unfamiliar with poetic tropes, synecdoche is a figure of speech by which the part stands for the whole, such as \"wheels\" to mean \"a car\".",
+                                "Rhetorical tropes of antithesis and opposition recur throughout Shakespeare's writing. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

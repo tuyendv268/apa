@@ -1,0 +1,77 @@
+{
+    "word": "agnostic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "æɡˈnɒs.tɪk"
+                            ],
+                            "us": [
+                                "æɡˈnɑː.stɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who does not know, or believes that it is impossible to know, if a god exists: ",
+                            "examples": [
+                                "Although he was raised a Catholic, he was an agnostic for most of his adult life.",
+                                "The group includes atheists and agnostics as well as religious believers."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who does not know or does not have an opinion about whether something is true, good, correct, etc.: ",
+                            "examples": [
+                                "He claims to be an agnostic on the question of man-made global warming.",
+                                "I am an agnostic when it comes to his art and its merits. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "æɡˈnɒs.tɪk"
+                            ],
+                            "us": [
+                                "æɡˈnɑː.stɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having the belief that it is not possible to know whether god exists: ",
+                            "examples": [
+                                "Whether we are religious, atheist, or agnostic, there are some moral values we all share.",
+                                "He is agnostic on the existence of God."
+                            ]
+                        },
+                        {
+                            "explanation": "not knowing or not having an opinion about whether something is true, good, correct, etc.: ",
+                            "examples": [
+                                "She remained agnostic on the question of whether to join the war.",
+                                "We could never be agnostic about the virtues of political freedom."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to hardware or software that can be used with many different types of platform (= system)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

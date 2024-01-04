@@ -1,0 +1,41 @@
+{
+    "word": "hawaii",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "həˈwaɪ.iː"
+                            ],
+                            "us": [
+                                "həˈwaɪ.iː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of islands in the Pacific Ocean that is a state of the US : ",
+                            "examples": [
+                                "She returned to Hawaii in the summer. ",
+                                "Hawaii is the only state that is an archipelago. "
+                            ]
+                        },
+                        {
+                            "explanation": "the largest island in the group of Pacific islands that forms the US state of Hawaii: ",
+                            "examples": [
+                                "We flew to Hawaiʻi then took a boat to Molokai.",
+                                "She lives in Captain Cook on the west side of Hawaiʻi Island."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

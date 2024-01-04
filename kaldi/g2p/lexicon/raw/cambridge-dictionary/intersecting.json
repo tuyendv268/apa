@@ -1,0 +1,77 @@
+{
+    "word": "intersecting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nintersect ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈsekt"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˈsekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of lines, roads, etc.) to cross one another: ",
+                            "examples": [
+                                "The roads intersect near the bridge.",
+                                "This is the point where the line intersects the curve."
+                            ]
+                        },
+                        {
+                            "explanation": "to divide an area into smaller parts by crossing it with straight lines: ",
+                            "examples": [
+                                "The gardens are intersected by gravel paths."
+                            ]
+                        },
+                        {
+                            "explanation": "If two things intersect, they are connected in some way and influence each other, usually by having some of the same parts, features, etc.: ",
+                            "examples": [
+                                "She discusses some of the ways in which work and health intersect. ",
+                                "The book explores the intersecting lives of two siblings. ",
+                                "Our life experiences intersect with our particular circumstances to shape our values."
+                            ]
+                        },
+                        {
+                            "explanation": "If sets (= groups of things with particular characteristics) intersect, they have some of the same members: ",
+                            "examples": [
+                                "These datasets may overlap and intersect.",
+                                "The report lists the numbers of women and minorities, but not the intersecting categories of women who are also members of other minorities."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

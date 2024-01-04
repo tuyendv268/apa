@@ -1,0 +1,69 @@
+{
+    "word": "ballot",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæl.ət"
+                            ],
+                            "us": [
+                                "ˈbæl.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system or occasion of secret voting: ",
+                            "examples": [
+                                "Representatives were elected by ballot.",
+                                "Everyone casts his or her ballot (= votes) in secret.",
+                                "They decided to hold a ballot."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of paper on which you write your vote",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to vote secretly on a particular matter: ",
+                            "examples": [
+                                "OK, this seems to be an area of disagreement, so let's put it to the ballot."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæl.ət"
+                            ],
+                            "us": [
+                                "ˈbæl.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to organize a secret vote by a group of people in order to find out their views: ",
+                            "examples": [
+                                "The union decided to ballot its members on the issue."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

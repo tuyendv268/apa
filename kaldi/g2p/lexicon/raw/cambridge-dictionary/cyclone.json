@@ -1,0 +1,39 @@
+{
+    "word": "cyclone",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪ.kləʊn"
+                            ],
+                            "us": [
+                                "ˈsaɪ.kloʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a violent tropical storm: ",
+                            "examples": [
+                                "A cyclone swept across the island, killing several people."
+                            ]
+                        },
+                        {
+                            "explanation": "wind moving in a circular direction towards an area of low atmospheric pressure: ",
+                            "examples": [
+                                "Weather forecasters say the cyclone should move offshore, bringing dry conditions on Sunday."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

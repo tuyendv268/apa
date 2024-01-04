@@ -1,0 +1,68 @@
+{
+    "word": "transporting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ntransport ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trænˈspɔːt"
+                            ],
+                            "us": [
+                                "trænˈspɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take goods or people from one place to another: ",
+                            "examples": [
+                                "The pipeline was constructed to transport oil across Alaska to ports on the coast.",
+                                "Such heavy items are expensive to transport (by plane)."
+                            ]
+                        },
+                        {
+                            "explanation": "(in the past) to send a criminal to live in a country far away as a punishment: ",
+                            "examples": [
+                                "162,000 convicts were transported to Australia from 1788 to 1868."
+                            ]
+                        },
+                        {
+                            "explanation": "If something transports you to a different time or place, it makes you feel as if you were in it: ",
+                            "examples": [
+                                "The film transports you back to the New York of the 1950s."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

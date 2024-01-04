@@ -1,0 +1,60 @@
+{
+    "word": "feud",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fjuːd"
+                            ],
+                            "us": [
+                                "fjuːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an argument that has existed for a long time between two people or groups, causing a lot of anger and sometimes violence: ",
+                            "examples": [
+                                "The family feud has been ongoing since the death of their mother.",
+                                "a ten-year-old feud between the two countries",
+                                "a bitter feud over land"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fjuːd"
+                            ],
+                            "us": [
+                                "fjuːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to have an argument with someone that exists for a long time, causing a lot of anger and sometimes violence: ",
+                            "examples": [
+                                "They've been feuding with their neighbours for years. ",
+                                "Even old friends are feuding over the changes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

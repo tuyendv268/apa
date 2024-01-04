@@ -1,0 +1,40 @@
+{
+    "word": "-ence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -əns"
+                            ],
+                            "us": [
+                                " -əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form nouns that refer to an action or series of actions: ",
+                            "examples": [
+                                "violence (= violent actions)",
+                                "a performance (= act of performing)"
+                            ]
+                        },
+                        {
+                            "explanation": "used to form nouns that describe a state or quality: ",
+                            "examples": [
+                                "her long absence (= period during which she was absent)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

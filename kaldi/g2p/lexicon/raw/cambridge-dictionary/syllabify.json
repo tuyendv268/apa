@@ -1,0 +1,40 @@
+{
+    "word": "syllabify",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sɪˈlæb.ɪ.faɪ"
+                            ],
+                            "us": [
+                                "sɪˈlæb.ə.faɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to form syllables, by dividing words or by combining sounds or letters: ",
+                            "examples": [
+                                "In the second task, children were asked to syllabify each word.",
+                                "One way to help these spellers is to syllabify; another is to draw attention to prefixes and suffixes."
+                            ]
+                        },
+                        {
+                            "explanation": "to separate or combine to become a syllable or part of a syllable: ",
+                            "examples": [
+                                "They argue that not all cluster types syllabify in the same way."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

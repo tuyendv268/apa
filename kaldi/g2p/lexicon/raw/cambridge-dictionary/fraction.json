@@ -1,0 +1,41 @@
+{
+    "word": "fraction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfræk.ʃən"
+                            ],
+                            "us": [
+                                "ˈfræk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number that results from dividing one whole number by another: ",
+                            "examples": [
+                                "¼ and 0.25 are different ways of representing the same fraction."
+                            ]
+                        },
+                        {
+                            "explanation": "a small part of something, or a small amount: ",
+                            "examples": [
+                                "Although sexual and violent crimes have increased by 13 percent, they remain only a tiny/small fraction of the total number of crimes committed each year.",
+                                "They can produce it at a fraction of the cost of (= much more cheaply than) traditional methods.",
+                                "Could you just move a fraction to the right, so I can get by?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

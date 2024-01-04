@@ -1,0 +1,42 @@
+{
+    "word": "sidebar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪd.bɑːr"
+                            ],
+                            "us": [
+                                "ˈsaɪd.bɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a box or narrow area on a newspaper or magazine page that contains a short news story or extra information relating to a longer main story",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a narrow area at the side of a page on a website, giving extra information or links",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in a court of law, a private discussion between lawyers and the judge which the jury (= the group of people chosen to decide if someone is guilty) cannot hear, or the area at the front of the court where this discussion takes place : ",
+                            "examples": [
+                                "Mason said he had another separate matter to discuss in sidebar.",
+                                "After a 20 minute sidebar discussion, Jim was given 30 days by the judge to come up with new attorneys."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

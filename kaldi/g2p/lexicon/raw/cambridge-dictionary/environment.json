@@ -1,0 +1,41 @@
+{
+    "word": "environment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈvaɪ.rən.mənt"
+                            ],
+                            "us": [
+                                "ɪnˈvaɪ.rən.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the air, water, and land in or on which people, animals, and plants live: ",
+                            "examples": [
+                                "Certain chemicals have been banned because of their damaging effect on the environment.",
+                                "We're not doing enough to protect the environment from pollution."
+                            ]
+                        },
+                        {
+                            "explanation": "the conditions that you live or work in and the way that they influence how you feel or how effectively you can work: ",
+                            "examples": [
+                                "The office is quite bright and airy - it's a pleasant working environment.",
+                                "As a parent you try to create a stable home environment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

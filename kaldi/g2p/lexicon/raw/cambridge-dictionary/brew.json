@@ -1,0 +1,79 @@
+{
+    "word": "brew",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bruː"
+                            ],
+                            "us": [
+                                "bruː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make beer",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If you brew tea or coffee, you add boiling water to it to make a hot drink, and if it brews, it gradually develops flavour in the container in which it was made: ",
+                            "examples": [
+                                "He brewed us some coffee./He brewed some coffee for us."
+                            ]
+                        },
+                        {
+                            "explanation": "If an unpleasant situation or a storm is brewing, you feel that it is about to happen: ",
+                            "examples": [
+                                "It was too quiet - I felt that trouble was brewing.",
+                                "A storm was brewing in the distance."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bruː"
+                            ],
+                            "us": [
+                                "bruː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of beer, especially one made in a particular place or at a particular time",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a drink of tea or a drink of beer: ",
+                            "examples": [
+                                "Make us a brew, Bren."
+                            ]
+                        },
+                        {
+                            "explanation": "a mixture of several things: ",
+                            "examples": [
+                                "They gave her a strange brew to drink.",
+                                "War, with its fear, its deprivation, its excitement and violence makes for a very heady brew (= powerful combination)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

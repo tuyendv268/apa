@@ -1,0 +1,49 @@
+{
+    "word": "danger",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeɪn.dʒər"
+                            ],
+                            "us": [
+                                "ˈdeɪn.dʒɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the possibility of harm or death to someone: ",
+                            "examples": [
+                                "Danger! Keep out!",
+                                "He drove so fast that I really felt my life was in danger.",
+                                "The doctors say he is now out of danger (= is not expected to die although he has been extremely sick).",
+                                "the dangers of rock-climbing"
+                            ]
+                        },
+                        {
+                            "explanation": "something or someone that may harm you: ",
+                            "examples": [
+                                "Icy roads are a danger to drivers.",
+                                "The judge described him as a danger to society."
+                            ]
+                        },
+                        {
+                            "explanation": "the possibility that something bad will happen: ",
+                            "examples": [
+                                "If there's any danger of seeing Gary at the party, I'm not going."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

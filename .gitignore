@@ -1,6 +1,11 @@
 __pycache__
 data
-exps
 wav
 prep_data
 tools
+logs*
+dev.*
+*ckpt*
+exp
+mfcc
+tmp

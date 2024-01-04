@@ -1,0 +1,43 @@
+{
+    "word": "template",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtem.pleɪt"
+                            ],
+                            "us": [
+                                "ˈtem.plət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pattern made of metal, plastic, or paper, used for making many copies of a shape or to help cut material accurately",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "something that is used as a pattern for producing other similar things: ",
+                            "examples": [
+                                "We used the structure of his report as the template for ours."
+                            ]
+                        },
+                        {
+                            "explanation": "a system that helps you arrange information on a computer screen: ",
+                            "examples": [
+                                "a letter template"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

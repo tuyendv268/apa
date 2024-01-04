@@ -1,0 +1,69 @@
+{
+    "word": "drilling",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndrill ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "drɪl"
+                            ],
+                            "us": [
+                                "drɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a hole in something using a special tool: ",
+                            "examples": [
+                                "Drill three holes in the wall for the screws.",
+                                "They are going to drill for oil nearby."
+                            ]
+                        },
+                        {
+                            "explanation": "to practise something, especially military exercises, or to make someone do this: ",
+                            "examples": [
+                                "We watched the soldiers drilling on the parade ground."
+                            ]
+                        },
+                        {
+                            "explanation": "to tell someone something repeatedly to make them remember it: ",
+                            "examples": [
+                                "It was drilled into us at an early age that we should always say \"please\" and \"thank you\".",
+                                "He drilled the children in what they should say."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

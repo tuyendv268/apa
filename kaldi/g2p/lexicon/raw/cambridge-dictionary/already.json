@@ -1,0 +1,43 @@
+{
+    "word": "already",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ɔːlˈred.i"
+                            ],
+                            "us": [
+                                "ɑːlˈred.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "before the present time: ",
+                            "examples": [
+                                "I asked him to come to the exhibition but he'd already seen it.",
+                                "The concert had already begun by the time we arrived.",
+                                "I've already told him.",
+                                "As I have already mentioned, I doubt that we will be able to raise all the money we need."
+                            ]
+                        },
+                        {
+                            "explanation": "earlier than the time expected: ",
+                            "examples": [
+                                "Are you buying Christmas cards already? It's only September!",
+                                "I've only eaten one course and I'm already full."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

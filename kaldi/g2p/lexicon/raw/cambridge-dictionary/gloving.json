@@ -1,0 +1,61 @@
+{
+    "word": "gloving",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nglove ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡlʌv"
+                            ],
+                            "us": [
+                                "ɡlʌv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put gloves on your hands: ",
+                            "examples": [
+                                "She gloved her hands to protect them from the chemicals."
+                            ]
+                        },
+                        {
+                            "explanation": "to catch a ball when playing baseball: ",
+                            "examples": [
+                                "He gloved the ball, turned and threw in one motion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

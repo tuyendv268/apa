@@ -1,0 +1,40 @@
+{
+    "word": "shire",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʃaɪər"
+                            ],
+                            "us": [
+                                "ʃaɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a county, now used in combination in the names of many British counties: ",
+                            "examples": [
+                                "Yorkshire",
+                                "Oxfordshire"
+                            ]
+                        },
+                        {
+                            "explanation": "the central rural counties of England, such as Leicestershire, Nottinghamshire, and Derbyshire: ",
+                            "examples": [
+                                "The county is called 'the rose of the shires'."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

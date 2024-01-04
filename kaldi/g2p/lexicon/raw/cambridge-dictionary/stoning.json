@@ -1,0 +1,65 @@
+{
+    "word": "stoning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nstone ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stəʊn"
+                            ],
+                            "us": [
+                                "stoʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to throw stones at something or someone: ",
+                            "examples": [
+                                "Rioters set up barricades and stoned police cars."
+                            ]
+                        },
+                        {
+                            "explanation": "to kill someone as a punishment by throwing stones at them",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to remove the stone from a fruit: ",
+                            "examples": [
+                                "Could you stone the cherries for me?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

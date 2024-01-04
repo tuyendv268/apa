@@ -1,0 +1,35 @@
+{
+    "word": "agglutinative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈɡluː.tɪ.nə.tɪv"
+                            ],
+                            "us": [
+                                "əˈɡluː.tə.nə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a language) using words that contain many elements that each express a meaning rather than separate words for each meaning: ",
+                            "examples": [
+                                "Finnish is an agglutinative language in which grammatical relationships are expressed mainly by suffixes.",
+                                "Hungarian uses agglutinative suffixes to show the person and number of the subject.",
+                                "This language is agglutinative, and combines morphemes to build words."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

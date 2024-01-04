@@ -1,0 +1,69 @@
+{
+    "word": "regarded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nregard ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈɡɑːd"
+                            ],
+                            "us": [
+                                "rɪˈɡɑːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to consider or have an opinion about something or someone: ",
+                            "examples": [
+                                "Environmentalists regard GM technology with suspicion.",
+                                "Her parents always regarded her as the smartest of their children.",
+                                "He is generally/widely regarded as the father of international law."
+                            ]
+                        },
+                        {
+                            "explanation": "to look carefully at something or someone: ",
+                            "examples": [
+                                "The bird regarded me with suspicion as I walked up to its nest."
+                            ]
+                        },
+                        {
+                            "explanation": "in connection with: ",
+                            "examples": [
+                                "There is no problem as regards the financial arrangements."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

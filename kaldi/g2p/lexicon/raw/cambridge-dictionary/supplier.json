@@ -1,0 +1,40 @@
+{
+    "word": "supplier",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "səˈplaɪ.ər"
+                            ],
+                            "us": [
+                                "səˈplaɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a company, person, etc. that provides things that people want or need, especially over a long period of time: ",
+                            "examples": [
+                                "They used to be a leading supplier of military equipment.",
+                                "He said that he had got the drugs from his usual supplier (= person who sells drugs illegally)."
+                            ]
+                        },
+                        {
+                            "explanation": "a company that sells something: ",
+                            "examples": [
+                                "I'll contact the suppliers and see if I can get the paint you want by Friday."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

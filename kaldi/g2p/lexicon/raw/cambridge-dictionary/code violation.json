@@ -1,0 +1,40 @@
+{
+    "word": "code violation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkəʊd vaɪ.əˌleɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˈkoʊd vaɪ.əˌleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an act of breaking (= not obeying) a code (= set of rules) that applies to a particular area of activity, sport, etc.: ",
+                            "examples": [
+                                "City and state housing inspectors uncovered numerous code violations and deficiencies in the buildings.",
+                                "Under the Grand Slam rules in tennis, coaching during the match is prohibited and is a code violation."
+                            ]
+                        },
+                        {
+                            "explanation": "(in tennis) a penalty (= punishment) that is given when someone commits a code violation: ",
+                            "examples": [
+                                "He received a code violation for hitting a ball way up into the stands when he missed a passing shot."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

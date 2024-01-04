@@ -1,0 +1,34 @@
+{
+    "word": "redact",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈdækt"
+                            ],
+                            "us": [
+                                "rɪˈdækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove words or information from a text before it is printed or made available to the public: ",
+                            "examples": [
+                                "Officers' names are routinely redacted from any publicly released reports.",
+                                "Some parts of secret files are available to the public, but heavily redacted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

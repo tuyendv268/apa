@@ -1,0 +1,41 @@
+{
+    "word": "miscorrelation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.kɒr.əˈleɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌmɪs.kɔːr.əˈleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of wrongly saying that there is a connection or relationship between two or more facts, numbers, etc. : ",
+                            "examples": [
+                                "There is potential for miscorrelation.",
+                                "This should prevent the miscorrelation of data."
+                            ]
+                        },
+                        {
+                            "explanation": "a connection or relationship that is wrongly said to exist between two or more facts, numbers, etc. : ",
+                            "examples": [
+                                "They based their model on this miscorrelation.",
+                                "The mis-correlations between the values can be explained."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

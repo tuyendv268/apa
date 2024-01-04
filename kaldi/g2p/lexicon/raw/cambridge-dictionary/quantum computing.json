@@ -1,0 +1,34 @@
+{
+    "word": "quantum computing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkwɒn.təm kəmˈpjuː.tɪŋ"
+                            ],
+                            "us": [
+                                "ˌkwɑːn.t̬əm kəmˈpjuː.t̬ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "computing that does certain types of complicated calculations much faster than traditional computing, using qubits (= units of computer information that have quantum characteristics ) instead of bits (= units of computer information that must be either 0 or 1): ",
+                            "examples": [
+                                "In quantum computing, each bit, or qubit, can take on the value of both 1 and 0 at the same time.",
+                                "Quantum computing is an exciting development that may greatly increase the speed of present computers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

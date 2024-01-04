@@ -1,0 +1,48 @@
+{
+    "word": "volatile",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɒl.ə.taɪl"
+                            ],
+                            "us": [
+                                "ˈvɑː.lə.t̬əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "likely to change suddenly and unexpectedly, especially by getting worse: ",
+                            "examples": [
+                                "Food and fuel prices are very volatile in a war situation.",
+                                "The situation was made more volatile by the fact that people had been drinking a lot of alcohol."
+                            ]
+                        },
+                        {
+                            "explanation": "likely to change emotional state very suddenly, especially by becoming angry: ",
+                            "examples": [
+                                "He had a volatile temper and couldn't have been easy to live with.",
+                                "She is volatile and unreliable. "
+                            ]
+                        },
+                        {
+                            "explanation": "A volatile liquid or solid substance will change easily into a gas: ",
+                            "examples": [
+                                "The substance is highly volatile.",
+                                "volatile compounds"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

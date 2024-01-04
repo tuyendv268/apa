@@ -1,0 +1,59 @@
+{
+    "word": "screw top",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌskruː ˈtɒp"
+                            ],
+                            "us": [
+                                "ˌskruː ˈtɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a lid for a container that fastens by being turned",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈskruː.tɒp"
+                            ],
+                            "us": [
+                                "ˈskruː.tɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A screw-top container has a lid that fastens by being turned: ",
+                            "examples": [
+                                "a screw-top jar"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

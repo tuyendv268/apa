@@ -1,0 +1,72 @@
+{
+    "word": "arc",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɑːk"
+                            ],
+                            "us": [
+                                "ɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the shape of part of a circle, or other curved line: ",
+                            "examples": [
+                                "The ball rose in a high arc and fell behind the boundary line."
+                            ]
+                        },
+                        {
+                            "explanation": "a powerful flow of electricity that goes across a space between two points",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a complete story or the story of one character, especially one that is part of a larger story in a film, book, or television series: ",
+                            "examples": [
+                                "Even the minor characters in these films come with their own story arcs. ",
+                                "Films about teachers working with troubled kids tend to follow a predictable arc involving conflict and resolution."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɑːk"
+                            ],
+                            "us": [
+                                "ɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move in the shape of an arc: ",
+                            "examples": [
+                                "The rocket arced gracefully into the sky."
+                            ]
+                        },
+                        {
+                            "explanation": "to make an electric arc",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

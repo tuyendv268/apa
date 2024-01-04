@@ -1,0 +1,53 @@
+{
+    "word": "initialized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ninitialize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈnɪʃ.əl.aɪz"
+                            ],
+                            "us": [
+                                "ɪˈnɪʃ.əl.aɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to set the numbers, amounts, etc. in a computer program so that it is ready to start working",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

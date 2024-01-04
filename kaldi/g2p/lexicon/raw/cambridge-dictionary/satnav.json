@@ -1,0 +1,41 @@
+{
+    "word": "satnav",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsæt.næv"
+                            ],
+                            "us": [
+                                "ˈsæt.næv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for satellite navigation: a system of computers and satellites, used in vehicles and other places to tell you where something is, where you are, or how to get to a place: ",
+                            "examples": [
+                                "Many cars are now fitted with satnav.",
+                                "The software can be loaded onto conventional satnav equipment."
+                            ]
+                        },
+                        {
+                            "explanation": "a device used in a vehicle to tell you how to get to a place: ",
+                            "examples": [
+                                "There is no time for the taxi driver to programmea satnav and sit there waiting for it to come up with a route.",
+                                "Soon, everyone in western Europe who wants a satnav will have bought one."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

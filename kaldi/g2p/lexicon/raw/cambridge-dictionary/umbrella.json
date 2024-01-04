@@ -1,0 +1,43 @@
+{
+    "word": "umbrella",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʌmˈbrel.ə"
+                            ],
+                            "us": [
+                                "ʌmˈbrel.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device for protection against the rain, consisting of a stick with a folding frame covered in material at one end and usually a handle at the other, or a similar, often larger, device used for protection against the sun: ",
+                            "examples": [
+                                "I felt a few drops of rain, so I put my umbrella up.",
+                                "I left my umbrella on the bus yesterday.",
+                                "a folding umbrella"
+                            ]
+                        },
+                        {
+                            "explanation": "something that includes or represents a group or range of similar things: ",
+                            "examples": [
+                                "He runs a group of companies under the umbrella of Universal Foods.",
+                                "The Organization of Islamic Conference is an umbrella organization representing 57 Muslim nations.",
+                                "Existentialism was really an umbrella term to lump together the works of several philosophers and writers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "context",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒn.tekst"
+                            ],
+                            "us": [
+                                "ˈkɑːn.tekst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the situation within which something exists or happens, and that can help explain it: ",
+                            "examples": [
+                                "It is important to see all the fighting and bloodshed in his plays in historical context.",
+                                "This small battle is very important in the context of Scottish history."
+                            ]
+                        },
+                        {
+                            "explanation": "the text or speech that comes immediately before and after a particular phrase or piece of text and helps to explain its meaning: ",
+                            "examples": [
+                                "In this exercise, a word is blanked out and you have to guess what it is by looking at the context."
+                            ]
+                        },
+                        {
+                            "explanation": "If words are used out of context, only a small separate part of what was originally said or written is reported, with the result that their meaning is not clear or is not understood: ",
+                            "examples": [
+                                "The reporter took my remarks completely out of context."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "word": "limp",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "lɪmp"
+                            ],
+                            "us": [
+                                "lɪmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to walk slowly and with difficulty because of having an injured or painful leg or foot: ",
+                            "examples": [
+                                "Three minutes into the game, Jackson limped off the pitch with a serious ankle injury."
+                            ]
+                        },
+                        {
+                            "explanation": "to move or develop slowly and with difficulty: ",
+                            "examples": [
+                                "The little boat limped slowly towards the shore.",
+                                "After limping along for almost two years, the economy is starting to show signs of recovery."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "lɪmp"
+                            ],
+                            "us": [
+                                "lɪmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "soft and neither firm nor stiff: ",
+                            "examples": [
+                                "a limp lettuce leaf/salad",
+                                "a limp handshake"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "lɪmp"
+                            ],
+                            "us": [
+                                "lɪmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a way of walking slowly and with difficulty because of having an injured or painful leg or foot: ",
+                            "examples": [
+                                "She has a slight limp.",
+                                "He walks with a limp."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

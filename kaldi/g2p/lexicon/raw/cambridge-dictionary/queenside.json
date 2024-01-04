@@ -1,0 +1,56 @@
+{
+    "word": "queenside",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkwiːn.saɪd"
+                            ],
+                            "us": [
+                                "ˈkwiːn.saɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the game of chess, the side of the board where your queen is at the start of the game",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkwiːn.saɪd"
+                            ],
+                            "us": [
+                                "ˈkwiːn.saɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "on the side of the board where someone's queen starts in the game of chess: ",
+                            "examples": [
+                                "This move weakens too many queenside squares.",
+                                "He had to prevent the collapse of his queenside pawns."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "addy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæd.i"
+                            ],
+                            "us": [
+                                "ˈæd.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an address, usually an email address: ",
+                            "examples": [
+                                "I didn't get that file. Can you check my addy and resend? ",
+                                "Email me at my profile addy and we'll sort out the details. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

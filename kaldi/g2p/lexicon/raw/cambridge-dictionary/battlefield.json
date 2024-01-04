@@ -1,0 +1,40 @@
+{
+    "word": "battlefield",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæt.əl.fiːld"
+                            ],
+                            "us": [
+                                "ˈbæt̬.əl.fiːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a place where a battle is being fought or has been fought in the past: ",
+                            "examples": [
+                                "They carried the wounded from the battlefield.",
+                                "a Civil War battlefield"
+                            ]
+                        },
+                        {
+                            "explanation": "a subject on which people strongly disagree: ",
+                            "examples": [
+                                "The issue has become a political battlefield in recent years."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

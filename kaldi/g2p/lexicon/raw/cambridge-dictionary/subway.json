@@ -1,0 +1,38 @@
+{
+    "word": "subway",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌb.weɪ"
+                            ],
+                            "us": [
+                                "ˈsʌb.weɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a railway system in which electric trains travel through tunnels below ground: ",
+                            "examples": [
+                                "We took the subway uptown to Yankee Stadium.",
+                                "A guy gave me his seat on the subway."
+                            ]
+                        },
+                        {
+                            "explanation": "an underground passage that allows people on foot to cross a busy road",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

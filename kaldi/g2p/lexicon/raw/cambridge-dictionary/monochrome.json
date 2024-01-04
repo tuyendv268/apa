@@ -1,0 +1,40 @@
+{
+    "word": "monochrome",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɒn.ə.krəʊm"
+                            ],
+                            "us": [
+                                "ˈmɑː.nə.kroʊm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "using only black, white, and grey, or using only one colour: ",
+                            "examples": [
+                                "Kodak still produces monochrome film.",
+                                "The park in winter is a depressing monochrome brown."
+                            ]
+                        },
+                        {
+                            "explanation": "not interesting or exciting: ",
+                            "examples": [
+                                "a monochrome, dreary existence"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

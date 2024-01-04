@@ -1,0 +1,39 @@
+{
+    "word": "bolus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbəʊ.ləs"
+                            ],
+                            "us": [
+                                "ˈboʊ.ləs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small round lump of a substance, especially partly digested food: ",
+                            "examples": [
+                                "They found a large bolus of clogged material in her stomach."
+                            ]
+                        },
+                        {
+                            "explanation": "a single dose (= measured amount) of a drug: ",
+                            "examples": [
+                                "Patients were given boluses of 20 or 30 μg of fentanyl."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

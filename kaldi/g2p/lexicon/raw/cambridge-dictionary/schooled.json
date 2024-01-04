@@ -1,0 +1,62 @@
+{
+    "word": "schooled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nschool ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skuːl"
+                            ],
+                            "us": [
+                                "skuːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to train a person or animal to do something: ",
+                            "examples": [
+                                "It takes a lot of patience to school a dog/horse.",
+                                "You must school yourself to be tolerant."
+                            ]
+                        },
+                        {
+                            "explanation": "to teach a child: ",
+                            "examples": [
+                                "Her children are well schooled in correct behaviour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

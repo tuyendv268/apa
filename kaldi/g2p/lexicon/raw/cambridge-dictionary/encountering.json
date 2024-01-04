@@ -1,0 +1,62 @@
+{
+    "word": "encountering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nencounter ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈkaʊn.tər"
+                            ],
+                            "us": [
+                                "ɪnˈkaʊn.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to meet someone unexpectedly: ",
+                            "examples": [
+                                "On their way home they encountered a woman selling flowers."
+                            ]
+                        },
+                        {
+                            "explanation": "to experience something, especially something unpleasant: ",
+                            "examples": [
+                                "When did you first encounter these difficulties?",
+                                "The army is reported to be encountering considerable resistance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

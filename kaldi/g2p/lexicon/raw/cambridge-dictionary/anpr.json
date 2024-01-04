@@ -1,0 +1,34 @@
+{
+    "word": "anpr",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌeɪ.en.piːˈɑːr"
+                            ],
+                            "us": [
+                                "ˌeɪ.en.piːˈɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for automatic number plate recognition: a technology that reads and records car number plates, so that vehicles can be checked to see if they have been stolen, belong to people involved in criminal activities, have been parked illegally, etc. : ",
+                            "examples": [
+                                "Police forces use ANPR for anti-terrorism work.",
+                                "We have no problem with ANPR being used to locate vehicles whose owners the police firmly suspect of having committed an offence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

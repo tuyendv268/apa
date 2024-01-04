@@ -1,0 +1,75 @@
+{
+    "word": "muting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmute ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mjuːt"
+                            ],
+                            "us": [
+                                "mjuːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If you mute a noise, or a device making a noise, you make it less loud or not able to be heard at all: ",
+                            "examples": [
+                                "Heavy curtains muted the noise of the traffic.",
+                                "She muted the TV so she could hear what he was saying.",
+                                "Don't forget to mute your microphone when another person on the call is speaking."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a person unable to be heard, for example when using video conferencing software: ",
+                            "examples": [
+                                "Automatically mute participants as they join the meeting, and allow participants to unmute themselves if they want to speak to others in the meeting."
+                            ]
+                        },
+                        {
+                            "explanation": "If you mute a musical instrument, you attach a device to it that changes its sound, usually making it quieter: ",
+                            "examples": [
+                                "The song features muted trumpets."
+                            ]
+                        },
+                        {
+                            "explanation": "to stop someone's messages, pictures, etc. appearing on a social media website when you look at it, without removing the person as a friend: ",
+                            "examples": [
+                                "Instagram now lets you mute your friends."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

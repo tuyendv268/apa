@@ -1,0 +1,41 @@
+{
+    "word": "unsalaried",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈsæl.ər.id"
+                            ],
+                            "us": [
+                                "ʌnˈsæl.ɚ.id"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "working without payment, or done for no payment: ",
+                            "examples": [
+                                "All of the organization's officers are unsalaried and give their time on a voluntary basis.",
+                                "She was paid briefly and then had a temporary, unsalaried position."
+                            ]
+                        },
+                        {
+                            "explanation": "paid for particular pieces of work, rather than being paid a regular fixed amount as an employee: ",
+                            "examples": [
+                                "The change would affect salaried as well as unsalaried employees.",
+                                "He taught for fifteen years as an unsalaried lecturer. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "word": "push start",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpʊʃ ˌstɑːt"
+                            ],
+                            "us": [
+                                "ˈpʊʃ ˌstɑːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of pushing your car in order to make the engine start: ",
+                            "examples": [
+                                "The car stalled and I needed a push start.",
+                                "The only way I could start the car was a push start."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpʊʃ.stɑːt"
+                            ],
+                            "us": [
+                                "ˈpʊʃ.stɑːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to push your car in order to make the engine start",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "misinformation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.ɪn.fəˈmeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌmɪs.ɪn.fɚˈmeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "wrong information, or the fact that people are misinformed: ",
+                            "examples": [
+                                "There's a lot of misinformation about the disease that needs to be corrected."
+                            ]
+                        },
+                        {
+                            "explanation": "information intended to deceive: ",
+                            "examples": [
+                                "His election campaign was based on misinformation about the rival candidates."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "the ftse 100",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfʊt.si wʌnˌhʌn.drəd"
+                            ],
+                            "us": [
+                                "ˌfʊt.si wʌnˌhʌn.drəd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number that expresses the value of the share prices of the 100 most important British companies, published by the Financial Times: ",
+                            "examples": [
+                                "The FTSE 100 closed 31.6 points down at 2459.3 in today's trading."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

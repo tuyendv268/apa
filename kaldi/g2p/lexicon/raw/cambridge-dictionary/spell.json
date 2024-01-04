@@ -1,0 +1,95 @@
+{
+    "word": "spell",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "spel"
+                            ],
+                            "us": [
+                                "spel"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to form a word or words with the letters in the correct order: ",
+                            "examples": [
+                                "How do you spell receive?",
+                                "Shakespeare did not always spell his own name the same way.",
+                                "Our address is 1520 Main Street, Albuquerque. Shall I spell that (out) (= say in the correct order the letters that form the word) for you?",
+                                "I think it's important that children should be taught to spell."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause something bad to happen in the future: ",
+                            "examples": [
+                                "The new regulations could spell disaster for small businesses."
+                            ]
+                        },
+                        {
+                            "explanation": "to do something that someone else would usually be doing, especially in order to allow them to rest: ",
+                            "examples": [
+                                "You've been driving for a while - do you want me to spell you?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "spel"
+                            ],
+                            "us": [
+                                "spel"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a period of time for which an activity or condition lasts continuously: ",
+                            "examples": [
+                                "I lived in Cairo for a spell.",
+                                "She had a brief spell as captain of the team.",
+                                "I keep having/getting dizzy spells (= periods of feeling as if I'm turning around)."
+                            ]
+                        },
+                        {
+                            "explanation": "a short period of a particular type of weather: ",
+                            "examples": [
+                                "a spell of dry weather",
+                                "The weather forecast is for dry, sunny spells."
+                            ]
+                        },
+                        {
+                            "explanation": "a period when you do something that someone else would usually be doing, especially in order to allow them to rest: ",
+                            "examples": [
+                                "If we take spells (with) doing the painting, it won't seem like such hard work."
+                            ]
+                        },
+                        {
+                            "explanation": "spoken words that are thought to have magical power, or (the condition of being under) the influence or control of such words: ",
+                            "examples": [
+                                "The witch cast/put a spell on the prince and he turned into a frog.",
+                                "A beautiful girl would have to kiss him to break (= stop) the spell.",
+                                "Sleeping Beauty lay under the wicked fairy's spell until the prince woke her with a kiss."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

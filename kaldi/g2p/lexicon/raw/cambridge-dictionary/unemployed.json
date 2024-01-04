@@ -1,0 +1,58 @@
+{
+    "word": "unemployed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.ɪmˈplɔɪd"
+                            ],
+                            "us": [
+                                "ˌʌn.ɪmˈplɔɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not having a job that provides money: ",
+                            "examples": [
+                                "He's been unemployed for over a year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.ɪmˈplɔɪd"
+                            ],
+                            "us": [
+                                "ˌʌn.ɪmˈplɔɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "people who do not have a job that provides money: ",
+                            "examples": [
+                                "There are now over four million unemployed in this country.",
+                                "Our department provides services for the unemployed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

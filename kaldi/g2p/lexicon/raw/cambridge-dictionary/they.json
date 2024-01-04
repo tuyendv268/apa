@@ -1,0 +1,49 @@
+{
+    "word": "they",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "ðeɪ"
+                            ],
+                            "us": [
+                                "ðeɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used as the subject of a verb to refer to people, animals, or things already mentioned or, more generally, to a group of people not clearly described: ",
+                            "examples": [
+                                "I've known the Browns for a long time. They're very nice people.",
+                                "Where are my glasses? They were on the table a minute ago.",
+                                "They (= people who know) say things will be better in the new year."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a person whose gender is not known or does not need to be mentioned: ",
+                            "examples": [
+                                "\"There's someone on the phone for you.\" \"What do they want?\"",
+                                "Everyone should do what they think is best. "
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a single person whose gender is not simply male or female: ",
+                            "examples": [
+                                "At that time Smith said that they wanted to be open about their new identity, but weren't ready to speak at length about it.",
+                                "The singer came out as non-binary, joining a growing number of people who use \"they/them\" as pronouns."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

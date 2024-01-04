@@ -1,0 +1,33 @@
+{
+    "word": "indirect object",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.daɪ.rekt ˈɒb.dʒɪkt"
+                            ],
+                            "us": [
+                                "ˌɪn.daɪ.rekt ˈɑːb.dʒɪkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the person or thing that receives the effect of the action of a verb with two objects: ",
+                            "examples": [
+                                "In the sentence \"Give Val some money\", \"Val\" is the indirect object."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

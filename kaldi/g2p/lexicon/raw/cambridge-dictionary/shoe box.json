@@ -1,0 +1,41 @@
+{
+    "word": "shoe box",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃuː ˌbɒks"
+                            ],
+                            "us": [
+                                "ˈʃuː ˌbɑːks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a box in which shoes are sold: ",
+                            "examples": [
+                                "Inside her wardrobe there are 150 shoe boxes on shelves from floor to ceiling.",
+                                "He categorized his notes and carefully filed them in shoe boxes."
+                            ]
+                        },
+                        {
+                            "explanation": "a very small house, room, etc.: ",
+                            "examples": [
+                                "In Japan I lived in a shoe box.",
+                                "The restaurant is a tiny shoebox of a place."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

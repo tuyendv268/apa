@@ -1,0 +1,65 @@
+{
+    "word": "hiss",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "hɪs"
+                            ],
+                            "us": [
+                                "hɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a noise like a long s sound: ",
+                            "examples": [
+                                "Why do snakes hiss?",
+                                "The iron was hissing and spluttering.",
+                                "People in the audience were hissing their disapproval."
+                            ]
+                        },
+                        {
+                            "explanation": "to say something in a quiet angry way: ",
+                            "examples": [
+                                "\"Shut up, Tom!\" she hissed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hɪs"
+                            ],
+                            "us": [
+                                "hɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sound like the letter s: ",
+                            "examples": [
+                                "I heard a hiss and a pop as the cork came out of the bottle."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

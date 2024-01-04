@@ -1,0 +1,41 @@
+{
+    "word": "non-logical",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈlɒdʒ.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈlɑː.dʒɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not using reason: ",
+                            "examples": [
+                                "He claims that intuitive, non-logical thinking is a function of the right hemisphere of the brain. ",
+                                "These emotions are powerful and non-logical, but they are the result of social experience."
+                            ]
+                        },
+                        {
+                            "explanation": "not relating to logic (= a formal scientific method of examining or thinking about ideas): ",
+                            "examples": [
+                                "These symbols are often called nonlogical constants.",
+                                "logical and non-logical symbols"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

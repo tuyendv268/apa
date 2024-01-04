@@ -1,0 +1,59 @@
+{
+    "word": "apple pie",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæp.əl ˈpaɪ"
+                            ],
+                            "us": [
+                                "ˌæp.əl ˈpaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sweet food made from apples cooked under or inside pastry: ",
+                            "examples": [
+                                "She roasted a leg of lamb and baked an apple pie.",
+                                "a piece of apple pie"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæp.əl ˈpaɪ"
+                            ],
+                            "us": [
+                                "ˌæp.əl ˈpaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "representing traditional and positive ideas of life in the US: ",
+                            "examples": [
+                                "The film seems to depict an idealized apple-pie notion of American life.",
+                                "He explores the dysfunctional reality of apple-pie suburbia."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

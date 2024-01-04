@@ -1,0 +1,103 @@
+{
+    "word": "filter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɪl.tər"
+                            ],
+                            "us": [
+                                "ˈfɪl.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any of several types of equipment or devices for removing solids from liquids or gases, or for removing particular types of light: ",
+                            "examples": [
+                                "a water filter",
+                                "a dust filter",
+                                "Ozone is the earth's primary filter for ultraviolet radiation."
+                            ]
+                        },
+                        {
+                            "explanation": "a thin piece of plastic or glass placed in front of a camera lens in order to change the colour or amount of light entering it: ",
+                            "examples": [
+                                "I like to experiment with different light filters on my camera."
+                            ]
+                        },
+                        {
+                            "explanation": "a tool for selecting or removing a particular type of information: ",
+                            "examples": [
+                                "You can apply filters to capture the most relevant data.",
+                                "A filter on the company computer network is designed to block obscene material."
+                            ]
+                        },
+                        {
+                            "explanation": "a tool for creating special effects on an image: ",
+                            "examples": [
+                                "There's a filter that makes all your pictures look like old sepia photographs.",
+                                "Instagram/Snapchat filters"
+                            ]
+                        },
+                        {
+                            "explanation": "a green, arrow-shaped light that is part of a set of traffic lights and tells drivers when they can turn left or right: ",
+                            "examples": [
+                                "a traffic filter",
+                                "a left/right filter"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɪl.tər"
+                            ],
+                            "us": [
+                                "ˈfɪl.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to appear or happen gradually or to a limited degree: ",
+                            "examples": [
+                                "News filtered down to us during the day.",
+                                "Reports about an accident began to filter in.",
+                                "Sunlight filtered through the branches."
+                            ]
+                        },
+                        {
+                            "explanation": "to remove solids from liquids or gases, or to remove particular types of light, using special equipment: ",
+                            "examples": [
+                                "The water is filtered to remove any impurities.",
+                                "Devices in the two chimneys would filter (out) (= remove) radioactive dust."
+                            ]
+                        },
+                        {
+                            "explanation": "to select or remove a particular type of information from something: ",
+                            "examples": [
+                                "This command filters the search results by location.",
+                                "The software is well suited to small mobile phone screens because it filters out unnecessary information.",
+                                "Most email apps use spam filtering tools."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

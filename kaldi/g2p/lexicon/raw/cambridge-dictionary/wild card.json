@@ -1,0 +1,51 @@
+{
+    "word": "wild card",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwaɪld ˌkɑːd"
+                            ],
+                            "us": [
+                                "ˈwaɪld ˌkɑːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a playing card that does not have any particular value but that can be used to represent any other card: ",
+                            "examples": [
+                                "The joker is a wild card that substitutes for any other card to complete a winning hand."
+                            ]
+                        },
+                        {
+                            "explanation": "in computers, a symbol that has no particular meaning of its own so that its space can be filled by any real character that is necessary: ",
+                            "examples": [
+                                "The wild cards are represented here by asterisks."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who is allowed to take part in a competition, even though they have not achieved this in the usual way, for example by winning games: ",
+                            "examples": [
+                                "Phillips is hoping for a wild card entry to the championships."
+                            ]
+                        },
+                        {
+                            "explanation": "someone or something whose behaviour is sometimes unexpected: ",
+                            "examples": [
+                                "The wild card in this election is the Green Party - no one knows exactly how much support they will get."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

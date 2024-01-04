@@ -1,0 +1,57 @@
+{
+    "word": "attempting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nattempt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈtempt"
+                            ],
+                            "us": [
+                                "əˈtempt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to do something, especially something difficult: ",
+                            "examples": [
+                                "He attempted to escape through a window.",
+                                "He attempted a joke, but no one laughed.",
+                                "There's no point in even attempting an explanation - he'll never listen."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

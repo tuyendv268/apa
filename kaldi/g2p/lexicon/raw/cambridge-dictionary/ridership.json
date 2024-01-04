@@ -1,0 +1,33 @@
+{
+    "word": "ridership",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈraɪ.də.ʃɪp"
+                            ],
+                            "us": [
+                                "ˈraɪ.dɚ.ʃɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number of passengers on a public transport system: ",
+                            "examples": [
+                                "This month ridership on the Chicago subway went down again."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

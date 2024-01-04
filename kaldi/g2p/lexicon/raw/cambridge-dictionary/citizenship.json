@@ -1,0 +1,38 @@
+{
+    "word": "citizenship",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪt.ɪ.zən.ʃɪp"
+                            ],
+                            "us": [
+                                "ˈsɪt̬.ə.zən.ʃɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of being a member of a particular country and having rights because of it: ",
+                            "examples": [
+                                "He was granted Canadian citizenship.",
+                                "He holds joint citizenship in Sweden and Peru."
+                            ]
+                        },
+                        {
+                            "explanation": "the state of living in a particular area or town and behaving in a way that other people who live there expect of you",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

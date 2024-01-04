@@ -1,0 +1,31 @@
+{
+    "word": "empty set",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌemp.ti ˈset"
+                            ],
+                            "us": [
+                                "ˌemp.ti ˈset"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a set (= a group of numbers) that contains no elements, represented by the symbol {}",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "mandating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmandate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæn.deɪt"
+                            ],
+                            "us": [
+                                "ˈmæn.deɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give official permission for something to happen: ",
+                            "examples": [
+                                "The UN rush to mandate war totally ruled out any alternatives."
+                            ]
+                        },
+                        {
+                            "explanation": "to order someone to do something: ",
+                            "examples": [
+                                "Our delegates have been mandated to vote against the proposal at the conference."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

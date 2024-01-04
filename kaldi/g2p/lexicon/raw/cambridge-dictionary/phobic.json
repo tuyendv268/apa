@@ -1,0 +1,83 @@
+{
+    "word": "phobic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfəʊ.bɪk"
+                            ],
+                            "us": [
+                                "ˈfoʊ.bɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a strong dislike or hatred of something, especially in a way that is extreme or not reasonable: ",
+                            "examples": [
+                                "Why are so many companies phobic about employing fat people?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfəʊ.bɪk"
+                            ],
+                            "us": [
+                                "ˈfoʊ.bɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who has a strong dislike of something: ",
+                            "examples": [
+                                "I wouldn't describe myself as a phobic but I don't like heights.",
+                                "Spiders, snakes, and dogs can all be dangerous, it's just that the phobic's fear gets out of control."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "afraid of or hating something or someone, especially in a way that is extreme or not reasonable: ",
+                            "examples": [
+                                "I'm germ-phobic and constantly dry out my hands by washing them with soap.",
+                                "He plays a commitment-phobic poet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

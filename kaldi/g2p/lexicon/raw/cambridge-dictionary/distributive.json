@@ -1,0 +1,44 @@
+{
+    "word": "distributive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈstrɪb.jə.tɪv"
+                            ],
+                            "us": [
+                                "dɪˈstrɪb.jə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "sharing things fairly between people: ",
+                            "examples": [
+                                "A distributive income tax system, which essentially gives the rich a heavier tax burden, is better for poorer people.",
+                                "The country operates a distributive economic model."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a mathematical operation) giving the same result whether parts are acted on in combination or separately",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(of an adjective) showing that the members of a group are to be treated separately, rather than as a group: ",
+                            "examples": [
+                                "\"Each\" and \"every\" are distributive adjectives."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

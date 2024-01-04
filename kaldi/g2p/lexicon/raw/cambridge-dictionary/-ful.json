@@ -1,0 +1,47 @@
+{
+    "word": "-ful",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -fəl",
+                                "-fʊl"
+                            ],
+                            "us": [
+                                " -fəl",
+                                "-fʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having the stated quality to a high degree, or causing it: ",
+                            "examples": [
+                                "colourful",
+                                "powerful",
+                                "painful",
+                                "truthful",
+                                "beautiful"
+                            ]
+                        },
+                        {
+                            "explanation": "the amount of something needed to fill the stated container or place: ",
+                            "examples": [
+                                "a spoonful of sugar",
+                                "a mouthful of tea",
+                                "a houseful of people"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

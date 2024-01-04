@@ -1,0 +1,34 @@
+{
+    "word": "espresso",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "esˈpres.əʊ"
+                            ],
+                            "us": [
+                                "esˈpres.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "strong coffee, or a cup of this, made by forcing hot water through crushed coffee beans and served without milk: ",
+                            "examples": [
+                                "Do you like espresso?",
+                                "Would you prefer an espresso or a cappuccino?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

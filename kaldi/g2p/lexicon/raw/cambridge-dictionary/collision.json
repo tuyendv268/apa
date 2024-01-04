@@ -1,0 +1,41 @@
+{
+    "word": "collision",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəˈlɪʒ.ən"
+                            ],
+                            "us": [
+                                "kəˈlɪʒ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an accident that happens when two vehicles hit each other with force: ",
+                            "examples": [
+                                "There has been a collision on the southbound stretch of the motorway.",
+                                "Two drivers were killed in a head-on (= direct) collision between a car and a taxi last night.",
+                                "The cyclist was in a collision with a bus."
+                            ]
+                        },
+                        {
+                            "explanation": "a strong disagreement: ",
+                            "examples": [
+                                "There was a collision of interests/opinions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

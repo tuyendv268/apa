@@ -1,0 +1,42 @@
+{
+    "word": "versioning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɜːʃənɪŋ"
+                            ],
+                            "us": [
+                                "ˈvɜrʒənɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of changing products to suit different customers or markets: ",
+                            "examples": [
+                                "The cookware retailer has had success with catalog versioning in different regions of the country.",
+                                "Versioning of your landing page not only provides valuable measurement opportunities, but it can also give you an advantage in Search Engine Marketing."
+                            ]
+                        },
+                        {
+                            "explanation": "the use of a particular number to refer to each stage of development of a piece of software, or each new form of a file or document: ",
+                            "examples": [
+                                "Our developers all follow a strict numbering system to avoid any versioning problems.",
+                                "The software allows for accurate editing, versioning, and customization of marketing material.",
+                                "document/file versioning"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

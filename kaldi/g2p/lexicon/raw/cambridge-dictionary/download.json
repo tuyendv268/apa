@@ -1,0 +1,62 @@
+{
+    "word": "download",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaʊnˈləʊd",
+                                "ˈdaʊn.ləʊd"
+                            ],
+                            "us": [
+                                "ˈdaʊn.loʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to copy or move programs or information into a computer's memory, especially from the internet or a larger computer",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaʊn.ləʊd"
+                            ],
+                            "us": [
+                                "ˈdaʊn.loʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a computer program or information that has been or can be copied into a computer's memory: ",
+                            "examples": [
+                                "a free download"
+                            ]
+                        },
+                        {
+                            "explanation": "the act or process of copying programs or information into a computer's memory: ",
+                            "examples": [
+                                "All of our products are available for download on our website."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "misinterpreted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmisinterpret ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.ɪnˈtɜː.prət"
+                            ],
+                            "us": [
+                                "ˌmɪs.ɪnˈtɝː.prət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to form an understanding that is not correct of something that is said or done: ",
+                            "examples": [
+                                "My speech has been misinterpreted by the press.",
+                                "When we re-examined the regulations, we realized that we had misinterpreted them."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

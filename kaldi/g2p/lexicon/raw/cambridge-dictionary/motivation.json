@@ -1,0 +1,41 @@
+{
+    "word": "motivation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌməʊ.tɪˈveɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌmoʊ.t̬əˈveɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "enthusiasm for doing something: ",
+                            "examples": [
+                                "He's a bright enough student - he just lacks motivation.",
+                                "There seems to be a lack of motivation among the employees."
+                            ]
+                        },
+                        {
+                            "explanation": "the need or reason for doing something: ",
+                            "examples": [
+                                "What was the motivation for the attack?",
+                                "The motivation behind the decision is the desire to improve our service to our customers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

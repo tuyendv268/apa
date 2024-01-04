@@ -1,0 +1,48 @@
+{
+    "word": "officer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒf.ɪ.sər"
+                            ],
+                            "us": [
+                                "ˈɑː.fɪ.sɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person in the armed forces who has a position of authority: ",
+                            "examples": [
+                                "a naval officer",
+                                "a top-ranking officer"
+                            ]
+                        },
+                        {
+                            "explanation": "a person who has a position of authority in an organization: ",
+                            "examples": [
+                                "a careers/customs/personnel officer"
+                            ]
+                        },
+                        {
+                            "explanation": "a member of the police force: ",
+                            "examples": [
+                                "Two officers responded to the call at 282 Main Street.",
+                                "Officer Clarke",
+                                "\"Do you know how fast you were driving, ma'am?\" \"No, officer.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

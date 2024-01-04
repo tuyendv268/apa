@@ -1,0 +1,40 @@
+{
+    "word": "interrogation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˌter.əˈɡeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˌter.əˈɡeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a process of asking someone a lot of questions for a long time in order to get information, sometimes using threats or violence: ",
+                            "examples": [
+                                "One by one they were taken for interrogation.",
+                                "She was subjected to torture and lengthy interrogations."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of getting information from a computer or electronic device: ",
+                            "examples": [
+                                "the interrogation of a database file to produce a list of customers in a geographical area"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

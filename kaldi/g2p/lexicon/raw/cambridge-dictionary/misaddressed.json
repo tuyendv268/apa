@@ -1,0 +1,55 @@
+{
+    "word": "misaddressed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmisaddress ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.əˈdres"
+                            ],
+                            "us": [
+                                "ˌmɪs.əˈdres"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put the wrong address on a letter or parcel: ",
+                            "examples": [
+                                "We have now corrected the error in our computer records which resulted in our letters to you being misaddressed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

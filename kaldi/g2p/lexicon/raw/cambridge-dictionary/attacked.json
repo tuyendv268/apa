@@ -1,0 +1,82 @@
+{
+    "word": "attacked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nattack ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈtæk"
+                            ],
+                            "us": [
+                                "əˈtæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to hurt or defeat using violence: ",
+                            "examples": [
+                                "He was attacked and seriously injured by a gang of youths.",
+                                "Army forces have been attacking the town since dawn.",
+                                "Most wild animals won't attack unless they are provoked."
+                            ]
+                        },
+                        {
+                            "explanation": "to criticize someone strongly: ",
+                            "examples": [
+                                "She wrote an article attacking the judges and their conduct of the trial.",
+                                "The report attacks the idea of exams for seven and eight-year-olds."
+                            ]
+                        },
+                        {
+                            "explanation": "If something, such as a disease or a chemical, attacks something, it damages it: ",
+                            "examples": [
+                                "AIDS attacks the body's immune system.",
+                                "My rose bushes are being attacked by aphids."
+                            ]
+                        },
+                        {
+                            "explanation": "If players in a team attack, they move forward to try to score points, goals, etc.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to deal with something quickly and in an effective way: ",
+                            "examples": [
+                                "We have to attack these problems now and find some solutions.",
+                                "The children rushed in and eagerly attacked the food (= quickly started to eat it)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

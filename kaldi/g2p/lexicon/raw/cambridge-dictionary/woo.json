@@ -1,0 +1,40 @@
+{
+    "word": "woo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "wuː"
+                            ],
+                            "us": [
+                                "wuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to persuade someone to support you or to use your business: ",
+                            "examples": [
+                                "The party has been trying to woo the voters with promises of electoral reform.",
+                                "The airline has been offering discounted tickets to woo passengers away from their competitors."
+                            ]
+                        },
+                        {
+                            "explanation": "If a man woos a woman, he gives her a lot of attention in an attempt to persuade her to marry him: ",
+                            "examples": [
+                                "He wooed her for months with flowers and expensive presents."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

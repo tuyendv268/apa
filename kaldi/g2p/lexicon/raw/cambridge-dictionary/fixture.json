@@ -1,0 +1,40 @@
+{
+    "word": "fixture",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɪks.tʃər"
+                            ],
+                            "us": [
+                                "ˈfɪks.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a permanently fixed piece of furniture in a house, such as a bath, that would not be taken by someone when moving to a new home: ",
+                            "examples": [
+                                "All fixtures and fittings are included in the house price.",
+                                "They've been together so long he's become a permanent fixture in her life."
+                            ]
+                        },
+                        {
+                            "explanation": "a day and usually a time agreed for a sports event: ",
+                            "examples": [
+                                "Next season's fixtures will be published early next month."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

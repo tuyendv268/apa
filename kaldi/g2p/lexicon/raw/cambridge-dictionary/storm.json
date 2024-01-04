@@ -1,0 +1,114 @@
+{
+    "word": "storm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "stɔːm"
+                            ],
+                            "us": [
+                                "stɔːrm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an extreme weather condition with very strong wind, heavy rain, and often thunder and lightning: ",
+                            "examples": [
+                                "A lot of trees were blown down in the recent storms.",
+                                "They're still cleaning up the storm damage."
+                            ]
+                        },
+                        {
+                            "explanation": "a very angry reaction from a lot of people: ",
+                            "examples": [
+                                "There was a storm of protest when the new tax was announced."
+                            ]
+                        },
+                        {
+                            "explanation": "to be suddenly extremely successful in a place or with a group of people: ",
+                            "examples": [
+                                "Her performance has taken the critics by storm."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stɔːm"
+                            ],
+                            "us": [
+                                "stɔːrm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to attack a place or building by entering suddenly in great numbers: ",
+                            "examples": [
+                                "The fortress was stormed by hundreds of soldiers."
+                            ]
+                        },
+                        {
+                            "explanation": "to express anger in a loud and often uncontrolled way: ",
+                            "examples": [
+                                "\"Get out and never come back!\" he stormed."
+                            ]
+                        },
+                        {
+                            "explanation": "to enter or leave a place in a way that shows that you are angry: ",
+                            "examples": [
+                                "He stormed out of the house, slamming the door as he went."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -stɔːm"
+                            ],
+                            "us": [
+                                " -stɔːrm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form words for particular types of violent weather: ",
+                            "examples": [
+                                "a rainstorm",
+                                "a sandstorm",
+                                "a snowstorm",
+                                "a thunderstorm",
+                                "a windstorm"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

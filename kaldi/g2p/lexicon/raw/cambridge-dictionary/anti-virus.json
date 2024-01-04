@@ -1,0 +1,41 @@
+{
+    "word": "anti-virus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæntiˈvaɪərəs"
+                            ],
+                            "us": [
+                                "ˌæntaɪ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "protecting against computer viruses: ",
+                            "examples": [
+                                "Update your anti-virus software regularly.",
+                                "an anti-virus program/tool/utility",
+                                "anti-virus protection"
+                            ]
+                        },
+                        {
+                            "explanation": "involved in the production of products that protect against computer viruses: ",
+                            "examples": [
+                                "Anti-virus companies have been tracking the virus."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

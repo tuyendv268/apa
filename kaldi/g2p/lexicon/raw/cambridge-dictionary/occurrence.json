@@ -1,0 +1,39 @@
+{
+    "word": "occurrence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈkʌr.əns"
+                            ],
+                            "us": [
+                                "əˈkɝː.əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that happens: ",
+                            "examples": [
+                                "Street-fights are an everyday occurrence in this area of the city."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of something existing, or how much of it exists: ",
+                            "examples": [
+                                "The study compares the occurrence of heart disease in various countries."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

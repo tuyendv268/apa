@@ -1,0 +1,39 @@
+{
+    "word": "pharmacy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɑː.mə.si"
+                            ],
+                            "us": [
+                                "ˈfɑːr.mə.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a shop or part of a shop in which medicines are prepared and sold",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "part of a hospital where medicines are prepared",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the activity or study of medicine preparation",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

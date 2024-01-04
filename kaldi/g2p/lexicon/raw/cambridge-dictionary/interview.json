@@ -1,0 +1,78 @@
+{
+    "word": "interview",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tə.vjuː"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ɚ.vjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a meeting in which someone asks you questions to see if you are suitable for a job or course: ",
+                            "examples": [
+                                "a job interview",
+                                "I had an interview for a job with a publisher."
+                            ]
+                        },
+                        {
+                            "explanation": "a meeting in which someone answers questions about himself or herself for a newspaper article, television show, etc.: ",
+                            "examples": [
+                                "an exclusive interview with Johnny Depp",
+                                "In a television interview last night she denied she had any intention of resigning."
+                            ]
+                        },
+                        {
+                            "explanation": "a meeting in which the police ask someone questions to see if they have committed a crime",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tə.vjuː"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ɚ.vjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to ask someone questions in an interview: ",
+                            "examples": [
+                                "We've had 200 applicants for the job, but we only plan to interview about 20 of them.",
+                                "Who's the most famous person you've ever interviewed on TV?",
+                                "Police are interviewing a 43-year-old man in connection with the murder."
+                            ]
+                        },
+                        {
+                            "explanation": "to answer questions in an interview for a job or course: ",
+                            "examples": [
+                                "I interviewed for several jobs but I didn't get any of them.",
+                                "He's a good candidate on paper, but he didn't interview well."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

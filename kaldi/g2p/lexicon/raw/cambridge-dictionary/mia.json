@@ -1,0 +1,66 @@
+{
+    "word": "mia",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌem.aɪˈeɪ"
+                            ],
+                            "us": [
+                                "ˌem.aɪˈeɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for missing in action: used for saying that a member of the armed forces has not returned from fighting in a war but is not known for certain to be dead : ",
+                            "examples": [
+                                "High numbers of military were still listed as MIA.",
+                                "This is done routinely to identify the remains of MIA soldiers. "
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for missing in action: used for saying that someone or something has disappeared and you do not know where they are: ",
+                            "examples": [
+                                "Adam just went MIA on Nina and stopped answering her calls.",
+                                "Brady told Bob that his jersey was MIA."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌem.aɪˈeɪ"
+                            ],
+                            "us": [
+                                "ˌem.aɪˈeɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for missing in action: a member of the armed forces who has not returned from fighting in a war but is not known for certain to be dead: ",
+                            "examples": [
+                                "The agency is responsible for tracking down MIAs.",
+                                "Unrecorded deaths in prison camps contributed to the high number of MIAs at that time."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

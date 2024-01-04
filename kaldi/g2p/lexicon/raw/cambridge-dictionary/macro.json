@@ -1,0 +1,62 @@
+{
+    "word": "macro",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæk.rəʊ"
+                            ],
+                            "us": [
+                                "ˈmæk.roʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a single instruction given to a computer that produces a set of instructions for the computer to perform a particular piece of work: ",
+                            "examples": [
+                                "I've created a macro to spell check all the files at the same time."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "mæk.rəʊ-"
+                            ],
+                            "us": [
+                                "mæk.roʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "large; relating to the whole of something, rather than its parts: ",
+                            "examples": [
+                                "macroscopic (= large enough to be seen by the human eye)",
+                                "macroeconomics (= the study of financial systems at a national level)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

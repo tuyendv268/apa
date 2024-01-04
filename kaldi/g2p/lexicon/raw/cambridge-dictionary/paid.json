@@ -1,0 +1,66 @@
+{
+    "word": "paid",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "peɪd"
+                            ],
+                            "us": [
+                                "peɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of\npay ",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "peɪd"
+                            ],
+                            "us": [
+                                "peɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "being given money for something: ",
+                            "examples": [
+                                "Are you looking for paid work or voluntary work?",
+                                "paid employment",
+                                "paid holiday",
+                                "paid vacation",
+                                "paid leave"
+                            ]
+                        },
+                        {
+                            "explanation": "used in combination to refer to the amount of money that someone is given for their work: ",
+                            "examples": [
+                                "low-paid workers",
+                                "a well-paid job"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "acquired",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nacquire ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈkwaɪər"
+                            ],
+                            "us": [
+                                "əˈkwaɪɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get or buy something: ",
+                            "examples": [
+                                "He acquired the firm in 2008.",
+                                "I was wearing a newly/recently acquired jacket.",
+                                "I seem to have acquired (= have got although I don't know how) two copies of this book.",
+                                "He has acquired a reputation for being difficult to work with."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

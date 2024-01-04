@@ -1,0 +1,50 @@
+{
+    "word": "infinity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈfɪn.ə.ti"
+                            ],
+                            "us": [
+                                "ɪnˈfɪn.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "time or space that has no end: ",
+                            "examples": [
+                                "the infinity of the universe",
+                                "the concept of infinity"
+                            ]
+                        },
+                        {
+                            "explanation": "a place that is so far away that it cannot be reached: ",
+                            "examples": [
+                                "The mountain range stretched away into infinity."
+                            ]
+                        },
+                        {
+                            "explanation": "a number that is larger than all other numbers",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an extremely large number of something: ",
+                            "examples": [
+                                "an infinity of stars in the galaxy"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

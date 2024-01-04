@@ -1,0 +1,41 @@
+{
+    "word": "dubious",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒuː.bi.əs"
+                            ],
+                            "us": [
+                                "ˈduː.bi.əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "thought not to be completely true or not able to be trusted: ",
+                            "examples": [
+                                "These claims are dubious and not scientifically proven.",
+                                "He has been associated with some dubious characters.",
+                                "Ruth Ellis has the dubious (= bad) distinction of being the last woman to be hanged in Britain."
+                            ]
+                        },
+                        {
+                            "explanation": "feeling doubt or not feeling certain: ",
+                            "examples": [
+                                "I'm dubious about his promises to change his ways."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

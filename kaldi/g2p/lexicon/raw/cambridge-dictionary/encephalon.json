@@ -1,0 +1,40 @@
+{
+    "word": "encephalon",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "enˈsef.ə.lɒn",
+                                "enˈkef.ə.lɒn"
+                            ],
+                            "us": [
+                                "ɪnˈsef.ə.lɑːn"
+                            ],
+                            "uk_other_tense": [
+                                "enˈsef.ə.lə",
+                                "enˈkef.ə.lə"
+                            ],
+                            "us_other_tense": [
+                                "ɪnˈsef.ə.lə"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the brain in humans, and in animals that have a spinal column (= line of bones down the centre of the back): ",
+                            "examples": [
+                                "There were no apparent macroscopic changes in the encephalon.",
+                                "These chemicals are found within the pituitary and other parts of the central nervous system and encephalon."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

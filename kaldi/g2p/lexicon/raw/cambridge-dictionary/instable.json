@@ -1,0 +1,40 @@
+{
+    "word": "instable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈsteɪ.bəl"
+                            ],
+                            "us": [
+                                "ɪnˈsteɪ.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not solid and firm and therefore not strong, safe, or likely to last: ",
+                            "examples": [
+                                "The country is hoping to move on after going through a difficult and instable period.",
+                                "When I attempted to modify the computer's central processing unit, it soon become instable."
+                            ]
+                        },
+                        {
+                            "explanation": "An instable person suffers from sudden and extreme changes in their mental and emotional state: ",
+                            "examples": [
+                                "Since I started to take this medication I have become emotionally instable."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

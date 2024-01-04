@@ -1,0 +1,33 @@
+{
+    "word": "acronym",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.rə.nɪm"
+                            ],
+                            "us": [
+                                "ˈæk.rə.nɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an abbreviation consisting of the first letters of each word in the name of something, pronounced as a word: ",
+                            "examples": [
+                                "AIDS is an acronym for \"Acquired Immune Deficiency Syndrome\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

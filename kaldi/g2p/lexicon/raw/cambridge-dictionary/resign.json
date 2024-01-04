@@ -1,0 +1,42 @@
+{
+    "word": "resign",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈzaɪn"
+                            ],
+                            "us": [
+                                "rɪˈzaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give up a job or position by telling your employer that you are leaving: ",
+                            "examples": [
+                                "He resigned from the company in order to take a more challenging job.",
+                                "She resigned as director.",
+                                "She resigned the directorship."
+                            ]
+                        },
+                        {
+                            "explanation": "In the game of chess, you resign when you cannot see any way to avoid being beaten: ",
+                            "examples": [
+                                "Timman resigned a hopeless position.",
+                                "After she had taken my rook, there was nothing I could really do except resign."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

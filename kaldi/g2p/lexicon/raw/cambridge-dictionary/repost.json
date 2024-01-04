@@ -1,0 +1,73 @@
+{
+    "word": "repost",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈpəʊst"
+                            ],
+                            "us": [
+                                "ˌriːˈpoʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put one of your previous posts (= messages, pictures, etc.) on a website or on social media again: ",
+                            "examples": [
+                                "I thought I would repost the ground rules.",
+                                "I'll have to search my files and see if I can find it and repost it."
+                            ]
+                        },
+                        {
+                            "explanation": "to put something on a website or on social media that someone else previously posted: ",
+                            "examples": [
+                                "Would you mind if I repost this on Facebook?",
+                                "If you repost any material from this blog, please give credit by including a link back to me."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈriː.pəʊst"
+                            ],
+                            "us": [
+                                "ˈriː.poʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something such as a message or picture that you put on a website or on social media again: ",
+                            "examples": [
+                                "This is a repost of one of my earlier comments but it's relevant.",
+                                "I posted this question about a year ago, and am trying a repost in the hope that someone can help."
+                            ]
+                        },
+                        {
+                            "explanation": "a message, picture, etc. originally posted by someone else that you put on a website or on social media : ",
+                            "examples": [
+                                "The system will calculate popularity by a Tweet's number of reposts and the general influence of the user who posted it.",
+                                "Any party who intends to use photographs or contents for a repost, please request prior permission."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

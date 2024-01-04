@@ -1,0 +1,76 @@
+{
+    "word": "packed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "pækt"
+                            ],
+                            "us": [
+                                "pækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "completely full: ",
+                            "examples": [
+                                "The train was so packed that I couldn't find a seat.",
+                                "This book is packed with useful information."
+                            ]
+                        },
+                        {
+                            "explanation": "very full of people: ",
+                            "examples": [
+                                "The bar was packed out last night."
+                            ]
+                        },
+                        {
+                            "explanation": "to have put your things into a suitcase, bag, box, etc.: ",
+                            "examples": [
+                                "Are you packed yet?",
+                                "I'm all packed and ready to go."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -pækt"
+                            ],
+                            "us": [
+                                " -pækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "full of the thing described: ",
+                            "examples": [
+                                "a fun-packed day",
+                                "an action-packed film"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "geometric progression",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒiː.əˈmet.rɪk prəˈɡreʃ.ən"
+                            ],
+                            "us": [
+                                "ˌdʒiː.əˈmet.rɪk prəˈɡreʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an ordered set of numbers, where each number in turn is multiplied by a particular amount to produce the next, for example 2, 6, 18, 54 ... : ",
+                            "examples": [
+                                "Epidemics are an example of geometric progression: when a virus spreads through a population, it doubles and doubles again.",
+                                "The terms 1,2,4,8 form a geometric sequence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

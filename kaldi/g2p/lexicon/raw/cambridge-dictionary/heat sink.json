@@ -1,0 +1,40 @@
+{
+    "word": "heat sink",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhiːt ˌsɪŋk"
+                            ],
+                            "us": [
+                                "ˈhiːt ˌsɪŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance or object that absorbs heat: ",
+                            "examples": [
+                                "At the back is a massive wall that acts as a heat sink - it cools the house in summer and in winter acts like a big radiator.",
+                                "A one-degree temperature increase would lower the effectiveness of lakes designed to be heat sinks for power plants."
+                            ]
+                        },
+                        {
+                            "explanation": "a device in a computer, mobile phone, etc. that absorbs heat so that important parts do not get too hot and stop working: ",
+                            "examples": [
+                                "The processor has its own heat sink and usually a fan, too."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

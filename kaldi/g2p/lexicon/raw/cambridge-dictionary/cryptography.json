@@ -1,0 +1,35 @@
+{
+    "word": "cryptography",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "krɪpˈtɒɡ.rə.fi"
+                            ],
+                            "us": [
+                                "krɪpˈtɑː.ɡrə.fi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the practice of creating and understanding codes that keep information secret",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the use of special codes to keep information safe in computer networks",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

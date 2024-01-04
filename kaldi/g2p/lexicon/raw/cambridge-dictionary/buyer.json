@@ -1,0 +1,39 @@
+{
+    "word": "buyer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.ər"
+                            ],
+                            "us": [
+                                "ˈbaɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who buys something expensive such as a house: ",
+                            "examples": [
+                                "He's still looking for a buyer for his house."
+                            ]
+                        },
+                        {
+                            "explanation": "someone whose job it is to decide what will be bought by a company: ",
+                            "examples": [
+                                "She's the buyer for a stylish boutique in Dublin."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "blocked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "blɒkt"
+                            ],
+                            "us": [
+                                "blɑːkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If something is blocked, no-one or nothing can move through it: ",
+                            "examples": [
+                                "The road is blocked – you'll have to go round the other way.",
+                                "I've got a blocked (up) nose."
+                            ]
+                        },
+                        {
+                            "explanation": "prevented from reaching somewhere by someone or something: ",
+                            "examples": [
+                                "He scored by hitting a rebound from a blocked shot in the penalty box."
+                            ]
+                        },
+                        {
+                            "explanation": "unable to be used: ",
+                            "examples": [
+                                "The money was in a blocked account to which he had no access.",
+                                "If kids want access to a blocked website, they have to get permission from their parents."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "word": "an",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "æn",
+                                "ən"
+                            ],
+                            "us": [
+                                "æn",
+                                "ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used instead of \"a\" when the following word begins with a vowel sound: ",
+                            "examples": [
+                                "an orange",
+                                "an honour",
+                                "an easy question",
+                                "an interesting story"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -ən"
+                            ],
+                            "us": [
+                                " -ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "connected with or belonging to the stated place, group, or type: ",
+                            "examples": [
+                                "an American",
+                                "a Canadian",
+                                "a Korean",
+                                "a Christian",
+                                "Russian literature",
+                                "Italian opera"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "word": "blend",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "blend"
+                            ],
+                            "us": [
+                                "blend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mixture of different things or styles: ",
+                            "examples": [
+                                "a rich blend of the finest coffee beans",
+                                "Their music is a blend of jazz and African rhythms."
+                            ]
+                        },
+                        {
+                            "explanation": "a word formed by combining two other words: ",
+                            "examples": [
+                                "\"Meritage\" is a blend that combines \"merit\" and \"heritage\"."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "blend"
+                            ],
+                            "us": [
+                                "blend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to mix or combine things together, or to mix or combine with something else, to make one substance: ",
+                            "examples": [
+                                "In a separate bowl, blend the egg and cream.",
+                                "Stir until the flour is blended into the butter.",
+                                "Emulsifiers help the mixture to blend."
+                            ]
+                        },
+                        {
+                            "explanation": "to combine with something else in a way that is attractive or works well, or to combine things like this: ",
+                            "examples": [
+                                "The carpet blends well with the colour of the walls.",
+                                "They seamlessly blend elements of jazz and classical music."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something into a smooth liquid, or chop it into small pieces, using an electric machine: ",
+                            "examples": [
+                                "When the vegetables are soft, blend the soup until smooth.",
+                                "Blend the peppers in a liquidizerblender.",
+                                "Put the nuts and herbs in a blender and blend coarsely."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

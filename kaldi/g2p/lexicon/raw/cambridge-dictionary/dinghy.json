@@ -1,0 +1,40 @@
+{
+    "word": "dinghy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɪŋ.ɡi"
+                            ],
+                            "us": [
+                                "ˈdɪŋ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small open boat: ",
+                            "examples": [
+                                "an inflatable/motorized dinghy",
+                                "He was transferred to the ship by dinghy."
+                            ]
+                        },
+                        {
+                            "explanation": "a small sailing boat: ",
+                            "examples": [
+                                "a dinghy race"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

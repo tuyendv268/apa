@@ -1,0 +1,42 @@
+{
+    "word": "minority",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "maɪˈnɒr.ə.ti"
+                            ],
+                            "us": [
+                                "maɪˈnɔːr.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a smaller number or part: ",
+                            "examples": [
+                                "It's only a tiny minority of people who are causing the problem.",
+                                "Children with single parents at my school were very much in the minority (= there were very few).",
+                                "This section of the bookstore caters for minority interests (= subjects that interest only a few people)."
+                            ]
+                        },
+                        {
+                            "explanation": "any small group in society that is different from the rest because of their race, religion, or political beliefs, or a person who belongs to such a group: ",
+                            "examples": [
+                                "ethnic/religious minorities",
+                                "The plan was designed to help women and minorities overcome discrimination in the workplace."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

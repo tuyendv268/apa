@@ -1,0 +1,34 @@
+{
+    "word": "word list",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɜːd ˌlɪst"
+                            ],
+                            "us": [
+                                "ˈwɝːd ˌlɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of words, especially when these words are collected for a particular purpose, for example words that someone has to learn, or words explained in a dictionary: ",
+                            "examples": [
+                                "As you read, add unfamiliar words to your word list so you can practise them later.",
+                                "These stories are based on the syllabus and wordlists for our successful English language course. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

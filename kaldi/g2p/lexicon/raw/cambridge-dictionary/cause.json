@@ -1,0 +1,105 @@
+{
+    "word": "cause",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kɔːz"
+                            ],
+                            "us": [
+                                "kɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the reason why something, especially something bad, happens: ",
+                            "examples": [
+                                "The police are still trying to establish the cause of the fire.",
+                                "She had died of natural causes.",
+                                "I wouldn't tell you without (good) cause (= if there was not a (good) reason).",
+                                "I believe we have/there is just cause (= a fair reason) for taking this action."
+                            ]
+                        },
+                        {
+                            "explanation": "a reason to feel something or to behave in a particular way: ",
+                            "examples": [
+                                "He's never given me any cause for concern."
+                            ]
+                        },
+                        {
+                            "explanation": "a socially valuable principle that is strongly supported by some people: ",
+                            "examples": [
+                                "They are fighting for a cause - the liberation of their people.",
+                                "I'll sponsor you for £10 - it's all in a good cause."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kɔːz"
+                            ],
+                            "us": [
+                                "kɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something happen, especially something bad: ",
+                            "examples": [
+                                "The difficult driving conditions caused several accidents.",
+                                "The bright light caused her to blink.",
+                                "Most heart attacks are caused by blood clots.",
+                                "I hope the children haven't caused you too much trouble."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "kɒz"
+                            ],
+                            "us": [
+                                "kɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "because: ",
+                            "examples": [
+                                "I'll host the party cause I've got plenty of room at my house.",
+                                "I try to practise my French every day, cause I'm not very good at it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

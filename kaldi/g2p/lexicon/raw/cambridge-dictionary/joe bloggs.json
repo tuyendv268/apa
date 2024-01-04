@@ -1,0 +1,33 @@
+{
+    "word": "joe bloggs",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒəʊ ˈblɒɡz"
+                            ],
+                            "us": [
+                                "ˌdʒoʊ ˈblɑːɡz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an average or typical man: ",
+                            "examples": [
+                                "This stereo system is the most expensive in the range and is not the sort of thing that Joe Bloggs would buy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

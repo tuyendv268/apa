@@ -1,0 +1,70 @@
+{
+    "word": "radiating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nradiate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈreɪ.di.eɪt"
+                            ],
+                            "us": [
+                                "ˈreɪ.di.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to produce heat and/or light, or (of heat or light) to be produced: ",
+                            "examples": [
+                                "The planet Jupiter radiates twice as much heat from inside as it receives from the Sun.",
+                                "A single beam of light radiated from the lighthouse."
+                            ]
+                        },
+                        {
+                            "explanation": "to show an emotion or quality, or (of an emotion or quality) to be shown or felt: ",
+                            "examples": [
+                                "He was radiating joy and happiness.",
+                                "Enthusiasm was radiating from her."
+                            ]
+                        },
+                        {
+                            "explanation": "to spread out in all directions from a central point: ",
+                            "examples": [
+                                "Flows of lava radiated out from the volcano's crater.",
+                                "Just before the breeding season, these birds radiate outwards to warmer climates."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

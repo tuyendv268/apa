@@ -1,0 +1,41 @@
+{
+    "word": "breadcrumb",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbred.krʌm"
+                            ],
+                            "us": [
+                                "ˈbred.krʌm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of many very small pieces of dried bread, especially used in cooking: ",
+                            "examples": [
+                                "Sprinkle the breadcrumbs over the mixture before baking.",
+                                "Rub the flour and butter together until it has a breadcrumb consistency."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of information, often separated from other similar information by the sign >, shown at the top of a website to help you find your way around the site by providing a link to the last page you looked at: ",
+                            "examples": [
+                                "Breadcrumbs come in handy to show a navigation trail for users clicking through a site.",
+                                "You have to roll over a breadcrumb to see if it's an active link."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

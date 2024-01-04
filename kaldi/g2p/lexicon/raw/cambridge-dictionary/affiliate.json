@@ -1,0 +1,58 @@
+{
+    "word": "affiliate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈfɪl.i.eɪt"
+                            ],
+                            "us": [
+                                "əˈfɪl.i.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause a group to become part of or form a close relationship with another, usually larger, group, or organization: ",
+                            "examples": [
+                                "a college affiliated to the University of Mumbai",
+                                "The school is affiliated with a national association of driving schools."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈfɪl.i.ət"
+                            ],
+                            "us": [
+                                "əˈfɪl.i.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an organization that is connected with or controlled by another, usually larger, organization: ",
+                            "examples": [
+                                "Our college is an affiliate of the university."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

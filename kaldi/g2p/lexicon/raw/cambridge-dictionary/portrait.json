@@ -1,0 +1,65 @@
+{
+    "word": "portrait",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɔː.trət",
+                                "ˈpɔː.treɪt"
+                            ],
+                            "us": [
+                                "ˈpɔːr.trɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a painting, photograph, drawing, etc. of a person or, less commonly, of a group of people: ",
+                            "examples": [
+                                "She's commissioned an artist to paint her portrait/paint a portrait of her.",
+                                "a portrait gallery",
+                                "a portrait painter"
+                            ]
+                        },
+                        {
+                            "explanation": "A film or book that is a portrait of something describes or represents that thing in a detailed way: ",
+                            "examples": [
+                                "Her latest novel paints a very vivid portrait of the aristocracy in the 1920s."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɔː.trət",
+                                "ˈpɔː.treɪt"
+                            ],
+                            "us": [
+                                "ˈpɔːr.trɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A portrait computer document is to be printed with the shorter side of the paper at the top and bottom.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

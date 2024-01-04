@@ -1,0 +1,40 @@
+{
+    "word": "disfluency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪsˈfluː.ən.si"
+                            ],
+                            "us": [
+                                "dɪsˈfluː.ən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the quality in speech of not being smooth and continuous, for example by containing pauses or repeated words or sounds: ",
+                            "examples": [
+                                "These extracts show how common disfluency and unfinished sentences are in the speech of both sexes.",
+                                "Most speech pathologists agree that some disfluency is quite normal in children around 2 to 3 years old."
+                            ]
+                        },
+                        {
+                            "explanation": "something such as a pause or repeated word or sound that means someone's speech is not smooth and continuous: ",
+                            "examples": [
+                                "Disfluencies such as \"um\", repetitions, and false starts can cause problems in speech recognition software. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

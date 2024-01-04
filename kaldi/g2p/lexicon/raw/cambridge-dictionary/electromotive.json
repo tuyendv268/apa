@@ -1,0 +1,39 @@
+{
+    "word": "electromotive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "iˌlek.trəˈməʊ.tɪv"
+                            ],
+                            "us": [
+                                "iˌlek.trəˈmoʊ.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having an electric motor or relating to something that has an electric motor: ",
+                            "examples": [
+                                "electromotive vehicles"
+                            ]
+                        },
+                        {
+                            "explanation": "producing an electric current: ",
+                            "examples": [
+                                "electromotive force"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

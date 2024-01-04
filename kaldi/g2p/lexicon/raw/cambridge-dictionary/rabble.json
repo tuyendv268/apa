@@ -1,0 +1,40 @@
+{
+    "word": "rabble",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈræb.əl"
+                            ],
+                            "us": [
+                                "ˈræb.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large, noisy, uncontrolled group of people: ",
+                            "examples": [
+                                "The defeated army returned home as a demoralized rabble.",
+                                "He views his opponents as a mindless rabble."
+                            ]
+                        },
+                        {
+                            "explanation": "people of a low social position: ",
+                            "examples": [
+                                "Her speech stirred the emotions of the rabble."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

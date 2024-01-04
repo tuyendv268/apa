@@ -1,0 +1,77 @@
+{
+    "word": "gate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡeɪt"
+                            ],
+                            "us": [
+                                "ɡeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a part of a fence or outside wall that is fixed at one side and opens and closes like a door, usually made of metal or wooden strips",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a similar device that slides across an opening, often folding into a smaller space as it is opened: ",
+                            "examples": [
+                                "The lift won't move if the safety gate isn't shut properly."
+                            ]
+                        },
+                        {
+                            "explanation": "a part of an airport where travellers are allowed to get on or off a particular aircraft: ",
+                            "examples": [
+                                "All passengers for flight LH103 please proceed to gate 16."
+                            ]
+                        },
+                        {
+                            "explanation": "the number of people that go to see a sports event or other large event, or the amount of money people pay to see it: ",
+                            "examples": [
+                                "Gates at matches were lower than average last season."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                "-ɡeɪt"
+                            ],
+                            "us": [
+                                "-ɡeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used in combination with other nouns to create a name for a situation that causes public shock or disapproval: ",
+                            "examples": [
+                                "a political scandal known as \"furgate\", in which high-ranking government officials were given expensive coats"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

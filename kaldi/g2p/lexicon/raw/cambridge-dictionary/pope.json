@@ -1,0 +1,33 @@
+{
+    "word": "pope",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəʊp"
+                            ],
+                            "us": [
+                                "poʊp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(the title of) the leader of the Roman Catholic Church: ",
+                            "examples": [
+                                "Pope John Paul II"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

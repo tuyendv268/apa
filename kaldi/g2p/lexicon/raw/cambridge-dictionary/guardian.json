@@ -1,0 +1,40 @@
+{
+    "word": "guardian",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡɑː.di.ən"
+                            ],
+                            "us": [
+                                "ˈɡɑːr.di.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who has the legal right and responsibility of taking care of someone who cannot take care of himself or herself, such as a child whose parents have died: ",
+                            "examples": [
+                                "The child's parents or guardians must give their consent before she has the operation."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who protects something: ",
+                            "examples": [
+                                "These three official bodies are the guardians of the nation's countryside.",
+                                "a self-appointed guardian of public morals"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

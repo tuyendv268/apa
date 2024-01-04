@@ -1,0 +1,63 @@
+{
+    "word": "complained",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncomplain ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpleɪn"
+                            ],
+                            "us": [
+                                "kəmˈpleɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say that something is wrong or not satisfactory: ",
+                            "examples": [
+                                "Lots of people have complained about the noise.",
+                                "You're always complaining!",
+                                "He complained that his boss was useless and he had too much work."
+                            ]
+                        },
+                        {
+                            "explanation": "to tell someone formally that something is wrong: ",
+                            "examples": [
+                                "If the service was so bad why didn't you complain to the manager?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

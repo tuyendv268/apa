@@ -1,0 +1,83 @@
+{
+    "word": "material",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məˈtɪə.ri.əl"
+                            ],
+                            "us": [
+                                "məˈtɪr.i.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a physical substance that things can be made from: ",
+                            "examples": [
+                                "building materials, such as stone",
+                                "Crude oil is used as the raw (= basic) material for making plastics."
+                            ]
+                        },
+                        {
+                            "explanation": "information used when writing something such as a book, or information produced in various forms to help people or to advertise products: ",
+                            "examples": [
+                                "I'm in the process of collecting material for an article that I'm writing."
+                            ]
+                        },
+                        {
+                            "explanation": "cloth that can be used to make things such as clothes: ",
+                            "examples": [
+                                "How much material will you need to make the skirt?"
+                            ]
+                        },
+                        {
+                            "explanation": "equipment that you need for a particular activity: ",
+                            "examples": [
+                                "\"Do we need any writing materials?\" \"Only a pen and a pencil.\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "məˈtɪə.ri.əl"
+                            ],
+                            "us": [
+                                "məˈtɪr.i.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to physical objects or money rather than emotions or the spiritual world: ",
+                            "examples": [
+                                "the material world",
+                                "Material wealth never interested her."
+                            ]
+                        },
+                        {
+                            "explanation": "important or having an important effect: ",
+                            "examples": [
+                                "If you have any information that is material to the investigation, you should state it now."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

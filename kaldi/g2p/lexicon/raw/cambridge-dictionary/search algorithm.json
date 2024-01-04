@@ -1,0 +1,33 @@
+{
+    "word": "search algorithm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɜː.tʃ ˌæl.ɡə.rɪ.ðəm"
+                            ],
+                            "us": [
+                                "ˈsɜ˞ː.tʃ ˌæl.ɡə.rɪ.ðəm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a computer program that uses a set of mathematical instructions or rules to find information on the internet or within a database: ",
+                            "examples": [
+                                "The site refined its search algorithm in an effort to promote reputable sources over \"fake news\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

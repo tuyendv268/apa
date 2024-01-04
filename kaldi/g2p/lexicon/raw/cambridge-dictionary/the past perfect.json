@@ -1,0 +1,33 @@
+{
+    "word": "the past perfect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɑːst ˈpɜː.fekt"
+                            ],
+                            "us": [
+                                "ˌpæst ˈpɝː.fekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the grammatical form used for an action that had already finished when another action happened. It is made with \"had\" and a past participle: ",
+                            "examples": [
+                                "\"I had just cooked\" is an example of the past perfect, and \"I had just been cooking\" is an example of the past perfect continuous."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

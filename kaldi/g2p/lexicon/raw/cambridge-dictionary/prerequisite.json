@@ -1,0 +1,35 @@
+{
+    "word": "prerequisite",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpriːˈrek.wɪ.zɪt"
+                            ],
+                            "us": [
+                                "ˌpriːˈrek.wə.zɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that must exist or happen before something else can exist or happen: ",
+                            "examples": [
+                                "Passing a written test is a prerequisite for taking the advanced course.",
+                                "Public support is a prerequisite for/to the success of this project.",
+                                "They had to agree to certain conditions as a prerequisite of being lent the money."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

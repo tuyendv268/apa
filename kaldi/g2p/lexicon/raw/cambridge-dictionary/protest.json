@@ -1,0 +1,82 @@
+{
+    "word": "protest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprəʊ.test"
+                            ],
+                            "us": [
+                                "ˈproʊ.test"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a strong complaint expressing disagreement, disapproval, or opposition: ",
+                            "examples": [
+                                "Protests have been made/registered by many people who would be affected by the proposed changes.",
+                                "A formal protest was made by the German team about their disqualification from the relay final.",
+                                "Conservation groups have united in protest against the planned new road."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when people show that they disagree with something by standing somewhere, shouting, carrying signs, etc.: ",
+                            "examples": [
+                                "a public protest against the war",
+                                "a peaceful/violent protest"
+                            ]
+                        },
+                        {
+                            "explanation": "If something is done under protest, it is done unwillingly: ",
+                            "examples": [
+                                "I only went to the meeting under protest."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prəˈtest"
+                            ],
+                            "us": [
+                                "proʊˈtest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to show that you disagree with something by standing somewhere, shouting, carrying signs, etc.: ",
+                            "examples": [
+                                "A big crowd of demonstrators were protesting against cuts in health spending.",
+                                "Outside, a group of students were protesting research cuts."
+                            ]
+                        },
+                        {
+                            "explanation": "to say something forcefully or complain about something: ",
+                            "examples": [
+                                "Lots of people protested about the new working hours.",
+                                "They protested bitterly to their employers, but to no avail.",
+                                "A young girl was crying, protesting that she didn't want to leave her mother.",
+                                "All through the trial he protested his innocence (= strongly said he was not guilty)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

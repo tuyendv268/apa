@@ -1,0 +1,70 @@
+{
+    "word": "nested",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nnest ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "nest"
+                            ],
+                            "us": [
+                                "nest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to build a nest, or live in a nest: ",
+                            "examples": [
+                                "We've got some swallows nesting in our roof at the moment.",
+                                "Farm buildings are ideal nesting sites for barn owls."
+                            ]
+                        },
+                        {
+                            "explanation": "to fit one object inside another, or to fit inside in this way: ",
+                            "examples": [
+                                "nested coffee tables",
+                                "dolls that nest inside one another"
+                            ]
+                        },
+                        {
+                            "explanation": "to put a piece of information, text, etc. inside another, or at a lower level in a system: ",
+                            "examples": [
+                                "Each document has a root element and all elements must be nested within other elements. ",
+                                "Text documents often comprise nested regions like lists within lists or procedures within procedures."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

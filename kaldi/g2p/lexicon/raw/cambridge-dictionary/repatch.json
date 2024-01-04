@@ -1,0 +1,34 @@
+{
+    "word": "repatch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈpætʃ"
+                            ],
+                            "us": [
+                                "ˌriːˈpætʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add another patch (= a small program that makes an existing program work as it should) to a computer program: ",
+                            "examples": [
+                                "If you try to re-patch the program while it's live, the whole system will crash.",
+                                "I repatched the application data and the site worked for a few days, but it's failing again now. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

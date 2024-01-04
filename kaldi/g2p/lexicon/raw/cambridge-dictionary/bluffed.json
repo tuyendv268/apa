@@ -1,0 +1,64 @@
+{
+    "word": "bluffed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbluff ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "blʌf"
+                            ],
+                            "us": [
+                                "blʌf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to deceive someone by making them think either that you are going to do something when you really have no intention of doing it, or that you have knowledge that you do not really have, or that you are someone else: ",
+                            "examples": [
+                                "Is he going to jump or is he only bluffing?",
+                                "Tony seems to know a lot about music, but sometimes I think he's only bluffing.",
+                                "She bluffed the doorman into thinking that she was a reporter."
+                            ]
+                        },
+                        {
+                            "explanation": "If you bluff your way into or out of a situation, you get yourself into or out of it by deceiving people: ",
+                            "examples": [
+                                "How did Mina manage to bluff her way into that job?",
+                                "He's one of those people who is very good at bluffing their way out of trouble."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "supervised",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsupervise ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsuː.pə.vaɪz"
+                            ],
+                            "us": [
+                                "ˈsuː.pɚ.vaɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to watch a person or activity to make certain that everything is done correctly, safely, etc.: ",
+                            "examples": [
+                                "The UN is supervising the distribution of aid by local agencies in the disaster area.",
+                                "The children play while two teachers supervise (= make certain that they behave correctly and are safe)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

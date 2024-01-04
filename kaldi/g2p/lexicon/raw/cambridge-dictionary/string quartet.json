@@ -1,0 +1,39 @@
+{
+    "word": "string quartet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌstrɪŋ kwɔːˈtet"
+                            ],
+                            "us": [
+                                "ˌstrɪŋ kwɔːrˈtet"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of four instruments with strings that play together: ",
+                            "examples": [
+                                "A string quartet consists of two violins, a viola, and a cello."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of music written for such a group: ",
+                            "examples": [
+                                "Haydn's works include 84 string quartets."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

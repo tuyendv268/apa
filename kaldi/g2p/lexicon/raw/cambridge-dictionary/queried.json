@@ -1,0 +1,57 @@
+{
+    "word": "queried",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nquery ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkwɪə.ri"
+                            ],
+                            "us": [
+                                "ˈkwɪr.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to ask questions, especially in order to check if something is true or correct: ",
+                            "examples": [
+                                "A few students have queried their marks.",
+                                "She queried whether three months was long enough.",
+                                "\"Any chance of a cup of tea?\" he queried hopefully."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

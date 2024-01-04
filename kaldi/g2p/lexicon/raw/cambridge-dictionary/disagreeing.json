@@ -1,0 +1,61 @@
+{
+    "word": "disagreeing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndisagree ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌdɪs.əˈɡriː"
+                            ],
+                            "us": [
+                                "ˌdɪs.əˈɡriː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to not have the same opinion, idea, etc.: ",
+                            "examples": [
+                                "I'm afraid I have to disagree with you (on that issue).",
+                                "Few people would disagree that something should be done to reduce crime in the area.",
+                                "I profoundly/strongly disagree with (= do not accept) the decision that has been made."
+                            ]
+                        },
+                        {
+                            "explanation": "If two or more statements, ideas, sets of numbers, etc. disagree, they are not the same.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

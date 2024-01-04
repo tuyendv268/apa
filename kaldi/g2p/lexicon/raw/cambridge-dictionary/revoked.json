@@ -1,0 +1,55 @@
+{
+    "word": "revoked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nrevoke ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈvəʊk"
+                            ],
+                            "us": [
+                                "rɪˈvoʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say officially that an agreement, permission, a law, etc. is no longer in effect: ",
+                            "examples": [
+                                "The authorities have revoked their original decision to allow development of this rural area."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "compression",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpreʃ.ən"
+                            ],
+                            "us": [
+                                "kəmˈpreʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of pressing something into a smaller space or putting pressure on it from different sides until it gets smaller: ",
+                            "examples": [
+                                "Tectonic forces caused compression in the earth’s crust.",
+                                "Compression fractures of the spine are common in older people. ",
+                                "nerve compression"
+                            ]
+                        },
+                        {
+                            "explanation": "the act of making something smaller or shorter so that it will fit into a particular space or time",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the act of making a computer file use less space when it is stored, using special software: ",
+                            "examples": [
+                                "Advances in compression technology mean that you can now send even quite large files by email. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

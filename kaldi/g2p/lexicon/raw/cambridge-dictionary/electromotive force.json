@@ -1,0 +1,34 @@
+{
+    "word": "electromotive force",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "i.lek.trəˌməʊ.tɪv ˈfɔːs"
+                            ],
+                            "us": [
+                                "i.lek.trəˌmoʊ.t̬ɪv ˈfɔːrs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the force of an electric current produced by any device that supplies electrical energy: ",
+                            "examples": [
+                                "The volt is the SI derived unit of electromotive force, commonly called \"voltage\".",
+                                "He invented an improved thermopile for measuring small electromotive forces. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

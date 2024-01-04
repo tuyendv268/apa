@@ -1,0 +1,61 @@
+{
+    "word": "lowercase",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌləʊ.əˈkeɪs"
+                            ],
+                            "us": [
+                                "ˌloʊ.ɚˈkeɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If letters are in lowercase, they are written as a, b, c, etc. not A, B, C, etc.: ",
+                            "examples": [
+                                "Everything must be in lowercase — no capitals!",
+                                "I had to change the tags used in the news and sidebar pages from uppercase to lowercase.",
+                                "In this context, consider upper- and lower-case to be the same."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌləʊ.əˈkeɪs"
+                            ],
+                            "us": [
+                                "ˌloʊ.ɚˈkeɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of letters) written as a, b, c, etc. not A, B, C, etc.: ",
+                            "examples": [
+                                "She has a chart of the alphabet with capitalized and lowercase letters.",
+                                "A single binary digit is called a bit (abbreviated with a lowercase b).",
+                                "The Hostname must be all lower-case letters."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

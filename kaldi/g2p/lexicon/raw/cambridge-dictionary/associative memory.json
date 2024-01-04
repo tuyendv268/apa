@@ -1,0 +1,39 @@
+{
+    "word": "associative memory",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the ability to remember infomation, experiences, and people by making connections in your mind between different things: ",
+                            "examples": [
+                                "Good associative memory can be helpful for vocabulary learning, but it does not tell us whether words are used accurately.",
+                                "They were trying to identify the region of the brain used in the formation of associative memory.",
+                                "Studies suggest that adults retrieve irregular past tense forms from associative memory.",
+                                "She uses associative memory to help remember people's names by linking their name to something distinctive about their appearance."
+                            ]
+                        },
+                        {
+                            "explanation": "a kind of computer memory that allows you to find information by searching for words that it contains rather than by searching for an address (= a series of letters and numbers): ",
+                            "examples": [
+                                "It is possible to construct an associative memory using very simple components.",
+                                "Associative memory is designed for very fast searching."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "street homeless",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈstriːt ˌhəʊm.ləs"
+                            ],
+                            "us": [
+                                "ˈstriːt ˌhoʊm.ləs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "living on the streets, with nowhere to sleep at night : ",
+                            "examples": [
+                                "The area's street homeless population has declined.",
+                                "The most vulnerable street homeless people often become cut off from the help they need."
+                            ]
+                        },
+                        {
+                            "explanation": "people who live on the streets, with nowhere to sleep at night: ",
+                            "examples": [
+                                "The survey found that about 70 percent of the street homeless are mentally ill or substance abusers or both.",
+                                "He ran for office promising a humane but firm approach to the street homeless."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

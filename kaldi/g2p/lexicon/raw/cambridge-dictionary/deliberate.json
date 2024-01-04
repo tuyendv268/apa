@@ -1,0 +1,66 @@
+{
+    "word": "deliberate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈlɪb.ər.ət"
+                            ],
+                            "us": [
+                                "dɪˈlɪb.ɚ.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(often of something bad) intentional or planned: ",
+                            "examples": [
+                                "a deliberate attack/insult/lie",
+                                "We made a deliberate decision to live apart for a while."
+                            ]
+                        },
+                        {
+                            "explanation": "A deliberate movement, action, or thought is done carefully without hurrying: ",
+                            "examples": [
+                                "From her slow, deliberate speech I guessed she must be drunk."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈlɪb.ə.reɪt"
+                            ],
+                            "us": [
+                                "dɪˈlɪb.ə.reɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to think or talk seriously and carefully about something: ",
+                            "examples": [
+                                "The jury took five days to deliberate on the case.",
+                                "The committee has deliberated the question at great length.",
+                                "He's deliberating whether or not to accept the new job that he's been offered."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

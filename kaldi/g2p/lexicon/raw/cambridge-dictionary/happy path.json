@@ -1,0 +1,34 @@
+{
+    "word": "happy path",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæp.i ˌpɑːθ"
+                            ],
+                            "us": [
+                                "ˈhæp.i ˌpæθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which everything happens as it is supposed to, with no faults: ",
+                            "examples": [
+                                "The happy path is meant to describe the ideal process, without any exceptions or alternate paths. ",
+                                "The happy path for getting into the system would be that the user already has an account, knows their credentials, enters them correctly, the system authenticates the user, and they can access the system."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

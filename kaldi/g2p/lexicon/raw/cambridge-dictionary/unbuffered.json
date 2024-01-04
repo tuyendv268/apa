@@ -1,0 +1,39 @@
+{
+    "word": "unbuffered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌnˈbʌf.əd"
+                            ],
+                            "us": [
+                                "ˌʌnˈbʌf.ɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Unbuffered information, or an unbuffered part of a computer system, does not use a buffer (= a temporary memory store for information while it is being dealt with or sent): ",
+                            "examples": [
+                                "Channels are message queues which can be buffered or unbuffered."
+                            ]
+                        },
+                        {
+                            "explanation": "An unbuffered substance is not mixed with another substance to make it neutral (= neither an acid nor an alkali): ",
+                            "examples": [
+                                "An unbuffered pocket of highly acidic juice is observed in the stomach after a meal in healthy subjects. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

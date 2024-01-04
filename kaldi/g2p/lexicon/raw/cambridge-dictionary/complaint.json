@@ -1,0 +1,42 @@
+{
+    "word": "complaint",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpleɪnt"
+                            ],
+                            "us": [
+                                "kəmˈpleɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a statement that something is wrong or not satisfactory: ",
+                            "examples": [
+                                "We've received a complaint from one of our listeners about offensive language.",
+                                "I've made a complaint (= formally complained) to the police about the noise.",
+                                "We've had complaints that you've been playing your radio too loud.",
+                                "Do you have any grounds for complaint (= reason to formally complain)?"
+                            ]
+                        },
+                        {
+                            "explanation": "an illness: ",
+                            "examples": [
+                                "a heart/stomach complaint"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

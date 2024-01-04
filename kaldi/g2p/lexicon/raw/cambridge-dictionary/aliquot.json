@@ -1,0 +1,37 @@
+{
+    "word": "aliquot",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæl.ɪ.kwɒt"
+                            ],
+                            "us": [
+                                "ˈæl.ɪ.kwɑːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an amount taken from a larger quantity, so that it can be tested, etc.: ",
+                            "examples": [
+                                "After centrifugation, aliquots of serum were frozen at -70°C until analysis."
+                            ]
+                        },
+                        {
+                            "explanation": "a quantity that can be divided into another quantity an exact number of times",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

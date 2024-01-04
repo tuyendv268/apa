@@ -1,0 +1,72 @@
+{
+    "word": "desktop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdesk.tɒp"
+                            ],
+                            "us": [
+                                "ˈdesk.tɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a view on a computer screen that contains icons (= small symbols or pictures) representing files, programs, and other features of the computer: ",
+                            "examples": [
+                                "The menu bar with its windows is one of the features of the desktop."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of computer that is able to fit on the top of a desk",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the top of a desk",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈdesk.tɒp"
+                            ],
+                            "us": [
+                                "ˈdesk.tɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to fit on the top of a desk: ",
+                            "examples": [
+                                "a desktop device/printer/system"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to a view on a computer screen that contains icons (= small symbols or pictures) representing files, programs, and other features of the computer: ",
+                            "examples": [
+                                "desktop icons",
+                                "desktop wallpaper"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

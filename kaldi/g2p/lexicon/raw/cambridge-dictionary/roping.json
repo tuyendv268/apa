@@ -1,0 +1,56 @@
+{
+    "word": "roping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nrope ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rəʊp"
+                            ],
+                            "us": [
+                                "roʊp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to tie things together with rope: ",
+                            "examples": [
+                                "I'll rope my horse to your car and pull you out of the ditch.",
+                                "The climbers roped themselves together."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "mutation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mjuːˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "mjuːˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the way in which genes change and produce permanent differences: ",
+                            "examples": [
+                                "It is well known that radiation can cause mutation."
+                            ]
+                        },
+                        {
+                            "explanation": "a permanent change in an organism, or the changed organism itself: ",
+                            "examples": [
+                                "Environmental pressures encourage genes with certain mutations to persist and others to die out.",
+                                "These plants carry the mutation for red flowers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

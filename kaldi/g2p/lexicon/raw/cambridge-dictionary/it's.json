@@ -1,0 +1,39 @@
+{
+    "word": "it's",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "ɪts"
+                            ],
+                            "us": [
+                                "ɪts"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short form of it is: ",
+                            "examples": [
+                                "It's my turn to do it."
+                            ]
+                        },
+                        {
+                            "explanation": "short form of it has: ",
+                            "examples": [
+                                "It's been a wonderful day - thank you."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

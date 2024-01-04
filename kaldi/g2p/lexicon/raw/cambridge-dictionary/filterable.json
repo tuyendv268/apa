@@ -1,0 +1,41 @@
+{
+    "word": "filterable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɪl.tər.ə.bəl"
+                            ],
+                            "us": [
+                                "ˈfɪl.tɚ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Solids that are filterable can be removed from liquids or gases using special equipment: ",
+                            "examples": [
+                                "Of interest in this experiment are the filterable solids.",
+                                "The virus is present as a filterable agent transmitted through mothers' milk."
+                            ]
+                        },
+                        {
+                            "explanation": "Information that is filterable can be selected or removed from something such as a computer file: ",
+                            "examples": [
+                                "The database is filterable by keyword.",
+                                "Click on the drop-down menu to view the filterable values."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

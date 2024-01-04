@@ -1,0 +1,34 @@
+{
+    "word": "commutativity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəˌmjuː.təˈtɪv.ə.ti"
+                            ],
+                            "us": [
+                                "kəˌmjuː.t̬əˈtɪv.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of always giving the same result whatever order the values are in: ",
+                            "examples": [
+                                "The key properties that an algorithm must satisfy are those of commutativity and associativity.",
+                                "We have shown the reciprocal commutativity of these logical rules."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

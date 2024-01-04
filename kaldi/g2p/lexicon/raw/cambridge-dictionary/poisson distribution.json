@@ -1,0 +1,34 @@
+{
+    "word": "poisson distribution",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpwæs.ɒn dɪs.trɪˌbjuː.ʃən"
+                            ],
+                            "us": [
+                                "pwəˈsoʊn dɪs.trɪˌbjuː.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a way of showing the number of times that something is likely to happen when you try to do it many times and there is only a small chance of succeeding each time: ",
+                            "examples": [
+                                "Poisson distributions reflect the probability of a rare event happening.",
+                                "We used a Poisson distribution to calculate the risk."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

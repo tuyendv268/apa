@@ -1,0 +1,63 @@
+{
+    "word": "dutch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dʌtʃ"
+                            ],
+                            "us": [
+                                "dʌtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or relating to the Netherlands, its people, or its language",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dʌtʃ"
+                            ],
+                            "us": [
+                                "dʌtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the main language spoken in the Netherlands, also spoken in Belgium: ",
+                            "examples": [
+                                "He and his son speak Dutch at home.",
+                                "The film is in Dutch with English subtitles."
+                            ]
+                        },
+                        {
+                            "explanation": "the people of the Netherlands: ",
+                            "examples": [
+                                "I think the Dutch are practical, businesslike people.",
+                                "William of Orange is known to the Dutch as Willem van Oranje."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

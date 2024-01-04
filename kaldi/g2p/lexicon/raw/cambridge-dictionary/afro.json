@@ -1,0 +1,88 @@
+{
+    "word": "afro",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæf.rəʊ"
+                            ],
+                            "us": [
+                                "ˈæf.roʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a style for curly hair, particularly Black people's hair, in which it is allowed to grow naturally into a thick, rounded shape: ",
+                            "examples": [
+                                "In his youth he had an Afro.",
+                                "I think he looks good with an afro."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈæf.rəʊ"
+                            ],
+                            "us": [
+                                "ˈæf.roʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Afro hair is the naturally curly hair that is typical of many Black people: ",
+                            "examples": [
+                                "She was proud of her Afro hair.",
+                                "a hairdressing salon devoted to afro styles"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "æf.rəʊ-"
+                            ],
+                            "us": [
+                                "æf.roʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of or connected with Africa: ",
+                            "examples": [
+                                "Afro-Caribbean culture",
+                                "Afro-American literature"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

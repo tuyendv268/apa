@@ -1,0 +1,33 @@
+{
+    "word": "binary number",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌbaɪ.nər.i ˈnʌm.bər"
+                            ],
+                            "us": [
+                                "ˌbaɪ.ner.i ˈnʌm.bɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number that is expressed using 1 and 0: ",
+                            "examples": [
+                                "Computers operate using binary numbers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

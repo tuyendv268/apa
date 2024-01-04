@@ -1,0 +1,31 @@
+{
+    "word": "shakespeare",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃeɪk.spɪər"
+                            ],
+                            "us": [
+                                "ˈʃeɪk.spɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "William Shakespeare, an English playwright who wrote many famous plays in the late 16th and early 17th centuries ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

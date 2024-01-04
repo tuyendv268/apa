@@ -1,0 +1,53 @@
+{
+    "word": "distance",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɪs.təns"
+                            ],
+                            "us": [
+                                "ˈdɪs.təns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the amount of space between two places: ",
+                            "examples": [
+                                "What's the distance between Madrid and Barcelona/from Madrid to Barcelona?",
+                                "He travels quite a distance (= a long way) to work every day.",
+                                "Does she live within walking distance of her parents?"
+                            ]
+                        },
+                        {
+                            "explanation": "from a place that is not near: ",
+                            "examples": [
+                                "From a distance he looks a bit like Johnny Depp."
+                            ]
+                        },
+                        {
+                            "explanation": "at a point that is far away: ",
+                            "examples": [
+                                "On a clear day you can see the temple in the distance."
+                            ]
+                        },
+                        {
+                            "explanation": "behaviour that shows little interest or friendliness: ",
+                            "examples": [
+                                "I noticed a certain distance between father and son."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

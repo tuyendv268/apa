@@ -1,0 +1,48 @@
+{
+    "word": "combination",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒm.bɪˈneɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌkɑːm.bəˈneɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the mixture you get when two or more things are combined: ",
+                            "examples": [
+                                "Strawberries and cream - a perfect combination.",
+                                "A combination of tiredness and boredom caused me to fall asleep.",
+                                "This drug can be safely used in combination with other medicines.",
+                                "Her experience and energy are a winning combination (= a successful mixture) in business."
+                            ]
+                        },
+                        {
+                            "explanation": "an arrangement in a particular order: ",
+                            "examples": [
+                                "From the letters X Y Z, we can get three combinations of two letters: XY, XZ, and YZ."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of letters or numbers in a particular order that can be used to open some types of locks: ",
+                            "examples": [
+                                "He forgot the combination for his bike lock."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

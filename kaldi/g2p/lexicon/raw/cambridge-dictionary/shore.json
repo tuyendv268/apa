@@ -1,0 +1,46 @@
+{
+    "word": "shore",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʃɔːr"
+                            ],
+                            "us": [
+                                "ʃɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the land along the edge of a sea, lake, or wide river: ",
+                            "examples": [
+                                "You can walk for miles along the shore.",
+                                "The boat was about a mile from/off (the) shore when the engine suddenly died."
+                            ]
+                        },
+                        {
+                            "explanation": "on the land and not in a ship: ",
+                            "examples": [
+                                "We waited until we were on shore before repairing the sails."
+                            ]
+                        },
+                        {
+                            "explanation": "a country or continent with a coast: ",
+                            "examples": [
+                                "In 1992, Britain played host to the first multi-racial South African team to visit these shores."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

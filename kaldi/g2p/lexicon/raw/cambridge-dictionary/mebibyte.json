@@ -1,0 +1,34 @@
+{
+    "word": "mebibyte",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmeb.ɪ.baɪt"
+                            ],
+                            "us": [
+                                "ˈmeb.ɪ.baɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of measurement of computer information consisting of 1,048,576 bytes: ",
+                            "examples": [
+                                "The floppy disk could hold 150 mebibytes of data.",
+                                "The mebibyte is a multiple of the unit byte for digital information. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

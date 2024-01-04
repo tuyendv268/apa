@@ -1,0 +1,33 @@
+{
+    "word": "gigabit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡɪɡ.ə.bɪt"
+                            ],
+                            "us": [
+                                "ˈɡɪɡ.ə.bɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of computer information, consisting of 1,000,000,000 bits, or 125 megabytes: ",
+                            "examples": [
+                                "The new cable will carry up to 120 gigabits of data traffic."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

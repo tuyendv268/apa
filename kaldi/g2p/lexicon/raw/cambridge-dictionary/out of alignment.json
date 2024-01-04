@@ -1,0 +1,39 @@
+{
+    "word": "out of alignment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "collocation",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an arrangement in which two or more things are not positioned correctly in a straight line or parallel to each other: ",
+                            "examples": [
+                                "The problem is happening because the wheels are out of alignment.",
+                                "As you get older, one or more vertebrae may get out of alignment. ",
+                                "The doctor had to reset his elbow: it had healed out of alignment after the accident."
+                            ]
+                        },
+                        {
+                            "explanation": "If two things or people are out of alignment, they are different from each other, or they disagree with each other: ",
+                            "examples": [
+                                "Many families live in communities where home prices are way out of alignment with incomes.",
+                                "He realized that his approach was out of alignment with what voters wanted.",
+                                "The CEO's offhand comment is out of alignment with the values and policies of our company. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

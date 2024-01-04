@@ -1,0 +1,33 @@
+{
+    "word": "clade",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kleɪd"
+                            ],
+                            "us": [
+                                "kleɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of animals or plants consisting of a shared ancestor and everything that comes from it: ",
+                            "examples": [
+                                "Some animals appear to have nothing in common, though they are on the same clade."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

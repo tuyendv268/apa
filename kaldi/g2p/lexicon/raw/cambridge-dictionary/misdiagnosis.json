@@ -1,0 +1,38 @@
+{
+    "word": "misdiagnosis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.daɪ.əɡˈnəʊ.sɪs"
+                            ],
+                            "us": [
+                                "ˌmɪs.daɪ.əɡˈnoʊ.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "ˌmɪs.daɪ.əɡˈnəʊ.siːs"
+                            ],
+                            "us_other_tense": [
+                                "ˌmɪs.daɪ.əɡˈnoʊ.siːs"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a decision that a person has a particular illness or condition, when in fact they have a different one: ",
+                            "examples": [
+                                "His wife claims the hospital made a misdiagnosis.",
+                                "Doctors must take steps to confirm test results and avoid misdiagnosis."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

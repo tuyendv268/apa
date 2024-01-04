@@ -1,0 +1,39 @@
+{
+    "word": "plea",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pliː"
+                            ],
+                            "us": [
+                                "pliː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an urgent and emotional request: ",
+                            "examples": [
+                                "He made a plea for help/mercy."
+                            ]
+                        },
+                        {
+                            "explanation": "the answer that a person gives in court when they have been accused of committing a crime: ",
+                            "examples": [
+                                "Mr Wilson entered a plea of not guilty."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "interlinear",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈlɪn.i.ər"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˈlɪn.i.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written or put between the lines of a text: ",
+                            "examples": [
+                                "The manuscript contains a number of interlinear comments.",
+                                "The poems are printed in a large font with generous interlinear spaces."
+                            ]
+                        },
+                        {
+                            "explanation": "An interlinear book contains a version of the text in another language written between the lines of the main text: ",
+                            "examples": [
+                                "He is the editor of an interlinear Greek-English New Testament.",
+                                "They published an interlinear edition of Shakespeare's \"Much Ado About Nothing\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

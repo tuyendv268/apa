@@ -1,0 +1,78 @@
+{
+    "word": "sailed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsail ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "seɪl"
+                            ],
+                            "us": [
+                                "seɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When a boat or a ship sails, it travels on the water: ",
+                            "examples": [
+                                "The boat sailed along/down the coast.",
+                                "As the battleship sailed by/past, everyone on deck waved.",
+                                "The ship was sailing to China."
+                            ]
+                        },
+                        {
+                            "explanation": "to control a boat that has no engine and is pushed by the wind: ",
+                            "examples": [
+                                "He sailed the dinghy up the river.",
+                                "She sailed around the world single-handed in her yacht."
+                            ]
+                        },
+                        {
+                            "explanation": "When a ship sails, it starts travelling, and when people sail from a particular place or at a particular time, they start travelling in a ship: ",
+                            "examples": [
+                                "Their ship sails for Bombay next Friday."
+                            ]
+                        },
+                        {
+                            "explanation": "to move quickly, easily, and (of a person) confidently: ",
+                            "examples": [
+                                "The ball went sailing over the fence.",
+                                "He wasn't looking where he was going, and just sailed straight into her.",
+                                "Manchester United sailed on (= continued easily) to victory in the final."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

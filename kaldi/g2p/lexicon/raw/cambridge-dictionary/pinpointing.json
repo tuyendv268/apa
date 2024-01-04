@@ -1,0 +1,61 @@
+{
+    "word": "pinpointing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npinpoint ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɪn.pɔɪnt"
+                            ],
+                            "us": [
+                                "ˈpɪn.pɔɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to find out or say the exact position in space or time of something: ",
+                            "examples": [
+                                "It is not possible to pinpoint precisely the time of death."
+                            ]
+                        },
+                        {
+                            "explanation": "to discover or describe the exact facts about something: ",
+                            "examples": [
+                                "Emergency workers at the site are still unable to pinpoint the cause of the explosion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

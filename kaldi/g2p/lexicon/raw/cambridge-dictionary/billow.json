@@ -1,0 +1,67 @@
+{
+    "word": "billow",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɪl.əʊ"
+                            ],
+                            "us": [
+                                "ˈbɪl.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to spread over a large area, or (especially of things made of cloth) to become filled with air and appear to be larger: ",
+                            "examples": [
+                                "Smoke billowed (out) from the burning building.",
+                                "The sheets/shirts hanging on the line billowed in the breeze.",
+                                "We watched the boats with their billowing sails."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɪl.əʊ"
+                            ],
+                            "us": [
+                                "ˈbɪl.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large, moving mass of something, such as smoke or cloud, that spreads over a large area: ",
+                            "examples": [
+                                "billows of smoke",
+                                "Sophie stepped into the shower through a billow of steam."
+                            ]
+                        },
+                        {
+                            "explanation": "a large wave: ",
+                            "examples": [
+                                "They were swept by the billows of that savage sea.",
+                                "The wind rushes over the rolling billows, and no ferryboat can cross in such weather."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

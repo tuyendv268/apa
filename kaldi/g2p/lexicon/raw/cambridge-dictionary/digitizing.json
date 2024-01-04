@@ -1,0 +1,53 @@
+{
+    "word": "digitizing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndigitize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɪdʒ.ɪ.taɪz"
+                            ],
+                            "us": [
+                                "ˈdɪdʒ.ə.taɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put information into the form of a series of the numbers 0 and 1, usually so that it can be understood and used by a computer",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

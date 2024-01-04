@@ -1,0 +1,61 @@
+{
+    "word": "artisan",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑː.tɪ.zæn"
+                            ],
+                            "us": [
+                                "ˈɑːr.t̬ə.zən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who does skilled work with their hands",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑː.tɪ.zæn"
+                            ],
+                            "us": [
+                                "ˈɑːr.t̬ə.zən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "made in a traditional way by someone who is skilled with their hands: ",
+                            "examples": [
+                                "artisan bread/cheese"
+                            ]
+                        },
+                        {
+                            "explanation": "making things in a traditional way with your hands: ",
+                            "examples": [
+                                "an artisan baker "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

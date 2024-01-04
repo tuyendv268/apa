@@ -1,0 +1,46 @@
+{
+    "word": "equilibrium",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌek.wɪˈlɪb.ri.əm",
+                                "ˌiː.kwɪˈlɪb.ri.əm"
+                            ],
+                            "us": [
+                                "ˌiː.kwəˈlɪb.ri.əm",
+                                "ˌek.wəˈlɪb.ri.əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a state of balance: ",
+                            "examples": [
+                                "The disease destroys much of the inner ear, disturbing the animal's equilibrium.",
+                                "the country's economic equilibrium"
+                            ]
+                        },
+                        {
+                            "explanation": "a calm mental state: ",
+                            "examples": [
+                                "Yoga is said to restore one's inner equilibrium."
+                            ]
+                        },
+                        {
+                            "explanation": "the state in which the reactants (= substances involved in a chemical reaction) and products (= substances produced in a chemical reaction) do not change because the rate of forward reaction (= when products are produced from reactants) is equal to the rate of reverse reaction (= when the original reactants return from the products)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

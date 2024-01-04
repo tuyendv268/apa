@@ -1,0 +1,39 @@
+{
+    "word": "post-mortem",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpəʊstˈmɔː.təm"
+                            ],
+                            "us": [
+                                "ˌpoʊstˈmɔːr.t̬əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a medical examination of a dead person's body in order to find out the cause of death: ",
+                            "examples": [
+                                "to conduct a post-mortem examination"
+                            ]
+                        },
+                        {
+                            "explanation": "a discussion of an event after it has happened, especially of what was wrong with it or why it failed: ",
+                            "examples": [
+                                "After we lose a game, there's usually a post-mortem over a few beers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

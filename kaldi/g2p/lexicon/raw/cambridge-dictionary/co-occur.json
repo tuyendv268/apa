@@ -1,0 +1,34 @@
+{
+    "word": "co-occur",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌkəʊ.əˈkɜːr"
+                            ],
+                            "us": [
+                                "ˌkoʊ.əˈkɝː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of two or more events or situations) to happen or exist at the same time and often in the same place: ",
+                            "examples": [
+                                "Various risk factors often co-occur.",
+                                "They found that gestures tended to co-occur with speech. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

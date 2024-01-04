@@ -1,0 +1,39 @@
+{
+    "word": "phonic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɒn.ɪk"
+                            ],
+                            "us": [
+                                "ˈfɑː.nɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "using phonics as a method of teaching people to read: ",
+                            "examples": [
+                                "The phonic method emphasizes the sounds of letters."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the sounds made in speech, or to the study of these sounds: ",
+                            "examples": [
+                                "phonic elements and patterns"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

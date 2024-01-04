@@ -1,0 +1,41 @@
+{
+    "word": "apartment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈpɑːt.mənt"
+                            ],
+                            "us": [
+                                "əˈpɑːrt.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a set of rooms for living in, especially on one floor of a building: ",
+                            "examples": [
+                                "I'll give you the keys to my apartment.",
+                                "They have six luxury apartments for sale.",
+                                "a holiday apartment"
+                            ]
+                        },
+                        {
+                            "explanation": "a set of large rooms with expensive furniture and decoration in, for example, a public building or castle: ",
+                            "examples": [
+                                "The Royal Apartments are open to the public."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

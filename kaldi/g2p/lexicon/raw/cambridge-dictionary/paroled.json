@@ -1,0 +1,56 @@
+{
+    "word": "paroled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nparole ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pəˈrəʊl"
+                            ],
+                            "us": [
+                                "pəˈroʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give someone parole: ",
+                            "examples": [
+                                "He was paroled from prison last year after serving about four years.",
+                                "I am not happy with the possibility he could be paroled in 20 years."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

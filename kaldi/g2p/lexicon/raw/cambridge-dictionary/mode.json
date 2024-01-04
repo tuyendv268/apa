@@ -1,0 +1,45 @@
+{
+    "word": "mode",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məʊd"
+                            ],
+                            "us": [
+                                "moʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a way of operating, living, or behaving: ",
+                            "examples": [
+                                "Each department in the company has its own mode of operation.",
+                                "Railways are an important mode of transport for the economy.",
+                                "Switch your phone to silent mode."
+                            ]
+                        },
+                        {
+                            "explanation": "the number or value that appears most often in a particular set",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(especially of clothes) to be fashionable at a particular time: ",
+                            "examples": [
+                                "Miniskirts were very much the mode in the 60s."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

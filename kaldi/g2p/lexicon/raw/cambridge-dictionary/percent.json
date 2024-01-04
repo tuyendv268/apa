@@ -1,0 +1,49 @@
+{
+    "word": "percent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "pəˈsent"
+                            ],
+                            "us": [
+                                "pɚˈsent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "for or out of every 100, shown by the symbol %: ",
+                            "examples": [
+                                "You got 20 percent of the answers right - that means one in every five.",
+                                "Only 40 per cent of people bothered to vote in the election."
+                            ]
+                        },
+                        {
+                            "explanation": "used for showing how sure you are about something, or how likely or true something is, or how much you agree with someone : ",
+                            "examples": [
+                                "I'm 99.9 percent sure I'm right.",
+                                "There's a 20% chance of rain today.",
+                                "Patients who develop symptoms have only a 10 per cent chance of surviving.",
+                                "I agree with you 101 percent."
+                            ]
+                        },
+                        {
+                            "explanation": "completely; used for emphasizing what you are saying: ",
+                            "examples": [
+                                "I agree with you one hundred percent."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

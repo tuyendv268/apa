@@ -1,0 +1,65 @@
+{
+    "word": "affix",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈfɪks"
+                            ],
+                            "us": [
+                                "əˈfɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fasten or stick one thing to another: ",
+                            "examples": [
+                                "Manufacturers were required to affix prominent warning labels on the product itself.",
+                                "She affixed a stamp to the envelope."
+                            ]
+                        },
+                        {
+                            "explanation": "to add a letter or a group of letters to the beginning or end of a word to make a new word: ",
+                            "examples": [
+                                "English has been forming compound words and affixing existing words for over 1500 years.",
+                                "Many English words are constructed from Latin or Greek-derived roots to which prefixes or suffixes are affixed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæf.ɪks"
+                            ],
+                            "us": [
+                                "ˈæf.ɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a letter or group of letters added to the beginning or end of a word to make a new word: ",
+                            "examples": [
+                                "The affixes un- and -less are often used to make negative words, such as \"unhappy\" and \"careless\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "unmute",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb ",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈmjuːt"
+                            ],
+                            "us": [
+                                "ʌnˈmjuːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a sound or device able to be heard again after it has been muted (= made unable to be heard): ",
+                            "examples": [
+                                "I couldn't see how to unmute the TV without using the remote."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a person able to be heard, for example when using video conferencing software: ",
+                            "examples": [
+                                "Participants will be able to unmute themselves if they need to contribute to the discussion."
+                            ]
+                        },
+                        {
+                            "explanation": "to allow someone's messages, pictures, etc. to appear on a social media website when you look at it, after a time when they have been stopped: ",
+                            "examples": [
+                                "Click the \"X\" next to the name of the person you want to unmute."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "word": "bailing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nbail ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "beɪl"
+                            ],
+                            "us": [
+                                "beɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove water from a boat using a container: ",
+                            "examples": [
+                                "The boat's sinking! Start bailing quickly!"
+                            ]
+                        },
+                        {
+                            "explanation": "If someone accused of a crime is bailed, they are released until their trial after paying bail to the court: ",
+                            "examples": [
+                                "She was yesterday bailed for three weeks on drink-driving offences.",
+                                "He was bailed to appear at the Magistrates' Court next month."
+                            ]
+                        },
+                        {
+                            "explanation": "to stop doing something or leave a place before something is finished: ",
+                            "examples": [
+                                "It was so boring I bailed early."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

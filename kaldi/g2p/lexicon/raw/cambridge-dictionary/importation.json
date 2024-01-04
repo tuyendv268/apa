@@ -1,0 +1,42 @@
+{
+    "word": "importation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪm.pɔːˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌɪm.pɔːrˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of introducing new goods, customs, or ideas into a country from another country; something that is introduced in this way: ",
+                            "examples": [
+                                "He opposed efforts to allow the importation of prescription drugs from other countries.",
+                                "The treaty restricts the importation of cultural artifacts.",
+                                "He is believed to have organized massive importations of drugs before his arrest."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of copying information from one computer or computer program to another: ",
+                            "examples": [
+                                "Convert the scanned document into text for importation into other software programs.",
+                                "We developed a compatible data table for importation into statistical and spreadsheet programs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

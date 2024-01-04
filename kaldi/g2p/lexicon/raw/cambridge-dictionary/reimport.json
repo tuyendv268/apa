@@ -1,0 +1,66 @@
+{
+    "word": "reimport",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriː.ɪmˈpɔːt"
+                            ],
+                            "us": [
+                                "ˌriː.ɪmˈpɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to buy or bring back products after they have been sent to another country: ",
+                            "examples": [
+                                "The shipment went to Germany and was than re-imported into Denmark.",
+                                "A surprising amount of America's exports are later re-imported."
+                            ]
+                        },
+                        {
+                            "explanation": "to copy information onto a computer for a second time: ",
+                            "examples": [
+                                "Why don't you delete that file and then reimport it from the original source?",
+                                "The data can be exported and then re-imported in another application."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈriː.ɪmˌpɔːt"
+                            ],
+                            "us": [
+                                "ˌriːˈɪm.pɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is brought back into a country after it has been sent to another country: ",
+                            "examples": [
+                                "We can reduce the cost of the drugs by allowing reimports from overseas.",
+                                "Germany and France were major destinations for re-imports."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

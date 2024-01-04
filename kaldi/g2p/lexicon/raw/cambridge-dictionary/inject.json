@@ -1,0 +1,40 @@
+{
+    "word": "inject",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈdʒekt"
+                            ],
+                            "us": [
+                                "ɪnˈdʒekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use a needle and syringe (= small tube) to put a liquid such as a drug into a person's body: ",
+                            "examples": [
+                                "Phil's a diabetic and has to inject himself with insulin every day."
+                            ]
+                        },
+                        {
+                            "explanation": "to introduce something new that is necessary or helpful to a situation or process: ",
+                            "examples": [
+                                "A large amount of money will have to be injected into the company if it is to survive.",
+                                "I tried to inject a little humour into the meeting."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

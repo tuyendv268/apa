@@ -1,0 +1,62 @@
+{
+    "word": "punctured",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npuncture ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpʌŋk.tʃər"
+                            ],
+                            "us": [
+                                "ˈpʌŋk.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a small hole in something, or to get a small hole in something: ",
+                            "examples": [
+                                "She had used a screwdriver to puncture two holes in the lid of a paint tin.",
+                                "The knife went through his ribs and punctured his lung."
+                            ]
+                        },
+                        {
+                            "explanation": "to suddenly make someone less confident or positive: ",
+                            "examples": [
+                                "My positive mood was rather punctured by the news."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

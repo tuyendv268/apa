@@ -1,0 +1,35 @@
+{
+    "word": "bookshelf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʊk.ʃelf"
+                            ],
+                            "us": [
+                                "ˈbʊk.ʃelf"
+                            ],
+                            "uk_other_tense": [
+                                "ˈbʊk.ʃelvs"
+                            ],
+                            "us_other_tense": [
+                                "ˈbʊk.ʃelvs"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a shelf in a bookcase",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

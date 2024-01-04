@@ -1,0 +1,61 @@
+{
+    "word": "maximizing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmaximize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæk.sɪ.maɪz"
+                            ],
+                            "us": [
+                                "ˈmæk.sə.maɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something as great in amount, size, or importance as possible: ",
+                            "examples": [
+                                "Some airlines have cancelled less popular routes in an effort to maximize profits."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something larger on a computer screen: ",
+                            "examples": [
+                                "Maximize the window by clicking in the corner. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

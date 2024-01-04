@@ -1,0 +1,40 @@
+{
+    "word": "flee",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fliː"
+                            ],
+                            "us": [
+                                "fliː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to escape by running away, especially because of danger or fear: ",
+                            "examples": [
+                                "She fled from the room in tears.",
+                                "In order to escape capture, he fled to the mountains."
+                            ]
+                        },
+                        {
+                            "explanation": "to quickly go to another country in order to escape from something or someone: ",
+                            "examples": [
+                                "It is likely that the suspects have fled the country by now."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

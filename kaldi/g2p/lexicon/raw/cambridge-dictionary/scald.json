@@ -1,0 +1,73 @@
+{
+    "word": "scald",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skɔːld"
+                            ],
+                            "us": [
+                                "skɑːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to burn the skin with boiling liquid or steam: ",
+                            "examples": [
+                                "I dropped a pan of boiling water and scalded my leg."
+                            ]
+                        },
+                        {
+                            "explanation": "to put something in boiling water or steam in order to make it completely clean: ",
+                            "examples": [
+                                "Scald the needles to sterilize them."
+                            ]
+                        },
+                        {
+                            "explanation": "to heat a liquid until it almost boils: ",
+                            "examples": [
+                                "Scald the milk and then add it to the egg and sugar mixture."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "skɔːld"
+                            ],
+                            "us": [
+                                "skɑːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an injury to the skin caused by boiling liquid or steam",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a plant disease that damages leaves or fruit so that they appear burnt, caused by too much sun, by bacteria, or by pollution: ",
+                            "examples": [
+                                "Common diseases include leaf scald, rust, and mildew."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

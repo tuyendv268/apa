@@ -1,0 +1,41 @@
+{
+    "word": "book value",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʊk ˌvæl.juː"
+                            ],
+                            "us": [
+                                "ˈbʊk ˌvæl.juː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the value a company gives to something it owns in its accounts, which could be more or less than its real value if sold: ",
+                            "examples": [
+                                "Growth means a fund's stocks tend to be more expensive relative to book value.",
+                                "Capital profits are the difference between the book values of partnership assets and their market value."
+                            ]
+                        },
+                        {
+                            "explanation": "the value of a company as shown in its accounts, which is the amount a company owes taken away from the amount it owns: ",
+                            "examples": [
+                                "Book value is assets minus debts.",
+                                "Getting into compliance has caused some companies to cut their book values by hundreds of millions of dollars."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "awesome",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.səm"
+                            ],
+                            "us": [
+                                "ˈɑː.səm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "causing feelings of great admiration, respect, or fear: ",
+                            "examples": [
+                                "An awesome challenge/task lies ahead of them.",
+                                "awesome scenery"
+                            ]
+                        },
+                        {
+                            "explanation": "extremely good: ",
+                            "examples": [
+                                "You look totally awesome in that dress."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

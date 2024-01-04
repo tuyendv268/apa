@@ -1,0 +1,80 @@
+{
+    "word": "arrest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈrest"
+                            ],
+                            "us": [
+                                "əˈrest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If the police arrest someone, they take them away to ask them about a crime that they might have committed: ",
+                            "examples": [
+                                "He was arrested when customs officers found drugs in his bag.",
+                                "The police arrested her for drinking and driving."
+                            ]
+                        },
+                        {
+                            "explanation": "to stop or interrupt the development of something: ",
+                            "examples": [
+                                "The treatment has so far done little to arrest the spread of the cancer."
+                            ]
+                        },
+                        {
+                            "explanation": "to attract or catch someone's attention: ",
+                            "examples": [
+                                "A photo of a small boy arrested my attention."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈrest"
+                            ],
+                            "us": [
+                                "əˈrest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of arresting someone: ",
+                            "examples": [
+                                "Two arrests were made, but the men were later released without charge."
+                            ]
+                        },
+                        {
+                            "explanation": "If someone is under arrest, they have been arrested by the police: ",
+                            "examples": [
+                                "She was stopped outside the shop and placed under arrest.",
+                                "By morning most of the plotters were under arrest.",
+                                "The police soon had the culprit under arrest.",
+                                "Jones is now under arrest for manslaughter.",
+                                "You are not under arrest, so you are free to leave if you want."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

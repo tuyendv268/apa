@@ -1,0 +1,43 @@
+{
+    "word": "translation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "trænzˈleɪ.ʃən",
+                                "trænsˈleɪ.ʃən"
+                            ],
+                            "us": [
+                                "trænsˈleɪ.ʃən",
+                                "trænzˈleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is translated, or the process of translating something, from one language to another: ",
+                            "examples": [
+                                "Students will do one Spanish translation a week.",
+                                "A literal translation of \"euthanasia\" would be \"good death\".",
+                                "The English version is boring - maybe it has lost something in translation (= is not as good as the original)."
+                            ]
+                        },
+                        {
+                            "explanation": "changed into someone's own language, not in the original language: ",
+                            "examples": [
+                                "She reads Proust in translation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

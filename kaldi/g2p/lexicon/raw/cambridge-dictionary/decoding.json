@@ -1,0 +1,61 @@
+{
+    "word": "decoding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndecode ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "diːˈkəʊd"
+                            ],
+                            "us": [
+                                "diːˈkoʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to discover the meaning of information given in a secret or complicated way: ",
+                            "examples": [
+                                "Decoding the paintings is not difficult once you know what the component parts symbolize."
+                            ]
+                        },
+                        {
+                            "explanation": "to understand the meaning of a word or phrase in a foreign language in the correct way: ",
+                            "examples": [
+                                "Grammatical information helps learners to decode sentences."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

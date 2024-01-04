@@ -1,0 +1,41 @@
+{
+    "word": "bathroom",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɑːθ.ruːm",
+                                "ˈbɑːθ.rʊm"
+                            ],
+                            "us": [
+                                "ˈbæθ.ruːm",
+                                "ˈbæθ.rʊm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a room with a bath and/or shower and often a toilet: ",
+                            "examples": [
+                                "The house has four bedrooms and two bathrooms."
+                            ]
+                        },
+                        {
+                            "explanation": "a room with a toilet in it: ",
+                            "examples": [
+                                "Where's the bathroom?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

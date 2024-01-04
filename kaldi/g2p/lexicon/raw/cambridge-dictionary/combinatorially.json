@@ -1,0 +1,34 @@
+{
+    "word": "combinatorially",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒm.bɪ.nəˈtɔː.ri.əl.i"
+                            ],
+                            "us": [
+                                "ˌkɑːm.bə.nəˈtɔːr.i.ə.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that relates to the arrangement of a number of elements from a set without putting them in any particular order: ",
+                            "examples": [
+                                "These variations, whose number may explode combinatorially, must be considered in network optimization applications. ",
+                                "A combinatorially significant intersection between edges is highlighted with a small grey box. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

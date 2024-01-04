@@ -1,0 +1,50 @@
+{
+    "word": "conservation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒn.səˈveɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌkɑːn.sɚˈveɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the protection of plants and animals, natural areas, and interesting and important structures and buildings, especially from the damaging effects of human activity: ",
+                            "examples": [
+                                "wildlife conservation",
+                                "a conservation area"
+                            ]
+                        },
+                        {
+                            "explanation": "carefully using valuable natural substances that exist in limited amounts in order to make certain that they will be available for as long a time as possible: ",
+                            "examples": [
+                                "the conservation of coal/gas/oil reserves",
+                                "Energy conservation reduces your fuel bills and helps the environment."
+                            ]
+                        },
+                        {
+                            "explanation": "the principle that in a physical system the total quantity of a physical property, such as energy or mass, does not change: ",
+                            "examples": [
+                                "The law of conservation of energy states that energy cannot be created or destroyed.",
+                                "This section covers the partial differential equations that describe the conservation of mass.",
+                                "conservation of matter/charge/momentum",
+                                "Conservation laws are fundamental to our understanding of the physical world."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

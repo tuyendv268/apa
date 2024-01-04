@@ -1,0 +1,33 @@
+{
+    "word": "stress mark",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstres ˌmɑːk"
+                            ],
+                            "us": [
+                                "ˈstres ˌmɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short vertical line that, when the pronunciation of a word is being shown, is printed before the syllable that receives the most stress or the second most stress in the word: ",
+                            "examples": [
+                                "Stress marks above the line indicate primary stress, while those below the line show secondary stress."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

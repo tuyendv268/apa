@@ -1,0 +1,61 @@
+{
+    "word": "troughed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntrough ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trɒf"
+                            ],
+                            "us": [
+                                "trɑːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to eat something quickly and eagerly, especially in large amounts: ",
+                            "examples": [
+                                "She was sitting there troughing chocolate."
+                            ]
+                        },
+                        {
+                            "explanation": "to reach a low level, price, etc. before going up again: ",
+                            "examples": [
+                                "The economy troughed six months ago and is now growing again."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

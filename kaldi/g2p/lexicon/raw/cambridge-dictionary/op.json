@@ -1,0 +1,92 @@
+{
+    "word": "op",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɒp"
+                            ],
+                            "us": [
+                                "ɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a medical operation: ",
+                            "examples": [
+                                "How long did you take to recover from your op?"
+                            ]
+                        },
+                        {
+                            "explanation": "an opportunity: ",
+                            "examples": [
+                                "a photo op (= a chance for a politician, etc. to be photographed looking good or doing good things)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written abbreviation for\nopus : ",
+                            "examples": [
+                                "Dvorak's Piano Concerto in G Minor, Op. 33"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌəʊˈpiː"
+                            ],
+                            "us": [
+                                "ˌoʊˈpiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for original poster: used on the internet to refer to the person who first started a conversation about something : ",
+                            "examples": [
+                                "I just can't relate to the OP's comment. ",
+                                "I would agree that he is harassing the OP."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

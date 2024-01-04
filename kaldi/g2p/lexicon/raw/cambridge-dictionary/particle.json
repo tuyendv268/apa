@@ -1,0 +1,53 @@
+{
+    "word": "particle",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɑː.tɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈpɑːr.t̬ə.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word or a part of a word that has a grammatical purpose but often has little or no meaning: ",
+                            "examples": [
+                                "In the sentence \"I tidied up the room\", the adverb \"up\" is a particle."
+                            ]
+                        },
+                        {
+                            "explanation": "an extremely small piece of something such as dust, dirt, or sand: ",
+                            "examples": [
+                                "Dust particles must have got into the motor.",
+                                "If feels as though particles of sand are scratching the surface of your eyes.",
+                                "smoke particles"
+                            ]
+                        },
+                        {
+                            "explanation": "an extremely small piece of matter, that together with others makes up an atom : ",
+                            "examples": [
+                                "Electrons are atomic particles."
+                            ]
+                        },
+                        {
+                            "explanation": "a very small amount of something: ",
+                            "examples": [
+                                "She wouldn't give me even the slightest particle of information about what she'd been doing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

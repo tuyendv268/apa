@@ -1,0 +1,42 @@
+{
+    "word": "classify",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈklæs.ɪ.faɪ"
+                            ],
+                            "us": [
+                                "ˈklæs.ə.faɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to divide things or people into groups according to their type, or to say which group or type something or someone belongs to: ",
+                            "examples": [
+                                "The books in the library are classified by/according to subject.",
+                                "Biologists classify animals and plants into different groups.",
+                                "children who are classified as overweight"
+                            ]
+                        },
+                        {
+                            "explanation": "to officially state that information is secret: ",
+                            "examples": [
+                                "The Ministry of Defence moved quickly to classify the documents.",
+                                "He has the authority to classify information as Top Secret."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

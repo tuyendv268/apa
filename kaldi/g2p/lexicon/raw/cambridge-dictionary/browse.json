@@ -1,0 +1,71 @@
+{
+    "word": "browse",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "braʊz"
+                            ],
+                            "us": [
+                                "braʊz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to look through a book or magazine without reading everything, or to walk around a shop looking at several things without intending to buy any of them: ",
+                            "examples": [
+                                "I was browsing through fashion magazines to find a new hairstyle.",
+                                "\"Are you looking for anything in particular, sir?\" \"No, I'm just browsing.\""
+                            ]
+                        },
+                        {
+                            "explanation": "to look at information on the internet: ",
+                            "examples": [
+                                "to browse the Web"
+                            ]
+                        },
+                        {
+                            "explanation": "(of animals) to feed on grass, leaves, etc. in a relaxed way: ",
+                            "examples": [
+                                "Deer were browsing (on grass) under the trees."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "braʊz"
+                            ],
+                            "us": [
+                                "braʊz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an act of browsing or period of time spent browsing: ",
+                            "examples": [
+                                "We went for a browse around an antique shop.",
+                                "I had a browse through the books on his desk."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

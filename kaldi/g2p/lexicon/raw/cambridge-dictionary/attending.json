@@ -1,0 +1,81 @@
+{
+    "word": "attending",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nattend ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈtend"
+                            ],
+                            "us": [
+                                "əˈtend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to go to an event, place, etc.: ",
+                            "examples": [
+                                "Over two hundred people attended the funeral.",
+                                "The meeting is on the fifth and we're hoping everyone will attend."
+                            ]
+                        },
+                        {
+                            "explanation": "to go officially and usually regularly to a place: ",
+                            "examples": [
+                                "Which school do your children attend?",
+                                "I attended the classes/seminars/lectures for a month or two."
+                            ]
+                        },
+                        {
+                            "explanation": "to give attention to what someone is saying: ",
+                            "examples": [
+                                "I'm afraid I wasn't attending to what was being said."
+                            ]
+                        },
+                        {
+                            "explanation": "to provide a service to someone, especially as part of your job: ",
+                            "examples": [
+                                "The queen was attended by her ladies-in-waiting."
+                            ]
+                        },
+                        {
+                            "explanation": "to happen as a result of, and at the same time as: ",
+                            "examples": [
+                                "the publicity that attends a career in television"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

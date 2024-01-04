@@ -1,0 +1,63 @@
+{
+    "word": "cod",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kɒd"
+                            ],
+                            "us": [
+                                "kɑːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large sea fish that can be eaten, or the meat of this fish: ",
+                            "examples": [
+                                "My son went out in the boat and caught a five-pound cod.",
+                                "Cod and chips, please."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsiː.əʊˈdiː"
+                            ],
+                            "us": [
+                                "ˌsiː.oʊˈdiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for \ncash on delivery : a method of payment in which a person or organization buying goods pays for the goods at the time that they receive them: ",
+                            "examples": [
+                                "Methods of payment include COD, invoice, credit card, online payment, offline payment.",
+                                "Cash on delivery or COD is a type of transaction in which payment for goods is made at the time of delivery."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

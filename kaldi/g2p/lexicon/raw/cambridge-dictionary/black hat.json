@@ -1,0 +1,40 @@
+{
+    "word": "black hat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈblæk ˌhæt"
+                            ],
+                            "us": [
+                                "ˈblæk ˌhæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone in a particular situation who is acting for morally bad reasons, or something that shows who this person is: ",
+                            "examples": [
+                                "The group is considered kind of a black hat in the consulting business.",
+                                "In a dysfunctional organization, it is often impossible to tell who are wearing the black hats, and who are wearing the white hats."
+                            ]
+                        },
+                        {
+                            "explanation": "a hacker (= a person who gets into computer systems without permission) who does this for criminal or bad reasons: ",
+                            "examples": [
+                                "Black hats are highly motivated. There's a lot of money at stake. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "word": "declined",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndecline ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈklaɪn"
+                            ],
+                            "us": [
+                                "dɪˈklaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to gradually become less, worse, or lower: ",
+                            "examples": [
+                                "His interest in the project declined after his wife died.",
+                                "The party's popularity has declined in the opinion polls.",
+                                "The land declines sharply away from the house."
+                            ]
+                        },
+                        {
+                            "explanation": "to refuse: ",
+                            "examples": [
+                                "I invited him to the meeting but he declined.",
+                                "He declined my offer.",
+                                "They declined to tell me how they had obtained my address."
+                            ]
+                        },
+                        {
+                            "explanation": "If a noun, pronoun, or adjective declines, it has different forms to show if it is the subject or object, etc. of a verb or if it is singular or plural, etc. If you decline such a word, you list its various forms: ",
+                            "examples": [
+                                "In Latin we learned how to decline nouns."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

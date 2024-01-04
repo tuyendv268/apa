@@ -1,0 +1,73 @@
+{
+    "word": "used",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "juːst"
+                            ],
+                            "us": [
+                                "juːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "shows that a particular thing always happened or was true in the past, especially if it no longer happens or is no longer true: ",
+                            "examples": [
+                                "She used to live in Glasgow."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "juːst",
+                                "juːzd"
+                            ],
+                            "us": [
+                                "juːst",
+                                "juːzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be familiar with something or someone: ",
+                            "examples": [
+                                "We're used to tourists here - we get thousands every year."
+                            ]
+                        },
+                        {
+                            "explanation": "to become familiar with something or someone: ",
+                            "examples": [
+                                "Eventually you'll get used to the smells of the laboratory."
+                            ]
+                        },
+                        {
+                            "explanation": "that has already been put to the purpose it was intended for; not new: ",
+                            "examples": [
+                                "a used airline ticket",
+                                "The blackmailers demanded to be paid in used £20 notes.",
+                                "I could only afford a used car (= one that has already been owned by others)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "thermoelectric",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌθɜː.məʊ.iˈlek.trɪk"
+                            ],
+                            "us": [
+                                "ˌθɝː.moʊ.iˈlek.trɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to or involving electricity that is produced by applying heat to something, often two different metals that absorb the heat differently: ",
+                            "examples": [
+                                "The car has a thermoelectric generator, which converts heat to electricity, fitted in the exhaust system. ",
+                                "Two ageing thermo-electric power plants spew out smoke over the city. ",
+                                "Several articles have been published about the thermoelectrical behaviour of aluminium electrolytic cells. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

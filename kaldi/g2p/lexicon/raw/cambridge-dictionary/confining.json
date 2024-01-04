@@ -1,0 +1,70 @@
+{
+    "word": "confining",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nconfine ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈfaɪn"
+                            ],
+                            "us": [
+                                "kənˈfaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to limit an activity, person, or problem in some way: ",
+                            "examples": [
+                                "Let's confine our discussion to the matter in question, please!",
+                                "Please confine your use of the phone to business calls.",
+                                "By closing the infected farms we're hoping to confine the disease to the north of the region (= stop it from spreading to other areas)."
+                            ]
+                        },
+                        {
+                            "explanation": "to keep someone closed in a place, often by force: ",
+                            "examples": [
+                                "The hostages had been confined for so long that they couldn't cope with the outside world."
+                            ]
+                        },
+                        {
+                            "explanation": "to exist only in a particular area or group of people: ",
+                            "examples": [
+                                "We know that the illness is not confined to any one group in society.",
+                                "This attitude seems to be confined to the very wealthy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

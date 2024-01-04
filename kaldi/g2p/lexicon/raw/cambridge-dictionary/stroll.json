@@ -1,0 +1,59 @@
+{
+    "word": "stroll",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "strəʊl"
+                            ],
+                            "us": [
+                                "stroʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to walk in a slow relaxed way, especially for pleasure: ",
+                            "examples": [
+                                "We could stroll along the beach after dinner.",
+                                "An elderly couple strolled hand in hand in the park."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "strəʊl"
+                            ],
+                            "us": [
+                                "stroʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a slow relaxed walk, especially for pleasure: ",
+                            "examples": [
+                                "After dinner, we went for a stroll along the beach.",
+                                "The whole family was enjoying a leisurely stroll in the sunshine."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

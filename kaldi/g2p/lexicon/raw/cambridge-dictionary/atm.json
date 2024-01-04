@@ -1,0 +1,57 @@
+{
+    "word": "atm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for at the moment: used for example on social media and in text messages: ",
+                            "examples": [
+                                "I'm busy atm."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌeɪ.tiːˈem"
+                            ],
+                            "us": [
+                                "ˌeɪ.tiːˈem"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for automated teller machine: a machine, usually in a wall outside a bank, shop, etc. from which you can take money out of your bank account using a special card: ",
+                            "examples": [
+                                "Is there an ATM near here? I need to get some money out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

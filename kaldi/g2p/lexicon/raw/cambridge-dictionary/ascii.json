@@ -1,0 +1,33 @@
+{
+    "word": "ascii",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæs.ki"
+                            ],
+                            "us": [
+                                "ˈæs.ki"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for American Standard Code for Information Interchange: a way of storing numbers, letters, or symbols for exchanging information between computer systems: ",
+                            "examples": [
+                                "a document in ASCII format"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

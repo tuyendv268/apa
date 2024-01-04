@@ -1,0 +1,34 @@
+{
+    "word": "electrolytic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "i.lek.trəˈlɪt.ɪk"
+                            ],
+                            "us": [
+                                "i.lek.trəˈlɪt̬.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the way electricity goes through a substance, usually a liquid, or the separation of a substance into its parts when electricity goes through it: ",
+                            "examples": [
+                                "Pure copper is refined from the solution through an electrolytic process.",
+                                "Make sure the electrolytic capacitors are connected the correct way."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

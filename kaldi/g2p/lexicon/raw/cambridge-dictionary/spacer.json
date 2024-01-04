@@ -1,0 +1,41 @@
+{
+    "word": "spacer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspeɪ.sər"
+                            ],
+                            "us": [
+                                "ˈspeɪ.sɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device used to keep two things apart: ",
+                            "examples": [
+                                "Press a square spacer into the joint between the blocks. ",
+                                "A toe spacer is a small cushion placed between the first and second toes that helps keep bones straight so that the bunion won't get worse."
+                            ]
+                        },
+                        {
+                            "explanation": "a large empty tube that attaches to an inhaler (= a small device for breathing in medicines) and helps the medicine go straight to your lungs : ",
+                            "examples": [
+                                "Breathe in and out from the spacer for four breaths in a row.",
+                                "For some, an asthma spacer can be used in conjunction with their prescribed inhaler."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

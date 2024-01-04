@@ -1,0 +1,40 @@
+{
+    "word": "poetry",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊ.ɪ.tri"
+                            ],
+                            "us": [
+                                "ˈpoʊ.ə.tri"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "poems in general as a form of literature: ",
+                            "examples": [
+                                "contemporary poetry and prose",
+                                "She started writing poetry at a young age."
+                            ]
+                        },
+                        {
+                            "explanation": "a very beautiful or emotional quality: ",
+                            "examples": [
+                                "This film has a savage poetry and brilliance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

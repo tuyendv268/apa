@@ -1,0 +1,61 @@
+{
+    "word": "messed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmess ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mes"
+                            ],
+                            "us": [
+                                "mes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something untidy: ",
+                            "examples": [
+                                "Don't you dare mess my hair!"
+                            ]
+                        },
+                        {
+                            "explanation": "to leave solid waste somewhere: ",
+                            "examples": [
+                                "The neighbour's dog has messed on our lawn again!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

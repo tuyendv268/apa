@@ -1,0 +1,35 @@
+{
+    "word": "electromagnetic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "iˌlek.trəʊ.mæɡˈnet.ɪk"
+                            ],
+                            "us": [
+                                "iˌlek.troʊ.mæɡˈnet̬.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the electrical and magnetic forces produced by an electric current : ",
+                            "examples": [
+                                "Electromagnetic radiation includes radio waves, microwaves, X-rays, gamma rays, and infrared and UV light as well as visible light.",
+                                "An electromagnetic wave is created as a result of the interaction between an electric field and a magnetic field. ",
+                                "The whole range of radiation is called the electromagnetic spectrum."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

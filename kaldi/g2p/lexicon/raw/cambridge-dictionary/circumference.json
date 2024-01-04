@@ -1,0 +1,39 @@
+{
+    "word": "circumference",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "səˈkʌm.fər.əns"
+                            ],
+                            "us": [
+                                "sɚˈkʌm.fɚ.əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the line surrounding a circular space, or the length of this line: ",
+                            "examples": [
+                                "the circumference of a circle"
+                            ]
+                        },
+                        {
+                            "explanation": "the outside edge of an area or object that is round or curved, or the length of this edge: ",
+                            "examples": [
+                                "the circumference of an orange"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

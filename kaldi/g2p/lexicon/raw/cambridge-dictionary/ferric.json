@@ -1,0 +1,40 @@
+{
+    "word": "ferric",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfer.ɪk"
+                            ],
+                            "us": [
+                                "ˈfer.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to or containing iron: ",
+                            "examples": [
+                                "ferric alloys"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to iron with a valency of three: ",
+                            "examples": [
+                                "Ferrous forms of iron are absorbed more efficiently than ferric forms.",
+                                "ferric iron"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

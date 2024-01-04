@@ -1,0 +1,44 @@
+{
+    "word": "valency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈveɪ.lən.si"
+                            ],
+                            "us": [
+                                "ˈveɪ.lən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a measurement that shows the number of hydrogen atoms that can combine with one atom of a particular chemical element to make a compound, used to describe how easily an element can connect in a chemical way with others: ",
+                            "examples": [
+                                "Zinc has a valency of 2.",
+                                "His theory was that carbon had a combining power (valency) of four or two and a unique capacity for joining itself to other atoms of its own kind.",
+                                "Sodium is useful in a great many compounds as a substitute for one of the two atoms of hydrogen (also valence 1) in a variety of acids."
+                            ]
+                        },
+                        {
+                            "explanation": "A verb's valency or valence is the number of noun phrases with which it combines. : ",
+                            "examples": [
+                                "Many verbs can have a different valency depending on the meaning in which they are being used.",
+                                "A verb such as \"hand\", with a subject, an object, and an indirect object, as in \"she handed me the plate\", has a valency of three.",
+                                "These generic verbs are excellent models for analogy to other verbs of the same valency.",
+                                "Valence is a property of verbs indicating the number of arguments a verb requires to make a clause."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

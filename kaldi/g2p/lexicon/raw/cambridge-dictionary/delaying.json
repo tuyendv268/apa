@@ -1,0 +1,69 @@
+{
+    "word": "delaying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndelay ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈleɪ"
+                            ],
+                            "us": [
+                                "dɪˈleɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something happen at a later time than originally planned or expected: ",
+                            "examples": [
+                                "My plane was delayed by an hour.",
+                                "Heavy snow delayed the start of the game.",
+                                "I think we should delay deciding about this until next year."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause someone or something to be slow or late: ",
+                            "examples": [
+                                "I was delayed by traffic."
+                            ]
+                        },
+                        {
+                            "explanation": "to not act quickly or immediately: ",
+                            "examples": [
+                                "If you delay now, the opportunity might be lost."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

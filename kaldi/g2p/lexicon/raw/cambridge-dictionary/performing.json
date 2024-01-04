@@ -1,0 +1,73 @@
+{
+    "word": "performing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nperform ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pəˈfɔːm"
+                            ],
+                            "us": [
+                                "pɚˈfɔːrm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to do an action or piece of work: ",
+                            "examples": [
+                                "Computers can perform a variety of tasks.",
+                                "The operation will be performed next week.",
+                                "Most of the students performed well in the exam."
+                            ]
+                        },
+                        {
+                            "explanation": "to operate/not operate in a satisfactory way: ",
+                            "examples": [
+                                "The equipment performed well during the tests.",
+                                "These tyres perform badly/poorly in hot weather."
+                            ]
+                        },
+                        {
+                            "explanation": "to entertain people by dancing, singing, acting, or playing music: ",
+                            "examples": [
+                                "Thomas and Elisa performed a rousing duet for violin and piano.",
+                                "She composes and performs her own music.",
+                                "A major Hollywood star will be performing on stage tonight.",
+                                "There are plans to ban circuses with performing animals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

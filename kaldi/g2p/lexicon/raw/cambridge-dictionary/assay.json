@@ -1,0 +1,61 @@
+{
+    "word": "assay",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈseɪ",
+                                "æsˈeɪ"
+                            ],
+                            "us": [
+                                "æsˈeɪ",
+                                "əˈseɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to examine a substance to find out how pure it is or what its properties (= qualities) are: ",
+                            "examples": [
+                                "He never returned to the lab to assay the other samples.",
+                                "Ores from there have been assayed and are known to be rich in gold and silver."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈseɪ"
+                            ],
+                            "us": [
+                                "ˈæ.seɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an examination of a substance to test how pure it is or what its properties (= qualities) are: ",
+                            "examples": [
+                                "Assays are performed to establish the metal content in samples taken from the rock. ",
+                                "About 24 hours before assay the sample was placed in 80% ethanol."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

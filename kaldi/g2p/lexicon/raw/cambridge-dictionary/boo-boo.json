@@ -1,0 +1,39 @@
+{
+    "word": "boo-boo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbuː.buː"
+                            ],
+                            "us": [
+                                "ˈbuː.buː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mistake: ",
+                            "examples": [
+                                "Oops, I think I made a boo-boo there - I hope she's not too upset."
+                            ]
+                        },
+                        {
+                            "explanation": "a slight injury: ",
+                            "examples": [
+                                "Tess fell down and got a boo-boo on her hand."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

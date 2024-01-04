@@ -1,0 +1,40 @@
+{
+    "word": "de-index",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌdiːˈɪn.deks"
+                            ],
+                            "us": [
+                                "ˌdiːˈɪn.deks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove a website or a part of a website from the index (= list of contents) of a search engine so that it does not appear as a result of searches: ",
+                            "examples": [
+                                "You might want to de-index your website if it includes some outdated content that you plan to update later.",
+                                "The search engine may temporarily or permanently deindex sites if they violate quality guidelines."
+                            ]
+                        },
+                        {
+                            "explanation": "to remove the link between a pension (= a regular payment made to someone who does not work any more) or other benefit from a list of prices, so that the payment no longer increases when those prices increase: ",
+                            "examples": [
+                                "There were concerns that the regulations would be used to de-index pension benefits."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

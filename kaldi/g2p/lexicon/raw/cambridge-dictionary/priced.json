@@ -1,0 +1,62 @@
+{
+    "word": "priced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nprice ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "praɪs"
+                            ],
+                            "us": [
+                                "praɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say what the price of something is: ",
+                            "examples": [
+                                "The car is priced at £28,000.",
+                                "There is a lack of reasonably priced housing for rent."
+                            ]
+                        },
+                        {
+                            "explanation": "to discover how much something costs: ",
+                            "examples": [
+                                "We went around all the travel agents pricing the different tours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

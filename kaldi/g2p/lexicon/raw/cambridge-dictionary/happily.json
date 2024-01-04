@@ -1,0 +1,47 @@
+{
+    "word": "happily",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæp.əl.i"
+                            ],
+                            "us": [
+                                "ˈhæp.əl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a happy way: ",
+                            "examples": [
+                                "He was happily married with two young children.",
+                                "She munched happily on her chocolate bar.",
+                                "After nine years in Cambridge, Susannah and Guy moved to Watlington, where they lived happily ever after."
+                            ]
+                        },
+                        {
+                            "explanation": "willingly: ",
+                            "examples": [
+                                "I'd happily offer to help him if I thought it would make any difference."
+                            ]
+                        },
+                        {
+                            "explanation": "having a good or lucky result: ",
+                            "examples": [
+                                "Happily, the weather remained fine throughout the afternoon."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

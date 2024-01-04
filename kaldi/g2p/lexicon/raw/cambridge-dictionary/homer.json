@@ -1,0 +1,64 @@
+{
+    "word": "homer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhəʊ.mər"
+                            ],
+                            "us": [
+                                "ˈhoʊ.mɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for\nhome run : a point scored in baseball when you hit the ball, usually out of the playing field, and are able to run around all the bases at one time to the starting base: ",
+                            "examples": [
+                                "That season he hit 43 homers."
+                            ]
+                        },
+                        {
+                            "explanation": "a job that a skilled worker, such as a house painter or a hairdresser (= a person who cuts people's hair), does for a private customer in the customer's home, especially when they do this in addition to their main job and without telling their employer or the tax authorities: ",
+                            "examples": [
+                                "I am a fully qualified joiner looking for homers in the Renfrewshire area."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhəʊ.mər"
+                            ],
+                            "us": [
+                                "ˈhoʊ.mɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in baseball, to hit a home run (= a point scored in baseball when you hit the ball, usually out of the playing field, and are able to run around all the bases at one time to the starting base): ",
+                            "examples": [
+                                "He became the oldest man to homer in an All-Star Game. ",
+                                "He homered eight times in 12 games."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

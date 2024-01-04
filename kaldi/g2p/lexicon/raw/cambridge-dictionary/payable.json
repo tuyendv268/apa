@@ -1,0 +1,39 @@
+{
+    "word": "payable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪ.ə.bəl"
+                            ],
+                            "us": [
+                                "ˈpeɪ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "that should be paid: ",
+                            "examples": [
+                                "Interest payments are payable monthly."
+                            ]
+                        },
+                        {
+                            "explanation": "If a cheque is payable to a particular person or organization, his, her, or its name is written on it and the money will be paid to him, her, or it: ",
+                            "examples": [
+                                "Please make your cheque payable to WWF."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

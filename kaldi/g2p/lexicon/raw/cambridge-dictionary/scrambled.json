@@ -1,0 +1,83 @@
+{
+    "word": "scrambled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nscramble ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈskræm.bəl"
+                            ],
+                            "us": [
+                                "ˈskræm.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move or climb quickly but with difficulty, often using your hands to help you: ",
+                            "examples": [
+                                "She scrambled up the steep hillside and over the rocks.",
+                                "He scrambled into his clothes (= put them on quickly) and raced to get help.",
+                                "As the burning plane landed, the terrified passengers scrambled for the door (= tried to reach the door quickly)."
+                            ]
+                        },
+                        {
+                            "explanation": "to compete with other people for something there is very little of: ",
+                            "examples": [
+                                "People are scrambling to buy property before prices rise even further."
+                            ]
+                        },
+                        {
+                            "explanation": "to put things such as words or letters in the wrong order so that they do not make sense: ",
+                            "examples": [
+                                "He had a habit of scrambling his words when excited."
+                            ]
+                        },
+                        {
+                            "explanation": "to mix eggs with a little milk and mix again as they are being fried",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to change a radio or phone signal so that it can only be understood using a special device",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to (cause a plane to) take off very quickly: ",
+                            "examples": [
+                                "A helicopter was scrambled within minutes of the news."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

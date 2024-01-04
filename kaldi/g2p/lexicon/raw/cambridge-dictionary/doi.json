@@ -1,0 +1,33 @@
+{
+    "word": "doi",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdiː.əʊˈaɪ"
+                            ],
+                            "us": [
+                                "ˌdiː.oʊˈaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for digital object identifer: a unique series of numbers attached to a piece of digital information such as a website, file, or online article: ",
+                            "examples": [
+                                "Many publishers now have search boxes on their Web pages where searchers can enter a DOI to retrieve an article."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "camped",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncamp ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kæmp"
+                            ],
+                            "us": [
+                                "kæmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put up a tent and stay in it for a short while, for example while on holiday: ",
+                            "examples": [
+                                "We camped on one of the lower slopes of the mountain."
+                            ]
+                        },
+                        {
+                            "explanation": "to put a group of tents or temporary shelters in one place, or to put someone in a group of tents or temporary shelters: ",
+                            "examples": [
+                                "Troops were camped only 25 miles from the capital."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

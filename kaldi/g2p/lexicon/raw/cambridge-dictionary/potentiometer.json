@@ -1,0 +1,35 @@
+{
+    "word": "potentiometer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pə.ten.ʃiˈɒm.ɪ.tər"
+                            ],
+                            "us": [
+                                "pə.ten.ʃiˈɑː.mə.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an instrument for measuring electromotive force (= a difference in electric potential)",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a resistor (= part of an electrical circuit that produces a resistance to the flow of current) that has three terminals (= points of connection)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

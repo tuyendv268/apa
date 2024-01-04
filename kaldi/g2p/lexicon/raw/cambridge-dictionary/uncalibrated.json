@@ -1,0 +1,39 @@
+{
+    "word": "uncalibrated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌnˈkæl.ɪ.breɪ.tɪd"
+                            ],
+                            "us": [
+                                "ˌʌnˈkæl.ə.breɪ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An uncalibrated measuring instrument or other device has not had the controls checked or changed to make sure it is accurate: ",
+                            "examples": [
+                                "The touchpad is still uncalibrated and doesn't provide the pressure sensitive functions. "
+                            ]
+                        },
+                        {
+                            "explanation": "Uncalibrated numbers, dates, or other information are in the form they were collected and have not been changed to make them more accurate or standard: ",
+                            "examples": [
+                                "All the radiocarbon dates are given as conventional, uncalibrated ages."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

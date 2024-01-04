@@ -1,0 +1,33 @@
+{
+    "word": "cascading style sheet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun ",
+                        "ipa": {
+                            "uk": [
+                                "kæsˌkeɪ.dɪŋ ˈstaɪl ˌʃiːt"
+                            ],
+                            "us": [
+                                "kæsˌkeɪ.dɪŋ ˈstaɪl ˌʃiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of computer software that allows you to describe and control how a web page or a series of web pages should appear to the user: ",
+                            "examples": [
+                                "Cascading style sheets are text files attached to HTML pages that control the design and appearance of the page."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

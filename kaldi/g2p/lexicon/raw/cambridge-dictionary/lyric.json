@@ -1,0 +1,61 @@
+{
+    "word": "lyric",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪr.ɪk"
+                            ],
+                            "us": [
+                                "ˈlɪr.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the words of a song, especially a pop song: ",
+                            "examples": [
+                                "Paul Simon wrote the lyrics for most of his songs."
+                            ]
+                        },
+                        {
+                            "explanation": "a short poem that expresses the personal thoughts and feelings of the person who wrote it",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪr.ɪk"
+                            ],
+                            "us": [
+                                "ˈlɪr.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(especially of poetry and songs) expressing personal thoughts and feelings: ",
+                            "examples": [
+                                "William Wordsworth wrote lyric poetry/was a lyric poet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

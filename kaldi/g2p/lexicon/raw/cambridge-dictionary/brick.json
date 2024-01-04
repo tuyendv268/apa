@@ -1,0 +1,86 @@
+{
+    "word": "brick",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "brɪk"
+                            ],
+                            "us": [
+                                "brɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a rectangular block of hard material used for building walls and houses: ",
+                            "examples": [
+                                "The chimney was made of bricks.",
+                                "The stark structure is built from concrete, brick, and glass.",
+                                "a brick wall/building/fireplace",
+                                "a row of Victorian brick houses"
+                            ]
+                        },
+                        {
+                            "explanation": "an electronic device, such as a smartphone, that cannot be used at all: ",
+                            "examples": [
+                                "Without a fast connection, your tablet turns into a brick. "
+                            ]
+                        },
+                        {
+                            "explanation": "an early mobile phone that was thick and heavy compared to newer phones: ",
+                            "examples": [
+                                "an ancient, Bluetoothless brick of a mobile phone",
+                                "Instead of a nearly 2-pound brick, today's cell phone weighs as little as 3 ounces."
+                            ]
+                        },
+                        {
+                            "explanation": "a very helpful and kind person who can be trusted: ",
+                            "examples": [
+                                "Thanks for bringing all that food along to the party, Tony. You're a brick!"
+                            ]
+                        },
+                        {
+                            "explanation": "especially in the game of basketball, an attempt to score points that misses the target by a long way: ",
+                            "examples": [
+                                "That guy throws up nothing but bricks."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "brɪk"
+                            ],
+                            "us": [
+                                "brɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause a problem in an electronic device so that it cannot be used at all; to develop a problem like this: ",
+                            "examples": [
+                                "The update wiped out users' applications, and \"bricked\" some phones.",
+                                "I saw a warning message, then the phone bricked. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

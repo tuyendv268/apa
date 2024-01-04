@@ -1,0 +1,62 @@
+{
+    "word": "pruned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nprune ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pruːn"
+                            ],
+                            "us": [
+                                "pruːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut off branches from a tree, bush, or plant, especially so that it will grow better in the future: ",
+                            "examples": [
+                                "She spent the afternoon pruning roses."
+                            ]
+                        },
+                        {
+                            "explanation": "to reduce something by removing things that are not necessary: ",
+                            "examples": [
+                                "Arco has reacted to the loss in revenue by pruning (back) its expansion plans.",
+                                "I felt his essay needed a little pruning."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

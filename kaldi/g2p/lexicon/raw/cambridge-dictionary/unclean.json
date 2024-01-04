@@ -1,0 +1,39 @@
+{
+    "word": "unclean",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈkliːn"
+                            ],
+                            "us": [
+                                "ʌnˈkliːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not clean and therefore likely to cause disease: ",
+                            "examples": [
+                                "The health risk from drinking unclean water is considerable."
+                            ]
+                        },
+                        {
+                            "explanation": "not clean or pure, or morally bad, as described by the rules of a religion: ",
+                            "examples": [
+                                "Jews and Muslims consider pigs unclean."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

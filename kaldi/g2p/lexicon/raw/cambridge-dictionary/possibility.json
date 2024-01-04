@@ -1,0 +1,43 @@
+{
+    "word": "possibility",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɒs.əˈbɪl.ə.ti"
+                            ],
+                            "us": [
+                                "ˌpɑː.səˈbɪl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a chance that something may happen or be true: ",
+                            "examples": [
+                                "It's not likely to happen but I wouldn't rule out the possibility.",
+                                "The forecast said that there's a possibility of snow tonight.",
+                                "There's a distinct possibility (that) I'll be asked to give a speech.",
+                                "Is there any possibility (that) you could pick me up from the station?"
+                            ]
+                        },
+                        {
+                            "explanation": "something that you can choose to do in a particular situation: ",
+                            "examples": [
+                                "We could take on extra staff - that's one possibility.",
+                                "\"Have you decided what to do?\" \"No, I'm still considering the various possibilities.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

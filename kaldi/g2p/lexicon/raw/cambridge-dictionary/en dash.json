@@ -1,0 +1,34 @@
+{
+    "word": "en dash",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈen ˌdæʃ"
+                            ],
+                            "us": [
+                                "ˈen ˌdæʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short dash (= the symbol - ), used especially when typing on a computer or in printing to separate numbers: ",
+                            "examples": [
+                                "An en dash is as wide as an \"n\" in a particular typeface.",
+                                "En dashes are used almost exclusively for date ranges."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

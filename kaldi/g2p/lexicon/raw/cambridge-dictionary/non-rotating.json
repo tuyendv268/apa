@@ -1,0 +1,41 @@
+{
+    "word": "non-rotating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.rəʊˈteɪ.tɪŋ"
+                            ],
+                            "us": [
+                                "ˌnɑːn.roʊˈteɪ.t̬ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not turning in a circle around a fixed point: ",
+                            "examples": [
+                                "The main part of the machine consists of a large, non-rotating cylinder.",
+                                "It must be in a nonrotating state before you can change from one mode to another."
+                            ]
+                        },
+                        {
+                            "explanation": "not part of a system that changes things according to a regular pattern: ",
+                            "examples": [
+                                "Two of the restaurant's non-rotating dishes are vegan.",
+                                "The team was selected on a non-rotating basis."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "decreed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndecree ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈkriː"
+                            ],
+                            "us": [
+                                "dɪˈkriː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to officially decide or order that something must happen: ",
+                            "examples": [
+                                "They decreed an end to discrimination on grounds of age.",
+                                "After the earthquake, the government decreed that all new buildings must be built according to the new standards."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

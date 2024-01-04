@@ -1,0 +1,41 @@
+{
+    "word": "quadrant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkwɒd.rənt"
+                            ],
+                            "us": [
+                                "ˈkwɑː.drənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a quarter of a circle",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a quarter of an area: ",
+                            "examples": [
+                                "The river runs through the southwest quadrant of the city."
+                            ]
+                        },
+                        {
+                            "explanation": "a device for measuring the height of stars in the sky that was used in the past for calculating directions when travelling across the sea",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

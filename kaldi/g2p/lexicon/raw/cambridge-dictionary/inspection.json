@@ -1,0 +1,38 @@
+{
+    "word": "inspection",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈspek.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˈspek.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of looking at something carefully, or an official visit to a building or organization to check that everything is correct and legal: ",
+                            "examples": [
+                                "Her passport seemed legitimate, but on closer inspection, it was found to have been altered.",
+                                "She arrived to carry out/make a health and safety inspection of the building."
+                            ]
+                        },
+                        {
+                            "explanation": "an examination of the structure of a building by a specially trained person",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

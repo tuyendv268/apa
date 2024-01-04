@@ -1,0 +1,39 @@
+{
+    "word": "stat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "stæt"
+                            ],
+                            "us": [
+                                "stæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "information based on a study of the number of times something happens or is present, or other facts relating to numbers: ",
+                            "examples": [
+                                "The stats show that she's the greatest women's tennis player in history."
+                            ]
+                        },
+                        {
+                            "explanation": "a fact in the form of a number that shows information about something: ",
+                            "examples": [
+                                "I have no idea where that stat comes from."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "ought",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "modal verb",
+                        "ipa": {
+                            "uk": [],
+                            "us": [
+                                "ɔt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present tense"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to say that it is necessary or desirable to perform the action expressed in the verb: ",
+                            "examples": [
+                                "We ought to clean up before we go home.",
+                                "She really ought to apologize."
+                            ]
+                        },
+                        {
+                            "explanation": "used to say that the action expressed in the verb is probable or expected: ",
+                            "examples": [
+                                "He ought to be home by seven o’clock.",
+                                "The curtains ought to be ready on Monday.",
+                                "At his age, he ought to have known better."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

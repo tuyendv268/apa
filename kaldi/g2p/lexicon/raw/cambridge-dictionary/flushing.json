@@ -1,0 +1,69 @@
+{
+    "word": "flushing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nflush ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "flʌʃ"
+                            ],
+                            "us": [
+                                "flʌʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When you flush, you become red in the face, especially as a result of strong emotions, heat, or alcohol: ",
+                            "examples": [
+                                "She flushed with pleasure as she accepted the prize.",
+                                "The champagne had caused his face to flush."
+                            ]
+                        },
+                        {
+                            "explanation": "If you flush a toilet, or if a toilet flushes, its contents empty and it fills with water again: ",
+                            "examples": [
+                                "My children never flush the toilet after them.",
+                                "I can't get the toilet to flush."
+                            ]
+                        },
+                        {
+                            "explanation": "to get rid of something by putting it in the toilet and operating the toilet: ",
+                            "examples": [
+                                "I tend to flush old medicines down the toilet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

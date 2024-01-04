@@ -1,0 +1,68 @@
+{
+    "word": "illegal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈliː.ɡəl"
+                            ],
+                            "us": [
+                                "ɪˈliː.ɡəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not allowed by law: ",
+                            "examples": [
+                                "a campaign to stop the illegal sale of cigarettes to children under 16",
+                                "Prostitution is illegal in some countries.",
+                                "It is illegal to drive a car that is not registered and insured.",
+                                "Cocaine, LSD, and heroin are all illegal drugs/substances."
+                            ]
+                        },
+                        {
+                            "explanation": "not allowed by the rules of a sport: ",
+                            "examples": [
+                                "There were two illegal passes in the first 13 minutes of the game, and several more followed.",
+                                "The team received two warnings for illegal play.",
+                                "His tackle was illegal, and his sending-off changed the course of the game."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈliː.ɡəl"
+                            ],
+                            "us": [
+                                "ɪˈliː.ɡəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an offensive word for someone who lives or works in another country when they do not have the legal right to do this: ",
+                            "examples": [
+                                "He said ID cards would make it easier to deport illegals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

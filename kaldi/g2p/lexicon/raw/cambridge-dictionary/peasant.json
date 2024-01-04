@@ -1,0 +1,41 @@
+{
+    "word": "peasant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpez.ənt"
+                            ],
+                            "us": [
+                                "ˈpez.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who owns or rents a small piece of land and grows crops, keeps animals, etc. on it, especially one who has a low income, very little education, and a low social position. This is usually used of someone who lived in the past or of someone in a poor country: ",
+                            "examples": [
+                                "Tons of internationally donated food was distributed to the starving peasants.",
+                                "Most of the produce sold in the market is grown by peasant farmers.",
+                                "Peasant women with scarves around their heads were working in the fields."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who is not well educated or is rude and does not behave well: ",
+                            "examples": [
+                                "Joe's a real peasant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

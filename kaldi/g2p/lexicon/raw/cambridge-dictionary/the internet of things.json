@@ -1,0 +1,34 @@
+{
+    "word": "the internet of things",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.tə.net əv ˈθɪŋz"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚ.net əv ˈθɪŋz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "objects with computing devices in them that are able to connect to each other and exchange data using the internet: ",
+                            "examples": [
+                                "Cloud applications will be used by billions of devices of all kinds, all connected to the internet of things.",
+                                "The internet of things might, for example, involve smart bins that can signal when they need to be emptied."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

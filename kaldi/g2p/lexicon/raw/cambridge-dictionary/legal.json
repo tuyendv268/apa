@@ -1,0 +1,50 @@
+{
+    "word": "legal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈliː.ɡəl"
+                            ],
+                            "us": [
+                                "ˈliː.ɡəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "connected with the law: ",
+                            "examples": [
+                                "legal advice",
+                                "a legal obligation/requirement",
+                                "legal status",
+                                "your legal rights",
+                                "legal action/proceedings",
+                                "my legal representatives (= my lawyers)"
+                            ]
+                        },
+                        {
+                            "explanation": "allowed by the law: ",
+                            "examples": [
+                                "Is abortion legal in your country?"
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a standard size of paper in the US, 8.5 inches by 14 inches: ",
+                            "examples": [
+                                "Your poster should be on letter or legal size paper."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

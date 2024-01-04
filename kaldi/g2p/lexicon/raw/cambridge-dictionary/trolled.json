@@ -1,0 +1,76 @@
+{
+    "word": "trolled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntroll ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trəʊl",
+                                "trɒl"
+                            ],
+                            "us": [
+                                "troʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to catch fish by pulling a baited line through the water behind a boat: ",
+                            "examples": [
+                                "Boats were trolling for mackerel.",
+                                "They were trolling the colder waters of the Channel."
+                            ]
+                        },
+                        {
+                            "explanation": "to search among a large number or many different places in order to find people or information you want: ",
+                            "examples": [
+                                "They are trolling the internet for new customers."
+                            ]
+                        },
+                        {
+                            "explanation": "to leave an insulting or offensive message on the internet in order to upset someone, or to get attention or cause trouble: ",
+                            "examples": [
+                                "He's already getting trolled on social media for his comments after the game."
+                            ]
+                        },
+                        {
+                            "explanation": "to intentionally do or say something annoying or offensive in order to upset someone, or to get attention or cause trouble: ",
+                            "examples": [
+                                "Serving food this bad is just trolling.",
+                                "Are you trolling me?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

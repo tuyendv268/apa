@@ -1,0 +1,34 @@
+{
+    "word": "initialism",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈnɪʃ.əl.ɪ.zəm"
+                            ],
+                            "us": [
+                                "ɪˈnɪʃ.əl.ɪ.zəm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an abbreviation consisting of the first letters of each word in the name of something, pronounced as separate letters: ",
+                            "examples": [
+                                "HTML is an initialism of HyperText Markup Language.",
+                                "Cable News Network, usually referred to by its initialism CNN, is a major English language television network."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "word": "you",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "juː",
+                                "jə",
+                                "jʊ"
+                            ],
+                            "us": [
+                                "juː",
+                                "jə",
+                                "jʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to refer to the person or people being spoken or written to: ",
+                            "examples": [
+                                "You look nice.",
+                                "I love you.",
+                                "You said I could go with you.",
+                                "You're coming tonight, aren't you?",
+                                "Are you two ready?",
+                                "You painted that yourself? That's great!"
+                            ]
+                        },
+                        {
+                            "explanation": "you and your family: ",
+                            "examples": [
+                                "Here's wishing a Happy New Year to you and yours!"
+                            ]
+                        },
+                        {
+                            "explanation": "people in general: ",
+                            "examples": [
+                                "You learn to accept these things as you get older.",
+                                "You can't get a driving licence till you're 17 in this country.",
+                                "Too much alcohol is bad for you.",
+                                "How do you get this thing to start?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "wordle",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɜː.dəl"
+                            ],
+                            "us": [
+                                "ˈwɝː.dəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a brand name for an online word game in which players have six attempts to guess a five-letter word each day. After each guess, players are shown which letters they have guessed correctly: ",
+                            "examples": [
+                                "She plays Wordle every day and shares her score with her siblings.",
+                                "I found a forum where people were sharing their Wordle strategies and favourite starting words.",
+                                "Playing Wordle is now part of my daily routine."
+                            ]
+                        },
+                        {
+                            "explanation": "the correct answer to a particular day's Wordle game: ",
+                            "examples": [
+                                "If you want a clue for today's Wordle, read on.",
+                                "This week's Wordles seem much trickier than last week's.",
+                                "I got yesterday's Wordle in two goes!"
+                            ]
+                        },
+                        {
+                            "explanation": "a brand name for an electronic image that shows words used in a particular piece of electronic text or series of texts. The words are different sizes according to how often they are used in the text. : ",
+                            "examples": [
+                                "I created a Wordle of my Facebook posts."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

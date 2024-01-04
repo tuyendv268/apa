@@ -1,0 +1,39 @@
+{
+    "word": "preamble",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpriː.æm.bəl",
+                                "priˈæm.bəl"
+                            ],
+                            "us": [
+                                "ˈpriː.æm.bəl",
+                                "priˈæm.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an introduction to a speech or piece of writing",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "something that happens before or leads to something else: ",
+                            "examples": [
+                                "The agreement between the warring parties to talk may be a preamble to peace."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

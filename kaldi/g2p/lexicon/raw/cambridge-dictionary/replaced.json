@@ -1,0 +1,68 @@
+{
+    "word": "replaced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nreplace ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈpleɪs"
+                            ],
+                            "us": [
+                                "rɪˈpleɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take the place of something, or to put something or someone in the place of something or someone else: ",
+                            "examples": [
+                                "The factory replaced most of its workers with robots.",
+                                "Tourism has replaced agriculture as the nation's main industry."
+                            ]
+                        },
+                        {
+                            "explanation": "If you replace something broken, damaged, or lost, you provide a new one: ",
+                            "examples": [
+                                "I promised to replace the plate that I'd dropped."
+                            ]
+                        },
+                        {
+                            "explanation": "to put something back where it was before: ",
+                            "examples": [
+                                "The librarian replaced the books correctly on the shelves."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

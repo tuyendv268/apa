@@ -1,0 +1,39 @@
+{
+    "word": "anaphora",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ə.'næf.ə.rə"
+                            ],
+                            "us": [
+                                "ə.'næf.ə.rə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use of anaphors (= words that refer to and replace other words used earlier in a text): ",
+                            "examples": [
+                                "In anaphora, the meaning of an expression depends on its antecedent."
+                            ]
+                        },
+                        {
+                            "explanation": "the practice in literature or rhetoric (= speech or writing intended to impress or persuade people) of repeating the same word at the start of several sentences to achieve an effect: ",
+                            "examples": [
+                                "No poet has used anaphora more effectively than he does in this work, with every line beginning \"Because\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

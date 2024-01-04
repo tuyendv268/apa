@@ -1,0 +1,61 @@
+{
+    "word": "accept",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əkˈsept"
+                            ],
+                            "us": [
+                                "əkˈsept"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to agree to take something: ",
+                            "examples": [
+                                "Do you accept credit cards?",
+                                "She was in Mumbai to accept an award for her latest novel.",
+                                "I offered her an apology, but she wouldn't accept it.",
+                                "I accept full responsibility for the failure of the plan.",
+                                "The new coffee machines will accept coins of any denomination."
+                            ]
+                        },
+                        {
+                            "explanation": "to say yes to an offer or invitation: ",
+                            "examples": [
+                                "We've offered her the job, but I don't know whether she'll accept it.",
+                                "I've just accepted an invitation to the opening-night party.",
+                                "I've been invited to their wedding but I haven't decided whether to accept."
+                            ]
+                        },
+                        {
+                            "explanation": "to consider something or someone as satisfactory: ",
+                            "examples": [
+                                "The manuscript was accepted for publication last week.",
+                                "She was accepted as a full member of the society.",
+                                "His fellow workers refused to accept him (= to include him as one of their group)."
+                            ]
+                        },
+                        {
+                            "explanation": "to believe that something is true: ",
+                            "examples": [
+                                "The police refused to accept her version of the story.",
+                                "He still hasn't accepted the situation (= realized that he cannot change it).",
+                                "I can't accept that there's nothing we can do."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

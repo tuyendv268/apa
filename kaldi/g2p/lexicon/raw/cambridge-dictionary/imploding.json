@@ -1,0 +1,61 @@
+{
+    "word": "imploding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nimplode ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˈpləʊd"
+                            ],
+                            "us": [
+                                "ɪmˈploʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fall towards the inside with force: ",
+                            "examples": [
+                                "The vacuum inside the tube caused it to implode when the external air pressure was increased."
+                            ]
+                        },
+                        {
+                            "explanation": "to fail suddenly and completely and be unable to operate: ",
+                            "examples": [
+                                "Their economy is in danger of imploding."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

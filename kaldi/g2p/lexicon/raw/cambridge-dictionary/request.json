@@ -1,0 +1,68 @@
+{
+    "word": "request",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈkwest"
+                            ],
+                            "us": [
+                                "rɪˈkwest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of politely or officially asking for something: ",
+                            "examples": [
+                                "They received hundreds of requests for more information.",
+                                "The boss refused our request to leave work early.",
+                                "The clause was added to the contract at Carlos's request (= because Carlos asked for this).",
+                                "An application form will be sent to you on request (= if you ask)."
+                            ]
+                        },
+                        {
+                            "explanation": "a song or something similar that someone has asked to be included in a show or on the radio: ",
+                            "examples": [
+                                "The next song is a request from/for Roz in Oxford."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈkwest"
+                            ],
+                            "us": [
+                                "rɪˈkwest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to ask for something politely or officially: ",
+                            "examples": [
+                                "We requested that the next meeting be held on a Friday.",
+                                "Visitors are requested not to walk on the grass.",
+                                "I requested a taxi for eight o'clock."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

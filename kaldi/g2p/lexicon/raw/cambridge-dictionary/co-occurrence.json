@@ -1,0 +1,40 @@
+{
+    "word": "co-occurrence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkəʊ.əˈkʌr.əns"
+                            ],
+                            "us": [
+                                "ˌkoʊ.əˈkɝː.əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of two or more things happening or existing at the same time and often in the same place: ",
+                            "examples": [
+                                "the co-occurrence of diabetes and high bood pressure",
+                                "Patterns of letter co-occurrence guide early spelling in English."
+                            ]
+                        },
+                        {
+                            "explanation": "an example of two or more things happening or existing at the same time and often in the same place: ",
+                            "examples": [
+                                "We searched for co-occurrences of individual elements of multi-word items."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

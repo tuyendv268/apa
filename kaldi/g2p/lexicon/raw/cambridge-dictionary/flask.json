@@ -1,0 +1,43 @@
+{
+    "word": "flask",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "flɑːsk"
+                            ],
+                            "us": [
+                                "flæsk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a special container that keeps drinks hot or cold: ",
+                            "examples": [
+                                "a flask of coffee/tea"
+                            ]
+                        },
+                        {
+                            "explanation": "a flat bottle that is used to carry alcohol in your pocket: ",
+                            "examples": [
+                                "a hip flask"
+                            ]
+                        },
+                        {
+                            "explanation": "a glass container for liquids with a wide base and a narrow neck, used in scientific work",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

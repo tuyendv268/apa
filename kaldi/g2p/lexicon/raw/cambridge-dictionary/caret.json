@@ -1,0 +1,35 @@
+{
+    "word": "caret",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkær.ət"
+                            ],
+                            "us": [
+                                "ˈker.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the symbol ^ , found on a keyboard and used in marking text",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a cursor on a screen that shows where text should be entered",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "boldfaced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbəʊld.feɪst"
+                            ],
+                            "us": [
+                                "ˈboʊld.feɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "printed in a dark, thick style: ",
+                            "examples": [
+                                "The statement was in boldfaced italics.",
+                                "Can we pull all the bold faced items out and make a list?",
+                                "You can use <b> tags to make the text boldfaced."
+                            ]
+                        },
+                        {
+                            "explanation": "a person whose name is very well known to the public: ",
+                            "examples": [
+                                "She was a boldfaced name in newspaper gossip columns."
+                            ]
+                        },
+                        {
+                            "explanation": "showing no shame or embarrassment about doing something bad: ",
+                            "examples": [
+                                "They found boldfaced lies on his resume.",
+                                "I can deal with losing, but not because of bold faced dishonesty on my opponent's part."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

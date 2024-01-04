@@ -1,0 +1,63 @@
+{
+    "word": "balk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɔːk"
+                            ],
+                            "us": [
+                                "bɑːlk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be unwilling to do something or to allow something to happen: ",
+                            "examples": [
+                                "I balked at the prospect of spending four hours on a train with him."
+                            ]
+                        },
+                        {
+                            "explanation": "in baseball, to stop in the act of throwing the ball to the batter, in a way that is against the rules",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bɔːk"
+                            ],
+                            "us": [
+                                "bɑːlk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a rough, thick piece of wood",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in baseball, an act of stopping in the middle of throwing the ball to the batter, which is against the rules",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

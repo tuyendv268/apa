@@ -1,0 +1,39 @@
+{
+    "word": "elector",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "iˈlek.tər"
+                            ],
+                            "us": [
+                                "iˈlek.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who votes: ",
+                            "examples": [
+                                "In this election many 18-year-olds will become electors for the first time."
+                            ]
+                        },
+                        {
+                            "explanation": "(in the US) a member of an electoral college (= a group of people whose job is to choose a political leader): ",
+                            "examples": [
+                                "The US President is officially elected by electors from each state, rather than by the popular vote."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

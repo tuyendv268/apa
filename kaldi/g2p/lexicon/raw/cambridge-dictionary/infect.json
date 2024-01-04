@@ -1,0 +1,52 @@
+{
+    "word": "infect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈfekt"
+                            ],
+                            "us": [
+                                "ɪnˈfekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pass a disease to a person, animal, or plant: ",
+                            "examples": [
+                                "The ward was full of children infected with TB.",
+                                "All the tomato plants are infected with a virus."
+                            ]
+                        },
+                        {
+                            "explanation": "If a place, wound, or substance is infected, it contains bacteria or other things that can cause disease: ",
+                            "examples": [
+                                "The meat had been infected by E coli bacteria."
+                            ]
+                        },
+                        {
+                            "explanation": "to make someone have the same feeling or emotion as you: ",
+                            "examples": [
+                                "Her optimism seemed to infect all those around her."
+                            ]
+                        },
+                        {
+                            "explanation": "to pass harmful programs from one computer to another, or within files in the same computer: ",
+                            "examples": [
+                                "A computer virus may lurk unseen in a computer's memory, calling up and infecting each of the machine's data files in turn."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

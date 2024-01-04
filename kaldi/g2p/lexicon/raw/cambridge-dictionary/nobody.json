@@ -1,0 +1,61 @@
+{
+    "word": "nobody",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnəʊ.bə.di",
+                                "ˈnəʊ.bɒd.i"
+                            ],
+                            "us": [
+                                "ˈnoʊ.bɑː.di"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not anyone: ",
+                            "examples": [
+                                "Is there nobody here who can answer my question?",
+                                "I saw nobody all morning.",
+                                "Nobody agreed with me."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnəʊ.bə.di",
+                                "ˈnəʊ.bɒd.i"
+                            ],
+                            "us": [
+                                "ˈnoʊ.bɑː.di"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who is not important: ",
+                            "examples": [
+                                "He's just some nobody trying to get noticed by the press."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

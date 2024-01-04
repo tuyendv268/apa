@@ -1,0 +1,59 @@
+{
+    "word": "plug-in",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈplʌɡ.ɪn"
+                            ],
+                            "us": [
+                                "ˈplʌɡ.ɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small computer program that makes a larger one work faster or have more features: ",
+                            "examples": [
+                                "The plug-in lets users quickly search their e-mail inboxes and connect with contacts.",
+                                "Plug-ins can be used to support virus scanning, file compression and file encryption software."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈplʌɡ.ɪn"
+                            ],
+                            "us": [
+                                "ˈplʌɡ.ɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A plug-in device or vehicle has a plug (= an object at the end of a wire) that is pushed into a socket to connect it to an electrical system: ",
+                            "examples": [
+                                "There was a plug-in kettle and an electric ring for cooking on.",
+                                "Component makers are excited by the development of plug-in electric cars."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

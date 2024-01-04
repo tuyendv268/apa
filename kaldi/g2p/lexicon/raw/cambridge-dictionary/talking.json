@@ -1,0 +1,75 @@
+{
+    "word": "talking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ntalk ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tɔːk"
+                            ],
+                            "us": [
+                                "tɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say words aloud; to speak to someone: ",
+                            "examples": [
+                                "We were just talking about Gareth's new girlfriend.",
+                                "My little girl has just started to talk.",
+                                "She talks to her mother on the phone every week."
+                            ]
+                        },
+                        {
+                            "explanation": "to discuss something with someone, often to try to find a solution to a disagreement: ",
+                            "examples": [
+                                "The two sides have agreed to talk."
+                            ]
+                        },
+                        {
+                            "explanation": "to discuss a particular subject: ",
+                            "examples": [
+                                "Whenever they're together, they talk politics."
+                            ]
+                        },
+                        {
+                            "explanation": "to give a lecture on a subject: ",
+                            "examples": [
+                                "The next speaker will be talking about endangered insects."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

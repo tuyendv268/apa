@@ -1,0 +1,61 @@
+{
+    "word": "alias",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "ˈeɪ.li.əs"
+                            ],
+                            "us": [
+                                "ˈeɪ.li.əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used when giving the name that a person is generally known by, after giving their real name: ",
+                            "examples": [
+                                "Malcolm Little, alias Malcolm X"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeɪ.li.əs"
+                            ],
+                            "us": [
+                                "ˈeɪ.li.əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a false name, especially one used by a criminal: ",
+                            "examples": [
+                                "He travels under (= using) an alias."
+                            ]
+                        },
+                        {
+                            "explanation": "a name that can be used to find a computer file, command, address, etc. ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

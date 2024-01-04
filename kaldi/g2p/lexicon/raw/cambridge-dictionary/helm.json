@@ -1,0 +1,45 @@
+{
+    "word": "helm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "helm"
+                            ],
+                            "us": [
+                                "helm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the handle or wheel which controls the direction in which a ship or boat travels: ",
+                            "examples": [
+                                "Who was at the helm when the collision occurred?"
+                            ]
+                        },
+                        {
+                            "explanation": "officially controlling an organization or company: ",
+                            "examples": [
+                                "With Steve Lewis at the helm, we are certain of success."
+                            ]
+                        },
+                        {
+                            "explanation": "to start to officially control an organization or company: ",
+                            "examples": [
+                                "She was the first person from outside the family to take the helm at the privately held company."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "edged",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "edʒd"
+                            ],
+                            "us": [
+                                "edʒd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having something around the edge: ",
+                            "examples": [
+                                "He bought a white tablecloth edged with a pretty pattern (= with a pattern around the outside).",
+                                "a lace-edged collar"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -edʒd"
+                            ],
+                            "us": [
+                                " -edʒd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a particular type of edge: ",
+                            "examples": [
+                                "a double-edged blade"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

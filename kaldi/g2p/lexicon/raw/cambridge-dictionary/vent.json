@@ -1,0 +1,77 @@
+{
+    "word": "vent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "vent"
+                            ],
+                            "us": [
+                                "vent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small opening that allows air, smoke, or gas to enter or leave a closed space: ",
+                            "examples": [
+                                "If you have a gas fire in a room, you should have some kind of outside vent."
+                            ]
+                        },
+                        {
+                            "explanation": "a cut in the bottom of a piece of clothing to allow the person wearing it to move more easily: ",
+                            "examples": [
+                                "The skirt is long and straight with two side vents."
+                            ]
+                        },
+                        {
+                            "explanation": "to express a negative emotion in a forceful and often unfair way: ",
+                            "examples": [
+                                "The meeting will be an opportunity for everyone to give vent to their feelings."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "vent"
+                            ],
+                            "us": [
+                                "vent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to express a negative emotion in a forceful and often unfair way: ",
+                            "examples": [
+                                "Please don't shout - there's no need to vent your frustration/anger/rage/spleen on me.",
+                                "I didn't mean to upset anyone, I just needed to vent."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause or allow air, smoke, or gas to enter or leave a closed space, or to provide a way of doing this: ",
+                            "examples": [
+                                "The dryer should be vented to the outside using a metal duct.",
+                                "Smoke from the grill was not being vented properly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

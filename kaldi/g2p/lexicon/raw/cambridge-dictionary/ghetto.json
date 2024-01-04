@@ -1,0 +1,44 @@
+{
+    "word": "ghetto",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡet.əʊ"
+                            ],
+                            "us": [
+                                "ˈɡet̬.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area of a city, especially a very poor area, where people of a particular race or religion live closely together and apart from other people: ",
+                            "examples": [
+                                "As a child she lived in one of New York's poorest ghettos.",
+                                "to live in ghetto conditions"
+                            ]
+                        },
+                        {
+                            "explanation": "in the past, an area of a city where Jews were made to live",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a part of society or group that is in some way divided from the main part: ",
+                            "examples": [
+                                "Brought up in what he describes as \"a middle class ghetto\", he imagined that all people were as privileged as he was."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

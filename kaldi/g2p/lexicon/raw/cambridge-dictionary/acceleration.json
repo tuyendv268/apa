@@ -1,0 +1,40 @@
+{
+    "word": "acceleration",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əkˌsel.əˈreɪ.ʃən"
+                            ],
+                            "us": [
+                                "ekˌsel.əˈreɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the increase in something's speed, or its ability to go faster: ",
+                            "examples": [
+                                "An older car will have poor acceleration.",
+                                "High winds significantly hampered the plane's acceleration."
+                            ]
+                        },
+                        {
+                            "explanation": "the increase in the speed at which something happens: ",
+                            "examples": [
+                                "The acceleration in the decline of manufacturing industry began several years ago."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

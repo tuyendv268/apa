@@ -1,0 +1,59 @@
+{
+    "word": "bandpass filter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbænd.pɑːs ˌfɪl.tər"
+                            ],
+                            "us": [
+                                "ˈbænd.pæs ˌfɪl.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device that allows signals within a certain range of frequencies to pass through and stops signals outside that range: ",
+                            "examples": [
+                                "It is necessary to filter the incoming radiation to eliminate false signals from common household infrared emitters such as remote control devices, which can be achieved using a simple bandpass filter.",
+                                "The LED spectrum of the light can be narrowed by installing a band-pass filter."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbænd.pɑːs ˌfɪl.tər"
+                            ],
+                            "us": [
+                                "ˈbænd.pæs ˌfɪl.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use a special device to allow only signals within a certain range of frequencies to pass through : ",
+                            "examples": [
+                                "Signals were amplified, band-pass filtered, and digitally stored for off-line analysis.",
+                                "A bandpass filtered recording was used."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

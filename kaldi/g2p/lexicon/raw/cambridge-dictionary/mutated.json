@@ -1,0 +1,61 @@
+{
+    "word": "mutated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmutate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mjuːˈteɪt"
+                            ],
+                            "us": [
+                                "mjuːˈteɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to develop new physical characteristics because of a permanent change in the genes. These changes can happen naturally or can be produced by the use of chemicals or radiation: ",
+                            "examples": [
+                                "These bacteria have mutated into forms that are resistant to certain drugs."
+                            ]
+                        },
+                        {
+                            "explanation": "to change from one thing or type of thing into another: ",
+                            "examples": [
+                                "Jon has mutated from an awkward teenager into a sophisticated young man."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

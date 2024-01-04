@@ -1,0 +1,39 @@
+{
+    "word": "untruth",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈtruːθ"
+                            ],
+                            "us": [
+                                "ʌnˈtruːθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a statement that is not true: ",
+                            "examples": [
+                                "It's not the first time that the paper has been in trouble for printing untruths about people's private lives."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact that something is not true: ",
+                            "examples": [
+                                "The untruth of this statement was immediately clear to me."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "word": "roasted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nroast ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rəʊst"
+                            ],
+                            "us": [
+                                "roʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cook food in an oven or over a fire: ",
+                            "examples": [
+                                "Just roast the chicken in the oven and baste it in oil and lemon.",
+                                "We lay on the beach and roasted (= got very hot) in the Mediterranean sun."
+                            ]
+                        },
+                        {
+                            "explanation": "to heat nuts or coffee beans so that they become drier and browner",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to criticize severely or speak angrily to someone: ",
+                            "examples": [
+                                "Critics roasted him for exploiting racial stereotypes."
+                            ]
+                        },
+                        {
+                            "explanation": "to humorously criticize and make jokes about a famous person at a public event honouring that person, as a part of the event: ",
+                            "examples": [
+                                "He's known for roasting big-name celebrities on his Comedy Central shows."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

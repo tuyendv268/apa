@@ -1,0 +1,56 @@
+{
+    "word": "barfed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbarf ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɑːf"
+                            ],
+                            "us": [
+                                "bɑːrf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to vomit: ",
+                            "examples": [
+                                "He got drunk and barfed all over the carpet.",
+                                "The smell was so disgusting it made me want to barf."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

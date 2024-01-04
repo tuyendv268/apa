@@ -1,0 +1,34 @@
+{
+    "word": "-ectomy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                "-ek.tə.mi"
+                            ],
+                            "us": [
+                                "-ek.tə.mi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form nouns referring to an operation to remove a particular body part or type of tissue from the body: ",
+                            "examples": [
+                                "The drug is not recommended for postoperative pain in children after adenoidectomy or tonsillectomy. ",
+                                "She found a lump in her breast and underwent a lumpectomy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

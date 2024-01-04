@@ -1,0 +1,37 @@
+{
+    "word": "footnote",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfʊt.nəʊt"
+                            ],
+                            "us": [
+                                "ˈfʊt.noʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a note printed at the bottom of a page that gives extra information about something that has been written on that page",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an event, subject, or detail that is not important: ",
+                            "examples": [
+                                "His tumultuous triumph five years ago now seems like little more than a footnote in history."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

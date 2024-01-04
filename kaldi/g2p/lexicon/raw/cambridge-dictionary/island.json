@@ -1,0 +1,43 @@
+{
+    "word": "island",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈaɪ.lənd"
+                            ],
+                            "us": [
+                                "ˈaɪ.lənd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of land completely surrounded by water: ",
+                            "examples": [
+                                "a desert island",
+                                "a Pacific island",
+                                "They live on the large Japanese island of Hokkaido."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular place that is peaceful, calm, etc., when other surrounding places are the opposite",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "→ \ntraffic island ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

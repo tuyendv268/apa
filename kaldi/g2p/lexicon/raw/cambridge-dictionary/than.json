@@ -1,0 +1,44 @@
+{
+    "word": "than",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "ðæn",
+                                "ðən"
+                            ],
+                            "us": [
+                                "ðæn",
+                                "ðən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to join two parts of a comparison: ",
+                            "examples": [
+                                "My son is a lot taller than my daughter.",
+                                "You always walk faster than I do!",
+                                "You're earlier than usual."
+                            ]
+                        },
+                        {
+                            "explanation": "used with \"more\" or \"less\" to compare numbers or amounts: ",
+                            "examples": [
+                                "I spent more than I intended to.",
+                                "It cost less than I expected."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "street child",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstriːt ˌtʃaɪld"
+                            ],
+                            "us": [
+                                "ˈstriːt ˌtʃaɪld"
+                            ],
+                            "uk_other_tense": [
+                                "ˈstriːt ˌtʃɪl.drən"
+                            ],
+                            "us_other_tense": [
+                                "ˈstriːt ˌtʃɪl.drən"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a child who does not have a home and who often sleeps outside in a city: ",
+                            "examples": [
+                                "They walked the back streets and saw the street children and the poverty.",
+                                "Your donation will provide meals and education for a street child."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

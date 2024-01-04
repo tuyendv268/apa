@@ -1,0 +1,62 @@
+{
+    "word": "code name",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkəʊd ˌneɪm"
+                            ],
+                            "us": [
+                                "ˈkoʊd ˌneɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a special word or name that is used instead of the real name of someone or something to keep the real name secret: ",
+                            "examples": [
+                                "Her code name is \"Running Bear\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkəʊd.neɪm"
+                            ],
+                            "us": [
+                                "ˈkoʊd.neɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give something or someone a special name that is used instead of its or their real name, in order to keep the real name secret: ",
+                            "examples": [
+                                "We've code-named the new project \"Entropy\".",
+                                "They code-named the site Black Swan."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

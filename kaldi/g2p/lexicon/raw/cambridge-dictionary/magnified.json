@@ -1,0 +1,61 @@
+{
+    "word": "magnified",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmagnify ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæɡ.nɪ.faɪ"
+                            ],
+                            "us": [
+                                "ˈmæɡ.nə.faɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something look larger than it is, especially by looking at it through a lens: ",
+                            "examples": [
+                                "Although our skin looks smooth, when magnified it is full of bumps and holes."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a problem bigger or more important: ",
+                            "examples": [
+                                "The hot summer magnified the racial tensions in the community."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

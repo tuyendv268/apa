@@ -1,0 +1,100 @@
+{
+    "word": "moot",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "muːt"
+                            ],
+                            "us": [
+                                "muːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to suggest something for discussion: ",
+                            "examples": [
+                                "The idea was first mooted as long ago as the 1840s.",
+                                "His name was mooted as a possible successor."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "muːt"
+                            ],
+                            "us": [
+                                "muːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "often discussed or argued about but having no definite answer: ",
+                            "examples": [
+                                "It's a moot point whether building more roads reduces traffic congestion."
+                            ]
+                        },
+                        {
+                            "explanation": "not important or not relevant, therefore not worth discussing: ",
+                            "examples": [
+                                "We don't have enough money to go, so it's all moot anyway."
+                            ]
+                        },
+                        {
+                            "explanation": "If a legal question is moot, it does not need to be dealt with, because something has happened that solves the issue: ",
+                            "examples": [
+                                "The court's decision became moot when the defendant was found dead."
+                            ]
+                        },
+                        {
+                            "explanation": "imagined or invented as an example, and so without any legal importance: ",
+                            "examples": [
+                                "a moot case"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "muːt"
+                            ],
+                            "us": [
+                                "muːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a trial or discussion dealing with an imaginary legal case, performed by students in exactly the same way as a real case, as part of their legal training: ",
+                            "examples": [
+                                "a moot court"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "shogi",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃəʊ.ɡi"
+                            ],
+                            "us": [
+                                "ˈʃoʊ.ɡi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a Japanese game played by two people using a square board, in which each player has 20 pieces that can be moved on the board in different ways: ",
+                            "examples": [
+                                "Shogi is a Japanese game similar to chess.",
+                                "Two men were playing shogi in the park."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

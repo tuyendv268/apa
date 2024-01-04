@@ -1,0 +1,66 @@
+{
+    "word": "workshop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɜːk.ʃɒp"
+                            ],
+                            "us": [
+                                "ˈwɝːk.ʃɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a room or building where things are made or repaired using machines and/or tools: ",
+                            "examples": [
+                                "a carpenter's/printer's workshop",
+                                "an engineering workshop"
+                            ]
+                        },
+                        {
+                            "explanation": "a meeting of people to discuss and/or perform practical work in a subject or activity: ",
+                            "examples": [
+                                "a drama/poetry/training workshop",
+                                "The organization runs a stress-management workshop.",
+                                "a workshop session/production"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɜːk.ʃɒp"
+                            ],
+                            "us": [
+                                "ˈwɝːk.ʃɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to prepare a play for being shown in a theatre by discussing and working on different versions of it: ",
+                            "examples": [
+                                "The show was workshopped in May 2014 at the Courtyard Theatre."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "adware",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæd.weər"
+                            ],
+                            "us": [
+                                "ˈæd.wer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "software that automatically puts advertisements onto a computer screen when a person is using the internet: ",
+                            "examples": [
+                                "a tool for detecting and removing adware"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

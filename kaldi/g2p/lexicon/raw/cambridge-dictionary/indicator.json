@@ -1,0 +1,44 @@
+{
+    "word": "indicator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.dɪ.keɪ.tər"
+                            ],
+                            "us": [
+                                "ˈɪn.də.keɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that shows what a situation is like: ",
+                            "examples": [
+                                "Commodity prices can be a useful indicator of inflation, he claimed.",
+                                "an economic indicator"
+                            ]
+                        },
+                        {
+                            "explanation": "one of the lights at the front and back of a road vehicle that flash to show which way the vehicle is turning",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a device that shows a value or a change in level, speed, etc.: ",
+                            "examples": [
+                                "The car has an overhead console with a compass and outside temperature indicator."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "rhetorically",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈtɒr.ɪ.kəl.i"
+                            ],
+                            "us": [
+                                "rɪˈtɔːr.ɪ.kəl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a question) in a way that makes a statement that does not expect an answer: ",
+                            "examples": [
+                                "\"You want to know what courage is?\" he asked rhetorically.",
+                                "I do not ask rhetorically, but because I would truly like to know the answer. "
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that relates to using language effectively: ",
+                            "examples": [
+                                "Was he more rhetorically skilled during the debate? Probably.",
+                                "The administration was rhetorically strong on human rights but weak in practice towards China."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

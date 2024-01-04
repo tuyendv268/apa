@@ -1,0 +1,40 @@
+{
+    "word": "crust",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "krʌst"
+                            ],
+                            "us": [
+                                "krʌst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a hard outer covering of something: ",
+                            "examples": [
+                                "pie crust (= the cooked pastry on top)",
+                                "the earth's crust"
+                            ]
+                        },
+                        {
+                            "explanation": "the outside layer of a loaf of bread: ",
+                            "examples": [
+                                "Could you cut the crusts off the sandwiches, please?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

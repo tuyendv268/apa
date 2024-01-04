@@ -1,0 +1,34 @@
+{
+    "word": "soup",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "suːp"
+                            ],
+                            "us": [
+                                "suːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a usually hot, liquid food made from vegetables, meat, or fish: ",
+                            "examples": [
+                                "chicken/oxtail/fish/tomato soup",
+                                "Would you like a bowl of soup?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

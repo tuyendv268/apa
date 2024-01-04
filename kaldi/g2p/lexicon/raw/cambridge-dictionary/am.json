@@ -1,0 +1,95 @@
+{
+    "word": "am",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "æm",
+                                "əm"
+                            ],
+                            "us": [
+                                "æm",
+                                "əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "I form of\nbe : ",
+                            "examples": [
+                                "Am I included?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌeɪˈem"
+                            ],
+                            "us": [
+                                "ˌeɪˈem"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used when referring to a time between twelve o'clock at night and twelve o'clock in the middle of the day: ",
+                            "examples": [
+                                "The first election results are expected around 1 a.m."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌeɪˈem"
+                            ],
+                            "us": [
+                                "ˌeɪˈem"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for amplitude modulation: a type of radio broadcasting in which the strength of the signal changes, producing sound of a lower quality than FM: ",
+                            "examples": [
+                                "You're listening to Radio Gold, broadcasting 24 hours a day on 909 AM."
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for Assembly Member: a person who has been elected to the Welsh Assembly",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

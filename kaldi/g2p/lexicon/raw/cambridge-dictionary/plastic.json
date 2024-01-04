@@ -1,0 +1,83 @@
+{
+    "word": "plastic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈplæs.tɪk"
+                            ],
+                            "us": [
+                                "ˈplæs.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an artificial substance that can be shaped when soft into many different forms and has many different uses: ",
+                            "examples": [
+                                "He put a sheet of plastic over the broken window.",
+                                "Those flowers aren't real - they're made of plastic."
+                            ]
+                        },
+                        {
+                            "explanation": "the process or business of producing plastic: ",
+                            "examples": [
+                                "The company has moved into plastics."
+                            ]
+                        },
+                        {
+                            "explanation": "credit cards or debit cards, rather than money in the form of notes, coins, or cheques: ",
+                            "examples": [
+                                "I'd prefer a restaurant where they take plastic."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈplæs.tɪk"
+                            ],
+                            "us": [
+                                "ˈplæs.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "made of plastic: ",
+                            "examples": [
+                                "a plastic bag/box/cup"
+                            ]
+                        },
+                        {
+                            "explanation": "artificial or false: ",
+                            "examples": [
+                                "I hate the hostesses' false cheerfulness and plastic smiles."
+                            ]
+                        },
+                        {
+                            "explanation": "soft enough to be changed into a new shape: ",
+                            "examples": [
+                                "Clay is a very plastic material.",
+                                "This metal is plastic at high temperatures."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

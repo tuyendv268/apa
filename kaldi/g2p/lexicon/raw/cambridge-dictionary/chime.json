@@ -1,0 +1,67 @@
+{
+    "word": "chime",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tʃaɪm"
+                            ],
+                            "us": [
+                                "tʃaɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of bells) to make a clear ringing sound: ",
+                            "examples": [
+                                "In the square the church bells chimed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tʃaɪm"
+                            ],
+                            "us": [
+                                "tʃaɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a ringing sound: ",
+                            "examples": [
+                                "I was woken up by the chimes of the cathedral bells."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of small bells, or objects that make ringing sounds: ",
+                            "examples": [
+                                "wind chimes"
+                            ]
+                        },
+                        {
+                            "explanation": "a musical instrument consisting of a set of metal tubes that are hit to produce a ringing sound",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

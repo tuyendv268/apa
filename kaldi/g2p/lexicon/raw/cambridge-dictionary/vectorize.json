@@ -1,0 +1,35 @@
+{
+    "word": "vectorize",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈvek.tər.aɪz"
+                            ],
+                            "us": [
+                                "ˈvek.tɚ.aɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change a graphic, for example one in the form of a bitmap (= a computer image formed from small units called pixels), to a vector image, which can be made into any size without its quality being affected; to be changed in this way: ",
+                            "examples": [
+                                "This software allows you to scan and vectorize logos. ",
+                                "I began with line drawings which I then put into a computer where they were vectorised to become more dynamic.",
+                                "Many of these freely available images will vectorize well."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

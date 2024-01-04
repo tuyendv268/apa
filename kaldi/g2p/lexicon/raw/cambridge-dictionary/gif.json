@@ -1,0 +1,61 @@
+{
+    "word": "gif",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡɪf"
+                            ],
+                            "us": [
+                                "ɡɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of computer file that contains a still or moving image. GIF is the abbreviation for \"Graphic Interchange Format\": ",
+                            "examples": [
+                                "A GIF may contain more than one frame, so it can be animated.",
+                                "Animated GIFs are actually fairly easy to create."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɡɪf",
+                                "dʒɪf"
+                            ],
+                            "us": [
+                                "ɡɪf",
+                                "dʒɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a type of computer file that contains a still or moving image. GIF is the abbreviation for \"Graphic Interchange Format\": ",
+                            "examples": [
+                                "The GIF files are already compressed.",
+                                "An image editor can save files in GIF format. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

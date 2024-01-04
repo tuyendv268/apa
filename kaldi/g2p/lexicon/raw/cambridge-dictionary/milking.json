@@ -1,0 +1,63 @@
+{
+    "word": "milking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmilk ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɪlk"
+                            ],
+                            "us": [
+                                "mɪlk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get milk from an animal: ",
+                            "examples": [
+                                "Milking a cow by hand is a skilled process.",
+                                "Some goats seem to milk (= produce milk) better than others."
+                            ]
+                        },
+                        {
+                            "explanation": "to get as much money or information out of someone or something as possible, often in an unfair or dishonest way: ",
+                            "examples": [
+                                "The newspapers milked the story dry.",
+                                "The directors milked the company of several million dollars."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

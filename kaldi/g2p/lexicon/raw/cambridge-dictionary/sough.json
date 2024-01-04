@@ -1,0 +1,59 @@
+{
+    "word": "sough",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "saʊ"
+                            ],
+                            "us": [
+                                "saʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(especially of the wind or sea) to make a long high or low sound while moving: ",
+                            "examples": [
+                                "The wind soughed through the towering pines nearby.",
+                                "We walked across the moor with the sea soughing below."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "saʊ"
+                            ],
+                            "us": [
+                                "saʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the high or low long sound that something such as the wind or sea makes as it moves: ",
+                            "examples": [
+                                "the sough of wind through the pine trees",
+                                "You can almost hear the sough of the sea far off."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

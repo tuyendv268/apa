@@ -1,0 +1,34 @@
+{
+    "word": "non-sentence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈsen.təns"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈsen.təns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of words that does not form a complete sentence: ",
+                            "examples": [
+                                "The first chapter of the novel begins with a pretentious non-sentence.",
+                                "Nearly all the comments are written in non-sentence format."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

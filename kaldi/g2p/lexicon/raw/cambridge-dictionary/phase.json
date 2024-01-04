@@ -1,0 +1,68 @@
+{
+    "word": "phase",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "feɪz"
+                            ],
+                            "us": [
+                                "feɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any stage in a series of events or in a process of development: ",
+                            "examples": [
+                                "The project is only in its initial phase as yet, but it's looking quite promising.",
+                                "We're entering a new phase in international relations."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of strange or difficult behaviour that will stop after a while, especially a period that a young child or person goes through: ",
+                            "examples": [
+                                "When I was in my early teens I went through a phase of only ever wearing black."
+                            ]
+                        },
+                        {
+                            "explanation": "The phases of the moon are the regular changes in its shape as it appears to us on earth.",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "feɪz"
+                            ],
+                            "us": [
+                                "feɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to introduce something in stages over a particular period of time: ",
+                            "examples": [
+                                "The reduction in armed forces will be phased over the next ten years."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

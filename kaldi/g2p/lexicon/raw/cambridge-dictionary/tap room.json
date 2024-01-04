@@ -1,0 +1,39 @@
+{
+    "word": "tap room",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæp ˌruːm"
+                            ],
+                            "us": [
+                                "ˈtæp ˌruːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a part of a brewery (= a place where beer is made) where beer served from a tap can be tasted: ",
+                            "examples": [
+                                "The brewery is turning an old train car into a tap room to pour its homemade Belgian-style ales."
+                            ]
+                        },
+                        {
+                            "explanation": "a pub or bar, or part of one, where beer is served from taps, and other drinks and sometimes food are sold: ",
+                            "examples": [
+                                "He had an odious weekend job at the local tap room."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "visited",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nvisit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɪz.ɪt"
+                            ],
+                            "us": [
+                                "ˈvɪz.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to go to a place in order to look at it, or to a person in order to spend time with them: ",
+                            "examples": [
+                                "We visited a few galleries while we were in Prague.",
+                                "Will you visit me when I'm in hospital?",
+                                "When did you last visit the dentist/doctor?"
+                            ]
+                        },
+                        {
+                            "explanation": "to go to a website on the internet",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

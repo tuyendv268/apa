@@ -1,0 +1,39 @@
+{
+    "word": "ouch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "aʊtʃ"
+                            ],
+                            "us": [
+                                "aʊtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to express sudden physical pain: ",
+                            "examples": [
+                                "Ouch, you're hurting me!"
+                            ]
+                        },
+                        {
+                            "explanation": "used in answer to something unkind that someone says: ",
+                            "examples": [
+                                "\"I really think you're much too fat, Dorothy.\" \"Ouch, that was mean.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

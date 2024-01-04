@@ -1,0 +1,61 @@
+{
+    "word": "righting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nright ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "raɪt"
+                            ],
+                            "us": [
+                                "raɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If you right a situation or a mistake, you make it better or correct it: ",
+                            "examples": [
+                                "It's a terrible situation and we should right it as soon as possible."
+                            ]
+                        },
+                        {
+                            "explanation": "If a boat rights itself, it turns itself back to its correct position in the water: ",
+                            "examples": [
+                                "The canoe will right itself if it capsizes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

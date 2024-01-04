@@ -1,0 +1,39 @@
+{
+    "word": "virtualize",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɜː.tʃu.ə.laɪz"
+                            ],
+                            "us": [
+                                "ˈvɝː.tʃu.ə.laɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change something that exists in a real form into a virtual version (= one that is created using a computer): ",
+                            "examples": [
+                                "The project enabled users to visit virtualized art galleries at the Berlin Gallery Weekend. "
+                            ]
+                        },
+                        {
+                            "explanation": "to create a virtual version or several virtual versions of a piece of computer equipment or software: ",
+                            "examples": [
+                                "In this way we can virtualize key applications, and then offer them to our family of companies via a secure, internal cloud infrastructure."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

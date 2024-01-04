@@ -1,0 +1,33 @@
+{
+    "word": "vm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌviːˈem"
+                            ],
+                            "us": [
+                                "ˌviːˈem"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for virtual machine: a computer system that is created by software on one computer to copy the operations performed by a separate computer: ",
+                            "examples": [
+                                "The machine code is taken from the VM and translated block by block to conform to the architecture of the host computer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

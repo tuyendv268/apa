@@ -1,0 +1,41 @@
+{
+    "word": "validity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "vəˈlɪd.ə.ti"
+                            ],
+                            "us": [
+                                "vəˈlɪd.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the quality of being based on truth or reason, or of being able to be accepted: ",
+                            "examples": [
+                                "This research seems to give/lend some validity to the theory that the drug might cause cancer.",
+                                "Not for one moment did he doubt the validity of those ideas."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of having legal force, or being legally acceptable: ",
+                            "examples": [
+                                "Election observers challenged the validity of the vote.",
+                                "State officials, however, questioned the validity of the report."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

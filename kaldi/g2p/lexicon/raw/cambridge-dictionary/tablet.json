@@ -1,0 +1,45 @@
+{
+    "word": "tablet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæb.lət"
+                            ],
+                            "us": [
+                                "ˈtæb.lət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small, solid piece of medicine: ",
+                            "examples": [
+                                "a sleeping tablet",
+                                "a vitamin tablet"
+                            ]
+                        },
+                        {
+                            "explanation": "a thin, flat, often square piece of hard material such as wood, stone, or metal: ",
+                            "examples": [
+                                "The poem was engraved on a tablet of stone.",
+                                "a tablet of soap"
+                            ]
+                        },
+                        {
+                            "explanation": "a small, flat computer that is controlled by touching the screen or by using a special pen",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

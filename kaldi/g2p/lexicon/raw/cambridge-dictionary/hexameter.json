@@ -1,0 +1,34 @@
+{
+    "word": "hexameter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "heksˈæm.ɪ.tər"
+                            ],
+                            "us": [
+                                "heksˈæm.ə.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a line in poetry that has six feet (= units containing one strong syllable and one or two weaker ones), or the rhythm of poetry that has this pattern: ",
+                            "examples": [
+                                "In this Ode, Horace extolls in hexameter the virtue of his patron.",
+                                "Elegaic metre is a couplet consisting of one hexameter and one pentameter."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

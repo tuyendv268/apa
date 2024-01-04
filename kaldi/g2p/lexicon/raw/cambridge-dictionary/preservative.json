@@ -1,0 +1,42 @@
+{
+    "word": "preservative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈzɜː.və.tɪv"
+                            ],
+                            "us": [
+                                "prɪˈzɝː.və.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance used to prevent decay in wood: ",
+                            "examples": [
+                                "a timber/wood preservative",
+                                "The fence has been treated with preservative."
+                            ]
+                        },
+                        {
+                            "explanation": "a chemical used to stop food from decaying: ",
+                            "examples": [
+                                "This bread is completely free from artificial preservatives.",
+                                "No added preservatives.",
+                                "natural preservatives"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

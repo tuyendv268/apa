@@ -1,0 +1,71 @@
+{
+    "word": "exclusive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈskluː.sɪv"
+                            ],
+                            "us": [
+                                "ɪkˈskluː.sɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "limited to only one person or group of people: ",
+                            "examples": [
+                                "This room is for the exclusive use of guests.",
+                                "He gave an exclusive interview to the Times from his home in California. "
+                            ]
+                        },
+                        {
+                            "explanation": "expensive and only for people who are rich or of a high social class: ",
+                            "examples": [
+                                "an exclusive private club",
+                                "an exclusive part of town"
+                            ]
+                        },
+                        {
+                            "explanation": "not including something: ",
+                            "examples": [
+                                "Is the total exclusive of service charges?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈskluː.sɪv"
+                            ],
+                            "us": [
+                                "ɪkˈskluː.sɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a story that is published in one magazine, website, etc., and no others: ",
+                            "examples": [
+                                "The newspaper published an exclusive about the escape."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "telecom",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtel.ɪ.kɒm"
+                            ],
+                            "us": [
+                                "ˈtel.ɪ.kɑːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \ntelecommunications : ",
+                            "examples": [
+                                "the telecom industry",
+                                "We sell the devices mostly to big cable and telecom companies."
+                            ]
+                        },
+                        {
+                            "explanation": "a telecommunications company ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "booth",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "buːð"
+                            ],
+                            "us": [
+                                "buːθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small space like a box that a person can go into: ",
+                            "examples": [
+                                "a phone booth",
+                                "a polling booth"
+                            ]
+                        },
+                        {
+                            "explanation": "a partly closed area or small tent at a fair, exhibition, or similar event",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a place in a restaurant that is beside a wall and where there are two long seats, often with high backs, with a table between them",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

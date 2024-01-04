@@ -1,0 +1,41 @@
+{
+    "word": "crt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsiː.ɑːˈtiː"
+                            ],
+                            "us": [
+                                "ˌsiː.ɑːrˈtiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for\ncathode ray tube : a tube-shaped part in a television or computer screen, inside which a continuous flow of electrons is produced to create images or text: ",
+                            "examples": [
+                                "This LCD screen is much brighter than my old CRT.",
+                                "a CRT display/monitor/processor"
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for \ncardiac resynchronization therapy : a treatment for heart failure using a pacemaker (= a device put into someone's chest to help the heart beat regularly): ",
+                            "examples": [
+                                "CRT improves the heart’s efficiency and increases blood flow.",
+                                "They studied cardiac mortality in patients treated with CRT."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

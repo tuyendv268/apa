@@ -1,0 +1,75 @@
+{
+    "word": "grazed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ngraze ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡreɪz"
+                            ],
+                            "us": [
+                                "ɡreɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to break the surface of the skin by rubbing against something rough: ",
+                            "examples": [
+                                "He fell down and grazed his knee.",
+                                "He was lucky, the bullet just grazed his leg."
+                            ]
+                        },
+                        {
+                            "explanation": "If an object grazes something, it touches its surface lightly when it passes it: ",
+                            "examples": [
+                                "The aircraft's landing gear grazed the treetops as it landed."
+                            ]
+                        },
+                        {
+                            "explanation": "to (cause animals to) eat grass: ",
+                            "examples": [
+                                "The cows were grazing.",
+                                "The farmer grazes cattle on this land in the summer months."
+                            ]
+                        },
+                        {
+                            "explanation": "to eat small amounts of food many times during the day instead of sitting down to eat meals at particular times: ",
+                            "examples": [
+                                "No dinner for me, thanks - I've been grazing all day."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

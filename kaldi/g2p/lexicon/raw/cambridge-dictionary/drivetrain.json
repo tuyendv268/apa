@@ -1,0 +1,34 @@
+{
+    "word": "drivetrain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdraɪv.treɪn"
+                            ],
+                            "us": [
+                                "ˈdraɪv.treɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the set of parts in a machine that make the machine move by connecting the power source with the parts that move, for example, the set of parts in a vehicle that deliver power from the engine to the wheels: ",
+                            "examples": [
+                                "The car uses a hybrid petrol-electric drivetrain.",
+                                "Instead of chains or mechanical drive trains to power the fans, his creation uses a hydraulic system that is lighter and less bulky."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

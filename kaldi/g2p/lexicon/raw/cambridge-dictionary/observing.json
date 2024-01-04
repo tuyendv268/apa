@@ -1,0 +1,81 @@
+{
+    "word": "observing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nobserve ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əbˈzɜːv"
+                            ],
+                            "us": [
+                                "əbˈzɝːv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to watch carefully the way something happens or the way someone does something, especially in order to learn more about it: ",
+                            "examples": [
+                                "The role of scientists is to observe and describe the world, not to try to control it.",
+                                "He spent a year in the jungle, observing how deforestation is affecting local tribes.",
+                                "Children learn by observing adults."
+                            ]
+                        },
+                        {
+                            "explanation": "to notice or see: ",
+                            "examples": [
+                                "Jack observed a look of anxiety on his brother's face.",
+                                "The guards failed to observe who delivered the package.",
+                                "In all these films one observes that directors are taking a new interest in Native American culture.",
+                                "A teacher observed her climb over the gate."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a remark about something: ",
+                            "examples": [
+                                "\"I've always found German cars very reliable,\" he observed.",
+                                "She observed that it would soon be time to stop for lunch."
+                            ]
+                        },
+                        {
+                            "explanation": "to obey a law, rule, or custom: ",
+                            "examples": [
+                                "People must observe the law. Nobody should be an exception.",
+                                "The old people in the village still observe the local traditions.",
+                                "Do you observe Passover?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

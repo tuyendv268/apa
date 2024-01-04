@@ -1,0 +1,68 @@
+{
+    "word": "novel",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnɒv.əl"
+                            ],
+                            "us": [
+                                "ˈnɑː.vəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long printed story about imaginary characters and events: ",
+                            "examples": [
+                                "a paperback novel",
+                                "historical/romantic novels",
+                                "Have you read any of Jane Austen's novels?",
+                                "His latest novel is selling really well."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈnɒv.əl"
+                            ],
+                            "us": [
+                                "ˈnɑː.vəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "new and original, not like anything seen before: ",
+                            "examples": [
+                                "a novel idea/suggestion",
+                                "Keeping a sheep in the garden is a novel way of keeping the grass short!"
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a new strain (= type) of a virus that has not been seen before: ",
+                            "examples": [
+                                "The COVID-19 pathogen is a novel coronavirus.",
+                                "A novel virus in swine is closely related to the human hepatitis E virus."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

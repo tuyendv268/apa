@@ -1,0 +1,40 @@
+{
+    "word": "reduplicative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈdjuː.plɪ.kə.tɪv"
+                            ],
+                            "us": [
+                                "ˌriːˈduː.plə.kə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving a repeated sound or part of a word that forms a new word: ",
+                            "examples": [
+                                "Reduplicative compounds such as \"easy-peasy\" and \"helter-skelter\" are treated as compounds.",
+                                "The class of reduplicative terms in spoken language is fairly large."
+                            ]
+                        },
+                        {
+                            "explanation": "repeating the same action or making copies of something: ",
+                            "examples": [
+                                "The song has a pattern which is reduplicative."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

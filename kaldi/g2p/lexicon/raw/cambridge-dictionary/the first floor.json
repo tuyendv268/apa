@@ -1,0 +1,75 @@
+{
+    "word": "the first floor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfɜːst ˈflɔːr"
+                            ],
+                            "us": [
+                                "ˌfɝːst ˈflɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the level of a building that is one level above the street: ",
+                            "examples": [
+                                "She works on the first floor."
+                            ]
+                        },
+                        {
+                            "explanation": "the level of a building that is at the same level as the street: ",
+                            "examples": [
+                                "She got on the elevator on the first floor and pushed the button for the 35th."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌfɜːstˈflɔːr"
+                            ],
+                            "us": [
+                                "ˌfɝːstˈflɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "on the level of a building that is one level above the street: ",
+                            "examples": [
+                                "We had a first-floor flat. I had to drag the baby's pram up eighteen steep stairs to get to it.",
+                                "He had been crouched on the first-floor landing for a long time."
+                            ]
+                        },
+                        {
+                            "explanation": "on the level of a building that is the same level as the street: ",
+                            "examples": [
+                                "The storm caused flooding in 20 first-floor apartments.",
+                                "Police believe he entered the building from a first-floor window at the back of the house."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

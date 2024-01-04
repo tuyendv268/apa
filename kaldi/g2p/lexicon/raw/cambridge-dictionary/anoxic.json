@@ -1,0 +1,41 @@
+{
+    "word": "anoxic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ænˈɒk.sɪk"
+                            ],
+                            "us": [
+                                "ænˈɑːk.sɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "caused by a lack of oxygen available to the blood and body: ",
+                            "examples": [
+                                "He suffered anoxic brain injury during a cardiac arrest.",
+                                "Unfortunately, the patient had gone so long without oxygen she had sustained anoxic encephalopathy."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a place or environment) lacking oxygen: ",
+                            "examples": [
+                                "Hypoxic and anoxic waters are deadly for many species that live in the bay.",
+                                "Shellfish rely heavily on shallow water because deeper water frequently becomes anoxic."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "plasma",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈplæz.mə"
+                            ],
+                            "us": [
+                                "ˈplæz.mə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the pale yellow liquid that forms 55% of human blood and contains the blood cells",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a type of gas with almost no electrical charge, found in the sun and other stars: ",
+                            "examples": [
+                                "solar plasma",
+                                "plasma physics"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

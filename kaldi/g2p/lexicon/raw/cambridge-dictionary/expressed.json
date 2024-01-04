@@ -1,0 +1,71 @@
+{
+    "word": "expressed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nexpress ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspres"
+                            ],
+                            "us": [
+                                "ɪkˈspres"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to show a feeling, opinion, or fact: ",
+                            "examples": [
+                                "Her eyes expressed deep sadness.",
+                                "I would like to express my thanks for your kindness.",
+                                "Words can't express how happy I am.",
+                                "These figures are expressed as a percentage of the total."
+                            ]
+                        },
+                        {
+                            "explanation": "to communicate what you think or feel, by speaking or writing, or in some other way: ",
+                            "examples": [
+                                "I'm afraid I'm not expressing myself very clearly.",
+                                "Children often express themselves in painting."
+                            ]
+                        },
+                        {
+                            "explanation": "to send something somewhere very quickly: ",
+                            "examples": [
+                                "Your order will be expressed to you within 24 hours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

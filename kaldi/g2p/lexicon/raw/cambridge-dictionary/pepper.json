@@ -1,0 +1,42 @@
+{
+    "word": "pepper",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpep.ər"
+                            ],
+                            "us": [
+                                "ˈpep.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a grey or white powder produced by crushing dry peppercorns, used to give a spicy, hot taste to food: ",
+                            "examples": [
+                                "freshly ground black pepper",
+                                "salt and pepper"
+                            ]
+                        },
+                        {
+                            "explanation": "a vegetable that is usually green, red, or yellow, has a rounded shape, and is hollow with seeds in the middle: ",
+                            "examples": [
+                                "a red/green pepper",
+                                "Peppers are usually cooked with other vegetables or eaten raw in salads.",
+                                "Red peppers are ideal for roasting in the oven."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

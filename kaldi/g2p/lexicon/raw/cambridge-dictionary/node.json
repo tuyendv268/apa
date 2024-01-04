@@ -1,0 +1,47 @@
+{
+    "word": "node",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "nəʊd"
+                            ],
+                            "us": [
+                                "noʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a place where a leaf and stem join on a plant: ",
+                            "examples": [
+                                "a leaf node",
+                                "New plants may emerge from each node on a stem."
+                            ]
+                        },
+                        {
+                            "explanation": "a place where things such as lines or systems join: ",
+                            "examples": [
+                                "A network is a series of points or nodes interconnected by communication paths.",
+                                "Instead of creating individual polygons and trying to fit them together like a jigsaw, you start by creating nodes where lines will intersect."
+                            ]
+                        },
+                        {
+                            "explanation": "a very small mass of tissue in the body : ",
+                            "examples": [
+                                "Lymph vessels route lymph fluid through nodes throughout the body."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

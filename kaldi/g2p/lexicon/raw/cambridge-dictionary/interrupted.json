@@ -1,0 +1,62 @@
+{
+    "word": "interrupted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ninterrupt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈrʌpt"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬əˈrʌpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stop a person from speaking for a short period by something you say or do: ",
+                            "examples": [
+                                "She tried to explain what had happened but he kept interrupting her.",
+                                "I wish you'd stop interrupting."
+                            ]
+                        },
+                        {
+                            "explanation": "to stop something from happening for a short period: ",
+                            "examples": [
+                                "We had to interrupt our trip when we heard John's mother had had an accident."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

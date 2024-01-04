@@ -1,0 +1,86 @@
+{
+    "word": "exited",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nexit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.sɪt",
+                                "ˈeɡ.zɪt"
+                            ],
+                            "us": [
+                                "ˈek.sɪt",
+                                "ˈeɡ.zɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to leave a place such as a building, room, or large vehicle: ",
+                            "examples": [
+                                "I exited quickly before anyone could see me.",
+                                "Please exit the theatre by the side doors."
+                            ]
+                        },
+                        {
+                            "explanation": "to leave a theatre stage: ",
+                            "examples": [
+                                "The character exits stage right.",
+                                "The singer took a bow before exiting the stage."
+                            ]
+                        },
+                        {
+                            "explanation": "to leave a large road and turn onto a smaller road: ",
+                            "examples": [
+                                "Detectives were following the car as it exited Route 3.",
+                                "Exit at junction 29."
+                            ]
+                        },
+                        {
+                            "explanation": "to leave something such as a job, an organization, a competition, or a television show: ",
+                            "examples": [
+                                "The former CEO exited the company amid growing criticism.",
+                                "They would be the ones exiting early from the tournament."
+                            ]
+                        },
+                        {
+                            "explanation": "to end a computer program that you are using: ",
+                            "examples": [
+                                "You have to exit the program before starting another.",
+                                "Click here to save and exit."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

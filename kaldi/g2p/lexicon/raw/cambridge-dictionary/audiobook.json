@@ -1,0 +1,33 @@
+{
+    "word": "audiobook",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.di.əʊ.bʊk"
+                            ],
+                            "us": [
+                                "ˈɑː.di.oʊ.bʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a recording, on a CD or made available on the internet, of a book being read aloud: ",
+                            "examples": [
+                                "We have a wide range of audiobooks for you to download to your smartphone or other listening device."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

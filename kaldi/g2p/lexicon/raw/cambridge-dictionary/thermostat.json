@@ -1,0 +1,33 @@
+{
+    "word": "thermostat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈθɜː.mə.stæt"
+                            ],
+                            "us": [
+                                "ˈθɝː.mə.stæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device that keeps a building, engine, etc. within a limited temperature range by automatically switching the supply of heat on and off: ",
+                            "examples": [
+                                "a central heating thermostat"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

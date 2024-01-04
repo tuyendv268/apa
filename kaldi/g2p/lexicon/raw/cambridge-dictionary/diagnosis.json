@@ -1,0 +1,39 @@
+{
+    "word": "diagnosis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaɪ.əɡˈnəʊ.sɪs"
+                            ],
+                            "us": [
+                                "ˌdaɪ.əɡˈnoʊ.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "ˌdaɪ.əɡˈnəʊ.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˌdaɪ.əɡˈnoʊ.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a judgment about what a particular illness or problem is, made after examining it: ",
+                            "examples": [
+                                "\"What was the diagnosis?\" \"Arthritis in both joints.\"",
+                                "The doctor has made an initial diagnosis.",
+                                "Diagnosis of the disease is difficult in the early stages."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

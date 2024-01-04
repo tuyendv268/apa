@@ -1,0 +1,40 @@
+{
+    "word": "recension",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈsen.ʃən"
+                            ],
+                            "us": [
+                                "rɪˈsen.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a version of a text, especially a historical text, that has been revised (= changed and improved) by someone examining and judging it carefully : ",
+                            "examples": [
+                                "This is not the original recension of the text.",
+                                "The Historia Brittonum is a historical work that was first composed around 830, and that exists in several recensions."
+                            ]
+                        },
+                        {
+                            "explanation": "the activity of revising (= changing and improving) a text, especially a historical text, by examining and judging it carefully: ",
+                            "examples": [
+                                "The process of recension has reduced the number of texts having a claim to be considered authoritative."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

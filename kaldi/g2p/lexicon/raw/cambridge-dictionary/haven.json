@@ -1,0 +1,41 @@
+{
+    "word": "haven",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈheɪ.vən"
+                            ],
+                            "us": [
+                                "ˈheɪ.vən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a safe or peaceful place: ",
+                            "examples": [
+                                "The garden was a haven from the noise and bustle of the city.",
+                                "They wanted to provide safe havens for the refugees."
+                            ]
+                        },
+                        {
+                            "explanation": "an area of water next to the coast where ships and boats can shelter, or a small port: ",
+                            "examples": [
+                                "These days the port is mainly used as a haven for small fishing boats.",
+                                "He sailed the boat straight to the nearest pirate haven to recruit a real crew."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

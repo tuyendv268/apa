@@ -1,0 +1,39 @@
+{
+    "word": "arguable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑːɡ.ju.ə.bəl"
+                            ],
+                            "us": [
+                                "ˈɑːrɡ.ju.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If something is arguable, there could be some disagreement about it: ",
+                            "examples": [
+                                "It is arguable which way is quicker."
+                            ]
+                        },
+                        {
+                            "explanation": "it is possibly true that: ",
+                            "examples": [
+                                "It is arguable that the government has failed in this respect."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

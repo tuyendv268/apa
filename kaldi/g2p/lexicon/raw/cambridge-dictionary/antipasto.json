@@ -1,0 +1,35 @@
+{
+    "word": "antipasto",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.tiˈpæs.təʊ"
+                            ],
+                            "us": [
+                                "ˌæn.t̬iˈpɑː.stoʊ"
+                            ],
+                            "uk_other_tense": [
+                                "-ti"
+                            ],
+                            "us_other_tense": [
+                                "-sti"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small amount of food eaten at the beginning of an Italian meal",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

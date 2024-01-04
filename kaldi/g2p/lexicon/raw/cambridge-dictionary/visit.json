@@ -1,0 +1,70 @@
+{
+    "word": "visit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɪz.ɪt"
+                            ],
+                            "us": [
+                                "ˈvɪz.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to go to a place in order to look at it, or to a person in order to spend time with them: ",
+                            "examples": [
+                                "We visited a few galleries while we were in Prague.",
+                                "Will you visit me when I'm in hospital?",
+                                "When did you last visit the dentist/doctor?"
+                            ]
+                        },
+                        {
+                            "explanation": "to go to a website on the internet",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɪz.ɪt"
+                            ],
+                            "us": [
+                                "ˈvɪz.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an occasion when you visit a place or person: ",
+                            "examples": [
+                                "We had a visit from the school inspector last week.",
+                                "I can't stop for a coffee - this is just a flying (= very short) visit."
+                            ]
+                        },
+                        {
+                            "explanation": "to visit a person or place, usually for a short time: ",
+                            "examples": [
+                                "I think I'll pay a visit to the library while I'm in town."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

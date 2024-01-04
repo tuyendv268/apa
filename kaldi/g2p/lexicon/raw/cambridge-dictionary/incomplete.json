@@ -1,0 +1,58 @@
+{
+    "word": "incomplete",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.kəmˈpliːt"
+                            ],
+                            "us": [
+                                "ˌɪn.kəmˈpliːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not having some parts, or not finished: ",
+                            "examples": [
+                                "The decision was based on incomplete or inaccurate information.",
+                                "The building is still incomplete."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.kəmˈpliːt"
+                            ],
+                            "us": [
+                                "ˌɪn.kəmˈpliːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mark, usually temporary, received when some of the work for a class has not been finished: ",
+                            "examples": [
+                                "He failed to hand in his term paper, so he got an incomplete for the course."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

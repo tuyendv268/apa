@@ -1,0 +1,58 @@
+{
+    "word": "factor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfæk.tər"
+                            ],
+                            "us": [
+                                "ˈfæk.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fact or situation that influences the result of something: ",
+                            "examples": [
+                                "People's voting habits are influenced by political, social and economic factors.",
+                                "Heavy snow was a contributing factor in the accident.",
+                                "Price will be a major factor in the success of this new product.",
+                                "Grades are still a crucial factor in determining who gets into which university.",
+                                "The economy is regarded as the deciding factor in the outcome of the election.",
+                                "Production costs are the key factor in determining price.",
+                                "The movie's success is largely due to its feel-good factor (= its ability to make people feel happy)."
+                            ]
+                        },
+                        {
+                            "explanation": "in mathematics, any whole number that is produced when you divide a larger number by another whole number: ",
+                            "examples": [
+                                "Two, three, four and six are all factors of twelve."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular level on some systems of measurement: ",
+                            "examples": [
+                                "a wind chill factor of -20",
+                                "a factor 20 suntan cream"
+                            ]
+                        },
+                        {
+                            "explanation": "If an amount becomes larger or smaller by a factor of a particular number, it becomes that number of times larger or smaller: ",
+                            "examples": [
+                                "Cases of leukaemia in the area near the nuclear reactor have risen by a factor of four."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

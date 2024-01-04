@@ -1,0 +1,53 @@
+{
+    "word": "negatively",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈneɡ.ə.tɪv.li"
+                            ],
+                            "us": [
+                                "ˈneɡ.ə.t̬ɪv.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that expresses \"no\": ",
+                            "examples": [
+                                "When he applied for a loan, the bank replied negatively.",
+                                "When a parent makes a request and the child responds negatively, the parent should not back down."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that is bad or harmful: ",
+                            "examples": [
+                                "The cemetery could negatively impact property values in the area.",
+                                "Some patients feel that they are perceived negatively by healthcare professionals because of their race, class, age, or disability."
+                            ]
+                        },
+                        {
+                            "explanation": "without expecting good things, or considering only the bad side of a situation: ",
+                            "examples": [
+                                "She is trying to break bad habits such as thinking negatively and being late."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that relates to the type of electrical charge that is carried by electrons: ",
+                            "examples": [
+                                "The electrode is negatively charged."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

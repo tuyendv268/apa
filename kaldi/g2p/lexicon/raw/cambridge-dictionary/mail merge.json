@@ -1,0 +1,31 @@
+{
+    "word": "mail merge",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmeɪl ˌmɜːdʒ"
+                            ],
+                            "us": [
+                                "ˈmeɪl ˌmɝːdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use of a computer to produce many copies of a letter, each copy with a different name and address stored on file, or a computer program that does this",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

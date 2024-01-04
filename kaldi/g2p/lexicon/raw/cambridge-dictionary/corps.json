@@ -1,0 +1,42 @@
+{
+    "word": "corps",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kɔːr"
+                            ],
+                            "us": [
+                                "kɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a military unit trained to perform particular duties: ",
+                            "examples": [
+                                "the Royal Army Medical Corps",
+                                "the intelligence corps"
+                            ]
+                        },
+                        {
+                            "explanation": "a group of people who are connected because they are involved in a particular activity: ",
+                            "examples": [
+                                "the diplomatic corps",
+                                "the press corps",
+                                "A corps of technicians is accompanying the band on their tour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

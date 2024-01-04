@@ -1,0 +1,67 @@
+{
+    "word": "snarfed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsnarf ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "snɑːf"
+                            ],
+                            "us": [
+                                "snɑːrf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to eat something very quickly in a way that people think is greedy: ",
+                            "examples": [
+                                "He snarfed down the whole cake."
+                            ]
+                        },
+                        {
+                            "explanation": "to take something without permission: ",
+                            "examples": [
+                                "I snarfed the book off the table when he wasn't looking."
+                            ]
+                        },
+                        {
+                            "explanation": "to use a computer document or file without getting the writer's permission: ",
+                            "examples": [
+                                "He hacked into the computer system and snarfed some images."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

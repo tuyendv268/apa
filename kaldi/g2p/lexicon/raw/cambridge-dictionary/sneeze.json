@@ -1,0 +1,57 @@
+{
+    "word": "sneeze",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sniːz"
+                            ],
+                            "us": [
+                                "sniːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When you sneeze, air and often small drops of liquid suddenly come out of your nose and mouth in a way you cannot control: ",
+                            "examples": [
+                                "Cats make him sneeze - I think he's allergic to them."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sniːz"
+                            ],
+                            "us": [
+                                "sniːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an act or sound of sneezing: ",
+                            "examples": [
+                                "He has all the classic symptoms of a cold - the coughs and sneezes and the sore throat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "opinion mining",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "əˈpɪn.jən ˌmaɪ.nɪŋ"
+                            ],
+                            "us": [
+                                "əˈpɪn.jən ˌmaɪ.nɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of using computer software to find out people's opinions or feelings about something from things that have been written, especially comments that people have posted on social media: ",
+                            "examples": [
+                                "Internet retailers collect large amounts of data in the form of written user reviews, and opinion mining is used to extract customer needs and preferences from it.",
+                                "Opinion mining techniques are becoming an important source of information for market research."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

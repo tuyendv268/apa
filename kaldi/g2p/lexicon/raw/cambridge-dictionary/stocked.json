@@ -1,0 +1,62 @@
+{
+    "word": "stocked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nstock ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stɒk"
+                            ],
+                            "us": [
+                                "stɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a shop or factory stocks something, it keeps a supply of it: ",
+                            "examples": [
+                                "Most supermarkets stock a wide range of wines."
+                            ]
+                        },
+                        {
+                            "explanation": "to fill something such as a cupboard or shelves with food or goods: ",
+                            "examples": [
+                                "He has a part-time job stocking shelves in the local supermarket.",
+                                "I always stock up the fridge before my sister comes to stay."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "hypernym",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhaɪ.pə.nɪm"
+                            ],
+                            "us": [
+                                "ˈhaɪ.pɚ.nɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word whose meaning includes a group of other words: ",
+                            "examples": [
+                                "The first hypernyms for dog that come to mind would be animal or pet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

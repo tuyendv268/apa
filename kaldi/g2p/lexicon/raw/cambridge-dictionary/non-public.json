@@ -1,0 +1,41 @@
+{
+    "word": "non-public",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈpʌb.lɪk"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈpʌb.lɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "limited to a particular person or group of people rather than being available to everyone: ",
+                            "examples": [
+                                "We have put strong measures in place to safeguard your nonpublic information.",
+                                "We shall store this information in a non-public area. "
+                            ]
+                        },
+                        {
+                            "explanation": "not provided by the government from taxes to be available to everyone: ",
+                            "examples": [
+                                "Their children are enrolled in a nonpublic school.",
+                                "The rules do not apply to non-public building projects."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

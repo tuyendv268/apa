@@ -1,0 +1,34 @@
+{
+    "word": "greyware",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡreɪ.weər"
+                            ],
+                            "us": [
+                                "ˈɡreɪ.wer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "software that you do not want on your computer or device and that may cause problems, but is not intended to cause serious problems or harm in the same way as malware: ",
+                            "examples": [
+                                "Greyware is sometimes referred to as \"potentially unwanted programs\".",
+                                "Pop-up windows are a form of greyware."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

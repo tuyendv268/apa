@@ -1,0 +1,33 @@
+{
+    "word": "gantt chart",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡænt tʃɑːt"
+                            ],
+                            "us": [
+                                "ˈɡænt tʃɑːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a diagram (= picture) of the stages of a piece of work, showing stages that can be done at the same time, and stages that must be completed before others can start: ",
+                            "examples": [
+                                "The activities and their durations are entered on the Gantt chart and the end date is displayed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "word": "halted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nhalt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "hɒlt"
+                            ],
+                            "us": [
+                                "hɑːlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause to) stop moving or doing something or happening: ",
+                            "examples": [
+                                "\"Halt!\" called the guard. \"You can't go any further without a permit.\"",
+                                "Production has halted at all of the company's factories because of the pay dispute.",
+                                "Security forces halted the demonstrators by blocking the road."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

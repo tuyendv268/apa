@@ -1,0 +1,34 @@
+{
+    "word": "interfix",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tə.fɪks"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ɚ.fɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an infix (= a letter or group of letters added in the middle of a word to make a new word) that does not in itself have any meaning: ",
+                            "examples": [
+                                "An example of an interfix is the \"-ad\" of Spanish \"panadero\" (baker), composed of \"pan\" (bread) + \"-ad\" + \"-ero\" (agentive suffix).",
+                                "There is also a variant of \"thingamabob\" without the interfix \"-ma-\" but rather with -y: \"thingybob\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

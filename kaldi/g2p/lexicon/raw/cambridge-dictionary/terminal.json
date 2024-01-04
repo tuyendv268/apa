@@ -1,0 +1,76 @@
+{
+    "word": "terminal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈtɜː.mɪ.nəl"
+                            ],
+                            "us": [
+                                "ˈtɝː.mə.nəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a disease or illness) leading gradually to death: ",
+                            "examples": [
+                                "She has terminal cancer."
+                            ]
+                        },
+                        {
+                            "explanation": "A terminal patient is one who is seriously ill and will die soon.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "extreme, when referring to something unpleasant or negative: ",
+                            "examples": [
+                                "She claims that the shipbuilding industry is in terminal decline.",
+                                "He has nothing to do all day and is suffering from terminal boredom."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtɜː.mɪ.nəl"
+                            ],
+                            "us": [
+                                "ˈtɝː.mə.nəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the area or building at a station, airport, or port that is used by passengers leaving or arriving by train, aircraft, or ship: ",
+                            "examples": [
+                                "Terminal 3 is used mostly for domestic flights."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of equipment consisting of a keyboard and screen, used for communicating with the part of a computer system that deals with information",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the point at which a connection can be made in an electric circuit",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

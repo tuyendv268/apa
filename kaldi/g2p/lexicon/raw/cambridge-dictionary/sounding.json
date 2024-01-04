@@ -1,0 +1,91 @@
+{
+    "word": "sounding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsound ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "saʊnd"
+                            ],
+                            "us": [
+                                "saʊnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to seem good, interesting, strange, etc. from what is said or written: ",
+                            "examples": [
+                                "Your job sounds really interesting.",
+                                "I know it sounds silly, but I'll miss him when he's gone."
+                            ]
+                        },
+                        {
+                            "explanation": "to seem like something, from what is said or written: ",
+                            "examples": [
+                                "That sounds like a good idea.",
+                                "It sounds like you've got a sore throat.",
+                                "It sounds as if they had a good holiday.",
+                                "You're going skiing with three friends? That sounds like fun."
+                            ]
+                        },
+                        {
+                            "explanation": "to seem angry, happy, rude, etc. when you speak: ",
+                            "examples": [
+                                "He sounded very depressed when we spoke on the phone yesterday.",
+                                "At the press conference, he sounded at his most relaxed."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a noise: ",
+                            "examples": [
+                                "If the alarm sounds, leave the building immediately.",
+                                "It sounds like a bird.",
+                                "He sounds (= speaks) just like someone I used to work with.",
+                                "Sounding the car's horn, she drove at high speed through the crowded streets."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause a noise to be made or say or shout a message to warn people about something: ",
+                            "examples": [
+                                "Quick, sound the alarm - there's a fire in the machine room!"
+                            ]
+                        },
+                        {
+                            "explanation": "to measure the depth of a mass of water, such as the sea, usually by sonar",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

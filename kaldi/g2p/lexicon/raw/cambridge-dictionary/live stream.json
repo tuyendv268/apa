@@ -1,0 +1,59 @@
+{
+    "word": "live stream",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlaɪv.striːm"
+                            ],
+                            "us": [
+                                "ˈlaɪv.striːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a broadcast of the video and sound of an event over the internet as it happens: ",
+                            "examples": [
+                                "You can watch a live stream of her speech on our website.",
+                                "Which platform is best for live-stream?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈlaɪv.striːm"
+                            ],
+                            "us": [
+                                "ˈlaɪv.striːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to broadcast video and sound of an event over the internet as it happens: ",
+                            "examples": [
+                                "I used my phone to live stream from Times Square, New York City.",
+                                "TV3 is livestreaming the show through its website. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

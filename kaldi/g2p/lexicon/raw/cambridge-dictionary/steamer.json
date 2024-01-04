@@ -1,0 +1,38 @@
+{
+    "word": "steamer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstiː.mər"
+                            ],
+                            "us": [
+                                "ˈstiː.mɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a boat or ship that moves by steam power",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a container with holes in the bottom that is put over boiling water in order to cook food in steam, or a machine that cooks food with steam: ",
+                            "examples": [
+                                "a rice steamer",
+                                "a vegetable steamer"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

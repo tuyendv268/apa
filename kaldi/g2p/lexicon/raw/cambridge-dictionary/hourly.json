@@ -1,0 +1,64 @@
+{
+    "word": "hourly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈaʊə.li"
+                            ],
+                            "us": [
+                                "ˈaʊr.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "done or happening every hour: ",
+                            "examples": [
+                                "There's an hourly bus service into town.",
+                                "Take two tablets at hourly intervals."
+                            ]
+                        },
+                        {
+                            "explanation": "the amount that is charged or earned every hour: ",
+                            "examples": [
+                                "The teachers were paid an hourly rate."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈaʊə.li"
+                            ],
+                            "us": [
+                                "ˈaʊr.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "once every hour: ",
+                            "examples": [
+                                "Trains call here hourly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

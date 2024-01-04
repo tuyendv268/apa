@@ -1,0 +1,65 @@
+{
+    "word": "faked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nfake ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "feɪk"
+                            ],
+                            "us": [
+                                "feɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pretend that you have a feeling or illness: ",
+                            "examples": [
+                                "to fake surprise",
+                                "to fake an orgasm",
+                                "She didn't want to go out, so she faked a headache.",
+                                "He faked a heart attack and persuaded prison staff to take him to hospital.",
+                                "He isn't really crying, he's just faking."
+                            ]
+                        },
+                        {
+                            "explanation": "to make an object look real or valuable in order to deceive people: ",
+                            "examples": [
+                                "to fake a document/signature"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

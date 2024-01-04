@@ -1,0 +1,69 @@
+{
+    "word": "seethed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nseethe ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "siːð"
+                            ],
+                            "us": [
+                                "siːð"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to feel very angry but to be unable or unwilling to express it clearly: ",
+                            "examples": [
+                                "The rest of the class positively seethed with indignation when Julia won the award.",
+                                "By the end of the meeting he was seething."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a large number or amount) to move around energetically in a small space: ",
+                            "examples": [
+                                "The streets were seething (= busy and crowded) with tourists."
+                            ]
+                        },
+                        {
+                            "explanation": "(of water) to move around very strongly or suddenly or to boil: ",
+                            "examples": [
+                                "The grey ocean seethed.",
+                                "Two covered pans were seething gently on the back rings. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

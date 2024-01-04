@@ -1,0 +1,41 @@
+{
+    "word": "cowboy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkaʊ.bɔɪ"
+                            ],
+                            "us": [
+                                "ˈkaʊ.bɔɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person, especially in the western US, whose job is to take care of cattle, and who usually rides a horse, or a similar character in a film: ",
+                            "examples": [
+                                "The ranch employed ten or twelve cowboys.",
+                                "He was wearing cowboy boots and a cowboy hat.",
+                                "I don't much like cowboy films/movies."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who is not honest, careful, or skilful in their trade or business, or someone who ignores rules that most people obey and is therefore not considered to be responsible: ",
+                            "examples": [
+                                "Those builders are a bunch of cowboys - they made a terrible job of our extension."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

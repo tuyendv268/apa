@@ -1,0 +1,35 @@
+{
+    "word": "learned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A learned person has studied for a long time and has a lot of knowledge: ",
+                            "examples": [
+                                "a learned professor"
+                            ]
+                        },
+                        {
+                            "explanation": "Learned behaviour has been copied from others: ",
+                            "examples": [
+                                "This sort of aggression is learned behaviour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

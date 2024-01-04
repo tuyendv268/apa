@@ -1,0 +1,45 @@
+{
+    "word": "unlikely",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈlaɪ.kli"
+                            ],
+                            "us": [
+                                "ʌnˈlaɪ.kli"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not probable or likely to happen: ",
+                            "examples": [
+                                "It's pretty unlikely (that) they'll turn up now - it's nearly ten o'clock."
+                            ]
+                        },
+                        {
+                            "explanation": "not the same as you would usually expect: ",
+                            "examples": [
+                                "He's an unlikely-looking doctor (= he is not what I expect a doctor to look like)."
+                            ]
+                        },
+                        {
+                            "explanation": "probably not true: ",
+                            "examples": [
+                                "When I asked what he was doing there, he came up with some unlikely explanation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

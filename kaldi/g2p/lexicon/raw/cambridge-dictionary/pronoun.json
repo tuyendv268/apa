@@ -1,0 +1,42 @@
+{
+    "word": "pronoun",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprəʊ.naʊn"
+                            ],
+                            "us": [
+                                "ˈproʊ.naʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word that is used instead of a noun or a noun phrase: ",
+                            "examples": [
+                                "Pronouns are often used to refer to a noun that has already been mentioned.",
+                                "\"She\", \"it\", and \"who\" are all examples of pronouns."
+                            ]
+                        },
+                        {
+                            "explanation": "Someone's pronouns are the way they choose to be referred to according to their gender identity: ",
+                            "examples": [
+                                "Her pronouns are \"she/her\", but she is also happy with \"they/them\". ",
+                                "It might be helpful to share your pronouns when introducing yourself.",
+                                "Some people include their pronouns in the signature line of their emails."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

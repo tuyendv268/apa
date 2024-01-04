@@ -1,0 +1,34 @@
+{
+    "word": "waiting list",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈweɪ.tɪŋ ˌlɪst"
+                            ],
+                            "us": [
+                                "ˈweɪ.t̬ɪŋ ˌlɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of people who have asked for something that is not immediately available but will be in the future: ",
+                            "examples": [
+                                "The hospital has a two-year waiting list for minor operations.",
+                                "The course is full, but I can put you on the waiting list, in case someone drops out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

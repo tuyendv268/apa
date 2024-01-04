@@ -1,0 +1,41 @@
+{
+    "word": "synchronous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪŋ.krə.nəs"
+                            ],
+                            "us": [
+                                "ˈsɪŋ.krə.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "happening or done at the same time or speed: ",
+                            "examples": [
+                                "The dancers perform a sequence of wonderfully synchronous movements."
+                            ]
+                        },
+                        {
+                            "explanation": "(of learning or teaching) happening with a teacher and group of students who are all taking part in a lesson at the same time, either physically together in one place or using the internet: ",
+                            "examples": [
+                                "Synchronous learning is any type of learning that takes place in real time, where a group of people are engaging in learning simultaneously.",
+                                "Synchronous learning enables learners to ask questions and receive answers on the spot.",
+                                "Synchronous teaching can take place via online learning, through the use of video conferencing and live chat or instant messaging."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

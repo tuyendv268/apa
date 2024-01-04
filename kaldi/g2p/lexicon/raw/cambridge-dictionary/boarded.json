@@ -1,0 +1,74 @@
+{
+    "word": "boarded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nboard ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɔːd"
+                            ],
+                            "us": [
+                                "bɔːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get onto or allow people to get onto a boat, train, or aircraft: ",
+                            "examples": [
+                                "At London airport she boarded a plane to Australia.",
+                                "Will passengers waiting to board please go to the ticket counter?"
+                            ]
+                        },
+                        {
+                            "explanation": "to pay to sleep and eat meals in someone's house: ",
+                            "examples": [
+                                "During his stay in England he boarded with a family in Bath."
+                            ]
+                        },
+                        {
+                            "explanation": "to sleep and eat at school during the school term: ",
+                            "examples": [
+                                "When you went to school were you a day student or did you board?"
+                            ]
+                        },
+                        {
+                            "explanation": "to arrange for a pet animal to be temporarily taken care of at a place other than its home: ",
+                            "examples": [
+                                "He boards the dog out when he goes on business trips."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "intranet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.trə.net"
+                            ],
+                            "us": [
+                                "ˈɪn.trə.net"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system of connected computers that works like the internet and allows people within an organization to communicate with each other and share information: ",
+                            "examples": [
+                                "I'll post the agenda for next week's meeting on the intranet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

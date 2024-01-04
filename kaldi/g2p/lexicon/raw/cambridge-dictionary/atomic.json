@@ -1,0 +1,47 @@
+{
+    "word": "atomic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈtɒm.ɪk"
+                            ],
+                            "us": [
+                                "əˈtɑː.mɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to atoms: ",
+                            "examples": [
+                                "atomic structure/nuclei"
+                            ]
+                        },
+                        {
+                            "explanation": "using the energy that is created when an atom is divided: ",
+                            "examples": [
+                                "atomic energy/power"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to nuclear war, nuclear weapons, or a nuclear attack: ",
+                            "examples": [
+                                "the atomic bomb",
+                                "atomic weapons",
+                                "an atomic blast/explosion"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "ecosystem",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈiː.kəʊˌsɪs.təm"
+                            ],
+                            "us": [
+                                "ˈe.koʊˌsɪs.təm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "all the living things in an area and the way they affect each other and the environment: ",
+                            "examples": [
+                                "Pollution can have disastrous effects on the delicately balanced ecosystem.",
+                                "Marine biologists fear the predatory crabs have the potential to disrupt marine ecosystems.",
+                                "forest/reef/ocean ecosystems"
+                            ]
+                        },
+                        {
+                            "explanation": "any complicated system consisting of many different people, processes, activities, etc., especially relating to technology, and the way that they affect each other : ",
+                            "examples": [
+                                "A developer ecosystem is a community of software developers and the market that shares their tools and services.",
+                                "A new political ecosystem has grown up around local elections."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

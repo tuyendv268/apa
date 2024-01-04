@@ -1,0 +1,77 @@
+{
+    "word": "identity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "aɪˈden.tə.ti"
+                            ],
+                            "us": [
+                                "aɪˈden.t̬ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person's name and other facts about who they are: ",
+                            "examples": [
+                                "The man's identity was being kept secret while he was helping police with their enquiries.",
+                                "I cannot reveal the identity of my source.",
+                                "The informant was given a new identity (= a different name and new official documents) for protection.",
+                                "The newspaper photo apparently showed him in Rome but it was a case of mistaken identity (= it was the wrong person)."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of being, or feeling that you are, a particular type of person, organization, etc.; the qualities that make a person, organization, etc. different from others: ",
+                            "examples": [
+                                "In prison people often suffer from a loss of identity.",
+                                "I think my job gives me a sense of identity.",
+                                "It was important for me to carve out an identity separate from my husband's. ",
+                                "cultural/national/ethnic identity"
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of being or feeling the same: ",
+                            "examples": [
+                                "Here, there is a complete identity between his theology and his practice. ",
+                                "We begin with the image of a boy gazing into a pool and feeling an identity with what he sees."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "aɪˈden.tə.ti"
+                            ],
+                            "us": [
+                                "aɪˈden.t̬ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "showing or proving who someone is: ",
+                            "examples": [
+                                "You will need to show identity documents.",
+                                "Anyone can create an account with no identity verification."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

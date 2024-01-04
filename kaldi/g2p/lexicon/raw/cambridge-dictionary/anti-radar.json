@@ -1,0 +1,41 @@
+{
+    "word": "anti-radar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.tiˈreɪ.dɑːr"
+                            ],
+                            "us": [
+                                "ˌæn.taɪˈreɪ.dɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "designed to destroy radar systems (= systems that use radio waves to find the position of objects): ",
+                            "examples": [
+                                "The aircraft fired back using anti-radar missiles.",
+                                "Anti-radar aircraft now deployed in the area include the F-4G Phantoms."
+                            ]
+                        },
+                        {
+                            "explanation": "designed to avoid being seen by radar systems (= systems that use radio waves to find the position of objects): ",
+                            "examples": [
+                                "He helped to develop an an anti-radar device.",
+                                "Red mercury has been used as an ingredient in anti-radar paint."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

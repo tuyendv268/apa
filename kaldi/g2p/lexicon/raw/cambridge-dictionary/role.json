@@ -1,0 +1,42 @@
+{
+    "word": "role",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rəʊl"
+                            ],
+                            "us": [
+                                "roʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the position or purpose that someone or something has in a situation, organization, society, or relationship: ",
+                            "examples": [
+                                "What is his role in this project?",
+                                "Schools play an important role in society.",
+                                "Six people have been put on trial for their role (= involvement) in the anti-government demonstrations."
+                            ]
+                        },
+                        {
+                            "explanation": "an actor's part in a film or play: ",
+                            "examples": [
+                                "She's got a leading/supporting role in the school play.",
+                                "She plays the role of a crooked lawyer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "word": "hex",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "heks"
+                            ],
+                            "us": [
+                                "heks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an evil spell, bringing bad luck and trouble: ",
+                            "examples": [
+                                "informal Someone's put a hex on my computer this morning - it keeps crashing.",
+                                "Children's stories tell of witches who cast hexes and fly on broomsticks."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "heks"
+                            ],
+                            "us": [
+                                "heks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put an evil spell on someone or something in order to bring them bad luck and trouble: ",
+                            "examples": [
+                                "I think I've been hexed.",
+                                "The team claimed it lost the competition because it was hexed by psychics hired by its rivals."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "heks"
+                            ],
+                            "us": [
+                                "heks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \nhexagonal : having a shape with six straight sides: ",
+                            "examples": [
+                                "Pry off the circular plastic insert on top of the enclosure and remove the hex nut.",
+                                "You will need a hex wrench or a power tool with hexagonal bits."
+                            ]
+                        },
+                        {
+                            "explanation": "short for \nhexadecimal : relating to or expressed in a system of counting based on the number 16 rather than the number 10: ",
+                            "examples": [
+                                "A hex (hexadecimal) key is a mixture of numbers and letters from AF and 09.",
+                                "All hex digits are required to be lower case."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

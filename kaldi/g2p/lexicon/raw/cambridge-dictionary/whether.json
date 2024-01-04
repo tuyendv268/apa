@@ -1,0 +1,45 @@
+{
+    "word": "whether",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "ˈweð.ər"
+                            ],
+                            "us": [
+                                "ˈweð.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(used especially in reporting questions and expressing doubts) if, or not: ",
+                            "examples": [
+                                "I wasn't sure whether you'd like it.",
+                                "She asked me whether I was interested in working for her.",
+                                "I'm wondering whether to have the fish or the beef.",
+                                "I doubt whether it'll work.",
+                                "I was merely questioning whether we have the money to fund such a project.",
+                                "It all depends on whether or not she has the time.",
+                                "Anyway, it's a good story, whether or not it's true."
+                            ]
+                        },
+                        {
+                            "explanation": "(used to introduce two or more possibilities) it is not important if: ",
+                            "examples": [
+                                "I'm going, whether she likes it or not."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

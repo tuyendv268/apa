@@ -1,0 +1,71 @@
+{
+    "word": "recovered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nrecover ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈkʌv.ər"
+                            ],
+                            "us": [
+                                "rɪˈkʌv.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to become completely well again after an illness or injury: ",
+                            "examples": [
+                                "It took her a long time to recover from/after her heart operation.",
+                                "He never really recovered from the shock of his wife dying."
+                            ]
+                        },
+                        {
+                            "explanation": "to become successful or normal again after being damaged or having problems: ",
+                            "examples": [
+                                "It took a long time for the economy to recover after the slump."
+                            ]
+                        },
+                        {
+                            "explanation": "to get back something lost or spent: ",
+                            "examples": [
+                                "She went into a coma and died without recovering consciousness.",
+                                "She was astonished to see me, but she soon recovered her composure/herself (= soon gave the appearance of being calm).",
+                                "Police only recover a very small percentage of stolen goods.",
+                                "The initial outlay of setting up a company is considerable and it takes a while to recover those costs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "self-similar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌselfˈsɪm.ɪ.lər"
+                            ],
+                            "us": [
+                                "ˌselfˈsɪm.ə.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having an appearance or characteristics that do not change as a result of being made bigger or smaller: ",
+                            "examples": [
+                                "This random process is self-similar at any scale and any resolution.",
+                                "We solved these problems by looking for self-similar solutions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

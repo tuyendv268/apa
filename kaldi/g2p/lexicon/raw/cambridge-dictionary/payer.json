@@ -1,0 +1,39 @@
+{
+    "word": "payer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪ.ər"
+                            ],
+                            "us": [
+                                "ˈpeɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who usually pays on time/late: ",
+                            "examples": [
+                                "Crossman is a regular client and a good payer."
+                            ]
+                        },
+                        {
+                            "explanation": "used as a combining form to mean a person who pays something: ",
+                            "examples": [
+                                "mortgage payers"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

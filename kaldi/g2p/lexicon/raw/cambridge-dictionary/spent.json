@@ -1,0 +1,62 @@
+{
+    "word": "spent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "spent"
+                            ],
+                            "us": [
+                                "spent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of spend",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "spent"
+                            ],
+                            "us": [
+                                "spent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Something that is spent has been used so that it no longer has any power or effectiveness: ",
+                            "examples": [
+                                "spent bullets/matches",
+                                "After several defeats in a row, people are starting to say that the team is a spent force."
+                            ]
+                        },
+                        {
+                            "explanation": "tired: ",
+                            "examples": [
+                                "We arrived home spent after our long journey."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

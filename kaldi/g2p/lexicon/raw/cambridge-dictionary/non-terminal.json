@@ -1,0 +1,41 @@
+{
+    "word": "non-terminal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈtɜː.mɪ.nəl"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈtɝː.mə.nəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a disease or illness) not likely to lead to death soon: ",
+                            "examples": [
+                                "The whole family were hugely relieved to be told that the illness was non-terminal.",
+                                "The diagnosis was that she had treatable, non-terminal bowel cancer."
+                            ]
+                        },
+                        {
+                            "explanation": "A non-terminal patient is one who is not likely to die soon: ",
+                            "examples": [
+                                "The hospital had to decide to deprioritize non-terminal patients.",
+                                "Even if they are nonterminal, people with chronic illnesses require a great deal of care."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

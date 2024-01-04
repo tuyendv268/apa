@@ -1,0 +1,84 @@
+{
+    "word": "tick",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tɪk"
+                            ],
+                            "us": [
+                                "tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mark (✓) that shows that something is correct or has been done: ",
+                            "examples": [
+                                "Put a tick by/against the names of the people who have accepted the invitation."
+                            ]
+                        },
+                        {
+                            "explanation": "a very short time: ",
+                            "examples": [
+                                "Hold on/Hang on a tick - I'm not quite ready.",
+                                "I'll be with you in a tick/in two ticks."
+                            ]
+                        },
+                        {
+                            "explanation": "the sound clocks and watches make every second",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If you buy something on tick, you pay for it later: ",
+                            "examples": [
+                                "It's tempting to buy all of this stuff on tick."
+                            ]
+                        },
+                        {
+                            "explanation": "a very small creature like a spider that lives on and sucks the blood of other animals",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tɪk"
+                            ],
+                            "us": [
+                                "tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When a clock or watch ticks, it makes a sound every second: ",
+                            "examples": [
+                                "The ticking of the clock kept her awake."
+                            ]
+                        },
+                        {
+                            "explanation": "to mark something with a tick: ",
+                            "examples": [
+                                "Tick (off) each item on the list as you complete it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "iatrogenic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "aɪˌæt.rəˈdʒen.ɪk"
+                            ],
+                            "us": [
+                                "aɪˌæt.roʊˈdʒen.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a disease or problem) caused by medical treatment or by a doctor: ",
+                            "examples": [
+                                "Iatrogenic infections are responsible for thousands of deaths among hospital patients each year.",
+                                "Minimally invasive spinal surgery reduces the risk of iatrogenic injury.",
+                                "If a complication such as excessive bleeding arises during a biopsy procedure, the complication is iatrogenic. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

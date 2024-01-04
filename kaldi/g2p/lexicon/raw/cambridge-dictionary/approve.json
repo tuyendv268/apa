@@ -1,0 +1,42 @@
+{
+    "word": "approve",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈpruːv"
+                            ],
+                            "us": [
+                                "əˈpruːv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to have a positive opinion of someone or something: ",
+                            "examples": [
+                                "She doesn't approve of my friends.",
+                                "He doesn't approve of smoking.",
+                                "I thoroughly approve of what the government is doing."
+                            ]
+                        },
+                        {
+                            "explanation": "to accept, allow, or officially agree to something: ",
+                            "examples": [
+                                "We had to wait months for the council to approve our plans to extend the house.",
+                                "The court approved the sale of the property."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

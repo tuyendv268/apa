@@ -1,0 +1,68 @@
+{
+    "word": "sacked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsack ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sæk"
+                            ],
+                            "us": [
+                                "sæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove someone from a job, usually because they have done something wrong or badly, or sometimes as a way of saving the cost of employing them: ",
+                            "examples": [
+                                "They sacked her for being late.",
+                                "He got sacked from his last job."
+                            ]
+                        },
+                        {
+                            "explanation": "in American football, to attack the quarterback in order to prevent him from throwing the ball: ",
+                            "examples": [
+                                "The quarterback was sacked only once and completed 16 out of 23 passes."
+                            ]
+                        },
+                        {
+                            "explanation": "to attack a building or town, causing a lot of destruction and stealing many valuable things: ",
+                            "examples": [
+                                "The invaders sacked every village they passed on their route."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

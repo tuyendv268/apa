@@ -1,0 +1,56 @@
+{
+    "word": "braking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nbrake ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "breɪk"
+                            ],
+                            "us": [
+                                "breɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a vehicle go slower or stop, using its brake or brakes: ",
+                            "examples": [
+                                "When it's icy, brake gently.",
+                                "He would drive very fast and brake hard/sharply at the last minute."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "walking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɔː.kɪŋ"
+                            ],
+                            "us": [
+                                "ˈwɑː.kɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the activity of going for a walk, especially for pleasure: ",
+                            "examples": [
+                                "We're going walking in Wales for a week.",
+                                "We're going walking in the park after work.",
+                                "a pair of walking boots",
+                                "a walking stick"
+                            ]
+                        },
+                        {
+                            "explanation": "the sport of walking fast over long distances",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

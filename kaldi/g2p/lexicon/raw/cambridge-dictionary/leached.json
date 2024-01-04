@@ -1,0 +1,61 @@
+{
+    "word": "leached",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nleach ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "liːtʃ"
+                            ],
+                            "us": [
+                                "liːtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When a chemical substance leaches or is leached from a material, especially soil, it is removed by the action of water passing through the material: ",
+                            "examples": [
+                                "The calcium, potassium, and magnesium ions are leached or washed out of the top soil into lower inaccessible subsoil."
+                            ]
+                        },
+                        {
+                            "explanation": "When soil, etc. has been leached, it has had chemical substances removed from it: ",
+                            "examples": [
+                                "The soil has been so heavily leached through intensive farming that it is no longer fertile."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

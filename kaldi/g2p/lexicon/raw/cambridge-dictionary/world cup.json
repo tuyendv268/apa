@@ -1,0 +1,34 @@
+{
+    "word": "world cup",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌwɜːld ˈkʌp"
+                            ],
+                            "us": [
+                                "ˌwɝːld ˈkʌp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a competition held every four years between teams from many countries in order to decide which is the best team: ",
+                            "examples": [
+                                "My ambition is to play at the World Cup.",
+                                "the World Cup final"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

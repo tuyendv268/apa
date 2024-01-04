@@ -1,0 +1,34 @@
+{
+    "word": "binomial distribution",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "baɪˌnəʊ.mi.əl dɪs.trɪˈbjuː.ʃən"
+                            ],
+                            "us": [
+                                "baɪˌnoʊ.mi.əl dɪs.trɪˈbjuː.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a distribution of the number of times that something can happen in a number of opportunities, when the chance of it happening each time is the same: ",
+                            "examples": [
+                                "You can use binomial distribution to determine that likelihood that you will draw an ace from the deck of cards. ",
+                                "The binomial distribution is a mathematical model that can be applied to a huge variety of real life phenomena."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

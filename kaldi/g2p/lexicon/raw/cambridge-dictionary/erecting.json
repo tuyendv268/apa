@@ -1,0 +1,62 @@
+{
+    "word": "erecting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nerect ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈrekt"
+                            ],
+                            "us": [
+                                "ɪˈrekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to build a building, wall, or other structure: ",
+                            "examples": [
+                                "The war memorial was erected in 1950.",
+                                "The soldiers had erected barricades to protect themselves."
+                            ]
+                        },
+                        {
+                            "explanation": "to raise something to a vertical position: ",
+                            "examples": [
+                                "They erected a marquee to accommodate 500 wedding guests."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "caller",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɔː.lər"
+                            ],
+                            "us": [
+                                "ˈkɑː.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who makes a phone call, especially a member of the public who calls a radio or television programme while it is being broadcast: ",
+                            "examples": [
+                                "I'd just like to comment on what your previous caller was saying."
+                            ]
+                        },
+                        {
+                            "explanation": "a visitor",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

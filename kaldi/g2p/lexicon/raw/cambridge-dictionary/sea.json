@@ -1,0 +1,55 @@
+{
+    "word": "sea",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "siː"
+                            ],
+                            "us": [
+                                "siː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the salty water that covers a large part of the surface of the earth, or a large area of salty water, smaller than an ocean, that is partly or completely surrounded by land: ",
+                            "examples": [
+                                "the Mediterranean Sea",
+                                "We went swimming in the sea.",
+                                "The sea was calm/smooth/choppy/rough when we crossed the Channel.",
+                                "The refugees were at sea (= in a boat on the sea a long way from land) for 40 days before reaching land.",
+                                "When we moved to the US, we sent our things by sea (= in a ship).",
+                                "We spent a week by the sea (= on the coast) this year.",
+                                "Soon we had left the marina and were heading towards the open sea (= the part of the sea a long way from land)."
+                            ]
+                        },
+                        {
+                            "explanation": "a large amount or number of something: ",
+                            "examples": [
+                                "The teacher looked down and saw a sea of smiling faces."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a ship) to leave a port and start a journey: ",
+                            "examples": [
+                                "The boats will put (out) to sea on this evening's high tide."
+                            ]
+                        },
+                        {
+                            "explanation": "one of the large, flat areas on the moon that in the past were thought to be seas",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

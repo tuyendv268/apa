@@ -1,0 +1,34 @@
+{
+    "word": "anaphoric",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "æn.əˈfɒr.ɪk"
+                            ],
+                            "us": [
+                                "æn.əˈfɔːr .ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "referring to or replacing a word that was used earlier in a text: ",
+                            "examples": [
+                                "an anaphoric pronoun",
+                                "The children were able to use anaphoric \"it\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

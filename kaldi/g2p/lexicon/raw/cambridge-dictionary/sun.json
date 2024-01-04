@@ -1,0 +1,92 @@
+{
+    "word": "sun",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sʌn"
+                            ],
+                            "us": [
+                                "sʌn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the star that provides light and heat for the earth and around which the earth moves: ",
+                            "examples": [
+                                "The sun rises in the east and sets in the west.",
+                                "The sun's rays are at their most powerful at midday.",
+                                "We thought we'd go out for a walk while the sun was shining."
+                            ]
+                        },
+                        {
+                            "explanation": "the light or heat that the earth receives from the sun: ",
+                            "examples": [
+                                "I think I've had too much sun today - I have a headache.",
+                                "Let's go and sit out in the sun."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sʌn"
+                            ],
+                            "us": [
+                                "sʌn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to lie or sit somewhere where there is a lot of sun, especially in order to make your skin darker: ",
+                            "examples": [
+                                "I sat on the balcony sunning myself.",
+                                "We could see Miranda sunning herself on the dock.",
+                                "Most afternoons, we would sun ourselves on the beach.",
+                                "We were all working hard while you were sunning yourself in the Caribbean.",
+                                "We watched a small lizard sunning itself on the trunk of a tree."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written abbreviation for Sunday",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

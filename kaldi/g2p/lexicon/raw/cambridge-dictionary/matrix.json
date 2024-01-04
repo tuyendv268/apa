@@ -1,0 +1,45 @@
+{
+    "word": "matrix",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmeɪ.trɪks"
+                            ],
+                            "us": [
+                                "ˈmeɪ.trɪks"
+                            ],
+                            "uk_other_tense": [
+                                "-trɪ.siːz"
+                            ],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the set of conditions that provides a system in which something grows or develops: ",
+                            "examples": [
+                                "Europe is remaking itself politically within the matrix of the European Community."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of numbers or other symbols arranged in a rectangle that can be used together as a single unit to solve particular mathematical problems",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a substance in which other things are fixed, buried, etc.: ",
+                            "examples": [
+                                "The fossils lie embedded in a matrix of shale and sandstone."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

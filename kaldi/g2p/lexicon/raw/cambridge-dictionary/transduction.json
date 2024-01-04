@@ -1,0 +1,40 @@
+{
+    "word": "transduction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌtrænzˈdʌk.ʃən"
+                            ],
+                            "us": [
+                                "ˌtrænzˈdʌk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of moving genetic material (= part of the DNA in cells) from one cell or bacterium to another using a virus: ",
+                            "examples": [
+                                "Transduction gives researchers a tool to genetically change bacteria."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of changing energy from one form to another: ",
+                            "examples": [
+                                "the transduction of physical wave to mechanical impulse or electrical signal",
+                                "Vision is based on the transduction of light stimuli received through the eyes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

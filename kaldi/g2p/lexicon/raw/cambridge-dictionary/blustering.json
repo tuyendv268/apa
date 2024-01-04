@@ -1,0 +1,61 @@
+{
+    "word": "blustering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nbluster ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈblʌs.tər"
+                            ],
+                            "us": [
+                                "ˈblʌs.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak in a loud, angry, or offended way, usually with little effect: ",
+                            "examples": [
+                                "\"You had no right to do it, no right at all,\" he blustered."
+                            ]
+                        },
+                        {
+                            "explanation": "If the wind blusters, it blows strongly: ",
+                            "examples": [
+                                "A gale was blustering around the house."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

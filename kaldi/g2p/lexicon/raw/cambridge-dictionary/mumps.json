@@ -1,0 +1,34 @@
+{
+    "word": "mumps",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mʌmps"
+                            ],
+                            "us": [
+                                "mʌmps"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an infectious disease that causes painful swelling in the neck and slight fever: ",
+                            "examples": [
+                                "Children are vaccinated against measles and mumps.",
+                                "Their youngest was off school with the mumps."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

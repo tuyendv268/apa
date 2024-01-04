@@ -1,0 +1,75 @@
+{
+    "word": "communicating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncommunicate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəˈmjuː.nɪ.keɪt"
+                            ],
+                            "us": [
+                                "kəˈmjuː.nə.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to share information with others by speaking, writing, moving your body, or using other signals: ",
+                            "examples": [
+                                "We can now communicate instantly with people on the other side of the world.",
+                                "Unable to speak a word of the language, he communicated with (= using) his hands.",
+                                "Has the news been communicated to the staff yet?",
+                                "As an actor he could communicate a whole range of emotions."
+                            ]
+                        },
+                        {
+                            "explanation": "to talk about your thoughts and feelings, and help other people to understand them: ",
+                            "examples": [
+                                "I find I just can't communicate with her."
+                            ]
+                        },
+                        {
+                            "explanation": "to pass a disease from one person or animal to another",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If one room communicates with another, it connects with it through a door: ",
+                            "examples": [
+                                "The bedroom communicates with both bathroom and hall.",
+                                "communicating rooms"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

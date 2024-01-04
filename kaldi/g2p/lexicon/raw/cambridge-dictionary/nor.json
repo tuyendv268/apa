@@ -1,0 +1,41 @@
+{
+    "word": "nor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "nɔːr"
+                            ],
+                            "us": [
+                                "nɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used before the second or last of a set of negative possibilities, usually after \"neither\": ",
+                            "examples": [
+                                "We can neither change nor improve it.",
+                                "Strangely, neither Carlo nor Juan saw what happened."
+                            ]
+                        },
+                        {
+                            "explanation": "neither: ",
+                            "examples": [
+                                "\"I've never been to Iceland.\" \"Nor have I.\"",
+                                "I can't be at the meeting and nor can Andrew."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

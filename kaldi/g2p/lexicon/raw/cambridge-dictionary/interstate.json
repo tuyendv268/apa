@@ -1,0 +1,57 @@
+{
+    "word": "interstate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈsteɪt"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ɚ.steɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving two or more of the states into which some countries such as the US are divided: ",
+                            "examples": [
+                                "the interstate highway system",
+                                "interstate banking legislation",
+                                "interstate road transport costs"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tə.steɪt"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ɚ.steɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fast, wide road that goes between states and connects important cities in the US",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

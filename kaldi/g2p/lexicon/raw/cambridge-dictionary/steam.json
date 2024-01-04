@@ -1,0 +1,73 @@
+{
+    "word": "steam",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "stiːm"
+                            ],
+                            "us": [
+                                "stiːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the hot gas that is produced when water boils: ",
+                            "examples": [
+                                "Steam rose from the simmering stew.",
+                                "steam turbines",
+                                "a steam engine/locomotive",
+                                "the age of steam (= the period when steam provided power for railways and factories)",
+                                "The pump is driven by steam."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stiːm"
+                            ],
+                            "us": [
+                                "stiːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move by steam power: ",
+                            "examples": [
+                                "The train/ship steamed out of the station/harbour."
+                            ]
+                        },
+                        {
+                            "explanation": "to cook food using steam: ",
+                            "examples": [
+                                "steamed vegetables"
+                            ]
+                        },
+                        {
+                            "explanation": "to use steam to make something softer, especially glue so that something can be removed: ",
+                            "examples": [
+                                "Ross steamed open the envelope to see if it was a love letter."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

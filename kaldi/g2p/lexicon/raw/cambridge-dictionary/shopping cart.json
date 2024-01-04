@@ -1,0 +1,37 @@
+{
+    "word": "shopping cart",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃɒp.ɪŋ ˌkɑːt"
+                            ],
+                            "us": [
+                                "ˈʃɑː.pɪŋ ˌkɑːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small vehicle that you push around a store, putting the things that you want to buy in it ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a place on a website that keeps a record of the items that you have chosen to buy from the website, before you actually buy them: ",
+                            "examples": [
+                                "Your shopping cart is currently empty."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

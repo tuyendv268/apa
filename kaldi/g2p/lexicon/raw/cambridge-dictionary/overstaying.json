@@ -1,0 +1,56 @@
+{
+    "word": "overstaying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \noverstay ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌəʊ.vəˈsteɪ"
+                            ],
+                            "us": [
+                                "ˌoʊ.vɚˈsteɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stay longer in a place than you are allowed or wanted: ",
+                            "examples": [
+                                "Be careful not to overstay your visa.",
+                                "They left the party at 11 p.m., careful not to overstay their welcome."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

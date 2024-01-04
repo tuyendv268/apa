@@ -1,0 +1,47 @@
+{
+    "word": "missing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪs.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈmɪs.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Someone who is missing has disappeared: ",
+                            "examples": [
+                                "Her father has been missing since September 1992.",
+                                "The girl went missing during a family outing to Mount Snowdon."
+                            ]
+                        },
+                        {
+                            "explanation": "Something that is missing cannot be found because it is not where it should be: ",
+                            "examples": [
+                                "The burglars have been arrested but the jewellery is still missing.",
+                                "When did you realize that the money was missing from your account?"
+                            ]
+                        },
+                        {
+                            "explanation": "Missing soldiers or military vehicles have not returned from fighting in a war but are not known completely certainly to be dead or destroyed: ",
+                            "examples": [
+                                "He was listed as missing in action."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

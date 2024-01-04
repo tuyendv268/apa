@@ -1,0 +1,39 @@
+{
+    "word": "arrow",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈær.əʊ"
+                            ],
+                            "us": [
+                                "ˈer.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a weapon that is like a long, thin stick with a sharp point at one end and often feathers at the other, shot from a bow (= a long, thin piece of wood bent into a curve by a piece of string): ",
+                            "examples": [
+                                "Robin Hood asked to be buried where his arrow landed."
+                            ]
+                        },
+                        {
+                            "explanation": "a sign consisting of a straight line with an upside down V shape at one end of it that points in a particular direction, used to show where something is: ",
+                            "examples": [
+                                "I followed the arrows to the car park."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

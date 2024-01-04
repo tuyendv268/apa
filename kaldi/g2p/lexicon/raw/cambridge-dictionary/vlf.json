@@ -1,0 +1,34 @@
+{
+    "word": "vlf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌviː.elˈef"
+                            ],
+                            "us": [
+                                "ˌviː.elˈef"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for very low frequency: radio waves between 3 and 30 KHz: ",
+                            "examples": [
+                                "Every country has a different range of TV bands and channels, for example Australia and New Zealand use both VLF and VHF.",
+                                "The site was transmitting VLF radio messages to submarines."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

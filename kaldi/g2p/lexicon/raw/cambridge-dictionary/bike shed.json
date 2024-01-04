@@ -1,0 +1,33 @@
+{
+    "word": "bike shed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪk ˌʃed"
+                            ],
+                            "us": [
+                                "ˈbaɪk ˌʃed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small building in which bicycles are stored: ",
+                            "examples": [
+                                "Your bike will be safer if you leave it in the bike shed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

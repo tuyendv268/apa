@@ -1,0 +1,38 @@
+{
+    "word": "choir",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kwaɪər"
+                            ],
+                            "us": [
+                                "ˈkwaɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of people who sing together: ",
+                            "examples": [
+                                "He sings in the church choir.",
+                                "choir practice"
+                            ]
+                        },
+                        {
+                            "explanation": "the area in a church where the choir sits",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "expatriated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nexpatriate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ekˈspæt.ri.eɪt"
+                            ],
+                            "us": [
+                                "ekˈspeɪ.tri.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move from your own country, or to cause someone to move from their own country: ",
+                            "examples": [
+                                "The new leaders expatriated the ruling family.",
+                                "We lived in a residential compound designed for expatriated Dutch workers and their families.",
+                                "He expatriated to St. Kitts, a tranquil Caribbean island country. "
+                            ]
+                        },
+                        {
+                            "explanation": "to send money out of a country to another country: ",
+                            "examples": [
+                                "The government is offering a haven for businessmen from overseas who need to expatriate their money. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

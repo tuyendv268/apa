@@ -1,0 +1,31 @@
+{
+    "word": "sudoku",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "suˈdəʊ.kuː"
+                            ],
+                            "us": [
+                                "suˈdoʊ.kuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number game in which you have to write a number between 1 and 9 in each small box of a 9x9 square",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

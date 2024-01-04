@@ -1,0 +1,85 @@
+{
+    "word": "local",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈləʊ.kəl"
+                            ],
+                            "us": [
+                                "ˈloʊ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "from, existing in, serving, or responsible for a small area, especially of a country: ",
+                            "examples": [
+                                "a local accent",
+                                "local issues",
+                                "a local newspaper/radio station",
+                                "Most of the local population depend on fishing for their income.",
+                                "Our children all go to the local school.",
+                                "Many local shops will be forced to close if the new supermarket is built."
+                            ]
+                        },
+                        {
+                            "explanation": "limited to a particular part of the body: ",
+                            "examples": [
+                                "a local anaesthetic",
+                                "local swelling"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈləʊ.kəl"
+                            ],
+                            "us": [
+                                "ˈloʊ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who lives in the particular small area that you are talking about: ",
+                            "examples": [
+                                "The café is popular with both locals and visitors."
+                            ]
+                        },
+                        {
+                            "explanation": "a pub near to where a person lives, especially if they often go there to drink: ",
+                            "examples": [
+                                "The George is my local."
+                            ]
+                        },
+                        {
+                            "explanation": "a train or bus that makes all or most of the stops along its route, allowing passengers to get on or off: ",
+                            "examples": [
+                                "the 12.24 local to Poughkeepsie"
+                            ]
+                        },
+                        {
+                            "explanation": "a division within a union representing people from a particular area",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

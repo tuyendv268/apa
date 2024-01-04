@@ -1,0 +1,72 @@
+{
+    "word": "handwash",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhænd.wɒʃ"
+                            ],
+                            "us": [
+                                "ˈhænd.wɑːʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to wash something such as clothes or kitchen equipment yourself rather than putting them into a machine: ",
+                            "examples": [
+                                "Always try to hand-wash wooden utensils.",
+                                "You've got to hand wash it in cold water because it's silk.",
+                                "Even if you handwash, the colours eventually fade."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhænd.wɒʃ"
+                            ],
+                            "us": [
+                                "ˈhænd.wɑːʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a liquid substance used for cleaning your hands: ",
+                            "examples": [
+                                "To kill bacteria and viruses, use warm water and soap or an antibacterial handwash."
+                            ]
+                        },
+                        {
+                            "explanation": "the activity of washing something such as a piece of clothing yourself rather than putting it into a machine: ",
+                            "examples": [
+                                "A few items always need a handwash when you're on holiday.",
+                                "The detergent can be used for both machine and hand washes."
+                            ]
+                        },
+                        {
+                            "explanation": "an act of washing your hands: ",
+                            "examples": [
+                                "At 30 seconds per hand wash, busy hospital workers could spend 10 minutes per hour washing their hands."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

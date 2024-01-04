@@ -1,0 +1,38 @@
+{
+    "word": "bearer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbeə.rər"
+                            ],
+                            "us": [
+                                "ˈber.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person whose job is to carry something, or a person who brings a message: ",
+                            "examples": [
+                                "He was a coffin bearer at his father's funeral.",
+                                "I'm sorry to be the bearer of bad news."
+                            ]
+                        },
+                        {
+                            "explanation": "the person who owns an official document or banknote",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

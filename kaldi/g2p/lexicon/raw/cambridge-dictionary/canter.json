@@ -1,0 +1,58 @@
+{
+    "word": "canter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæn.tər"
+                            ],
+                            "us": [
+                                "ˈkæn.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a horse canters, it moves at quite a fast but easy and comfortable speed: ",
+                            "examples": [
+                                "The riders cantered round the field a few times."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæn.tər"
+                            ],
+                            "us": [
+                                "ˈkæn.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a speed of movement on a horse that is quite fast but easy and comfortable, or a ride on a horse at this speed: ",
+                            "examples": [
+                                "The horses set off at a canter.",
+                                "We moved along the verge at a brisk canter."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

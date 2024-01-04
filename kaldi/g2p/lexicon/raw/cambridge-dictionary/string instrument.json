@@ -1,0 +1,33 @@
+{
+    "word": "string instrument",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstrɪŋ ˌɪn.strə.mənt"
+                            ],
+                            "us": [
+                                "ˈstrɪŋ ˌɪn.strə.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a musical instrument with a set of strings that vibrate to produce sound when they are pulled, hit, or rubbed with a bow: ",
+                            "examples": [
+                                "Guitars, pianos, and cellos are different types of string instrument."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

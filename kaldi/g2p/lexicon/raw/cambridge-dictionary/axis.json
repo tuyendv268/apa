@@ -1,0 +1,82 @@
+{
+    "word": "axis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.sɪs"
+                            ],
+                            "us": [
+                                "ˈæk.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "ˈæk.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˈæk.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a real or imaginary straight line going through the centre of an object that is spinning, or a line that divides a symmetrical shape into two equal halves: ",
+                            "examples": [
+                                "The earth revolves around the axis that joins the North and South Poles.",
+                                "The diameter of a circle is also an axis."
+                            ]
+                        },
+                        {
+                            "explanation": "a fixed line on a graph used to show the position of a point: ",
+                            "examples": [
+                                "Plot distance on the vertical y-axis against time on the horizontal x-axis."
+                            ]
+                        },
+                        {
+                            "explanation": "the second of the small bones in the neck that form the spine and support the skull",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an agreement between governments or politicians to work together to achieve a particular aim: ",
+                            "examples": [
+                                "the Franco-German axis"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.sɪs"
+                            ],
+                            "us": [
+                                "ˈæk.sɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the countries, including Germany, Italy, and Japan, that fought against the Allies in the Second World War: ",
+                            "examples": [
+                                "the Axis powers/nations"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

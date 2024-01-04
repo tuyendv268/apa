@@ -1,0 +1,90 @@
+{
+    "word": "since",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "sɪns"
+                            ],
+                            "us": [
+                                "sɪns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "from a particular time in the past until a later time, or until now: ",
+                            "examples": [
+                                "Emma went to work in New York a year ago, and we haven't seen her since.",
+                                "He started working for the company in 1995, and has been there ever since (= and is still there).",
+                                "I've long since (= long ago) forgotten any Latin I ever learned."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "sɪns"
+                            ],
+                            "us": [
+                                "sɪns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "from a particular time in the past until a later time, or until now: ",
+                            "examples": [
+                                "He hasn't won a game since last year. ",
+                                "It was the hottest October since records began."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "sɪns"
+                            ],
+                            "us": [
+                                "sɪns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "because; as: ",
+                            "examples": [
+                                "Since we've got a few minutes to wait for the train, let's have a cup of coffee."
+                            ]
+                        },
+                        {
+                            "explanation": "from a particular time in the past until a later time, or until now: ",
+                            "examples": [
+                                "I've been very busy since I came back from holiday."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

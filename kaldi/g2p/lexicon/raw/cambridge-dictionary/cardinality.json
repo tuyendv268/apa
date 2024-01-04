@@ -1,0 +1,33 @@
+{
+    "word": "cardinality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɑː.dɪnˈæl.ə.ti"
+                            ],
+                            "us": [
+                                "ˈkɑːr.dɪnˈæl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number of elements (= separate items) in a mathematical set: ",
+                            "examples": [
+                                "subsets with a small cardinality"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

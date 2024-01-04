@@ -1,0 +1,41 @@
+{
+    "word": "flight risk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈflaɪt ˌrɪsk"
+                            ],
+                            "us": [
+                                "ˈflaɪt ˌrɪsk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who has been accused of a crime and is considered likely to try to escape out of the country or area before their trial begins: ",
+                            "examples": [
+                                "The court considers him a flight risk.",
+                                "Both lawyers said their clients aren't flight risks and should be freed on bail."
+                            ]
+                        },
+                        {
+                            "explanation": "the danger that someone accused of a crime will try to escape out of the country or area before their trial begins: ",
+                            "examples": [
+                                "A judge may set bond but is not required to do so - particularly if there's a flight risk. ",
+                                "Factors that must be taken into account include threat to the community and flight risk. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

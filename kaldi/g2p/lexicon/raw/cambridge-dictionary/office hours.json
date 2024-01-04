@@ -1,0 +1,40 @@
+{
+    "word": "office hours",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒf.ɪs ˈaʊəz"
+                            ],
+                            "us": [
+                                "ˌɑː.fɪs ˈaʊrz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the hours during the day when people who work in offices are usually at work: ",
+                            "examples": [
+                                "I'll have to do it outside/out of (= before or after) office hours.",
+                                "Their phone lines are only open during office hours."
+                            ]
+                        },
+                        {
+                            "explanation": "the times during the day when you can go to see a doctor, dentist, professor, etc. at his or her office: ",
+                            "examples": [
+                                "Many doctors have evening office hours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "bouquet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "buˈkeɪ"
+                            ],
+                            "us": [
+                                "boʊˈkeɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of flowers that have been fastened together and attractively arranged so that they can be given as a present or carried on formal occasions: ",
+                            "examples": [
+                                "a bouquet of flowers",
+                                "Chris sent me a lovely bouquet when I was sick."
+                            ]
+                        },
+                        {
+                            "explanation": "the characteristic smell of a wine or liqueur: ",
+                            "examples": [
+                                "This wine has a rich, oaky bouquet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

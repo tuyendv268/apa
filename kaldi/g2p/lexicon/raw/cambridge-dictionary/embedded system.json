@@ -1,0 +1,33 @@
+{
+    "word": "embedded system",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˌbed.ɪd ˈsɪs.təm"
+                            ],
+                            "us": [
+                                "ɪmˌbed.ɪd ˈsɪs.təm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a computer system that does a particular task inside a machine or larger electrical system: ",
+                            "examples": [
+                                "Vending machines, turnstiles and meters will come with embedded systems that will communicate with big computers over the web. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

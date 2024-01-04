@@ -1,0 +1,46 @@
+{
+    "word": "detain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈteɪn"
+                            ],
+                            "us": [
+                                "dɪˈteɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to force someone officially to stay in a place: ",
+                            "examples": [
+                                "A suspect has been detained by the police for questioning.",
+                                "Several of the injured were detained overnight in hospital."
+                            ]
+                        },
+                        {
+                            "explanation": "to delay someone for a short length of time: ",
+                            "examples": [
+                                "I'm sorry I'm late - I was unavoidably detained."
+                            ]
+                        },
+                        {
+                            "explanation": "to keep someone in prison for as long as the courts feel is necessary: ",
+                            "examples": [
+                                "She was convicted of murder in 2008 and detained at Her Majesty's pleasure."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

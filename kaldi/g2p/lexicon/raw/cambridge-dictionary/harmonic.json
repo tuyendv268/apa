@@ -1,0 +1,77 @@
+{
+    "word": "harmonic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "hɑːˈmɒn.ɪk"
+                            ],
+                            "us": [
+                                "hɑːrˈmɑː.nɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to harmony (= a pleasant musical sound made by different notes being played or sung at the same time): ",
+                            "examples": [
+                                "Jazz pioneer Ornette Coleman was a harmonic and melodic innovator.",
+                                "harmonic complexity"
+                            ]
+                        },
+                        {
+                            "explanation": "consisting of a special note that sounds when a musical note is played that is different from the main note: ",
+                            "examples": [
+                                "The calls are of such a low frequency that they are inaudible to the human ear; we can hear only the accompanying harmonic tones."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the harmonics in an oscillation or wave: ",
+                            "examples": [
+                                "They developed a control system for detecting harmonic oscillation in a chemical mechanical polishing process."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hɑːˈmɒn.ɪk"
+                            ],
+                            "us": [
+                                "hɑːrˈmɑː.nɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a special note that sounds when a musical note is played that is different from the main note: ",
+                            "examples": [
+                                "The overtones and harmonics create a very rich sound.",
+                                "As with any guitar string, there is the fundamental and the harmonics."
+                            ]
+                        },
+                        {
+                            "explanation": "one of the frequencies (= numbers of waves produced in a fixed period) in an oscillation (= a regular change in a wave or electric current) or wave: ",
+                            "examples": [
+                                "A single frequency with its harmonics progressively broadens when the discharge current is increased."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

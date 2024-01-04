@@ -1,0 +1,48 @@
+{
+    "word": "homologous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "həˈmɒl.ə.ɡəs"
+                            ],
+                            "us": [
+                                "hoʊˈmɑː.lə.ɡəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a similar position, structure, value, or purpose: ",
+                            "examples": [
+                                "These activities are meant to be homologous to modern work conditions.",
+                                "A model represents, or is homologous with, a specific aspect of perceived reality."
+                            ]
+                        },
+                        {
+                            "explanation": "having the same origin although now having a different purpose or shape, usually as a result of evolution (= gradual change over millions of years): ",
+                            "examples": [
+                                "The wing of a bat and the arm of a man are homologous structures.",
+                                "A female's paraurethral glands are homologous to the male prostate.",
+                                "Feathers are traditionally considered homologous with reptilian scales."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a chromosome) containing similar information to another chromosome that it forms a pair with during meiosis (= a type of cell division): ",
+                            "examples": [
+                                "In this case a pair of homologous chromosomes fail to separate from one another during meiosis."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "ip",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌaɪˈpiː"
+                            ],
+                            "us": [
+                                "ˌaɪˈpiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for internet protocol: the technical rules that control communication on the internet: ",
+                            "examples": [
+                                "an IP address"
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for \nintellectual property ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

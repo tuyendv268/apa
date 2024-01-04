@@ -1,0 +1,70 @@
+{
+    "word": "expired",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nexpire ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspaɪər"
+                            ],
+                            "us": [
+                                "ɪkˈspaɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If something that lasts for a fixed length of time expires, it comes to an end or stops being in use: ",
+                            "examples": [
+                                "My passport expires next month.",
+                                "The contract between the two companies will expire at the end of the year."
+                            ]
+                        },
+                        {
+                            "explanation": "to die: ",
+                            "examples": [
+                                "He ceased to breathe, gently expiring without any struggle at the age of 90.",
+                                "In 1936 the last Tasmanian tiger breathed its final breath and expired in a zoo in Hobart."
+                            ]
+                        },
+                        {
+                            "explanation": "to breathe out or to breathe air out: ",
+                            "examples": [
+                                "The patient inhales as much air as possible and then expires with maximum effort.",
+                                "The device measures the amount of carbon dioxide expired by the patient's lungs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

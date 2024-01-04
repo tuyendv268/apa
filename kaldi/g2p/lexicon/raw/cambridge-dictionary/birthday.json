@@ -1,0 +1,35 @@
+{
+    "word": "birthday",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɜːθ.deɪ"
+                            ],
+                            "us": [
+                                "ˈbɝːθ.deɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the day that is exactly a year or number of years after a person was born: ",
+                            "examples": [
+                                "Happy birthday, Flavio!",
+                                "Are you going to Ellen's birthday party next week?",
+                                "It's her 21st birthday."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

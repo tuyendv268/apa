@@ -1,0 +1,115 @@
+{
+    "word": "host",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "həʊst"
+                            ],
+                            "us": [
+                                "hoʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who has guests: ",
+                            "examples": [
+                                "We thanked our hosts for a very enjoyable evening.",
+                                "The local language school is advertising for host families (= families people stay with when they are visiting another country)."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who introduces guests and performers, especially on television or radio: ",
+                            "examples": [
+                                "Our host for tonight's show is Jimmy Fallon."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who sets up a meeting or call in which people can talk to each other over the internet using their computers: ",
+                            "examples": [
+                                "You have to wait for the host to let you join the meeting.",
+                                "If a host needs someone else to start the meeting, they can assign an alternative host."
+                            ]
+                        },
+                        {
+                            "explanation": "a place or organization that provides the space and other necessary things for a special event: ",
+                            "examples": [
+                                "Japan is playing host to the next international conference.",
+                                "the host nation for the next World Cup"
+                            ]
+                        },
+                        {
+                            "explanation": "a plant or animal that another plant or animal lives on as a parasite",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a large number of something: ",
+                            "examples": [
+                                "There's a whole host of reasons why he didn't get the job."
+                            ]
+                        },
+                        {
+                            "explanation": "the holy bread that is eaten at Communion (= a Christian religious ceremony)",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a company that hosts a website on the internet",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "həʊst"
+                            ],
+                            "us": [
+                                "hoʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to provide the space and other things necessary for a special event: ",
+                            "examples": [
+                                "Which country is hosting the next Olympic Games?"
+                            ]
+                        },
+                        {
+                            "explanation": "to be the host of a television or radio programme: ",
+                            "examples": [
+                                "to host a show/programme"
+                            ]
+                        },
+                        {
+                            "explanation": "to set up and manage a meeting or call in which people can speak to each other over the internet using their computers: ",
+                            "examples": [
+                                "Do I need to download special software to host a meeting?",
+                                "The person who hosted the call wanted to have another one two hours later."
+                            ]
+                        },
+                        {
+                            "explanation": "to provide the computer hardware and software that allows a website to exist on the internet: ",
+                            "examples": [
+                                "I've written my website, now I just need to find a company to host it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

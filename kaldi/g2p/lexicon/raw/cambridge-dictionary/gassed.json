@@ -1,0 +1,65 @@
+{
+    "word": "gassed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ngas  ",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɡæst"
+                            ],
+                            "us": [
+                                "ɡæst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "very excited: ",
+                            "examples": [
+                                "I'm so gassed about my party on Saturday.",
+                                "How gassed were you when you realized you'd won?"
+                            ]
+                        },
+                        {
+                            "explanation": "extremely tired: ",
+                            "examples": [
+                                "He was gassed after an 80 minute bike ride.",
+                                "I'd only run a mile but was totally gassed."
+                            ]
+                        },
+                        {
+                            "explanation": "having drunk too much alcohol: ",
+                            "examples": [
+                                "After drinking all day, he was too gassed to go to the party. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

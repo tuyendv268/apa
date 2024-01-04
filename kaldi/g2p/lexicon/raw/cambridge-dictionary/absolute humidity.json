@@ -1,0 +1,34 @@
+{
+    "word": "absolute humidity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæb.sə.luːt hjuːˈmɪd.ə.ti"
+                            ],
+                            "us": [
+                                "ˌæb.sə.luːt hjuːˈmɪd.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the actual amount of water that is present in the air: ",
+                            "examples": [
+                                "Despite the abundance of frozen water in the Antarctic, the absolute humidity is lower than in the Sahara Desert.",
+                                "Absolute humidity is expressed in grams per cubic centimetre."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

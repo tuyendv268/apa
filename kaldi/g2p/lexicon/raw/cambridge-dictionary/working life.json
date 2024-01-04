@@ -1,0 +1,39 @@
+{
+    "word": "working life",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌwɜː.kɪŋ ˈlaɪf"
+                            ],
+                            "us": [
+                                "ˌwɝː.kɪŋ ˈlaɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of a person's life when they do a job or are at work: ",
+                            "examples": [
+                                "His entire working life was spent with the same firm."
+                            ]
+                        },
+                        {
+                            "explanation": "the complete amount of time for which a machine can be expected to operate: ",
+                            "examples": [
+                                "The working life of most vehicles can be increased if they are serviced regularly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

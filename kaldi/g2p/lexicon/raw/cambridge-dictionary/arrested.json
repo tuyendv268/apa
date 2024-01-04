@@ -1,0 +1,68 @@
+{
+    "word": "arrested",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \narrest ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈrest"
+                            ],
+                            "us": [
+                                "əˈrest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If the police arrest someone, they take them away to ask them about a crime that they might have committed: ",
+                            "examples": [
+                                "He was arrested when customs officers found drugs in his bag.",
+                                "The police arrested her for drinking and driving."
+                            ]
+                        },
+                        {
+                            "explanation": "to stop or interrupt the development of something: ",
+                            "examples": [
+                                "The treatment has so far done little to arrest the spread of the cancer."
+                            ]
+                        },
+                        {
+                            "explanation": "to attract or catch someone's attention: ",
+                            "examples": [
+                                "A photo of a small boy arrested my attention."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "word": "probe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prəʊb"
+                            ],
+                            "us": [
+                                "proʊb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to discover information that other people do not want you to know, by asking questions carefully and not directly: ",
+                            "examples": [
+                                "The interviewer probed deep into her private life.",
+                                "Detectives questioned him for hours, probing for any inconsistencies in his story.",
+                                "The article probes (= tries to describe and explain) the mysteries of nationalism in modern Europe."
+                            ]
+                        },
+                        {
+                            "explanation": "to examine something with a tool, especially in order to find something that is hidden: ",
+                            "examples": [
+                                "They probed in/into the mud with a special drill."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "prəʊb"
+                            ],
+                            "us": [
+                                "proʊb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an attempt to discover information by asking a lot of questions: ",
+                            "examples": [
+                                "an FBI probe into corruption",
+                                "a Justice Department probe into the Democrats' fund raising"
+                            ]
+                        },
+                        {
+                            "explanation": "a long, thin metal tool used by doctors to examine inside someone",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a device that is put inside something to test or record information",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

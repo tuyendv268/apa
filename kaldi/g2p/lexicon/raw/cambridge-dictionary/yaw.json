@@ -1,0 +1,59 @@
+{
+    "word": "yaw",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "jɔː"
+                            ],
+                            "us": [
+                                "jɑː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If an aircraft or ship yaws, it moves slightly to the side of its intended direction: ",
+                            "examples": [
+                                "The boat pitched and yawed in the bay.",
+                                "Witnesses to the crash reported seeing the Challenger yaw to the right."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "jɔː"
+                            ],
+                            "us": [
+                                "jɑː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a slight movement of an aircraft or ship, to the side of its intended direction: ",
+                            "examples": [
+                                "The rudder is a vertical flap on the tail that controls yaw.",
+                                "I felt a slight pitch and yaw, like a hiccup in the floor beneath me."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

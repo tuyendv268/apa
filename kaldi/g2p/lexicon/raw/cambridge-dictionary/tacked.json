@@ -1,0 +1,61 @@
+{
+    "word": "tacked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntack ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tæk"
+                            ],
+                            "us": [
+                                "tæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fasten something to a place with tacks",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to sew with a long, loose stitch that holds two pieces of material together temporarily, before they are sewn together in a more tidy or permanent way",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(of a boat) to turn so that it is at an angle to the direction of the wind and receives the wind on its sails",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

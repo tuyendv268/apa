@@ -1,0 +1,40 @@
+{
+    "word": "softball",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɒft.bɔːl"
+                            ],
+                            "us": [
+                                "ˈsɑːft.bɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game similar to baseball but played with a larger, softer ball: ",
+                            "examples": [
+                                "The kids are outside playing softball.",
+                                "His free time is spent coaching his daughter's softball team."
+                            ]
+                        },
+                        {
+                            "explanation": "the ball used in the game of softball: ",
+                            "examples": [
+                                "He can reportedly throw a softball at 70 miles per hour. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

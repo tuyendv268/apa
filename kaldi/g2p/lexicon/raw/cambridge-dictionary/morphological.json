@@ -1,0 +1,41 @@
+{
+    "word": "morphological",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɔː.fəˈlɒdʒ.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˌmɔːr.fəˈlɑː.dʒɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the scientific study of the structure and form of animals and plants: ",
+                            "examples": [
+                                "The lizards were examined for a number of morphological characteristics such as body proportions and colour.",
+                                "morphological abnormalities in the brain"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the study of the form of words and phrases: ",
+                            "examples": [
+                                "The programs carry out lexical, morphological, and syntactic analysis of the source text.",
+                                "morphological inflections on Italian verbs"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

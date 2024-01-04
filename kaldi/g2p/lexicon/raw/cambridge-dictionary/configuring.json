@@ -1,0 +1,64 @@
+{
+    "word": "configuring",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nconfigure ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈfɪɡ.ər"
+                            ],
+                            "us": [
+                                "kənˈfɪɡ.jɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to arrange something or put its parts together in a particular form or arrangement: ",
+                            "examples": [
+                                "Online buyers can build their own version of the car: many of the company's customers configure their own vehicles.",
+                                "The marines used specially configured submarines."
+                            ]
+                        },
+                        {
+                            "explanation": "to arrange or make changes to a computer system, a piece of computer equipment or software, etc. to make it able to do a particular task or work in a particular way: ",
+                            "examples": [
+                                "It used to take days to install and configure a server, and now it can be done in minutes.",
+                                "Check that the device is present on the system and is configured correctly.",
+                                "After I configured my laptop to start up from the CD-ROM drive rather than the hard drive, the installation went smoothly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

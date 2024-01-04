@@ -1,0 +1,70 @@
+{
+    "word": "fumbled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nfumble ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈfʌm.bəl"
+                            ],
+                            "us": [
+                                "ˈfʌm.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to do something awkwardly, especially when using your hands: ",
+                            "examples": [
+                                "I fumbled with the lock.",
+                                "He fumbled in his pockets for some change.",
+                                "She fumbled around/about in her handbag, looking for her key.",
+                                "They fumbled around/about (= moved awkwardly) in the dark, trying to find their way out of the cinema."
+                            ]
+                        },
+                        {
+                            "explanation": "in sport, to fail to catch a ball: ",
+                            "examples": [
+                                "If Wilson hadn't fumbled that catch, we might have won the match."
+                            ]
+                        },
+                        {
+                            "explanation": "to have difficulty saying or thinking of suitable words: ",
+                            "examples": [
+                                "I was fumbling for the right word."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

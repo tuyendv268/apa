@@ -1,0 +1,43 @@
+{
+    "word": "consultant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈsʌl.tənt"
+                            ],
+                            "us": [
+                                "kənˈsʌl.tənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who advises people on a particular subject: ",
+                            "examples": [
+                                "a management/financial/computer consultant",
+                                "a firm of public relations consultants"
+                            ]
+                        },
+                        {
+                            "explanation": "a hospital doctor at the highest level with special training in and knowledge of a particular area of medicine: ",
+                            "examples": [
+                                "She is an ear, nose, and throat consultant at a large teaching hospital.",
+                                "He was on a waiting list to see a consultant about his back.",
+                                "a consultant psychiatrist/paediatrician/obstetrician",
+                                "a consultant dermatologist/gynaecologist/cardiologist"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

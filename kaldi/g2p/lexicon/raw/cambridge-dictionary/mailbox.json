@@ -1,0 +1,41 @@
+{
+    "word": "mailbox",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmeɪl.bɒks"
+                            ],
+                            "us": [
+                                "ˈmeɪl.bɑːks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the US, a box outside a person's house where letters are put",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a metal container in the street or other public place in which you can put letters for them to be collected and sent to someone else",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the place on a computer screen that shows new emails that have arrived: ",
+                            "examples": [
+                                "Look out for our emails in your electronic mailbox."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

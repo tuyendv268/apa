@@ -1,0 +1,41 @@
+{
+    "word": "symptomatic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌsɪmp.təˈmæt.ɪk"
+                            ],
+                            "us": [
+                                "ˌsɪmp.təˈmæt̬.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If something bad is symptomatic of something else, it is caused by the other thing and is proof that it exists: ",
+                            "examples": [
+                                "Jealousy within a relationship is usually symptomatic of low self-esteem in one of the partners."
+                            ]
+                        },
+                        {
+                            "explanation": "showing symptoms of a particular disease: ",
+                            "examples": [
+                                "symptomatic AIDS patients ",
+                                "symptomatic influenza ",
+                                "A doctor who had treated an Ebola patient may have been symptomatic when he boarded the plane. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

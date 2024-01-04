@@ -1,0 +1,63 @@
+{
+    "word": "echoed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \necho ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.əʊ"
+                            ],
+                            "us": [
+                                "ˈek.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a sound echoes or a place echoes with a sound, you hear the sound again because you are in a large, empty space: ",
+                            "examples": [
+                                "The sound of footsteps echoed around the hall.",
+                                "Suddenly, the building echoed with the sound of gunfire."
+                            ]
+                        },
+                        {
+                            "explanation": "to repeat details that are similar to, and make you think of, something else: ",
+                            "examples": [
+                                "The design of the church echoes that of St. Paul's Cathedral.",
+                                "I've heard the prime minister's view echoed throughout the party."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

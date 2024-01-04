@@ -1,0 +1,51 @@
+{
+    "word": "tldr",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for too long; didn't read: used to comment on something that someone has written, for example on social media: ",
+                            "examples": [
+                                "If a commenter responds to a post with \"tl;dr\", it expresses an expectation to be entertained without needing to pay attention or to think.",
+                                "I haven’t been able to keep up with this thread (TLDR)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short summary (= a short, clear description giving the main facts or ideas) of piece of writing or a subject of discussion: ",
+                            "examples": [
+                                "Can we have a TL;DR for those of us with short attention spans?",
+                                "Each discussion paper should start with a TLDR summarising the main points."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

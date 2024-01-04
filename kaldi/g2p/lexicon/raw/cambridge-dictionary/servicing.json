@@ -1,0 +1,41 @@
+{
+    "word": "servicing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɜː.vɪs.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈsɝː.vɪs.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of examining a machine and repairing any damaged parts: ",
+                            "examples": [
+                                "Bryce has taken the car in for servicing.",
+                                "Household electrics, plumbing, and heating need regular servicing in the same way as your car."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of making payments to pay back a debt: ",
+                            "examples": [
+                                "The region's debt servicing currently accounted for $9,000 million a year.",
+                                "Rental income may do no more than cover mortgage servicing and upkeep costs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

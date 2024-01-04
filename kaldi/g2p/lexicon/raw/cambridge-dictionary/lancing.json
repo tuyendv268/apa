@@ -1,0 +1,55 @@
+{
+    "word": "lancing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nlance ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "lɑːns"
+                            ],
+                            "us": [
+                                "læns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut the skin with a sharp tool in order to release infected matter that has collected under it: ",
+                            "examples": [
+                                "She had a boil lanced at the doctor's this morning."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

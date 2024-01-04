@@ -1,0 +1,84 @@
+{
+    "word": "steal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stiːl"
+                            ],
+                            "us": [
+                                "stiːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "past tense"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take something without the permission or knowledge of the owner and keep it: ",
+                            "examples": [
+                                "She admitted stealing the money from her employers.",
+                                "The number of cars which are stolen every year has risen.",
+                                "They were so poor they had to steal in order to eat."
+                            ]
+                        },
+                        {
+                            "explanation": "to do something quickly or without being noticed: ",
+                            "examples": [
+                                "She stole a glance at her watch.",
+                                "He stole out of the room while no one was looking."
+                            ]
+                        },
+                        {
+                            "explanation": "In baseball, if you steal a base, you run from one of the bases (= positions on a square that a player must reach to score a point) to the next one while the pitcher is throwing the ball, and reach the base before an opponent can touch you with the ball: ",
+                            "examples": [
+                                "He is not a fast runner and has not stolen a base all year.",
+                                "Roberts stole second base easily."
+                            ]
+                        },
+                        {
+                            "explanation": "In sports such as basketball, rugby, and football, to take the ball from an opponent: ",
+                            "examples": [
+                                "Thomas stole the ball and ran the length of the field to score.",
+                                "She stole the ball in the tackle and fed her fly-half."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "stiːl"
+                            ],
+                            "us": [
+                                "stiːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a product that has a very low price, or a price that is much lower than the original cost: ",
+                            "examples": [
+                                "I picked up a new iron in the sale - it was a steal."
+                            ]
+                        },
+                        {
+                            "explanation": "another word for \nstolen base ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

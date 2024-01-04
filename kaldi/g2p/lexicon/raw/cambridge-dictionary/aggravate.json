@@ -1,0 +1,45 @@
+{
+    "word": "aggravate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæɡ.rə.veɪt"
+                            ],
+                            "us": [
+                                "ˈæɡ.rə.veɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a bad situation worse: ",
+                            "examples": [
+                                "Attempts to restrict parking in the city centre have further aggravated the problem of traffic congestion."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a disease worse: ",
+                            "examples": [
+                                "The treatment only aggravated the condition."
+                            ]
+                        },
+                        {
+                            "explanation": "to annoy someone: ",
+                            "examples": [
+                                "Stop aggravating me, will you!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

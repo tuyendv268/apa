@@ -1,0 +1,33 @@
+{
+    "word": "relative clause",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌrel.ə.tɪv ˈklɔːz"
+                            ],
+                            "us": [
+                                "ˌrel.ə.t̬ɪv ˈklɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "part of a sentence that cannot exist independently and describes a noun that comes before it in the main part of the sentence: ",
+                            "examples": [
+                                "In the sentence \"The woman who I met was wearing a brown hat\", \"who I met\" is a relative clause."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "excision",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ekˈsɪʒ.ən"
+                            ],
+                            "us": [
+                                "ekˈsɪʒ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of removing something: ",
+                            "examples": [
+                                "The document had been sanitised by the excision of secret material."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of removing tissue, organs, or tumours in an operation: ",
+                            "examples": [
+                                "With a wide local excision, the cancerous tissue and some surrounding healthy tissue is cut out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

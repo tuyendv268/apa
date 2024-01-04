@@ -1,0 +1,37 @@
+{
+    "word": "adverse reaction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "collocation",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a harmful physical effect caused by a drug, a medical treatment, or another substance : ",
+                            "examples": [
+                                "A small percentage of patients stopped taking the drug because of the adverse reactions. ",
+                                "I had an adverse reaction to the injection."
+                            ]
+                        },
+                        {
+                            "explanation": "a negative reaction to something that someone does : ",
+                            "examples": [
+                                "An adverse reaction to these policies led to a decline in the President's popularity.",
+                                "They were forced to withdraw their forces in the face of adverse world reaction. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

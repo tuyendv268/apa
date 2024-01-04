@@ -1,0 +1,34 @@
+{
+    "word": "subseries",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌbˌsɪə.riːz"
+                            ],
+                            "us": [
+                                "ˈsʌbˌsɪr.iːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number or set of similar or related things within a larger number or set of things: ",
+                            "examples": [
+                                "This collection is arranged into five series, four of which have been further arranged into subseries.",
+                                "It is a time series in which each 12-month period represents a sub-series."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

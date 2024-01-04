@@ -1,0 +1,41 @@
+{
+    "word": "edge case",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈedʒ ˌkeɪs"
+                            ],
+                            "us": [
+                                "ˈedʒ ˌkeɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a problem or situation, especially in computer programming, that only happens in extreme situations or at the highest or lowest end of a range of possible values: ",
+                            "examples": [
+                                "You may run into an edge case where your program screws up.",
+                                "In engineering, it is important not to overlook the task of planning for edge cases."
+                            ]
+                        },
+                        {
+                            "explanation": "an extreme or not typical example of something, that should not be considered when forming an opinion about it: ",
+                            "examples": [
+                                "They claimed that the abusive behaviour was an edge case that should not deter other internet users. ",
+                                "I think this company is an edge case, and most organizations will not impose such stringent working conditions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

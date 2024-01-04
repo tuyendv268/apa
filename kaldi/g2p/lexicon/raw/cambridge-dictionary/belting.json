@@ -1,0 +1,67 @@
+{
+    "word": "belting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nbelt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "belt"
+                            ],
+                            "us": [
+                                "belt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(especially of a vehicle) to travel with great speed: ",
+                            "examples": [
+                                "The car was belting along/down the road."
+                            ]
+                        },
+                        {
+                            "explanation": "to hit someone or something hard, especially with violence: ",
+                            "examples": [
+                                "He belted him in the face."
+                            ]
+                        },
+                        {
+                            "explanation": "to tie something with a belt: ",
+                            "examples": [
+                                "I belted my coat tightly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

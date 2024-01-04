@@ -1,0 +1,42 @@
+{
+    "word": "light speed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlaɪt ˌspiːd"
+                            ],
+                            "us": [
+                                "ˈlaɪt ˌspiːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the speed at which light travels in a vacuum (= a space in which there is no matter): ",
+                            "examples": [
+                                "Light speed is considered to be the maximum speed for any particle to travel according to known physical laws.",
+                                "Magnets propel streams of electrons around the track, accelerating them to near light-speed."
+                            ]
+                        },
+                        {
+                            "explanation": "an extremely fast speed: ",
+                            "examples": [
+                                "Rumours spread around here at light speed.",
+                                "Everything seems to be changing faster than light speed at the moment.",
+                                "She works at a light-speed pace."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

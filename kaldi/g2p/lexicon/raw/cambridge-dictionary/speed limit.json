@@ -1,0 +1,35 @@
+{
+    "word": "speed limit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspiːd ˌlɪm.ɪt"
+                            ],
+                            "us": [
+                                "ˈspiːd ˌlɪm.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fastest rate at which you are allowed to drive in a particular area: ",
+                            "examples": [
+                                "a 50 mph speed limit",
+                                "Slow down - you're breaking the speed limit.",
+                                "Try not to go over the speed limit, Daniel."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

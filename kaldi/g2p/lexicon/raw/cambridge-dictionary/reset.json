@@ -1,0 +1,105 @@
+{
+    "word": "reset",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈset"
+                            ],
+                            "us": [
+                                "ˌriːˈset"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to turn a piece of electronic equipment off and then on again when it does not work correctly, to make it start working correctly again: ",
+                            "examples": [
+                                "You can reset most routers by holding down the reset button for 30 seconds."
+                            ]
+                        },
+                        {
+                            "explanation": "to change the position on the controls of a piece of equipment: ",
+                            "examples": [
+                                "I had to reset the clock on the microwave.",
+                                "There is no need to reset the thermostat in the summer."
+                            ]
+                        },
+                        {
+                            "explanation": "to change the details of something: ",
+                            "examples": [
+                                "You may need to reset your password."
+                            ]
+                        },
+                        {
+                            "explanation": "of a machine or piece of equipment, to turn off and then on again and return to its original settings: ",
+                            "examples": [
+                                "The monitor resets automatically when a new cartridge is installed.",
+                                "The circuit-breaker will automatically reset within 15 seconds if no serious damage occurred."
+                            ]
+                        },
+                        {
+                            "explanation": "to change so as to be at a different level, amount, or time: ",
+                            "examples": [
+                                "Borrowers began having trouble as their interest rates reset higher.",
+                                "The system resets every leap year."
+                            ]
+                        },
+                        {
+                            "explanation": "of a person, to start again after a period of rest or change, so that you feel better able to deal with your life or with a situation : ",
+                            "examples": [
+                                "Covid-19 has provided many people with an opportunity to reset.",
+                                "Longer intervals between deployments would allow soldiers better opportunities to reset mentally before returning to combat."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈriː.set"
+                            ],
+                            "us": [
+                                "ˈriː.set"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of returning a piece of equipment to its original settings, usually by turning it off and on again: ",
+                            "examples": [
+                                "A hard reset will erase all of the device's applications.",
+                                "The unit may require a full-system reset ."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of changing the details of something: ",
+                            "examples": [
+                                "As soon as we learned of the attack, we forced password resets on all affected accounts."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of changing something so it is at a different level, amount, or time: ",
+                            "examples": [
+                                "We should anticipate a reset of tax rates.",
+                                "Some homeowners are facing resets on adjustable-rate mortgages."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

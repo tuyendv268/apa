@@ -1,0 +1,63 @@
+{
+    "word": "bootstrap",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbuːt.stræp"
+                            ],
+                            "us": [
+                                "ˈbuːt.stræp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of leather or other strong material at the back of a boot that you use to help you pull the boot on",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbuːt.stræp"
+                            ],
+                            "us": [
+                                "ˈbuːt.stræp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to improve your situation or become more successful, without help from others or without advantages that others have: ",
+                            "examples": [
+                                "His father had bootstrapped himself out of rural poverty to earn a university degree in business.",
+                                "Nolan bootstrapped himself into the film business, cobbling together bits of 16-millimetre film stock with $6,000 to make his first feature."
+                            ]
+                        },
+                        {
+                            "explanation": "to start a business, especially an internet one, with little money: ",
+                            "examples": [
+                                "He bootstrapped the company, pouring all his energy into it.",
+                                "I met a young engineer who had bootstrapped a company to offer mobile internet advertising services to brands."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

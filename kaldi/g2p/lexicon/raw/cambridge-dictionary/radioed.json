@@ -1,0 +1,56 @@
+{
+    "word": "radioed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nradio ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈreɪ.di.əʊ"
+                            ],
+                            "us": [
+                                "ˈreɪ.di.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send a message to someone by radio: ",
+                            "examples": [
+                                "We'll have to radio for more supplies.",
+                                "They radioed their base for help."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

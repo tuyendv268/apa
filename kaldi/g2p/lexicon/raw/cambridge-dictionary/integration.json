@@ -1,0 +1,47 @@
+{
+    "word": "integration",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.tɪˈɡreɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬əˈɡreɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the action or process of successfully joining or mixing with a different group of people: ",
+                            "examples": [
+                                "racial/cultural integration",
+                                "To promote integration, several schools' catchment areas were merged."
+                            ]
+                        },
+                        {
+                            "explanation": "the action or process of combining two or more things in an effective way: ",
+                            "examples": [
+                                "He creates a seamless integration of contemporary and historic images.",
+                                "The heads of government were trying to encourage regional integration."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of calculating the integral of a function: ",
+                            "examples": [
+                                "Integration can be used to find areas, volumes, central points, and many other useful things in addition to finding the area under the graph of a function."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

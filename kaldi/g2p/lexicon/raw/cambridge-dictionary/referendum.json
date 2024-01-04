@@ -1,0 +1,37 @@
+{
+    "word": "referendum",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌref.əˈren.dəm"
+                            ],
+                            "us": [
+                                "ˌref.əˈren.dəm"
+                            ],
+                            "uk_other_tense": [
+                                "ˌref.əˈren.də"
+                            ],
+                            "us_other_tense": [
+                                "ˌref.əˈren.də"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a vote in which all the people in a country or an area are asked to give their opinion about or decide an important political or social question: ",
+                            "examples": [
+                                "Is it more democratic to hold a referendum, rather than let the government alone decide?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

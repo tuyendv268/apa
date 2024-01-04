@@ -1,0 +1,77 @@
+{
+    "word": "derivative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈrɪv.ə.tɪv"
+                            ],
+                            "us": [
+                                "dɪˈrɪv.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If something is derivative, it is not the result of new ideas, but has been developed from or copies something else: ",
+                            "examples": [
+                                "His painting/style is very derivative."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈrɪv.ɪ.tɪv"
+                            ],
+                            "us": [
+                                "dɪˈrɪv.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a form of something made or developed from another form: ",
+                            "examples": [
+                                "This is a derivative of seaweed that is currently used as a food additive."
+                            ]
+                        },
+                        {
+                            "explanation": "a word developed from another word: ",
+                            "examples": [
+                                "\"Detestable\" is a derivative of \"detest\"."
+                            ]
+                        },
+                        {
+                            "explanation": "a financial product such as an option (= the right to buy or sell something in the future) that has a value based on the value of another product, such as shares or bonds: ",
+                            "examples": [
+                                "The company became the leading marketplace for foreign exchange derivatives.",
+                                "Brokers predict the derivatives market will continue expanding at a fast pace."
+                            ]
+                        },
+                        {
+                            "explanation": "in calculus (= an area of advanced mathematics in which continuously changing values are studied), a measure of the rate at which a function is changing: ",
+                            "examples": [
+                                "The derivative of the position of a moving object with respect to time is the object's velocity.",
+                                "Find the derivative of the function f(x) = (x2 - 5) (x3 - 2x + 3)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

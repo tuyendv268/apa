@@ -1,0 +1,59 @@
+{
+    "word": "aged",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of the age of: ",
+                            "examples": [
+                                "They've got one daughter, Isabel, aged three."
+                            ]
+                        },
+                        {
+                            "explanation": "old: ",
+                            "examples": [
+                                "She has two rather aged aunts."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeɪ.dʒɪd"
+                            ],
+                            "us": [
+                                "ˈeɪ.dʒɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "old people when considered as a group: ",
+                            "examples": [
+                                "The hospital was built to meet the needs of the aged."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

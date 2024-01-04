@@ -1,0 +1,63 @@
+{
+    "word": "snooping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsnoop ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "snuːp"
+                            ],
+                            "us": [
+                                "snuːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to look around a place secretly, in order to discover things or find out information about someone or something: ",
+                            "examples": [
+                                "People were sent out to snoop on rival businesses.",
+                                "She's the sort of person you can imagine snooping about your room when you're not there."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to find out about other people's private lives: ",
+                            "examples": [
+                                "I don't mean to snoop, but is there something wrong?",
+                                "Clara's husband is snooping on her because he thinks she is seeing another man."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

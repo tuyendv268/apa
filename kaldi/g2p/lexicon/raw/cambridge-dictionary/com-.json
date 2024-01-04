@@ -1,0 +1,63 @@
+{
+    "word": "com-",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "kɒm-"
+                            ],
+                            "us": [
+                                "kɑːm-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "together; with: ",
+                            "examples": [
+                                "combination",
+                                "community",
+                                "companions"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "ˌdɒtˈkɒm"
+                            ],
+                            "us": [
+                                "ˌdɑːtˈkɑːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for company: used in some internet addresses that belong to companies or businesses: ",
+                            "examples": [
+                                "www.yahoo.com"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

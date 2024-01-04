@@ -1,0 +1,64 @@
+{
+    "word": "towing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ntow ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "təʊ"
+                            ],
+                            "us": [
+                                "toʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pull a car, boat, etc. along, fastened behind another vehicle or boat: ",
+                            "examples": [
+                                "You shouldn't drive fast when your car is towing a caravan.",
+                                "The road was closed while the vehicles that had been involved in the accident were towed away/off.",
+                                "The damaged boat was towed to safety."
+                            ]
+                        },
+                        {
+                            "explanation": "to take away a vehicle that has been parked illegally using an official truck, to a place from which the driver has to pay to pick it up: ",
+                            "examples": [
+                                "You're not allowed to park here - your car will be towed away .",
+                                "This part of town is a tow zone (= one in which cars left illegally will be removed)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

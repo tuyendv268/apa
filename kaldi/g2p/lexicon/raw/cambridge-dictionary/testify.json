@@ -1,0 +1,42 @@
+{
+    "word": "testify",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtes.tɪ.faɪ"
+                            ],
+                            "us": [
+                                "ˈtes.tə.faɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a person) to speak seriously about something, especially in a law court, or to give or provide proof: ",
+                            "examples": [
+                                "He testified that he had seen the man leaving the building around the time of the murder.",
+                                "I can testify to the foregoing since I was actually present when it happened."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a fact, event, etc.) to show something or prove that something is true: ",
+                            "examples": [
+                                "These monuments testify to the prosperity of the country and the richness of its culture.",
+                                "This act of generosity testifies to the kind of person you are.",
+                                "As his story testifies, social mobility is not a myth."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

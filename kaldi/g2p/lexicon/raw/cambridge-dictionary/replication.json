@@ -1,0 +1,41 @@
+{
+    "word": "replication",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌrep.lɪˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌrep.ləˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of making or doing something again in exactly the same way, or something that is made or done in this way: ",
+                            "examples": [
+                                "Replication of these findings in other studies will be important.",
+                                "The second project was not designed as an exact replication of the first."
+                            ]
+                        },
+                        {
+                            "explanation": "the process by which organisms and genetic or other structures make exact copies of themselves: ",
+                            "examples": [
+                                "The medication will slow down the replication of the virus.",
+                                "These chemicals increase the number of DNA replications in the target cell population."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

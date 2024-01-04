@@ -1,0 +1,69 @@
+{
+    "word": "massacre",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæs.ə.kər"
+                            ],
+                            "us": [
+                                "ˈmæs.ə.kɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an act of killing a lot of people: ",
+                            "examples": [
+                                "He ordered the massacre of 2,000 women and children."
+                            ]
+                        },
+                        {
+                            "explanation": "a bad defeat, especially in sport: ",
+                            "examples": [
+                                "The manager resigned after the team's 7–2 massacre in the final."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæs.ə.kər"
+                            ],
+                            "us": [
+                                "ˈmæs.ə.kɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to kill many people in a short period of time: ",
+                            "examples": [
+                                "Hundreds of civilians were massacred in the raid."
+                            ]
+                        },
+                        {
+                            "explanation": "to defeat an opponent very badly in a competition or election: ",
+                            "examples": [
+                                "England was massacred 5–0 by France in the semifinal."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

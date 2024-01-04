@@ -1,0 +1,80 @@
+{
+    "word": "accent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.sənt"
+                            ],
+                            "us": [
+                                "ˈæk.sənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the way in which people in a particular area, country, or social group pronounce words: ",
+                            "examples": [
+                                "He's got a strong southern/Boston accent.",
+                                "She's French but she speaks with an impeccable English accent.",
+                                "He speaks with a broad/heavy/strong/thick Yorkshire accent.",
+                                "I thought I could detect a slight Canadian accent."
+                            ]
+                        },
+                        {
+                            "explanation": "a mark written or printed over a letter to show you how to pronounce it: ",
+                            "examples": [
+                                "a grave accent",
+                                "There's an acute accent on the e of \"café\"."
+                            ]
+                        },
+                        {
+                            "explanation": "a special emphasis given to a particular syllable in a word, word in a sentence, or note in a set of musical notes: ",
+                            "examples": [
+                                "The accent falls on the final syllable."
+                            ]
+                        },
+                        {
+                            "explanation": "great importance is given to a particular thing or quality: ",
+                            "examples": [
+                                "This season the accent is definitely on long, flowing, romantic clothes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.sənt"
+                            ],
+                            "us": [
+                                "ˈæk.sent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to emphasize something: ",
+                            "examples": [
+                                "In any advertising campaign, you must accent the areas where your product is better than the competition.",
+                                "Accent the first note of every bar."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

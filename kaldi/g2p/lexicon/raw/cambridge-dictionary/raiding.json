@@ -1,0 +1,73 @@
+{
+    "word": "raiding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nraid ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "reɪd"
+                            ],
+                            "us": [
+                                "reɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to attack a place suddenly: ",
+                            "examples": [
+                                "The nomads raided the enemy camp and captured over 100 camels."
+                            ]
+                        },
+                        {
+                            "explanation": "to enter a place illegally and usually violently, and steal from it: ",
+                            "examples": [
+                                "The post office was raided late at night."
+                            ]
+                        },
+                        {
+                            "explanation": "(of the police) to enter a place suddenly in order to find someone or something: ",
+                            "examples": [
+                                "Police officers from the organized crime division have raided businesses in central London."
+                            ]
+                        },
+                        {
+                            "explanation": "to take something from a place, usually secretly: ",
+                            "examples": [
+                                "I caught Toby raiding the fridge."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

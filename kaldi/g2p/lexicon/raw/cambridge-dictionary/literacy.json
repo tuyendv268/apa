@@ -1,0 +1,40 @@
+{
+    "word": "literacy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪt.ər.ə.si"
+                            ],
+                            "us": [
+                                "ˈlɪt̬.ɚ.ə.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the ability to read and write: ",
+                            "examples": [
+                                "Far more resources are needed to improve adult literacy.",
+                                "The country has a literacy rate of almost 98%."
+                            ]
+                        },
+                        {
+                            "explanation": "knowledge of a particular subject, or a particular type of knowledge: ",
+                            "examples": [
+                                "Computer literacy is becoming as essential as the ability to drive a car."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

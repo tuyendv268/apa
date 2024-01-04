@@ -1,0 +1,40 @@
+{
+    "word": "biosignature",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌbaɪ.əʊˈsɪɡ.nə.tʃər"
+                            ],
+                            "us": [
+                                "ˌbaɪ.ʊˈsɪɡ.nə.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something, for example a gene, substance, or feature, that shows that a particular biological process or condition is present: ",
+                            "examples": [
+                                "The goal of the study was to find a biosignature that would enable the detection of Alzheimer's disease before the onset of clinical symptoms."
+                            ]
+                        },
+                        {
+                            "explanation": "something, for example a chemical element, substance, or feature, that shows the past or present existence of living things in a place: ",
+                            "examples": [
+                                "Oxygen is a major biosignature in the search for life outside the Earth.",
+                                "The space mission plans to detect O2 or its product O3 as a biosignature of life."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

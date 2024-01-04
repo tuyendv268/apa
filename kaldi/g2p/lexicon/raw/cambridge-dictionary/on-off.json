@@ -1,0 +1,40 @@
+{
+    "word": "on-off",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒnˈɒf"
+                            ],
+                            "us": [
+                                "ˌɑːnˈɑːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "that can be in two positions, either on or off: ",
+                            "examples": [
+                                "The basic model uses a simple on-off switch."
+                            ]
+                        },
+                        {
+                            "explanation": "that is not continuous; that stops and starts again: ",
+                            "examples": [
+                                "an on-off romance",
+                                "I need to add that this was not our first break-up; our relationship was on-off for about a year. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

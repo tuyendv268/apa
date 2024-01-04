@@ -1,0 +1,79 @@
+{
+    "word": "sex",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "seks"
+                            ],
+                            "us": [
+                                "seks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the physical state of being either male, female, or intersex: ",
+                            "examples": [
+                                "What sex is your cat?",
+                                "Some tests enable you to find out the sex of your baby before it's born.",
+                                "It's illegal to discriminate against people on the basis of (their) sex.",
+                                "She accused her employer of sex discrimination (= of treating her unfairly because she was a woman)."
+                            ]
+                        },
+                        {
+                            "explanation": "all males considered as a group, or all females considered as a group: ",
+                            "examples": [
+                                "She seems to regard all members of the male sex as inferior.",
+                                "Members of the opposite sex are not allowed in students' rooms overnight."
+                            ]
+                        },
+                        {
+                            "explanation": "physical activity between people involving the sexual organs: ",
+                            "examples": [
+                                "Sex before/outside marriage is strongly disapproved of in some cultures.",
+                                "She was complaining about all the sex and violence on television.",
+                                "She'd been having sex with a colleague at work for years.",
+                                "Most young people now receive sex education at school.",
+                                "extramarital/premarital sex",
+                                "casual sex (= sex with someone you do not know)",
+                                "unprotected sex (= sex without using something to prevent disease or becoming pregnant)"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "seks"
+                            ],
+                            "us": [
+                                "seks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to discover if an animal is male or female: ",
+                            "examples": [
+                                "How do you sex fish?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "deliberation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˌlɪb.əˈreɪ.ʃən"
+                            ],
+                            "us": [
+                                "dɪˌlɪb.əˈreɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "considering or discussing something: ",
+                            "examples": [
+                                "After much deliberation, she decided to accept their offer.",
+                                "After five days of deliberations, the jury decided on a verdict."
+                            ]
+                        },
+                        {
+                            "explanation": "a slow careful way of doing something: ",
+                            "examples": [
+                                "Slowly and with deliberation she turned to me and told me to get out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

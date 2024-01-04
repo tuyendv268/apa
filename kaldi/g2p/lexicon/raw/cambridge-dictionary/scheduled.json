@@ -1,0 +1,39 @@
+{
+    "word": "scheduled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃedʒ.uːld"
+                            ],
+                            "us": [
+                                "ˈskedʒ.uːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "planned to happen at a particular time: ",
+                            "examples": [
+                                "This programme will be broadcast half an hour later than the scheduled time."
+                            ]
+                        },
+                        {
+                            "explanation": "A scheduled flight or bus is one that travels at the same time every day or week: ",
+                            "examples": [
+                                "a scheduled flight"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "word": "radio",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈreɪ.di.əʊ"
+                            ],
+                            "us": [
+                                "ˈreɪ.di.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of electronic equipment used for listening to radio broadcasts: ",
+                            "examples": [
+                                "a car radio",
+                                "I switched on the radio."
+                            ]
+                        },
+                        {
+                            "explanation": "the programmes that you hear when you listen to the radio: ",
+                            "examples": [
+                                "I heard a good programme on the radio last night.",
+                                "I don't listen to radio much."
+                            ]
+                        },
+                        {
+                            "explanation": "the system or work of broadcasting sound programmes for the public to listen to: ",
+                            "examples": [
+                                "a local radio station",
+                                "She's got some kind of job in radio."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of electronic equipment that can send and receive spoken messages or signals, or the messages or signals that are sent or received: ",
+                            "examples": [
+                                "We sent a message over the radio/by radio.",
+                                "The children got radio-controlled toy cars for Christmas."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈreɪ.di.əʊ"
+                            ],
+                            "us": [
+                                "ˈreɪ.di.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send a message to someone by radio: ",
+                            "examples": [
+                                "We'll have to radio for more supplies.",
+                                "They radioed their base for help."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

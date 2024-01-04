@@ -1,0 +1,33 @@
+{
+    "word": "snail mail",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsneɪl ˌmeɪl"
+                            ],
+                            "us": [
+                                "ˈsneɪl ˌmeɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "letters or messages that are not sent by email, but in the post: ",
+                            "examples": [
+                                "We agreed the deal online, but we'll have to wait for snail mail to get the paperwork."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

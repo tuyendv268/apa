@@ -1,0 +1,60 @@
+{
+    "word": "frequent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfriː.kwənt"
+                            ],
+                            "us": [
+                                "ˈfriː.kwənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "happening often: ",
+                            "examples": [
+                                "a frequent visitor to the US",
+                                "A frequent criticism of the proposal has been its high cost.",
+                                "The most frequent cause of death is heart disease.",
+                                "The attacks were increasingly frequent and serious."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "frɪˈkwent"
+                            ],
+                            "us": [
+                                "friːˈkwent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be in or visit a particular place often: ",
+                            "examples": [
+                                "a bar frequented by criminals"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

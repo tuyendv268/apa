@@ -1,0 +1,38 @@
+{
+    "word": "inspector",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈspek.tər"
+                            ],
+                            "us": [
+                                "ɪnˈspek.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone whose job is to officially inspect something: ",
+                            "examples": [
+                                "a tax inspector",
+                                "a school inspector/an inspector of schools"
+                            ]
+                        },
+                        {
+                            "explanation": "a police officer of middle rank, above a sergeant and below a superintendent",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

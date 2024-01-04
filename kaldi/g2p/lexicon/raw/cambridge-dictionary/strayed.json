@@ -1,0 +1,64 @@
+{
+    "word": "strayed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nstray ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "streɪ"
+                            ],
+                            "us": [
+                                "streɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to travel along a route that was not originally intended, or to move outside a limited area: ",
+                            "examples": [
+                                "A herd of cattle had strayed into the road.",
+                                "They got lost when they strayed too far from the path.",
+                                "The ship strayed off course during the storm."
+                            ]
+                        },
+                        {
+                            "explanation": "to start thinking or talking about a different subject from the one you should be giving attention to: ",
+                            "examples": [
+                                "I think we've strayed too far from our original plan.",
+                                "Sorry - I've strayed from the subject."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

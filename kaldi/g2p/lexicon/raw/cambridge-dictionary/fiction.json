@@ -1,0 +1,41 @@
+{
+    "word": "fiction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɪk.ʃən"
+                            ],
+                            "us": [
+                                "ˈfɪk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the type of book or story that is written about imaginary characters and events and not based on real people and facts: ",
+                            "examples": [
+                                "The book is a work of fiction and not intended as a historical account.",
+                                "a writer of children's fiction"
+                            ]
+                        },
+                        {
+                            "explanation": "a false report or statement that you pretend is true: ",
+                            "examples": [
+                                "At work she kept up the fiction that she had a university degree.",
+                                "When he's telling you something, you never know what's fact and what's fiction."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

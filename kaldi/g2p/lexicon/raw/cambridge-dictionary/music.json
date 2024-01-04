@@ -1,0 +1,52 @@
+{
+    "word": "music",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmjuː.zɪk"
+                            ],
+                            "us": [
+                                "ˈmjuː.zɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it: ",
+                            "examples": [
+                                "classical/pop/dance/rock music",
+                                "a beautiful piece of music",
+                                "What kind of music do you listen to?",
+                                "They play good music on this (radio) station.",
+                                "I just like making music (= playing an instrument or singing).",
+                                "Shall I put on some music (= play a recording)?"
+                            ]
+                        },
+                        {
+                            "explanation": "the art or study of music: ",
+                            "examples": [
+                                "I studied music at college.",
+                                "the music business/industry",
+                                "music lessons"
+                            ]
+                        },
+                        {
+                            "explanation": "the written system of symbols representing musical notes: ",
+                            "examples": [
+                                "Can you read music?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "digital certificate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdɪdʒ.ɪ.təl səˈtɪf.ɪ.kət"
+                            ],
+                            "us": [
+                                "ˌdɪdʒ.ɪ.t̬əl sɚˈtɪf.ə.kət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small data file that shows that a website, device, computer, or user is what they claim to be, and that allows a safe internet connection: ",
+                            "examples": [
+                                "A digital certificate helps an organization ensure that only a trusted device or user can connect to their network.",
+                                "The system uses a digital certificate along with the user name and password to authenticate a user."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

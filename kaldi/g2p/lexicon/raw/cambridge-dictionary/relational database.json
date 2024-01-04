@@ -1,0 +1,31 @@
+{
+    "word": "relational database",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˌleɪ.ʃən.əl ˈdeɪ.tə.beɪs"
+                            ],
+                            "us": [
+                                "rɪˌleɪ.ʃən.əl ˈdeɪ.t̬ə.beɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a database in which many connections are made between the tables in the database",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

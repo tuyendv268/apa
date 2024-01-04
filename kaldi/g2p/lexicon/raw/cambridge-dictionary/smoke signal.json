@@ -1,0 +1,37 @@
+{
+    "word": "smoke signal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsməʊk ˌsɪɡ.nəl"
+                            ],
+                            "us": [
+                                "ˈsmoʊk ˌsɪɡ.nəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a signal that uses smoke from a fire to represent words, used to send messages over long distances",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a statement that is a sign of what someone's intentions are: ",
+                            "examples": [
+                                "The chancellor was sending out smoke signals about the new budget proposal."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

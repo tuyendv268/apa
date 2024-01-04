@@ -1,0 +1,69 @@
+{
+    "word": "prompted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nprompt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prɒmpt"
+                            ],
+                            "us": [
+                                "prɑːmpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something happen: ",
+                            "examples": [
+                                "The bishop's speech has prompted an angry response from both political parties.",
+                                "Recent worries over the president's health have prompted speculation over his political future."
+                            ]
+                        },
+                        {
+                            "explanation": "to make someone decide to say or do something: ",
+                            "examples": [
+                                "What prompted you to say that?",
+                                "I don't know what prompted him to leave."
+                            ]
+                        },
+                        {
+                            "explanation": "to help someone, especially an actor, to remember what they were going to say or do: ",
+                            "examples": [
+                                "I forgot my line and had to be prompted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

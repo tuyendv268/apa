@@ -1,0 +1,33 @@
+{
+    "word": "wordy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɜː.di"
+                            ],
+                            "us": [
+                                "ˈwɝː.di"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "containing too many words: ",
+                            "examples": [
+                                "As usual she gave a reply which was wordy and didn't answer the question."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

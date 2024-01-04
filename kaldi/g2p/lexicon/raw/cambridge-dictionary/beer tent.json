@@ -1,0 +1,33 @@
+{
+    "word": "beer tent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɪə ˌtent"
+                            ],
+                            "us": [
+                                "ˈbɪr ˌtent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large tent at a public event in which beer is sold: ",
+                            "examples": [
+                                "Beer tents are a feature of most outdoor festivals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

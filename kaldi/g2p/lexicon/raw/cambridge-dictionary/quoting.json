@@ -1,0 +1,70 @@
+{
+    "word": "quoting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nquote ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kwəʊt"
+                            ],
+                            "us": [
+                                "kwoʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to repeat the words that someone else has said or written: ",
+                            "examples": [
+                                "He's always quoting from the Bible.",
+                                "\"If they're flexible, we're flexible\", the official was quoted as saying.",
+                                "She worked, to quote her daughter, \"as if there were no tomorrow\".",
+                                "Can I quote you on that (= can I repeat to other people what you have just said)?"
+                            ]
+                        },
+                        {
+                            "explanation": "If you quote a fact or example, you refer to it in order to add emphasis to what you are saying: ",
+                            "examples": [
+                                "Quote me one organization that doesn't have some bad managers."
+                            ]
+                        },
+                        {
+                            "explanation": "to give a price, especially one that will be charged for doing a piece of work: ",
+                            "examples": [
+                                "The architect has quoted £90,000 to build a patio."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

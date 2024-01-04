@@ -1,0 +1,47 @@
+{
+    "word": "exclude",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈskluːd"
+                            ],
+                            "us": [
+                                "ɪkˈskluːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to prevent someone or something from entering a place or taking part in an activity: ",
+                            "examples": [
+                                "Women are still excluded from the club.",
+                                "Microbes must, as far as possible, be excluded from the room during an operation.",
+                                "Tom has been excluded from school (= he is not allowed to go to school) for bad behaviour."
+                            ]
+                        },
+                        {
+                            "explanation": "to intentionally not include something: ",
+                            "examples": [
+                                "The price excludes local taxes."
+                            ]
+                        },
+                        {
+                            "explanation": "to decide that something is not true or possible: ",
+                            "examples": [
+                                "We can't exclude the possibility that he is dead."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

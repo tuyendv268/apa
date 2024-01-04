@@ -1,0 +1,41 @@
+{
+    "word": "exosphere",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeks.əʊ.sfɪər"
+                            ],
+                            "us": [
+                                "ˈeks.oʊ.sfɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of a planet's atmosphere that is farthest from the planet : ",
+                            "examples": [
+                                "What is happening in Mercury's exosphere?",
+                                "An exosphere is the upper part of any planetary atmosphere, where the density of atoms is so low that they don't collide with each other."
+                            ]
+                        },
+                        {
+                            "explanation": "the part of the earth's atmosphere that is farthest from the earth: ",
+                            "examples": [
+                                "The temperature at the base of the exosphere is about 1300 K.",
+                                "Atoms of hydrogen, helium, sodium, potassium and calcium have been seen in the exosphere."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

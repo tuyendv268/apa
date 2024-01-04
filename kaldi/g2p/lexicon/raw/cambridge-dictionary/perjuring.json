@@ -1,0 +1,55 @@
+{
+    "word": "perjuring",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nperjure ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɜː.dʒər"
+                            ],
+                            "us": [
+                                "ˈpɝː.dʒɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to tell a lie in a law court, after promising formally to tell the truth: ",
+                            "examples": [
+                                "The judge warned the witness not to perjure herself."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

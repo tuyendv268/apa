@@ -1,0 +1,41 @@
+{
+    "word": "non-network",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈnet.wɜːk"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈnet.wɝːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not connected to or part of a network: ",
+                            "examples": [
+                                "You will need a portable drive if you wish to transfer the file to a non-network computer.",
+                                "He controls 60 non-network broadcast television stations across the country."
+                            ]
+                        },
+                        {
+                            "explanation": "A non-network doctor or hospital is not automatically included as part of someone's health insurance, so they have to pay for some or all of it themselves: ",
+                            "examples": [
+                                "Once stabilized at a non-network hospital, the patient may be transferred to a network hospital.",
+                                "My dermatologist is non-network, so appointments cost a lot."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

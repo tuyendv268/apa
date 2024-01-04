@@ -1,0 +1,69 @@
+{
+    "word": "glided",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nglide ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡlaɪd"
+                            ],
+                            "us": [
+                                "ɡlaɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move easily without stopping and without effort or noise: ",
+                            "examples": [
+                                "She came gliding gracefully into the ballroom in a long, flowing gown.",
+                                "I love my new pen - it just glides across/over the paper."
+                            ]
+                        },
+                        {
+                            "explanation": "to move or progress without difficulty or effort: ",
+                            "examples": [
+                                "Some people glide effortlessly through life with no real worries."
+                            ]
+                        },
+                        {
+                            "explanation": "to fly by floating on air currents instead of using power from wings or an engine: ",
+                            "examples": [
+                                "We saw a condor gliding high above the mountains.",
+                                "Unlike other spacecraft, the shuttle can glide back through the atmosphere, land safely, and be reused."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

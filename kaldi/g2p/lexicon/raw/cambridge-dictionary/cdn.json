@@ -1,0 +1,39 @@
+{
+    "word": "cdn",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsiː.diːˈen"
+                            ],
+                            "us": [
+                                "ˌsiː.diːˈen"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for content delivery network: a number of connected proxy servers (= computers that communicate between a central computer and other devices) kept in buildings in many different places across the world that enable information, images, video, etc. to be shared quickly on the internet: ",
+                            "examples": [
+                                "A CDN improves website load times by distributing content from a nearby server, closer to website visitors."
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for Canadian dollar or dollars: ",
+                            "examples": [
+                                "Greyhound's Montréal-DC fare is CDN $94 one way/ CDN $135 round-trip."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

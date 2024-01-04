@@ -1,0 +1,39 @@
+{
+    "word": "nomination",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒm.ɪˈneɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌnɑː.məˈneɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of officially suggesting someone or something for a job, position, or prize: ",
+                            "examples": [
+                                "There have been two nominations for the new job."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of officially choosing someone for a job or position: ",
+                            "examples": [
+                                "the nomination of Elena Kagan to the Supreme Court"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

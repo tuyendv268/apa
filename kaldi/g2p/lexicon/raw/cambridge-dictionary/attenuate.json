@@ -1,0 +1,40 @@
+{
+    "word": "attenuate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈten.ju.eɪt"
+                            ],
+                            "us": [
+                                "əˈten.ju.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something less or weaker: ",
+                            "examples": [
+                                "Radiation from the sun is attenuated by the earth's atmosphere.",
+                                "They propose more peacekeeping troops to attenuate the violence."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something longer and thinner: ",
+                            "examples": [
+                                "The artist has attenuated the limbs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

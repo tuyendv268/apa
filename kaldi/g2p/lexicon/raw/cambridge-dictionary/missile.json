@@ -1,0 +1,40 @@
+{
+    "word": "missile",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪs.aɪl"
+                            ],
+                            "us": [
+                                "ˈmɪs.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a flying weapon that has its own engine so that it can travel a long distance before exploding at the place that it has been aimed at: ",
+                            "examples": [
+                                "a missile launcher",
+                                "Missile attacks on the capital resumed at dawn."
+                            ]
+                        },
+                        {
+                            "explanation": "any object that is thrown with the intention of causing injury or damage: ",
+                            "examples": [
+                                "Stones, bottles, and other missiles were thrown at the police."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

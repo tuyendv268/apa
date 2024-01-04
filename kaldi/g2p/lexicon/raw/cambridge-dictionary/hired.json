@@ -1,0 +1,63 @@
+{
+    "word": "hired",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nhire ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "haɪər"
+                            ],
+                            "us": [
+                                "haɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pay to use something for a short period: ",
+                            "examples": [
+                                "How much would it cost to hire a car for the weekend?",
+                                "You could always hire a dress for the ball if you can't afford to buy one."
+                            ]
+                        },
+                        {
+                            "explanation": "to employ someone or pay someone to do a particular job: ",
+                            "examples": [
+                                "I was hired by the first company I applied to.",
+                                "We ought to hire a public relations consultant to help improve our image."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

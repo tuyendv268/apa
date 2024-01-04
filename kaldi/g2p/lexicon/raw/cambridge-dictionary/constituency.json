@@ -1,0 +1,45 @@
+{
+    "word": "constituency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈstɪtʃ.u.ən.si"
+                            ],
+                            "us": [
+                                "kənˈstɪtʃ.u.ən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the official areas of a country that elects someone to represent it in a parliament or legislature: ",
+                            "examples": [
+                                "a rural/urban constituency"
+                            ]
+                        },
+                        {
+                            "explanation": "the people who live and can vote in a particular area: ",
+                            "examples": [
+                                "He angered his constituency by voting against the bill."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of people who support, or are likely to support, a particular person, product, suggestion, etc. : ",
+                            "examples": [
+                                "There is a large constituency in favour of income-tax reductions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

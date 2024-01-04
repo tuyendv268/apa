@@ -1,0 +1,33 @@
+{
+    "word": "partial differential equation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɑː.ʃəl dɪf.əˌren.ʃəl ɪˈkweɪ.ʒən"
+                            ],
+                            "us": [
+                                "ˌpɑːr.ʃəl dɪf.əˌren.ʃəl ɪˈkweɪ.ʒən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an equation (= a mathematical statement) that expresses a relationship between a function (= a changing mathematical value) and two or more of its derivatives (= measures of the rate at which the function is changing) in which one variable (= value) changes and others stay the same: ",
+                            "examples": [
+                                "This has been an elusive goal for developers of partial differential equation solving software. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

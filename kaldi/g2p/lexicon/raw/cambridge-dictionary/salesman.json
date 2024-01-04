@@ -1,0 +1,39 @@
+{
+    "word": "salesman",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈseɪlz.mən"
+                            ],
+                            "us": [
+                                "ˈseɪlz.mən"
+                            ],
+                            "uk_other_tense": [
+                                "ˈseɪlz.mən"
+                            ],
+                            "us_other_tense": [
+                                "ˈseɪlz.mən"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a man whose job is selling things in a shop or directly to customers: ",
+                            "examples": [
+                                "a car salesman",
+                                "a travelling salesman",
+                                "a door-to-door salesman"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

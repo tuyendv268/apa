@@ -1,0 +1,33 @@
+{
+    "word": "noun phrase",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnaʊn ˌfreɪz"
+                            ],
+                            "us": [
+                                "ˈnaʊn ˌfreɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of words in a sentence that together behave as a noun: ",
+                            "examples": [
+                                "In the sentences \"We took the night train\" and \"Do you know the man sitting in the corner?\" \"the night train\" and \"the man sitting in the corner\" are noun phrases."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

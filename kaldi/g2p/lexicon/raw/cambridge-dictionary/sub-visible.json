@@ -1,0 +1,41 @@
+{
+    "word": "sub-visible",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌsʌbˈvɪz.ə.bəl"
+                            ],
+                            "us": [
+                                "ˌsʌbˈvɪz.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "too small to be seen without special equipment: ",
+                            "examples": [
+                                "There are various methods for measuring sub-visible particles.",
+                                "The subvisible flicker can cause headaches and eyestrain."
+                            ]
+                        },
+                        {
+                            "explanation": "(of clouds) too thin to be seen: ",
+                            "examples": [
+                                "Particles that occur in apparently cloudless air are known as sub-visible cirrus.",
+                                "The cloud was subvisible to most observers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

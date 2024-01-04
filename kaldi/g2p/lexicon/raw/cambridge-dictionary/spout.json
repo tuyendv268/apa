@@ -1,0 +1,69 @@
+{
+    "word": "spout",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "spaʊt"
+                            ],
+                            "us": [
+                                "spaʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak a lot, in a way that is boring or annoying for other people: ",
+                            "examples": [
+                                "He spouts a load of pretentious nonsense and people are stupid enough to believe him!",
+                                "I really don't want to listen to Mike spouting on/off all afternoon."
+                            ]
+                        },
+                        {
+                            "explanation": "to flow or send out liquid or flames quickly and with force, in a straight line: ",
+                            "examples": [
+                                "Flames spouted (out) from the oil wells.",
+                                "The gash was spouting blood."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "spaʊt"
+                            ],
+                            "us": [
+                                "spaʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tube-shaped opening that allows liquids to be poured out of a container",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a stream of liquid coming out of something with some force: ",
+                            "examples": [
+                                "A spout of water shot out of the geyser."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

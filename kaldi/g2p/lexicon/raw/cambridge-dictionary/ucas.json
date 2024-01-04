@@ -1,0 +1,33 @@
+{
+    "word": "ucas",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈjuː.kæs"
+                            ],
+                            "us": [
+                                "ˈjuː.kæs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for Universities and Colleges Admissions Service; an organization in the UK that deals with university and college applications: ",
+                            "examples": [
+                                "You will find more information below on how to fill in your UCAS application."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

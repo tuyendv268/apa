@@ -1,0 +1,47 @@
+{
+    "word": "candidate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæn.dɪ.dət",
+                                "ˈkæn.dɪ.deɪt"
+                            ],
+                            "us": [
+                                "ˈkæn.dɪ.dət",
+                                "ˈkæn.dɪ.deɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who is competing to get a job or elected position: ",
+                            "examples": [
+                                "There are three candidates standing in the election."
+                            ]
+                        },
+                        {
+                            "explanation": "a person or thing considered likely to receive or experience something: ",
+                            "examples": [
+                                "The English Department is a likely candidate for staff cuts."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who is taking an exam: ",
+                            "examples": [
+                                "Candidates must write their names on the top page of the exam paper."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

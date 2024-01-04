@@ -1,0 +1,62 @@
+{
+    "word": "belched",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbelch ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "beltʃ"
+                            ],
+                            "us": [
+                                "beltʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to allow air from the stomach to come out noisily through the mouth: ",
+                            "examples": [
+                                "He belched noisily."
+                            ]
+                        },
+                        {
+                            "explanation": "to produce a large amount of a substance such as gas or smoke, especially when this is unpleasant or harmful, or to be produced like this: ",
+                            "examples": [
+                                "The exhaust pipe belched out dense black smoke.",
+                                "The haze is caused mostly by sulphur dioxide belching from coal-burning power plants."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

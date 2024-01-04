@@ -1,0 +1,31 @@
+{
+    "word": "lan",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "læn"
+                            ],
+                            "us": [
+                                "læn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for local area network: a system for connecting the computers of people who work in the same building",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "modularly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɒdʒ.ə.lə.li"
+                            ],
+                            "us": [
+                                "ˈmɑː.dʒə.lɚ.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that consists of separate parts that, when combined, form a complete whole: ",
+                            "examples": [
+                                "Large computer systems are often built modularly.",
+                                "These modularly built homes are designed to the same standards as any new home."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that consists of several units of teaching that together make a complete course, especially at a university or college in the United Kingdom : ",
+                            "examples": [
+                                "The course is structured modularly, giving students a more flexible choice of options.",
+                                "The units are organized modularly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

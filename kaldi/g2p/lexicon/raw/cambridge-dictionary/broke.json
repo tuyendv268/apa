@@ -1,0 +1,56 @@
+{
+    "word": "broke",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "brəʊk"
+                            ],
+                            "us": [
+                                "broʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple of break",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "brəʊk"
+                            ],
+                            "us": [
+                                "broʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "without money: ",
+                            "examples": [
+                                "I can't afford to go on holiday this year - I'm flat broke.",
+                                "Many small businesses went broke during the recession."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "word": "road",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rəʊd"
+                            ],
+                            "us": [
+                                "roʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, hard surface built for vehicles to travel along: ",
+                            "examples": [
+                                "We live on a busy/quiet road.",
+                                "Be careful when you cross a main road.",
+                                "There's a coffee shop on the other side of the road.",
+                                "The road from here to Adelaide runs/goes through some beautiful countryside.",
+                                "All roads into/out of the town were blocked by the snow.",
+                                "I hate flying so I go everywhere by road or rail.",
+                                "I live in/on Mill Road.",
+                                "My address is 82 Mill Road.",
+                                "Is this the Belfast road (= the road that goes to Belfast)?",
+                                "Most road accidents are caused by people driving too fast."
+                            ]
+                        },
+                        {
+                            "explanation": "If a vehicle is on the road, it is working as it should and can be legally used: ",
+                            "examples": [
+                                "My car was in the garage for a week, but it's now back on the road."
+                            ]
+                        },
+                        {
+                            "explanation": "When you are on the road, you are driving or travelling, usually over a long distance: ",
+                            "examples": [
+                                "After two days on the road, they reached the coast."
+                            ]
+                        },
+                        {
+                            "explanation": "If a group of actors or musicians are on the road, they are travelling to different places to perform: ",
+                            "examples": [
+                                "Most rock groups spend two or three months a year on the road."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

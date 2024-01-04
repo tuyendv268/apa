@@ -1,0 +1,41 @@
+{
+    "word": "battleship",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæt.əl.ʃɪp"
+                            ],
+                            "us": [
+                                "ˈbæt̬.əl.ʃɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a very large military ship with big guns: ",
+                            "examples": [
+                                "A plane sunk the battleship at sea.",
+                                "Three submarines attacked the mighty battleship."
+                            ]
+                        },
+                        {
+                            "explanation": "a game for two people in which they each try to guess the position of marks the other person has placed on a grid (= an arrangement of squares) representing ships and battleships: ",
+                            "examples": [
+                                "One day it rained and we spent all day playing battleships.",
+                                "Cries of \"D-9!\" and \"You got me!\" can be heard as people play Battleship."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

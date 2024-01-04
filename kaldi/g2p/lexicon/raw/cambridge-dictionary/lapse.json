@@ -1,0 +1,66 @@
+{
+    "word": "lapse",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "læps"
+                            ],
+                            "us": [
+                                "læps"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a temporary failure: ",
+                            "examples": [
+                                "a lapse of concentration",
+                                "The management's decision to ignore the safety warnings demonstrated a remarkable lapse of judgment.",
+                                "a memory lapse"
+                            ]
+                        },
+                        {
+                            "explanation": "a period of time passing between two things happening: ",
+                            "examples": [
+                                "a time lapse/a lapse of time",
+                                "He turned up again after a lapse of two years."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "læps"
+                            ],
+                            "us": [
+                                "læps"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to end legally or officially by not being continued or made effective for a longer period: ",
+                            "examples": [
+                                "The association needs to win back former members who have allowed their subscriptions to lapse."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

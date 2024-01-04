@@ -1,0 +1,71 @@
+{
+    "word": "session",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈseʃ.ən"
+                            ],
+                            "us": [
+                                "ˈseʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a formal meeting or series of meetings of an organization such as a parliament or a court of law: ",
+                            "examples": [
+                                "The parliamentary session is due to end on 27 May.",
+                                "The UN Security Council met in emergency session to discuss the crisis."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of time or a meeting when a particular activity takes place: ",
+                            "examples": [
+                                "The 21-year-old runner twisted his ankle in a training session last Friday.",
+                                "The recording session lasted four hours, during which they were able to get three tracks down. ",
+                                "A minimum of three sessions of acupuncture is advised in the first instance.",
+                                "She has weekly sessions with a speech therapist."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when people drink a lot of alcohol together: ",
+                            "examples": [
+                                "The men had a heavy session last night .",
+                                "He drove home drunk after a late-night session in a pub."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of time during which someone uses a particular computer, network, or software service: ",
+                            "examples": [
+                                "When a client closes a session, the server will receive a disconnect message.",
+                                "Many people prefer to pick up the phone, rather than open a chat session."
+                            ]
+                        },
+                        {
+                            "explanation": "at a college, any of the periods of time that a teaching year or day is divided into, or the teaching year itself: ",
+                            "examples": [
+                                "He taught a class during the summer session.",
+                                "Access is restricted when school is in session."
+                            ]
+                        },
+                        {
+                            "explanation": "an event at which musicians and singers play and sing together in an informal way, especially playing folk or jazz music: ",
+                            "examples": [
+                                "The pub hosts Irish folk music sessions.",
+                                "He quickly mastered the piano and was playing in Harlem jazz sessions by the time he was 18."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

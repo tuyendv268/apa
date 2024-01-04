@@ -1,0 +1,34 @@
+{
+    "word": "unsent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈsent"
+                            ],
+                            "us": [
+                                "ʌnˈsent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An unsent letter, email, etc. has not been sent: ",
+                            "examples": [
+                                "He drafted the letter, but it remained unsent.",
+                                "The software also monitored unsent emails."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "sum",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sʌm"
+                            ],
+                            "us": [
+                                "sʌm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an amount of money: ",
+                            "examples": [
+                                "Huge sums of money are spent on national defence.",
+                                "He sold the house for a tidy (= large) sum.",
+                                "I worked for three whole weeks for which I received the princely (= very low) sum of $100."
+                            ]
+                        },
+                        {
+                            "explanation": "the whole number or amount when two or more numbers or amounts have been added together: ",
+                            "examples": [
+                                "The sum of 13 and 8 is 21."
+                            ]
+                        },
+                        {
+                            "explanation": "considered as a whole: ",
+                            "examples": [
+                                "The meeting was, in sum, a disaster."
+                            ]
+                        },
+                        {
+                            "explanation": "all of something, especially when this is not very much: ",
+                            "examples": [
+                                "And that's the sum of my knowledge on the subject!"
+                            ]
+                        },
+                        {
+                            "explanation": "a calculation, especially a simple one, using such processes as adding, taking away, multiplying, or dividing: ",
+                            "examples": [
+                                "I remember how much I hated doing sums when I was at school."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

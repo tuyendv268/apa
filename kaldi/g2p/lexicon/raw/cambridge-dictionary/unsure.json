@@ -1,0 +1,39 @@
+{
+    "word": "unsure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈʃɔːr"
+                            ],
+                            "us": [
+                                "ʌnˈʃʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not certain or having doubts: ",
+                            "examples": [
+                                "I'm unsure about what to do next - can you help me?"
+                            ]
+                        },
+                        {
+                            "explanation": "without confidence in yourself: ",
+                            "examples": [
+                                "As a new teacher I was very unsure of myself when I was in front of a class."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

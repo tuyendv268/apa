@@ -1,0 +1,33 @@
+{
+    "word": "newsgroup",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnjuːz.ɡruːp"
+                            ],
+                            "us": [
+                                "ˈnuːz.ɡruːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a collection of messages that are shown on the internet and have been written by people interested in a particular subject: ",
+                            "examples": [
+                                "If you want to read discussions on the latest movies, subscribe to a newsgroup."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

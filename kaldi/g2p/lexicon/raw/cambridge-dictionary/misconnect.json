@@ -1,0 +1,41 @@
+{
+    "word": "misconnect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.kəˈnekt"
+                            ],
+                            "us": [
+                                "ˌmɪs.kəˈnekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to join something in the wrong way: ",
+                            "examples": [
+                                "The nurse misconnected the patient's feeding tube.",
+                                "It may be that the USB ports are misconnected. "
+                            ]
+                        },
+                        {
+                            "explanation": "If buses, planes, etc. misconnect, they fail to arrive and leave at the right times so that passengers and bags can go from one to the other: ",
+                            "examples": [
+                                "Delayed and misconnected flights are the main reason for baggage delays.",
+                                "According to the airline, most misconnecting bags are from other carriers - they are not delivered in time to make their next flight."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

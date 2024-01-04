@@ -1,0 +1,62 @@
+{
+    "word": "amortizing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \namortize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈmɔː.taɪz"
+                            ],
+                            "us": [
+                                "æmˈɔːr.taɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to reduce a debt or cost by paying small regular amounts: ",
+                            "examples": [
+                                "They pay monthly loan payments based on a formula that amortizes the debt over 15 years, at 8 percent interest. ",
+                                "The economics of a show depend on the number of weeks over which the producer can amortize the start-up costs."
+                            ]
+                        },
+                        {
+                            "explanation": "to take a cost, for example the cost of something bought for a business, away from the amount of tax that is paid, in small amounts over a period of time: ",
+                            "examples": [
+                                "The value of the machinery is amortized over its estimated useful life."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

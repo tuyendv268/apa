@@ -1,0 +1,40 @@
+{
+    "word": "untechnical",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈtek.nɪ.kəl"
+                            ],
+                            "us": [
+                                "ʌnˈtek.nɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not needing special knowledge of a particular subject in order to be understood: ",
+                            "examples": [
+                                "When teaching this subject to children, ensure that the untechnical aspects are kept in the foreground.",
+                                "The contract states the terms and conditions in simple, untechnical language."
+                            ]
+                        },
+                        {
+                            "explanation": "not good at understanding how computers and other machines work, or at using them: ",
+                            "examples": [
+                                "I'm so untechnical: I'm going to have to ask my friend to set this up for me."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

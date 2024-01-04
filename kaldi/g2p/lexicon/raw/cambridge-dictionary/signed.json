@@ -1,0 +1,76 @@
+{
+    "word": "signed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsign ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "saɪn"
+                            ],
+                            "us": [
+                                "saɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to write your name, usually on a written or printed document, to show that you agree with its contents or have written or created it yourself: ",
+                            "examples": [
+                                "to sign a letter/cheque/contract/lease/agreement",
+                                "Sign here, please.",
+                                "He signed his name at the end of the letter.",
+                                "He signed himself \"Mark Taylor\".",
+                                "She said the painting was by Picasso, but it wasn't signed."
+                            ]
+                        },
+                        {
+                            "explanation": "in sport, to make a legal written agreement to employ a player: ",
+                            "examples": [
+                                "The team has just signed a new player."
+                            ]
+                        },
+                        {
+                            "explanation": "to give an order or information, or make a request, using hand and body movements: ",
+                            "examples": [
+                                "He signed for/to the waiter to bring him another drink.",
+                                "He signed to the waiter that he wanted another drink."
+                            ]
+                        },
+                        {
+                            "explanation": "to use sign language (= language used by people who cannot hear or talk)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

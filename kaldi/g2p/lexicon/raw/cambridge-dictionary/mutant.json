@@ -1,0 +1,41 @@
+{
+    "word": "mutant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmjuː.tənt"
+                            ],
+                            "us": [
+                                "ˈmjuː.tənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an organism that is different from others of its type because of a permanent change in its genes: ",
+                            "examples": [
+                                "These mutants lack a vital protein which gives them immunity to the disease.",
+                                "This mutant gene is thought to cause cancer.",
+                                "I'm convinced he's a mutant - he's not at all like the rest of our family!"
+                            ]
+                        },
+                        {
+                            "explanation": "an unpleasant and frightening thing: ",
+                            "examples": [
+                                "The result of these experiments will be a nightmarish world filled with two-headed monsters and other mutants."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "lobe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ləʊb"
+                            ],
+                            "us": [
+                                "loʊb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any part of an organ that seems to be separate in some way from the rest, especially one of the parts of the brain, lungs, or liver: ",
+                            "examples": [
+                                "the frontal lobe of the brain"
+                            ]
+                        },
+                        {
+                            "explanation": "an \nearlobe ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a rounded or pointed part on a leaf that sticks out from the main part: ",
+                            "examples": [
+                                "The leaf is divided into several lobes.",
+                                "The oval green leaves are simple and have three shallow lobes. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

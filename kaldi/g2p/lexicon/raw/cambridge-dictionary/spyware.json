@@ -1,0 +1,31 @@
+{
+    "word": "spyware",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspaɪ.weər"
+                            ],
+                            "us": [
+                                "ˈspaɪ.wer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "software that collects information about how someone uses the internet, or personal information such as passwords, without the user knowing about it",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

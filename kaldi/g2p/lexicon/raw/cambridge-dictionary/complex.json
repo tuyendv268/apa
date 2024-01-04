@@ -1,0 +1,78 @@
+{
+    "word": "complex",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒm.pleks",
+                                "kəmˈpleks"
+                            ],
+                            "us": [
+                                "kɑːmˈpleks",
+                                "ˈkɑːm.pleks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving a lot of different but related parts: ",
+                            "examples": [
+                                "a complex molecule/carbohydrate",
+                                "a complex network of roads",
+                                "a complex procedure",
+                                "The company has a complex organizational structure."
+                            ]
+                        },
+                        {
+                            "explanation": "difficult to understand or find an answer to because of having many different parts: ",
+                            "examples": [
+                                "It's a very complex issue to which there is no straightforward answer.",
+                                "The film's plot was so complex that I couldn't follow it."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒm.pleks"
+                            ],
+                            "us": [
+                                "ˈkɑːm.pleks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large building with various connected rooms or a related group of buildings: ",
+                            "examples": [
+                                "a shopping/sports and leisure complex",
+                                "They live in a large apartment complex."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular anxiety or unconscious fear that a person has, especially as a result of an unpleasant experience that they have had in the past or because they have a low opinion of their own worth: ",
+                            "examples": [
+                                "an inferiority complex",
+                                "I think he's got a complex about being bald.",
+                                "Don't go on about her weight - you'll give her a complex!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

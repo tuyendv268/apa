@@ -1,0 +1,71 @@
+{
+    "word": "invited",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ninvite ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈvaɪt"
+                            ],
+                            "us": [
+                                "ɪnˈvaɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to ask or request someone to go to an event: ",
+                            "examples": [
+                                "We're invited to Lola's party.",
+                                "Candidates who are successful in the written test will be invited for an interview.",
+                                "Her family invited me to stay with them for a few weeks."
+                            ]
+                        },
+                        {
+                            "explanation": "to request something, especially formally or politely: ",
+                            "examples": [
+                                "Offers in the region of £1,000,000 are invited for the property.",
+                                "The newspaper invited readers to write in with their views."
+                            ]
+                        },
+                        {
+                            "explanation": "to act in a way that causes or encourages something to happen or someone to believe or feel something: ",
+                            "examples": [
+                                "Behaving provocatively in class is just inviting trouble.",
+                                "Such a badly presented exhibition invites criticism."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

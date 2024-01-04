@@ -1,0 +1,37 @@
+{
+    "word": "call to arms",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a demand for a group of people to fight against an enemy: ",
+                            "examples": [
+                                "Many young men felt compelled to heed the call to arms.",
+                                "His words were a clear call to arms against troops invading their country."
+                            ]
+                        },
+                        {
+                            "explanation": "something that asks or encourages a group of people to take action against something: ",
+                            "examples": [
+                                "The song gave an anthem to the civil rights movement and served as a call to arms for women everywhere.",
+                                "He sounds a call to arms to book lovers asking them to keep independent book shops open."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

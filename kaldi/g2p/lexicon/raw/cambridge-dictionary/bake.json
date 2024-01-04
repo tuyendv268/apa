@@ -1,0 +1,83 @@
+{
+    "word": "bake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "beɪk"
+                            ],
+                            "us": [
+                                "beɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cook inside an oven, without using added liquid or fat: ",
+                            "examples": [
+                                "I made the icing while the cake was baking.",
+                                "a baked potato",
+                                "freshly baked bread",
+                                "Bake at 180°C for about 20 minutes.",
+                                "Bake for 5–7 minutes in a preheated oven.",
+                                "a baking dish",
+                                "a baking tin/tray",
+                                "a baking sheet/pan"
+                            ]
+                        },
+                        {
+                            "explanation": "to make something such as earth or clay hard by heating it, usually in order to make bricks",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to be or become very hot: ",
+                            "examples": [
+                                "It's baking outside.",
+                                "You'll bake in that fleece jacket!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "beɪk"
+                            ],
+                            "us": [
+                                "beɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a savoury (= not sweet) dish made from a mixture of foods that is baked in the oven: ",
+                            "examples": [
+                                "He made a delicious salmon and broccoli bake.",
+                                "This is how you make a simple tuna bake."
+                            ]
+                        },
+                        {
+                            "explanation": "a cake, or other sweet food that is baked in the oven: ",
+                            "examples": [
+                                "Viewers have been sending in pictures of their bakes.",
+                                "Please bring your bakes to the end of the bench."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

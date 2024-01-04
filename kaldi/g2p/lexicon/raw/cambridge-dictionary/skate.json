@@ -1,0 +1,63 @@
+{
+    "word": "skate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "skeɪt"
+                            ],
+                            "us": [
+                                "skeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a special boot with a thin metal bar attached to the bottom that you wear to move quickly on ice, or a boot with four small wheels fixed to the bottom so that you can move over a hard surface: ",
+                            "examples": [
+                                "a pair of ice skates",
+                                "a pair of roller skates"
+                            ]
+                        },
+                        {
+                            "explanation": "a large, flat sea fish that can be eaten as food",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skeɪt"
+                            ],
+                            "us": [
+                                "skeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move, or make a particular movement on a surface, using skates: ",
+                            "examples": [
+                                "The ice on the river is thick enough to skate on/across/over.",
+                                "Let's go skating tomorrow."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

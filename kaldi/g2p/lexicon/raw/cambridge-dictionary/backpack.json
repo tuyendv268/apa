@@ -1,0 +1,65 @@
+{
+    "word": "backpack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæk.pæk"
+                            ],
+                            "us": [
+                                "ˈbæk.pæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large bag used to carry things on your back, used especially by people who go camping or walking: ",
+                            "examples": [
+                                "It's a frame backpack with a belt and padded shoulder straps."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæk.pæk"
+                            ],
+                            "us": [
+                                "ˈbæk.pæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to travel while carrying your clothes and other things that you need in a backpack, usually not spending very much money and staying in places that are not expensive: ",
+                            "examples": [
+                                "When we were students we backpacked in Thailand.",
+                                "Gavin and I backpacked our way around the world."
+                            ]
+                        },
+                        {
+                            "explanation": "to walk from place to place in the countryside, carrying the things you need in a backpack and camping at night: ",
+                            "examples": [
+                                "We backpacked in Sequoia National Park .",
+                                "He'd backpacked the Smokies."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

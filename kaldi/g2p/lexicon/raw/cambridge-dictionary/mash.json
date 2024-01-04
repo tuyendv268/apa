@@ -1,0 +1,63 @@
+{
+    "word": "mash",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mæʃ"
+                            ],
+                            "us": [
+                                "mæʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to crush food, usually after cooking it, so that it forms a soft mass: ",
+                            "examples": [
+                                "Mash the potatoes and then mix in the butter and herbs."
+                            ]
+                        },
+                        {
+                            "explanation": "to violently crush part of a body or an object: ",
+                            "examples": [
+                                "His face was badly mashed up in the accident."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mæʃ"
+                            ],
+                            "us": [
+                                "mæʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "→ \nmashed potatoes : ",
+                            "examples": [
+                                "sausage and mash"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

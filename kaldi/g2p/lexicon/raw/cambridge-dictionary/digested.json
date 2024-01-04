@@ -1,0 +1,62 @@
+{
+    "word": "digested",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndigest ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "daɪˈdʒest"
+                            ],
+                            "us": [
+                                "daɪˈdʒest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change food in your stomach into substances that your body can use: ",
+                            "examples": [
+                                "I find that I don't digest meat easily.",
+                                "Sit still and allow your meal to digest."
+                            ]
+                        },
+                        {
+                            "explanation": "to read or hear new information and take the necessary time to understand it: ",
+                            "examples": [
+                                "This chapter is so difficult to digest, I'll have to read it again later."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

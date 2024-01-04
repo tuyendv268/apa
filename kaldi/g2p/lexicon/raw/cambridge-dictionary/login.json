@@ -1,0 +1,48 @@
+{
+    "word": "login",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒɡ.ɪn"
+                            ],
+                            "us": [
+                                "ˈlɑːɡ.ɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a name that you enter in order to be able to use a computer system: ",
+                            "examples": [
+                                "Type your login at the prompt.",
+                                "Now you can access electronic resources from anywhere with a single login."
+                            ]
+                        },
+                        {
+                            "explanation": "an act of entering your name in order to be able to start using a computer system: ",
+                            "examples": [
+                                "These records document the user name and time of login.",
+                                "We have the time and date of the last login for each user."
+                            ]
+                        },
+                        {
+                            "explanation": "a place on a screen where you click (= press) and enter a name in order to start using a computer system: ",
+                            "examples": [
+                                "We have added a login to the home page.",
+                                "Go to login and enter your username."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

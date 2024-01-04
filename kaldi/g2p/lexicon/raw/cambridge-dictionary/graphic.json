@@ -1,0 +1,79 @@
+{
+    "word": "graphic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡræf.ɪk"
+                            ],
+                            "us": [
+                                "ˈɡræf.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "very clear and powerful: ",
+                            "examples": [
+                                "a graphic description/account",
+                                "He insisted on describing his operation in graphic detail while we were eating lunch."
+                            ]
+                        },
+                        {
+                            "explanation": "related to drawing or printing: ",
+                            "examples": [
+                                "a graphic artist"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to, using, or consisting of a graph or graphs",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a picture or diagram that gives information, especially one produced on a computer: ",
+                            "examples": [
+                                "This graphic shows the different stages of the water cycle.",
+                                "He showed them a computer graphic of the Antarctic ozone hole. "
+                            ]
+                        },
+                        {
+                            "explanation": "images and designs used in books, magazines, websites, etc., especially ones produced on a computer: ",
+                            "examples": [
+                                "Can the text and graphics be moved around once they have been placed on the page?",
+                                "Overuse of graphics is one reason for slow download times."
+                            ]
+                        },
+                        {
+                            "explanation": "the study or activity of making images and designs used in books, magazines, websites, etc.: ",
+                            "examples": [
+                                "He went to the Royal College of Art, where he studied graphics.",
+                                "The documentary uses sophisticated computer graphics to show how the operation is performed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

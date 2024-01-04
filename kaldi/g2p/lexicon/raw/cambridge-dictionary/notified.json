@@ -1,0 +1,57 @@
+{
+    "word": "notified",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nnotify ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈnəʊ.tɪ.faɪ"
+                            ],
+                            "us": [
+                                "ˈnoʊ.t̬ə.faɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to tell someone officially about something: ",
+                            "examples": [
+                                "The school is required to notify parents if their children fail to come to school.",
+                                "Has everyone been notified of the decision?",
+                                "We notified the police that the bicycle had been stolen."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "word": "erasing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nerase ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈreɪz"
+                            ],
+                            "us": [
+                                "ɪˈreɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove something, especially a pencil mark by rubbing it: ",
+                            "examples": [
+                                "It's in pencil so you can just erase anything that's wrong."
+                            ]
+                        },
+                        {
+                            "explanation": "to remove recordings or information from a magnetic tape or disk: ",
+                            "examples": [
+                                "A virus erased my hard disk."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause a feeling, memory, or period of time to be completely forgotten: ",
+                            "examples": [
+                                "He is determined to erase the memory of a disappointing debut two years ago.",
+                                "Woods wants a convincing victory to erase doubts about his team's ability to reach the World Cup finals.",
+                                "One election cannot erase 65 years of a corrupt one-party political process."
+                            ]
+                        },
+                        {
+                            "explanation": "to remove or destroy something, especially something that shows that that person or thing ever existed or happened: ",
+                            "examples": [
+                                "The president said NATO expansion would finally erase the boundary line in Europe artificially created by the Cold War.",
+                                "Years of hard living had blurred but not erased her girlhood beauty.",
+                                "He was a man of mystery - erased from the history books."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

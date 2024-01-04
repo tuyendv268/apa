@@ -1,0 +1,51 @@
+{
+    "word": "gentleman",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒen.təl.mən"
+                            ],
+                            "us": [
+                                "ˈdʒen.t̬əl.mən"
+                            ],
+                            "uk_other_tense": [
+                                "ˈdʒen.təl.mən"
+                            ],
+                            "us_other_tense": [
+                                "ˈdʒen.t̬əl.mən"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a polite way of talking to or referring to a man: ",
+                            "examples": [
+                                "Ladies and gentlemen, the show is about to begin.",
+                                "Excuse me, this gentleman has a question for you."
+                            ]
+                        },
+                        {
+                            "explanation": "a man who is polite and behaves well towards other people, especially women: ",
+                            "examples": [
+                                "He was a perfect gentleman.",
+                                "Not holding a door for a lady? You're no gentleman, are you?"
+                            ]
+                        },
+                        {
+                            "explanation": "a man of a high social class: ",
+                            "examples": [
+                                "a gentlemen's club"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

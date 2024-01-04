@@ -1,0 +1,63 @@
+{
+    "word": "slashing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nslash ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "slæʃ"
+                            ],
+                            "us": [
+                                "slæʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut with a sharp blade using a quick, strong movement: ",
+                            "examples": [
+                                "The museum was broken into last night and several paintings were slashed.",
+                                "She tried to commit suicide by slashing her wrists.",
+                                "We had to slash (our way) through the long grass to clear a path."
+                            ]
+                        },
+                        {
+                            "explanation": "to very much reduce something, such as money or jobs: ",
+                            "examples": [
+                                "Prices have been slashed by 50 percent!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

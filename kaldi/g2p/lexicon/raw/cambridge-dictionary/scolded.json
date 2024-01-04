@@ -1,0 +1,55 @@
+{
+    "word": "scolded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nscold ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skəʊld"
+                            ],
+                            "us": [
+                                "skoʊld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak to someone angrily because you disapprove of their behaviour: ",
+                            "examples": [
+                                "His mother scolded him for breaking her favourite vase."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

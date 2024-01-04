@@ -1,0 +1,39 @@
+{
+    "word": "clipboard",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈklɪp.bɔːd"
+                            ],
+                            "us": [
+                                "ˈklɪp.bɔːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a board with a clip at the top that holds sheets of paper in position and provides a surface for writing on: ",
+                            "examples": [
+                                "A woman with a clipboard stopped us in the street to ask us some questions."
+                            ]
+                        },
+                        {
+                            "explanation": "an area for storing information temporarily in a computer when you are moving it from one position or document to another: ",
+                            "examples": [
+                                "You draw the shape somewhere on your worksheet, click on it and copy it to the clipboard."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

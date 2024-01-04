@@ -1,0 +1,45 @@
+{
+    "word": "memorandum",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmem.əˈræn.dəm"
+                            ],
+                            "us": [
+                                "ˌmem.əˈræn.dəm"
+                            ],
+                            "uk_other_tense": [
+                                "-də"
+                            ],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short written report prepared specially for a person or group of people that contains information about a particular matter: ",
+                            "examples": [
+                                "Michael Davis has prepared a memorandum outlining our need for an additional warehouse."
+                            ]
+                        },
+                        {
+                            "explanation": "an informal legal agreement: ",
+                            "examples": [
+                                "The three countries have signed a memorandum pledging to work together."
+                            ]
+                        },
+                        {
+                            "explanation": "a \nmemo ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

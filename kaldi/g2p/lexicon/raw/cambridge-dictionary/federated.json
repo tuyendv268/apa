@@ -1,0 +1,43 @@
+{
+    "word": "federated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfed.ər.eɪ.tɪd"
+                            ],
+                            "us": [
+                                "ˈfed.ər.eɪ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "consisting of a group of organizations, countries, regions, etc. that have joined together to form a larger organization or government: ",
+                            "examples": [
+                                "Brazil is a federated republic, with a civil law system.",
+                                "Federated systems guard against an overconcentration of power at the national level.",
+                                "the Federated States of Micronesia"
+                            ]
+                        },
+                        {
+                            "explanation": "allowing many separate computer resources, such as collections of data (= information), to be searched at the same time: ",
+                            "examples": [
+                                "Librarians can help users wade through databases by using federated search engines.",
+                                "Federated access enables data to be accessed directly from its original location.",
+                                "The data is stored in the federated database. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

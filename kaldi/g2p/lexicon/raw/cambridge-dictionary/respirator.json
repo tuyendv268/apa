@@ -1,0 +1,39 @@
+{
+    "word": "respirator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈres.pɪ.reɪ.tər"
+                            ],
+                            "us": [
+                                "ˈres.pə.reɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "artificial breathing equipment: ",
+                            "examples": [
+                                "Doctors put the patient on a respirator."
+                            ]
+                        },
+                        {
+                            "explanation": "a device worn over the mouth and nose to prevent harmful substances from being breathed in: ",
+                            "examples": [
+                                "The firefighters wore respirators to help them breathe in the smoke-filled house."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

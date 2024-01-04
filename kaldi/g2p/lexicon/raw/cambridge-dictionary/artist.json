@@ -1,0 +1,48 @@
+{
+    "word": "artist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑː.tɪst"
+                            ],
+                            "us": [
+                                "ˈɑːr.t̬ɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who paints, draws, or makes sculptures: ",
+                            "examples": [
+                                "Monet is one of my favourite artists.",
+                                "The artist painted this picture using tiny brushstrokes."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who performs music: ",
+                            "examples": [
+                                "The festival has an amazing line-up of both new and established artists.",
+                                "She is a musical artist who has sold millions of records."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who creates things with great skill and imagination: ",
+                            "examples": [
+                                "He described her as one of the greatest film artists of the 20th century.",
+                                "In the kitchen, he is an artist."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

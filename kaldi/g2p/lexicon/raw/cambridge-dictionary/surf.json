@@ -1,0 +1,63 @@
+{
+    "word": "surf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sɜːf"
+                            ],
+                            "us": [
+                                "sɝːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to spend time visiting a lot of websites: ",
+                            "examples": [
+                                "He spends a lot of time surfing the internet/Net/Web."
+                            ]
+                        },
+                        {
+                            "explanation": "to ride on a wave as it comes towards land, while standing or lying on a special board: ",
+                            "examples": [
+                                "They go surfing every weekend."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɜːf"
+                            ],
+                            "us": [
+                                "sɝːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the tops of the waves on the sea when they are near to the coast or hit against rocks: ",
+                            "examples": [
+                                "We were almost deafened by the crash/roar of the surf."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

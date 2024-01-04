@@ -1,0 +1,34 @@
+{
+    "word": "near-synonym",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɪə ˈsɪn.ə.nɪm"
+                            ],
+                            "us": [
+                                "ˌnɪr ˈsɪn.ə.nɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word that has almost the same meaning as another word: ",
+                            "examples": [
+                                "The words \"hungry\" and \"peckish\" are near-synonyms.",
+                                "Near synonyms are more common than perfect synonyms."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

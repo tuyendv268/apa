@@ -1,0 +1,34 @@
+{
+    "word": "propositional",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌprɒp.əˈzɪʃ.ən.əl"
+                            ],
+                            "us": [
+                                "ˌprɑː.pəˈzɪʃ.ən.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to statements or problems that must be solved or proved to be true or not true: ",
+                            "examples": [
+                                "The second chapter introduces propositional logic.",
+                                "It doesn't mean anything because it doesn't have any propositional content."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "volumetric",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌvɒl.jəˈmet.rɪk"
+                            ],
+                            "us": [
+                                "ˌvɑːl.jəˈmet.rɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the measuring of volume: ",
+                            "examples": [
+                                "The United States uses its own system of volumetric measurements for most ingredients."
+                            ]
+                        },
+                        {
+                            "explanation": "showing or creating something in three dimensions (= length, width, and height) : ",
+                            "examples": [
+                                "The team has used a technique known as volumetric display to create moving 3D images that viewers can see from any angle."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

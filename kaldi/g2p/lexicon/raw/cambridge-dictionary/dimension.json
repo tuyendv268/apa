@@ -1,0 +1,44 @@
+{
+    "word": "dimension",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaɪˈmen.ʃən",
+                                "ˌdɪˈmen.ʃən"
+                            ],
+                            "us": [
+                                "ˌdaɪˈmen.ʃən",
+                                "ˌdɪˈmen.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a measurement of something in a particular direction, especially its height, length, or width: ",
+                            "examples": [
+                                "Please specify the dimensions (= the height, length and width) of the room.",
+                                "a building of vast dimensions (= size)"
+                            ]
+                        },
+                        {
+                            "explanation": "a part or feature or way of considering something: ",
+                            "examples": [
+                                "His personality has several dimensions.",
+                                "These weapons add a new dimension to modern warfare.",
+                                "There is a spiritual dimension to her poetry."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

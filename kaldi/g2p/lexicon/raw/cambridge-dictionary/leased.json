@@ -1,0 +1,56 @@
+{
+    "word": "leased",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nlease ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "liːs"
+                            ],
+                            "us": [
+                                "liːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a legal agreement by which money is paid in order to use land, a building, a vehicle, or a piece of equipment for an agreed period of time: ",
+                            "examples": [
+                                "The building's 60 units are currently leased to students of the university.",
+                                "It was agreed they would lease the apartment to him/lease him the apartment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

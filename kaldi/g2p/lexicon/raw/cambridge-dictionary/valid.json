@@ -1,0 +1,46 @@
+{
+    "word": "valid",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈvæl.ɪd"
+                            ],
+                            "us": [
+                                "ˈvæl.ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "based on truth or reason; able to be accepted: ",
+                            "examples": [
+                                "a valid argument/criticism/reason",
+                                "My way of thinking might be different from yours, but it's equally valid."
+                            ]
+                        },
+                        {
+                            "explanation": "A ticket or other document is valid if it is based on or used according to a set of official conditions that often include a time limit: ",
+                            "examples": [
+                                "My passport is valid for another two years."
+                            ]
+                        },
+                        {
+                            "explanation": "having legal force: ",
+                            "examples": [
+                                "Is this contract/ticket/agreement still valid?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

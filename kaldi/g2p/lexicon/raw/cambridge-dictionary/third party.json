@@ -1,0 +1,67 @@
+{
+    "word": "third party",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌθɜːd ˈpɑː.ti"
+                            ],
+                            "us": [
+                                "ˌθɝːd ˈpɑːr.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a third person or organization less directly involved in a matter than the main people or organizations that are involved",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌθɜːdˈpɑː.ti"
+                            ],
+                            "us": [
+                                "ˈθɝːdˌpɑːr.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving or relating to a third person or organization less directly involved in a matter than the main people or organizations: ",
+                            "examples": [
+                                "All credit-card payments made to us are processed by third-party providers.",
+                                "The company has hired a third-party vendor to manage its computer network."
+                            ]
+                        },
+                        {
+                            "explanation": "not belonging to either of the main parties in a two-party political system: ",
+                            "examples": [
+                                "There may also be a third-party candidate running against her.",
+                                "He hopes to establish a viable third-party alternative to the Democrats and Republicans."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

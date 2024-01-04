@@ -1,0 +1,65 @@
+{
+    "word": "disconnect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌdɪs.kəˈnekt"
+                            ],
+                            "us": [
+                                "ˌdɪs.kəˈnekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to unfasten something, especially to break the connection between a supply of electricity, gas, water, etc. and a device or piece of equipment: ",
+                            "examples": [
+                                "Never try to fix a broken machine without disconnecting it from the electricity supply."
+                            ]
+                        },
+                        {
+                            "explanation": "to stop supplying electricity/gas/water/phone services, especially because money has not been paid",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If you are disconnected while speaking on the phone, the phone connection is suddenly broken and you can no longer continue your conversation.",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɪs.kənekt"
+                            ],
+                            "us": [
+                                "ˈdɪs.kənekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which two or more things are not connected in the way that they should be: ",
+                            "examples": [
+                                "The study found a disconnect between the state's social programs and some people who need government assistance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "lottery",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒt.ər.i"
+                            ],
+                            "us": [
+                                "ˈlɑː.t̬ɚ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game, often organized by the state or a charity in order to make money, in which tickets with numbers are sold to people who then have a chance of winning a prize if their number is chosen",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "something that depends only on luck and is not fair: ",
+                            "examples": [
+                                "Education in England is something of a lottery."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

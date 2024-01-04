@@ -1,0 +1,63 @@
+{
+    "word": "illustrating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nillustrate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪl.ə.streɪt"
+                            ],
+                            "us": [
+                                "ˈɪl.ə.streɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to draw pictures for a book, magazine, etc.: ",
+                            "examples": [
+                                "a beautifully illustrated book/old manuscript"
+                            ]
+                        },
+                        {
+                            "explanation": "to show the meaning or truth of something more clearly, especially by giving examples: ",
+                            "examples": [
+                                "The lecturer illustrated his point with a diagram on the blackboard.",
+                                "This latest conflict further illustrates the weakness of the UN.",
+                                "The exhibition will illustrate how life evolved from water."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

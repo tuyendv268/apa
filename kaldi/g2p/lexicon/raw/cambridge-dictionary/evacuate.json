@@ -1,0 +1,42 @@
+{
+    "word": "evacuate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈvæk.ju.eɪt"
+                            ],
+                            "us": [
+                                "ɪˈvæk.ju.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move people from a dangerous place to somewhere safe: ",
+                            "examples": [
+                                "The police evacuated the village shortly before the explosion.",
+                                "A thousand people were evacuated from their homes following the floods.",
+                                "When toxic fumes began to drift toward our homes, we were told to evacuate."
+                            ]
+                        },
+                        {
+                            "explanation": "to empty something of its contents, especially the bowels: ",
+                            "examples": [
+                                "The horse evacuated its bowels all over the path.",
+                                "products that stimulate the bowel to evacuate its contents"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

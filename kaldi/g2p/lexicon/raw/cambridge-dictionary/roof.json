@@ -1,0 +1,58 @@
+{
+    "word": "roof",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ruːf"
+                            ],
+                            "us": [
+                                "ruːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the covering that forms the top of a building, vehicle, etc.: ",
+                            "examples": [
+                                "The house has a sloping/flat/tiled/thatched roof.",
+                                "Put the luggage on the roof of the car.",
+                                "The roof (= upper surface) of the cave is 50 metres up.",
+                                "This cake is so dry that it sticks to the roof of your mouth (= upper surface of the mouth)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ruːf"
+                            ],
+                            "us": [
+                                "ruːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put a roof on a building",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

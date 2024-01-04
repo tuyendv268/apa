@@ -1,0 +1,43 @@
+{
+    "word": "non-negotiable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.nəˈɡəʊ.ʃə.bəl"
+                            ],
+                            "us": [
+                                "ˌnɑːn.nəˈɡoʊ.ʃi.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Something that is non-negotiable cannot be changed by discussion: ",
+                            "examples": [
+                                "The terms of this agreement are non-negotiable."
+                            ]
+                        },
+                        {
+                            "explanation": "A non-negotiable cheque cannot be exchanged for money and must be paid into a bank account.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "A non-negotiable financial product cannot be bought and sold: ",
+                            "examples": [
+                                "Time deposits are non-negotiable deposits that are maintained in a bank for a specified period of time."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

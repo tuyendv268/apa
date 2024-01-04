@@ -1,0 +1,49 @@
+{
+    "word": "implicit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˈplɪs.ɪt"
+                            ],
+                            "us": [
+                                "ɪmˈplɪs.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "suggested but not communicated directly: ",
+                            "examples": [
+                                "He interpreted her comments as an implicit criticism of the government.",
+                                "Implicit in the poem's closing lines are the poet's own religious doubts."
+                            ]
+                        },
+                        {
+                            "explanation": "felt by someone or influencing them without them being aware of it: ",
+                            "examples": [
+                                "The experiment was designed to measure implicit racial bias.",
+                                "Egalitarian intentions are not enough to protect against the effect of implicit attitudes."
+                            ]
+                        },
+                        {
+                            "explanation": "complete and without any doubts: ",
+                            "examples": [
+                                "All her life she had implicit faith in socialism.",
+                                "We had implicit trust in him.",
+                                "She is accustomed to implicit obedience from her staff."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

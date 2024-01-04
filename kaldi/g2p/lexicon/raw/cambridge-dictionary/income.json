@@ -1,0 +1,41 @@
+{
+    "word": "income",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪŋ.kʌm"
+                            ],
+                            "us": [
+                                "ˈɪn.kʌm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "money that is earned from doing work or received from investments: ",
+                            "examples": [
+                                "Average incomes have risen by 4.5 percent over the past year.",
+                                "More help is needed for people on low incomes.",
+                                "I haven't had much income from my stocks and shares this year."
+                            ]
+                        },
+                        {
+                            "explanation": "a company's profit in a particular period of time: ",
+                            "examples": [
+                                "The company's income has greatly improved: profit rose more than 50 percent last year."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

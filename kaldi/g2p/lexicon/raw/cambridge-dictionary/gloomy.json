@@ -1,0 +1,48 @@
+{
+    "word": "gloomy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡluː.mi"
+                            ],
+                            "us": [
+                                "ˈɡluː.mi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "unhappy and without hope: ",
+                            "examples": [
+                                "a gloomy person/expression",
+                                "The cemetery is a gloomy place."
+                            ]
+                        },
+                        {
+                            "explanation": "not expecting or believing anything good in a situation: ",
+                            "examples": [
+                                "a gloomy economic forecast",
+                                "The vet is rather gloomy about my cat's chances of recovery."
+                            ]
+                        },
+                        {
+                            "explanation": "dark in a way that is unpleasant and makes it difficult to see: ",
+                            "examples": [
+                                "What gloomy weather we're having!",
+                                "We waited in a gloomy waiting room."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

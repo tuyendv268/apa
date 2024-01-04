@@ -1,0 +1,69 @@
+{
+    "word": "importing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nimport ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˈpɔːt"
+                            ],
+                            "us": [
+                                "ˈɪm.pɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to buy or bring in products from another country: ",
+                            "examples": [
+                                "We import a large number of cars from Japan."
+                            ]
+                        },
+                        {
+                            "explanation": "to introduce new goods, customs, or ideas to one country from another: ",
+                            "examples": [
+                                "Jazz is an American modification of musical conventions imported from Europe.",
+                                "the spelling of imported words"
+                            ]
+                        },
+                        {
+                            "explanation": "to copy information from one computer or computer program to another: ",
+                            "examples": [
+                                "I need to import data from the database into this spreadsheet.",
+                                "imported files"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

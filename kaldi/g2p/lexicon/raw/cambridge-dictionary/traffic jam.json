@@ -1,0 +1,34 @@
+{
+    "word": "traffic jam",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtræf.ɪk ˌdʒæm"
+                            ],
+                            "us": [
+                                "ˈtræf.ɪk ˌdʒæm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large number of vehicles close together and unable to move or moving very slowly: ",
+                            "examples": [
+                                "The snow caused traffic jams all over the city.",
+                                "I was stuck in a traffic jam for an hour yesterday."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

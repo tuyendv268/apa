@@ -1,0 +1,55 @@
+{
+    "word": "positing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nposit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɒz.ɪt"
+                            ],
+                            "us": [
+                                "ˈpɑː.zɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to suggest something as a basic fact or principle from which a further idea is formed or developed: ",
+                            "examples": [
+                                "If we posit that wage rises cause inflation, it follows that we should try to minimize them."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "lockbox",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒk.bɒks"
+                            ],
+                            "us": [
+                                "ˈlɑːk.bɑːks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small box with a button or dials (= moving parts) that allow you to enter a particular series of numbers in order to open the box and get the keys kept inside it: ",
+                            "examples": [
+                                "A lockbox gives agents access to your house key so they can show your home any time a buyer wants to see it.",
+                                "A lock box is a small, sturdy metal box that’s affixed to your front door, with a key to your house inside."
+                            ]
+                        },
+                        {
+                            "explanation": "any box that can be locked shut: ",
+                            "examples": [
+                                "Most players keep jewelry in a lockbox when they play.",
+                                "Pending federal approval, the airline plans to install the guns in electronically coded lock boxes in all planes."
+                            ]
+                        },
+                        {
+                            "explanation": "a service provided by banks in which a company's customers send payments directly to a bank so that the money can be paid immediately into the company's bank account: ",
+                            "examples": [
+                                "Our lockbox service provides your business quicker access to your accounts receivables.",
+                                "Banks can set up \"lock boxes\" where receipts can go directly into the account without employees handling it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

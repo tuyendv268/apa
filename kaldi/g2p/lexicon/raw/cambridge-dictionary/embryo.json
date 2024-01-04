@@ -1,0 +1,39 @@
+{
+    "word": "embryo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈem.bri.əʊ"
+                            ],
+                            "us": [
+                                "ˈem.bri.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an animal that is developing either in its mother's womb or in an egg, or a plant that is developing in a seed: ",
+                            "examples": [
+                                "Between the eighth week of development and birth a human embryo is called a foetus."
+                            ]
+                        },
+                        {
+                            "explanation": "developing and not yet complete: ",
+                            "examples": [
+                                "The department's plans for enlargement are still in embryo."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

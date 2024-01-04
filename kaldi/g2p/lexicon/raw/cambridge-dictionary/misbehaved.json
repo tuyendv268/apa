@@ -1,0 +1,61 @@
+{
+    "word": "misbehaved",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmisbehave ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.bɪˈheɪv"
+                            ],
+                            "us": [
+                                "ˌmɪs.bɪˈheɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to behave badly: ",
+                            "examples": [
+                                "I was always getting in trouble for misbehaving at school."
+                            ]
+                        },
+                        {
+                            "explanation": "If machines misbehave, they do not operate as they should: ",
+                            "examples": [
+                                "If computer circuits are allowed to overheat they will misbehave ."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

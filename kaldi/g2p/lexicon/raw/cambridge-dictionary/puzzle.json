@@ -1,0 +1,80 @@
+{
+    "word": "puzzle",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpʌz.əl"
+                            ],
+                            "us": [
+                                "ˈpʌz.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation that is difficult to understand: ",
+                            "examples": [
+                                "Scientists have been trying to solve this puzzle for years.",
+                                "The situation remains a puzzle to all of us."
+                            ]
+                        },
+                        {
+                            "explanation": "a game or toy in which you have to fit separate pieces together: ",
+                            "examples": [
+                                "The building blocks are like the pieces of a puzzle.",
+                                "a jigsaw puzzle"
+                            ]
+                        },
+                        {
+                            "explanation": "a problem or question that you have to answer by using your skill or knowledge: ",
+                            "examples": [
+                                "a crossword puzzle",
+                                "a puzzle book"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpʌz.əl"
+                            ],
+                            "us": [
+                                "ˈpʌz.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause someone to feel confused and slightly worried because they cannot understand something: ",
+                            "examples": [
+                                "The findings of the survey puzzle me - they're not at all what I would have expected.",
+                                "It puzzles me why she said that."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to solve a problem or understand a situation by thinking carefully about it: ",
+                            "examples": [
+                                "Management are still puzzling about how the accident could have happened.",
+                                "Scientists are puzzling over the results of the research."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

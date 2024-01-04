@@ -1,0 +1,55 @@
+{
+    "word": "mispronouncing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmispronounce ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.prəˈnaʊns"
+                            ],
+                            "us": [
+                                "ˌmɪs.prəˈnaʊns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pronounce a word or sound wrongly: ",
+                            "examples": [
+                                "French learners of English often mispronounce \"ch\" as \"sh\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

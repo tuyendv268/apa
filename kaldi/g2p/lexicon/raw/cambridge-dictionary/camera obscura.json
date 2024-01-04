@@ -1,0 +1,40 @@
+{
+    "word": "camera obscura",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkæm.rə əbˈskjʊə.rə"
+                            ],
+                            "us": [
+                                "ˌkæm.rə əbˈskjʊr.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a box, room, or device with a small hole that lets light through and shows an image on an opposite surface: ",
+                            "examples": [
+                                "A leaf with a tiny hole is perhaps the most primitive form of pinhole camera, also called a camera obscura."
+                            ]
+                        },
+                        {
+                            "explanation": "the effect by which light shining through a small hole can show an image on an opposite surface: ",
+                            "examples": [
+                                "There has long been an argument about whether Vermeer used the camera obscura to create his paintings.",
+                                "the camera obscura effect"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

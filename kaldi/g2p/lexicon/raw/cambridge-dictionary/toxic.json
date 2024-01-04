@@ -1,0 +1,44 @@
+{
+    "word": "toxic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈtɒk.sɪk"
+                            ],
+                            "us": [
+                                "ˈtɑːk.sɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "poisonous: ",
+                            "examples": [
+                                "toxic waste/chemicals/effluent"
+                            ]
+                        },
+                        {
+                            "explanation": "very unpleasant or unacceptable",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "causing you a lot of harm and unhappiness over a long period of time: ",
+                            "examples": [
+                                "toxic parents",
+                                "a toxic relationship"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "platter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈplæt.ər"
+                            ],
+                            "us": [
+                                "ˈplæt̬.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large plate used for serving food, or a meal with one type of food served on a large plate: ",
+                            "examples": [
+                                "a fish platter",
+                                "The waiter came out carrying a huge platter of fruit."
+                            ]
+                        },
+                        {
+                            "explanation": "a disk in a computer that holds information and spins around: ",
+                            "examples": [
+                                "A computer hard disk drive may have multiple platters."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "symbolic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "sɪmˈbɒl.ɪk"
+                            ],
+                            "us": [
+                                "sɪmˈbɑː.lɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "representing something else: ",
+                            "examples": [
+                                "The skull at the bottom of the picture is symbolic of death."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to an action that expresses or seems to express an intention or feeling, but has little practical influence on a situation: ",
+                            "examples": [
+                                "Five hundred troops were sent in, more as a symbolic gesture than as a real threat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

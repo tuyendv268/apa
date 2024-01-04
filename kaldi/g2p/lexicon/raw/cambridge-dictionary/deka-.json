@@ -1,0 +1,34 @@
+{
+    "word": "deka-",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "dek.ə-"
+                            ],
+                            "us": [
+                                "dek.ə-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used with scientific units to form words meaning ten times the stated unit: ",
+                            "examples": [
+                                "a dekatherm",
+                                "a dekameter"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

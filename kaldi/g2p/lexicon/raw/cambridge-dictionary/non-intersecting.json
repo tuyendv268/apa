@@ -1,0 +1,43 @@
+{
+    "word": "non-intersecting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.ɪn.təˈsek.tɪŋ"
+                            ],
+                            "us": [
+                                "ˌnɑːn.ɪn.t̬ɚˈsek.t̬ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not meeting or crossing one another: ",
+                            "examples": [
+                                "Fill in the non-intersecting sections of these circles. ",
+                                "non-intersecting lines",
+                                "two nonintersecting planes"
+                            ]
+                        },
+                        {
+                            "explanation": "not including any of the same members: ",
+                            "examples": [
+                                "the non-intersecting subsets of all even numbers and all odd numbers ",
+                                "She kept non-intersecting sets of friends at home and at school.",
+                                "The staff work in three non-intersecting departments: marketing, manufacturing, and financial."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

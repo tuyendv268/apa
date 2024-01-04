@@ -1,0 +1,34 @@
+{
+    "word": "index patient",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.deks ˌpeɪ.ʃənt"
+                            ],
+                            "us": [
+                                "ˈɪn.deks ˌpeɪ.ʃənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the first person in a group known to be suffering from a disease or medical condition that can be passed on to others, either through infection or in the genes: ",
+                            "examples": [
+                                "The possibility of transmission from the index patient on these two flights cannot be excluded.",
+                                "Index patients and all available family members were invited for clinical examination."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "commensurable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "kəˈmen.ʃə.rə.bəl"
+                            ],
+                            "us": [
+                                "kəˈmen.sjɚ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to be judged by the same measure or standard: ",
+                            "examples": [
+                                "Aristotle himself did not believe that all valuable things are commensurable. ",
+                                "Culture today is not commensurable with culture as we understood it a few years ago."
+                            ]
+                        },
+                        {
+                            "explanation": "able to be divided by the same unit: ",
+                            "examples": [
+                                "He was a Greek mathematician who discovered that some numbers are not commensurable.",
+                                "Forces in Newtonian physics are measurable, commensurable, and conclusive."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

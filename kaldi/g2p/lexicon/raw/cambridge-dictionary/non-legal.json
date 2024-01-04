@@ -1,0 +1,46 @@
+{
+    "word": "non-legal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈliː.ɡəl"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈliː.ɡəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not working or trained in the law: ",
+                            "examples": [
+                                "The workshop is aimed at both a legal and non-legal audience.",
+                                "Barristers and solicitors have strict ethical standards which do not apply to non-legal staff."
+                            ]
+                        },
+                        {
+                            "explanation": "without using the law or having a court case: ",
+                            "examples": [
+                                "A non-legal, technological solution may be best way to tackle software piracy."
+                            ]
+                        },
+                        {
+                            "explanation": "not according to the law: ",
+                            "examples": [
+                                "Pension benefits could not be transferred to non-legal spouses."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

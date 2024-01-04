@@ -1,0 +1,67 @@
+{
+    "word": "danced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndance ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɑːns"
+                            ],
+                            "us": [
+                                "dæns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move the body and feet to music: ",
+                            "examples": [
+                                "We danced all night.",
+                                "We went dancing at a club.",
+                                "What kind of music do you like dancing to?",
+                                "Who was she dancing with at the party last night?",
+                                "Can you dance the tango?",
+                                "We played our music and danced the night away."
+                            ]
+                        },
+                        {
+                            "explanation": "to move quickly and lightly: ",
+                            "examples": [
+                                "The daffodils were dancing in the breeze.",
+                                "She watched the sunlight dancing on the water."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

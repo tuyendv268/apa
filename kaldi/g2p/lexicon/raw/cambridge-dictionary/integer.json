@@ -1,0 +1,33 @@
+{
+    "word": "integer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tɪ.dʒər"
+                            ],
+                            "us": [
+                                "ˈɪn.tə.dʒɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a whole number and not a fraction: ",
+                            "examples": [
+                                "The numbers -5, 0, and 3 are integers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "geometry",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dʒiˈɒm.ə.tri"
+                            ],
+                            "us": [
+                                "dʒiˈɑː.mə.tri"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the area of mathematics relating to the study of space and the relationships between points, lines, curves, and surfaces: ",
+                            "examples": [
+                                "the laws of geometry",
+                                "a geometry lesson"
+                            ]
+                        },
+                        {
+                            "explanation": "the way the parts of a particular object fit together: ",
+                            "examples": [
+                                "the geometry of a DNA molecule"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

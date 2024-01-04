@@ -1,0 +1,39 @@
+{
+    "word": "eob",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌiː.əʊˈbiː"
+                            ],
+                            "us": [
+                                "ˌiː.oʊˈbiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for explanation of benefits: a document sent by a health insurance company to a customer, listing medical treatments and services that were paid for that customer: ",
+                            "examples": [
+                                "Policyholders who received an incorrect EOB should contact the dedicated toll-free number."
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for end of business: the end of the working day or the business day: ",
+                            "examples": [
+                                "Could you let me have your projections by EOB Friday?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

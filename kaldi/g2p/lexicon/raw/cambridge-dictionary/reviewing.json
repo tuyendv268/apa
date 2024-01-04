@@ -1,0 +1,81 @@
+{
+    "word": "reviewing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nreview ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈvjuː"
+                            ],
+                            "us": [
+                                "rɪˈvjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to think or talk about something again, in order to make changes to it or to make a decision about it: ",
+                            "examples": [
+                                "The committee is reviewing the current arrangement/situation.",
+                                "Let's review what has happened so far.",
+                                "He reviewed his options before making a final decision."
+                            ]
+                        },
+                        {
+                            "explanation": "If critics review a book, play, film, etc. they write their opinion of it: ",
+                            "examples": [
+                                "I only go to see films that are reviewed favourably."
+                            ]
+                        },
+                        {
+                            "explanation": "to describe the most important facts in a piece of academic research (= detailed study of a subject) that you have read, and give your opinion of the research: ",
+                            "examples": [
+                                "Weaver reviewed more than 200 peer-reviewed, scientific papers about cloning."
+                            ]
+                        },
+                        {
+                            "explanation": "When an important person reviews military forces, they formally visit and look at them: ",
+                            "examples": [
+                                "The Queen reviewed the troops on her recent visit."
+                            ]
+                        },
+                        {
+                            "explanation": "to study again something you have already learned, in preparation for an exam: ",
+                            "examples": [
+                                "We're reviewing (algebra) for the test tomorrow."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

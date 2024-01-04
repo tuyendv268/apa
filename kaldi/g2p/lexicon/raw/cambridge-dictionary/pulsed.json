@@ -1,0 +1,61 @@
+{
+    "word": "pulsed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npulse ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pʌls"
+                            ],
+                            "us": [
+                                "pʌls"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move or beat with a strong, regular rhythm: ",
+                            "examples": [
+                                "I could feel the blood pulsing through my veins."
+                            ]
+                        },
+                        {
+                            "explanation": "to mix food by switching a food processor (= an electric machine for cutting or mixing food) on and off again quickly: ",
+                            "examples": [
+                                "Place the prawns in a food processor and pulse to a coarse paste."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

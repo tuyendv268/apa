@@ -1,0 +1,34 @@
+{
+    "word": "excess deaths",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌek.ses ˈdeθs"
+                            ],
+                            "us": [
+                                "ekˌses ˈdeθs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "deaths during a particular period above the usual, expected number of deaths under normal conditions, which can show the effect of something like a disease or harmful event: ",
+                            "examples": [
+                                "Not all excess deaths during the pandemic were directly caused by the virus.",
+                                "A team at Harvard estimated nearly 4,700 excess deaths in Hurricane Maria's aftermath. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

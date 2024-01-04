@@ -1,0 +1,41 @@
+{
+    "word": "pedigree",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈped.ɪ.ɡriː"
+                            ],
+                            "us": [
+                                "ˈped.ə.ɡriː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of the parents and other relations of an animal: ",
+                            "examples": [
+                                "The breeder showed us the dog's pedigree.",
+                                "He breeds pedigree poodles/cattle (= ones whose parents and other relations are all of the same breed)."
+                            ]
+                        },
+                        {
+                            "explanation": "a person's family history, education, and experience, or the history of an idea or activity: ",
+                            "examples": [
+                                "His voice and manner suggested an aristocratic pedigree.",
+                                "Isolationism has a long and respectable pedigree in American history."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

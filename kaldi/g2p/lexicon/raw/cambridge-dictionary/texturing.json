@@ -1,0 +1,41 @@
+{
+    "word": "texturing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈteks.tʃə.rɪŋ"
+                            ],
+                            "us": [
+                                "ˈteks.tʃɚ.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of adding textures (= patterns or images that can be added to the surface of 3-D objects) to computer graphics (= images produced on computer) or film: ",
+                            "examples": [
+                                "The software is used for 3-D modelling and texturing.",
+                                "I'd already done some texturing in film."
+                            ]
+                        },
+                        {
+                            "explanation": "(of computer graphics or film) the quality of having had textures (= patterns or images that can be added to the surface of 3-D objects) added: ",
+                            "examples": [
+                                "The artwork and texturing on the game is beautiful.",
+                                "The model and texturing used in the two figures is the same – they just have a different lighting scheme."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

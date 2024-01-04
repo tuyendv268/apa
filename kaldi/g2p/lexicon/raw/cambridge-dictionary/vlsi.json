@@ -1,0 +1,33 @@
+{
+    "word": "vlsi",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌviː.el.esˈaɪ"
+                            ],
+                            "us": [
+                                "ˌviː.el.esˈaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for very large-scale integration: the process of putting hundreds of thousands of transistors (= very small pieces of electronic equipment) on a single silicon chip (= a small piece of silicon that is used in computers, phones, etc.): ",
+                            "examples": [
+                                "VLSI started with hundreds of thousands of transistors in the early 1980s, and transistor counts now continue to grow beyond ten billion transistors per chip."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "sorting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsort ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sɔːt"
+                            ],
+                            "us": [
+                                "sɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put a number of things in an order or to separate them into groups: ",
+                            "examples": [
+                                "Paper, plastic, and cans are sorted for recycling.",
+                                "I'm going to sort these old books into those to be kept and those to be thrown away.",
+                                "You can use the computer to sort the newspaper articles alphabetically, by date, or by subject.",
+                                "She found the ring while sorting (through) some clothes."
+                            ]
+                        },
+                        {
+                            "explanation": "to deal with something by repairing or organizing it: ",
+                            "examples": [
+                                "Can you sort the car by tomorrow?",
+                                "We must get the phone sorted soon.",
+                                "I must get this paperwork sorted before I go on holiday next week."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

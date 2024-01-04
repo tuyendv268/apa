@@ -1,0 +1,62 @@
+{
+    "word": "abridging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nabridge ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈbrɪdʒ"
+                            ],
+                            "us": [
+                                "əˈbrɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a book, play, or piece of writing shorter by removing details and information that is not important: ",
+                            "examples": [
+                                "The book was abridged for children."
+                            ]
+                        },
+                        {
+                            "explanation": "to reduce someone's freedom, rights, etc.: ",
+                            "examples": [
+                                "He said that Congress would make no law abridging the freedom of speech.",
+                                "Had the state abridged his rights?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

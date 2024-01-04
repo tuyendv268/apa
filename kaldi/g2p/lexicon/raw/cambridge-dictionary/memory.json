@@ -1,0 +1,49 @@
+{
+    "word": "memory",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmem.ər.i"
+                            ],
+                            "us": [
+                                "ˈmem.ər.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the ability to remember information, experiences, and people: ",
+                            "examples": [
+                                "a good/bad memory",
+                                "After the accident he suffered from loss of memory/memory loss.",
+                                "She has an excellent memory for names (= she can remember names easily)."
+                            ]
+                        },
+                        {
+                            "explanation": "something that you remember from the past: ",
+                            "examples": [
+                                "I have vivid memories of that evening.",
+                                "That tune really brings back memories (= makes me remember past events).",
+                                "School is just a dim/distant memory for me now (= something I cannot remember very well)."
+                            ]
+                        },
+                        {
+                            "explanation": "the part of a computer in which information or programs are stored either permanently or temporarily, or the amount of space available on it for storing information: ",
+                            "examples": [
+                                "My computer has a gigabyte of memory."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

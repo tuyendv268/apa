@@ -1,0 +1,112 @@
+{
+    "word": "stack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "stæk"
+                            ],
+                            "us": [
+                                "stæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pile of things arranged one on top of another: ",
+                            "examples": [
+                                "He chose a cartoon from the stack of DVDs on the shelf."
+                            ]
+                        },
+                        {
+                            "explanation": "a large amount: ",
+                            "examples": [
+                                "Don't worry, we've got stacks of time."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of shelves in a library that are positioned close together so that a lot of books can be stored on them: ",
+                            "examples": [
+                                "What's the best way to find a book in the stacks?"
+                            ]
+                        },
+                        {
+                            "explanation": "a group of aircraft circling over an airport at different heights waiting for permission to land: ",
+                            "examples": [
+                                "We were in the stack for over an hour before we landed."
+                            ]
+                        },
+                        {
+                            "explanation": "a way of storing data on a computer so that the last piece of data to be stored is the first one to be found by the computer: ",
+                            "examples": [
+                                "Data is normally organized by position, for example in stacks or queues."
+                            ]
+                        },
+                        {
+                            "explanation": "the levels of programming, software, etc. used in a mobile app or website, in order to create the app or website or keep it working. : ",
+                            "examples": [
+                                "The MERN stack is one of the most popular stacks currently used in web development."
+                            ]
+                        },
+                        {
+                            "explanation": "a tall piece of rock sticking out of the sea near the coast, formed by the action of the waves against the rock on the coast: ",
+                            "examples": [
+                                "The Twelve Apostles is the name of a series of limestone stacks protruding dramatically from the sea. "
+                            ]
+                        },
+                        {
+                            "explanation": "a car accident, especially one that causes damage",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stæk"
+                            ],
+                            "us": [
+                                "stæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to arrange things in an ordered pile: ",
+                            "examples": [
+                                "Once the last few people had left the hall, the caretaker began stacking (up) the chairs."
+                            ]
+                        },
+                        {
+                            "explanation": "to fill something with objects: ",
+                            "examples": [
+                                "I got a job stacking shelves in a supermarket.",
+                                "Will you stack the dishwasher and switch it on, please?"
+                            ]
+                        },
+                        {
+                            "explanation": "to circle over an airport waiting for permission to land, or to make an aircraft do this: ",
+                            "examples": [
+                                "The airline uses thousands of tonnes of fuel a year when its planes are stacking above Heathrow and Gatwick.",
+                                "Planes stacked up at LAX when a radar failure caused problems nationwide. ",
+                                "We were stacked up for hours waiting to land."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

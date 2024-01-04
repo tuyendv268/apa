@@ -1,0 +1,65 @@
+{
+    "word": "meandered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmeander ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "miˈæn.dər"
+                            ],
+                            "us": [
+                                "miˈæn.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a river, stream, or road meanders, it follows a route that is not straight or direct.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to walk slowly without any clear direction: ",
+                            "examples": [
+                                "We spent the afternoon meandering around the streets of the old town."
+                            ]
+                        },
+                        {
+                            "explanation": "If a text, process, or activity meanders, it has no clear purpose or direction: ",
+                            "examples": [
+                                "The film meanders along with no particular story line."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

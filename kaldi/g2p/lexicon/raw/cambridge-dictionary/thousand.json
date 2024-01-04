@@ -1,0 +1,47 @@
+{
+    "word": "thousand",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "ˈθaʊ.zənd"
+                            ],
+                            "us": [
+                                "ˈθaʊ.zənd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 1,000: ",
+                            "examples": [
+                                "They had driven over a/one thousand miles.",
+                                "The population of the village is about three thousand.",
+                                "The damage will cost thousands of dollars to repair."
+                            ]
+                        },
+                        {
+                            "explanation": "a large number: ",
+                            "examples": [
+                                "I have a thousand things to do before we go away."
+                            ]
+                        },
+                        {
+                            "explanation": "numbers between 1,000 and 1,000,000: ",
+                            "examples": [
+                                "His latest work is expected to sell in the thousands."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "word": "prosecuted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nprosecute ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɒs.ɪ.kjuːt"
+                            ],
+                            "us": [
+                                "ˈprɑː.sə.kjuːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to officially accuse someone of committing a crime in a law court, or (of a lawyer) to try to prove that a person accused of committing a crime is guilty of that crime: ",
+                            "examples": [
+                                "Shoplifters will be prosecuted.",
+                                "He was prosecuted for fraud.",
+                                "Any manufacturer who does not conform to the standards could be prosecuted under the Consumers Protection Act, 1987.",
+                                "The victim has said that she will not prosecute."
+                            ]
+                        },
+                        {
+                            "explanation": "to continue to take part in a planned group of activities, especially a war: ",
+                            "examples": [
+                                "He seemed convinced that the US would prosecute the war to its end."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

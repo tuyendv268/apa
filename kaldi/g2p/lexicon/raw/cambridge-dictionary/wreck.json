@@ -1,0 +1,71 @@
+{
+    "word": "wreck",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rek"
+                            ],
+                            "us": [
+                                "rek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to destroy or badly damage something: ",
+                            "examples": [
+                                "The explosion shattered nearby windows and wrecked two cars.",
+                                "Our greenhouse was wrecked in last night's storm."
+                            ]
+                        },
+                        {
+                            "explanation": "to spoil something completely: ",
+                            "examples": [
+                                "He has been warned that his behaviour might wreck his chances of promotion."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rek"
+                            ],
+                            "us": [
+                                "rek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a vehicle or ship that has been destroyed or badly damaged: ",
+                            "examples": [
+                                "Divers exploring the wreck managed to salvage some coins and jewellery.",
+                                "The burned-out wrecks of two police cars littered the road."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who is in bad physical or mental condition: ",
+                            "examples": [
+                                "The stress she had been under at work reduced her to a nervous/quivering wreck."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

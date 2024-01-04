@@ -1,0 +1,33 @@
+{
+    "word": "gas tax",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡæs ˌtæks"
+                            ],
+                            "us": [
+                                "ˈɡæs ˌtæks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tax on fuel for cars in the US, collected by the national government and some states: ",
+                            "examples": [
+                                "In the budget, a 4.3-cent-a-gallon gas tax increase is expected."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

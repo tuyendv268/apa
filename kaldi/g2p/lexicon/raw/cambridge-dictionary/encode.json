@@ -1,0 +1,40 @@
+{
+    "word": "encode",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈkəʊd"
+                            ],
+                            "us": [
+                                "ɪnˈkoʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change something into a system for sending messages secretly, or to represent complicated information in a simple or short way: ",
+                            "examples": [
+                                "Many satellite broadcasts are encoded so that they can only be received by people who have paid to see them.",
+                                "Some music CDs are encoded with information about the performers and their music."
+                            ]
+                        },
+                        {
+                            "explanation": "to use a word or phrase in a foreign language in the correct way: ",
+                            "examples": [
+                                "Grammatical information helps learners to encode sentences."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "word": "expecting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nexpect ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspekt"
+                            ],
+                            "us": [
+                                "ɪkˈspekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to think or believe something will happen, or someone will arrive: ",
+                            "examples": [
+                                "We are expecting a lot of applicants for the job.",
+                                "I expect (that) you'll find it somewhere in your bedroom.",
+                                "I expect (that) he'd have left anyway.",
+                                "He didn't expect to see me.",
+                                "The financial performance of the business is fully expected (= almost certain) to improve.",
+                                "We were half expecting you not to come back."
+                            ]
+                        },
+                        {
+                            "explanation": "normal and what usually happens: ",
+                            "examples": [
+                                "All parents of small children get tired. It's to be expected."
+                            ]
+                        },
+                        {
+                            "explanation": "to think that someone should behave in a particular way or do a particular thing: ",
+                            "examples": [
+                                "I expect punctuality from my students.",
+                                "Borrowers are expected to (= should) return books on time."
+                            ]
+                        },
+                        {
+                            "explanation": "to be pregnant: ",
+                            "examples": [
+                                "She shouldn't be lifting those boxes if she's expecting.",
+                                "Kate and Dom are expecting a baby."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

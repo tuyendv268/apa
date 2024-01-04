@@ -1,0 +1,42 @@
+{
+    "word": "elicit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "iˈlɪs.ɪt"
+                            ],
+                            "us": [
+                                "iˈlɪs.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get or produce something, especially information or a reaction: ",
+                            "examples": [
+                                "Have you managed to elicit a response from them yet?",
+                                "The questionnaire was intended to elicit information on eating habits.",
+                                "They were able to elicit the support of the public."
+                            ]
+                        },
+                        {
+                            "explanation": "to get a student to provide or remember a fact, response, etc. rather than telling them the answer: ",
+                            "examples": [
+                                "The teacher elicits definitions from the students.",
+                                "In this teaching practice, teachers elicit and build on their students' mathematical insights. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

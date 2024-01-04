@@ -1,0 +1,45 @@
+{
+    "word": "correspondence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒr.ɪˈspɒn.dəns"
+                            ],
+                            "us": [
+                                "ˌkɔːr.əˈspɑːn.dəns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "letters, especially official or business letters: ",
+                            "examples": [
+                                "Any further correspondence should be sent to my new address."
+                            ]
+                        },
+                        {
+                            "explanation": "the action of writing, receiving, and reading letters, especially between two people: ",
+                            "examples": [
+                                "Her correspondence with Jim lasted many years."
+                            ]
+                        },
+                        {
+                            "explanation": "a connection between two things: ",
+                            "examples": [
+                                "The survey found no correspondence between crime and unemployment rates."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

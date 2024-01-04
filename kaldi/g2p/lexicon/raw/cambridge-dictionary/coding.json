@@ -1,0 +1,69 @@
+{
+    "word": "coding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncode ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəʊd"
+                            ],
+                            "us": [
+                                "koʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to represent a message in code so that it can only be understood by the person who is meant to receive it: ",
+                            "examples": [
+                                "The original signal is coded by the scrambler before transmission, and reconstituted into its original form by the receiver."
+                            ]
+                        },
+                        {
+                            "explanation": "to write computer programs (= instructions): ",
+                            "examples": [
+                                "My third grade daughter loves learning to code with MIT's amazing (and free) software.",
+                                "I have been learning to code programs."
+                            ]
+                        },
+                        {
+                            "explanation": "to mark something, for example with letters, numbers, a name, or a colour, so that you know what type of thing it is: ",
+                            "examples": [
+                                "To avoid bias in the laboratory, the samples were coded with numbers rather than names of individuals.",
+                                "Each story in selected bulletins was timed and coded into one of 31 categories for domestic news, while foreign news was separately coded by country."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

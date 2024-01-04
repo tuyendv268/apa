@@ -1,0 +1,69 @@
+{
+    "word": "beckoning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nbeckon ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbek.ən"
+                            ],
+                            "us": [
+                                "ˈbek.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move your hand or head in a way that tells someone to come nearer: ",
+                            "examples": [
+                                "The customs official beckoned the woman to his counter.",
+                                "\"Hey you!\" she called, beckoning me over with her finger.",
+                                "He beckoned to me, as if he wanted to speak to me."
+                            ]
+                        },
+                        {
+                            "explanation": "If something beckons, it attracts people: ",
+                            "examples": [
+                                "For many young people, the bright lights of the city beckon, though a lot of them end up sleeping on the streets."
+                            ]
+                        },
+                        {
+                            "explanation": "If an event or achievement beckons, it is likely to happen: ",
+                            "examples": [
+                                "She's an excellent student, for whom a wonderful future beckons."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "hangman",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæŋ.mən",
+                                "ˈhæŋ.mæn"
+                            ],
+                            "us": [
+                                "ˈhæŋ.mən",
+                                "ˈhæŋ.mæn"
+                            ],
+                            "uk_other_tense": [
+                                "ˈhæŋ.mən"
+                            ],
+                            "us_other_tense": [
+                                "ˈhæŋ.mən"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person whose job is to operate the device that kills criminals by hanging them from a rope by their necks",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a word game in which one player has to guess a word that the other player has thought of, by guessing the letters in it. Every time they guess a wrong letter, part of a picture of a person being hanged is drawn, and if the picture is completed the person guessing has lost. ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

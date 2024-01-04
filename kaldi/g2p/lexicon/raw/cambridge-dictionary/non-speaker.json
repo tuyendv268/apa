@@ -1,0 +1,41 @@
+{
+    "word": "non-speaker",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈspiː.kər"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈspiː.kɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who does not speak a particular language: ",
+                            "examples": [
+                                "Subtitles are provided for non-speakers of German.",
+                                "She rarely used Gaelic, except very occasionally to keep a secret from her son or some other nonspeaker."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who does not speak or is not able to speak: ",
+                            "examples": [
+                                "We want to improve the communication skills of non-speakers.",
+                                "Some help is available for severely impaired nonspeakers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

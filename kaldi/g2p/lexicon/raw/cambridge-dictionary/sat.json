@@ -1,0 +1,81 @@
+{
+    "word": "sat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sæt"
+                            ],
+                            "us": [
+                                "sæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of sit",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written abbreviation for\nSaturday ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for Standard Assessment Task: a test taken by children in England and Wales at various ages to find out the level of the National Curriculum that they have reached: ",
+                            "examples": [
+                                "SATs results"
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for Scholastic Aptitude Test: a test taken in the US to measure students' abilities before they go to college",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

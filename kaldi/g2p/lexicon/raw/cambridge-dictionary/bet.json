@@ -1,0 +1,73 @@
+{
+    "word": "bet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bet"
+                            ],
+                            "us": [
+                                "bet"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to risk money on the result of an event or a competition, such as a horse race, in the hope of winning more money: ",
+                            "examples": [
+                                "He regularly goes to the races and bets heavily.",
+                                "She bet £500,000 on the horse that came in second.",
+                                "I bet you $25 (that) I'll get there before you."
+                            ]
+                        },
+                        {
+                            "explanation": "If you say you bet (someone) that something is true or will happen, you mean you are certain that it is true or will happen: ",
+                            "examples": [
+                                "I bet you (that) she's missed the bus.",
+                                "I bet that he won't come."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bet"
+                            ],
+                            "us": [
+                                "bet"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an amount of money that you risk on the result of an event or a competition, such as a horse race: ",
+                            "examples": [
+                                "She had a bet on the race.",
+                                "He placed a bet on the grey horse."
+                            ]
+                        },
+                        {
+                            "explanation": "a guess or opinion: ",
+                            "examples": [
+                                "My bet is (that) their baby will be a girl."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

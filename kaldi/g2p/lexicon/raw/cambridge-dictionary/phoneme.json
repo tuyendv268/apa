@@ -1,0 +1,33 @@
+{
+    "word": "phoneme",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfəʊ.niːm"
+                            ],
+                            "us": [
+                                "ˈfoʊ.niːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the smallest units of speech that make one word different from another word: ",
+                            "examples": [
+                                "The difference between \"pin\" and \"pan\" depends on the vowel, i.e. the different phonemes /ɪ/ and /æ/."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

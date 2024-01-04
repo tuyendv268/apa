@@ -1,0 +1,34 @@
+{
+    "word": "-induced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -ɪn.dʒuːst"
+                            ],
+                            "us": [
+                                " -ɪn.duːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "caused by the stated person or activity: ",
+                            "examples": [
+                                "a self-induced illness",
+                                "work-induced stress"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

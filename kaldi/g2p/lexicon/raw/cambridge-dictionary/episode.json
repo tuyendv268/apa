@@ -1,0 +1,46 @@
+{
+    "word": "episode",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈep.ɪ.səʊd"
+                            ],
+                            "us": [
+                                "ˈep.ə.soʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a single event or group of related events: ",
+                            "examples": [
+                                "This latest episode in the fraud scandal has shocked a lot of people.",
+                                "The drugs, the divorce, and the depression - it's an episode in his life that he wants to forget."
+                            ]
+                        },
+                        {
+                            "explanation": "a sudden short period in which someone suffers the effects of a physical or mental illness: ",
+                            "examples": [
+                                "I had an episode of severe chest pain.",
+                                "The fainting episode was caused by heat.",
+                                "He still has therapy for his PTSD and not long ago, he had an episode."
+                            ]
+                        },
+                        {
+                            "explanation": "one of the single parts into which a story is divided, especially when it is broadcast on the television or radio",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "word": "mined",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmine ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "maɪn"
+                            ],
+                            "us": [
+                                "maɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to dig coal or another substance out of the ground: ",
+                            "examples": [
+                                "They're mining for salt.",
+                                "They mine a lot of copper around these parts."
+                            ]
+                        },
+                        {
+                            "explanation": "to place or hide mines in an area of land or sea: ",
+                            "examples": [
+                                "The desert was heavily mined."
+                            ]
+                        },
+                        {
+                            "explanation": "to use special software to try to obtain new cryptocurrency (= digital currency produced by a public network rather than by a government): ",
+                            "examples": [
+                                "Since 2009, the number of bitcoins mined has skyrocketed. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

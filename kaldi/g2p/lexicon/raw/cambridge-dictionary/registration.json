@@ -1,0 +1,39 @@
+{
+    "word": "registration",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌredʒ.ɪˈstreɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌredʒ.əˈstreɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of recording a name or information on an official list: ",
+                            "examples": [
+                                "voter registration"
+                            ]
+                        },
+                        {
+                            "explanation": "the official set of numbers and letters shown on the front and back of a road vehicle: ",
+                            "examples": [
+                                "Police are looking for a small blue car with the registration number B34-ACS."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

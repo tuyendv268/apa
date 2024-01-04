@@ -1,0 +1,40 @@
+{
+    "word": "biased",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.əst"
+                            ],
+                            "us": [
+                                "ˈbaɪ.əst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "showing an unreasonable like or dislike for someone or something based on personal opinions: ",
+                            "examples": [
+                                "The newspapers gave a very biased report of the meeting.",
+                                "I think she's beautiful but then I'm biased since she's my daughter."
+                            ]
+                        },
+                        {
+                            "explanation": "A biased collection of data contains more information that supports a particular opinion than you would expect to find if the collection had been made by chance: ",
+                            "examples": [
+                                "The unexpected results may be partially due to the biased sample used in the study. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

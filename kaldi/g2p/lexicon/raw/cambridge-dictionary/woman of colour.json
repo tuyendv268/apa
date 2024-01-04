@@ -1,0 +1,36 @@
+{
+    "word": "woman of colour",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌwʊm.ən əv ˈkʌl.ər"
+                            ],
+                            "us": [
+                                "ˌwʊm.ən əv ˈkʌl.ɚ"
+                            ],
+                            "uk_other_tense": [
+                                "ˌwɪm.ɪn əv ˈkʌl.ər"
+                            ],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a woman who does not consider herself to be white: ",
+                            "examples": [
+                                "She was the first woman of colour to become a member of Congress.",
+                                "This biography is a powerful history of the USA from the rare point of view of a woman of colour, and an artist and social activist."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

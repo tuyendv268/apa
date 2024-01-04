@@ -1,0 +1,41 @@
+{
+    "word": "passkey",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɑː.skiː"
+                            ],
+                            "us": [
+                                "ˈpæs.ki"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a key that can be used to open any of several different locks: ",
+                            "examples": [
+                                "The building manager gave him a passkey to the apartment.",
+                                "The FBI agents who'd been watching her used a pass key to open her room."
+                            ]
+                        },
+                        {
+                            "explanation": "a method that a computer uses to know who you are, for example by recognizing your finger or face, rather than needing a password (= a secret combination of words or numbers) to be entered: ",
+                            "examples": [
+                                "Choose the headset or device on your phone and use a passkey or PIN.",
+                                "The wizard allows you to choose a passkey for any connected Bluetooth device."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

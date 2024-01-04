@@ -1,0 +1,40 @@
+{
+    "word": "monophonically",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɒn.əˈfɒn.ɪ.kəl.i"
+                            ],
+                            "us": [
+                                "ˌmɑː.nəˈfɑː.nɪ.kəl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that uses a single series of notes, with no voices or instruments singing or playing different notes, for example as a harmony: ",
+                            "examples": [
+                                "The psalm was performed monophonically, in the tone of a chant."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that uses or produces a single signal of sound: ",
+                            "examples": [
+                                "The music was monophonically recorded.",
+                                "Receivers may respond monophonically or polyphonically."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

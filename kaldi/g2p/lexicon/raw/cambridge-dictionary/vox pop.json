@@ -1,0 +1,35 @@
+{
+    "word": "vox pop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌvɒks ˈpɒp"
+                            ],
+                            "us": [
+                                "ˌvɑːks ˈpɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the opinions of people recorded talking informally in public places",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a broadcast for radio or television in which people going past in a public place are asked their opinion on a particular subject",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

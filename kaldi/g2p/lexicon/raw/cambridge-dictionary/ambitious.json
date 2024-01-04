@@ -1,0 +1,42 @@
+{
+    "word": "ambitious",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "æmˈbɪʃ.əs"
+                            ],
+                            "us": [
+                                "æmˈbɪʃ.əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a strong wish to be successful, powerful, or rich: ",
+                            "examples": [
+                                "an ambitious young lawyer",
+                                "He's very ambitious for his children (= he wants them to be successful)."
+                            ]
+                        },
+                        {
+                            "explanation": "If a plan or idea is ambitious, it needs a great amount of skill and effort to be successful or be achieved: ",
+                            "examples": [
+                                "She has some ambitious plans for her business.",
+                                "The government has announced an ambitious plan to modernize the railway network.",
+                                "The original completion date was over-ambitious, so we have had to delay the opening."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

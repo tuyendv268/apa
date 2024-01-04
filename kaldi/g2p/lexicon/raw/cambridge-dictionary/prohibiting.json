@@ -1,0 +1,63 @@
+{
+    "word": "prohibiting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nprohibit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prəˈhɪb.ɪt"
+                            ],
+                            "us": [
+                                "prəˈhɪb.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to officially refuse to allow something: ",
+                            "examples": [
+                                "Motor vehicles are prohibited from driving in the town centre.",
+                                "The government introduced a law prohibiting tobacco advertisements on TV.",
+                                "Parking is strictly prohibited between these gates."
+                            ]
+                        },
+                        {
+                            "explanation": "to prevent a particular activity by making it impossible: ",
+                            "examples": [
+                                "The loudness of the music prohibits serious conversation in most nightclubs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

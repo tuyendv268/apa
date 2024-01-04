@@ -1,0 +1,67 @@
+{
+    "word": "responded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nrespond ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈspɒnd"
+                            ],
+                            "us": [
+                                "rɪˈspɑːnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say or do something as a reaction to something that has been said or done: ",
+                            "examples": [
+                                "To every question, he responded \"I don't know.\"",
+                                "I asked her what the time was, but she didn't respond.",
+                                "He responded by marching off and slamming the door behind him.",
+                                "How did she respond to the news?",
+                                "When the tax office wrote to me demanding unpaid income tax, I responded that I had been working abroad since 1998.",
+                                "The police respond to emergencies (= arrive and are ready to deal with emergencies) in just a few minutes."
+                            ]
+                        },
+                        {
+                            "explanation": "If diseases or patients respond to treatment, the treatment begins to cure them: ",
+                            "examples": [
+                                "It remains to be seen whether the cancer will respond to treatment.",
+                                "For patients who do not respond to drug treatment, surgery is a possible option."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

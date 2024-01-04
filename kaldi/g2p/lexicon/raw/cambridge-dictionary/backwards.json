@@ -1,0 +1,47 @@
+{
+    "word": "backwards",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæk.wədz"
+                            ],
+                            "us": [
+                                "ˈbæk.wɚdz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "towards the direction that is opposite to the one in which you are facing or opposite to the usual direction: ",
+                            "examples": [
+                                "I walked backwards towards the door.",
+                                "He took a step backwards to allow her to pass.",
+                                "He began counting backwards: \"Ten, nine, eight...\""
+                            ]
+                        },
+                        {
+                            "explanation": "returning to older and less effective ways: ",
+                            "examples": [
+                                "The breakdown in negotiations will be seen as a step backwards."
+                            ]
+                        },
+                        {
+                            "explanation": "first in one direction and then in the opposite one: ",
+                            "examples": [
+                                "Paul paced anxiously backwards and forwards."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

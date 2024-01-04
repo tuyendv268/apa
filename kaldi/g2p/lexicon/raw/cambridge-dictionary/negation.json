@@ -1,0 +1,51 @@
+{
+    "word": "negation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "nɪˈɡeɪ.ʃən"
+                            ],
+                            "us": [
+                                "nɪˈɡeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the action of causing something to not exist or to have no effect: ",
+                            "examples": [
+                                "The utter negation of natural beauty was appalling."
+                            ]
+                        },
+                        {
+                            "explanation": "the exact opposite of something, or a complete lack of it: ",
+                            "examples": [
+                                "She sees faith as a negation of reason."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of saying no: ",
+                            "examples": [
+                                "She shook her head in negation."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of saying that a sentence or part of a sentence is not true, or an instance of this: ",
+                            "examples": [
+                                "Negative declaratives are clauses in which sentential negation is expressed by \"not\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

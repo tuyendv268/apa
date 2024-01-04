@@ -1,0 +1,35 @@
+{
+    "word": "non-additive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈæd.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈæd.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not increasing when combined, or not increasing over time: ",
+                            "examples": [
+                                "It was established that the combination of the drugs had a non-additive effect.",
+                                "When used in combination, the product reduces the activity of the chemicals in a nonadditive manner.",
+                                "The effects of the two types of noise are nonadditive, suggesting that the two sources of interference may be qualitatively different."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

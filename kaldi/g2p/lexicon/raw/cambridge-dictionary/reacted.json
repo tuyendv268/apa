@@ -1,0 +1,63 @@
+{
+    "word": "reacted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nreact ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "riˈækt"
+                            ],
+                            "us": [
+                                "riˈækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to act in a particular way as a direct result of something else: ",
+                            "examples": [
+                                "She slapped him and called him names, but he didn't react.",
+                                "The judge reacted angrily to the suggestion that it hadn't been a fair trial.",
+                                "Many people react (badly) to (= are made ill by) penicillin."
+                            ]
+                        },
+                        {
+                            "explanation": "to change in a physical or chemical way when put with another substance: ",
+                            "examples": [
+                                "Potassium reacts with water."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

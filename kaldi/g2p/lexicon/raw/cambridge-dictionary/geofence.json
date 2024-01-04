@@ -1,0 +1,57 @@
+{
+    "word": "geofence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒiː.əʊ.fens"
+                            ],
+                            "us": [
+                                "ˈdʒiː.oʊ.fens"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a virtual limit (= one that does not exist physically) that can be placed around a particular area using satellite technology, in order to record or limit the movements of a person, vehicle, etc.: ",
+                            "examples": [
+                                "When an individual crosses a geofence, an alert is sent to their device and the operator of the geofence is notified."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒiː.əʊ.fens"
+                            ],
+                            "us": [
+                                "ˈdʒiː.oʊ.fens"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use satellite technology to place a virtual limit (= one that does not exist physically) around a particular area in order to record or limit the movements of a person, vehicle, etc.: ",
+                            "examples": [
+                                "To geofence an area, you must first establish a virtual boundary around a specified location using GPS-enabled software."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

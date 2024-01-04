@@ -1,0 +1,34 @@
+{
+    "word": "linear transformation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌlɪn.i.ə ˌtræns.fəˈmeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌlɪn.i.ɚ ˌtræns.fɚˈmeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a function (= a quantity whose value depends on another value and changes with that value) from one vector space to another that respects the underlying structure of each vector space: ",
+                            "examples": [
+                                "Readers with any linear algebra experience will recognize that a linear transformation is being built here.",
+                                "The fractal dimension remains unchanged under linear transformation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

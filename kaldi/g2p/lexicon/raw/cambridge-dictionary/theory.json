@@ -1,0 +1,42 @@
+{
+    "word": "theory",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈθɪə.ri"
+                            ],
+                            "us": [
+                                "ˈθɪr.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a formal statement of the rules on which a subject of study is based or of ideas that are suggested to explain a fact or event or, more generally, an opinion or explanation: ",
+                            "examples": [
+                                "economic theory",
+                                "scientific theory",
+                                "Darwin's theory of evolution",
+                                "He has a theory that the hole was caused by a meteorite."
+                            ]
+                        },
+                        {
+                            "explanation": "If something is possible in theory, it should be possible, but often it does not happen in that way: ",
+                            "examples": [
+                                "In theory, the journey should take three hours, but in practice it usually takes four because of roadworks."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

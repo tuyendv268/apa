@@ -1,0 +1,42 @@
+{
+    "word": "trained",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "treɪnd"
+                            ],
+                            "us": [
+                                "treɪnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having been prepared for a particular job or activity, by learning skills, getting qualifications, etc.: ",
+                            "examples": [
+                                "I didn't realize Emilio was a trained nurse.",
+                                "Are you trained in the use of this equipment?",
+                                "\"Did I hear you say your children cleaned up after the party?\" \"Oh yes, I have them well-trained!\"",
+                                "Trained dogs can detect the early signs of the disease."
+                            ]
+                        },
+                        {
+                            "explanation": "in machine learning (= the study of creating computer systems that can improve their own ability to carry out tasks by analysing new data), a trained system is one that has been supplied with data to improve it: ",
+                            "examples": [
+                                "Our trained models and code will be made publicly available for further research."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "isotropic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌaɪ.səˈtrɒp.ɪk"
+                            ],
+                            "us": [
+                                "ˌaɪ.səˈtrɑː.pɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Something that is isotropic has the same size or physical properties when it is measured in different directions: ",
+                            "examples": [
+                                "Paper, like metal, is isotropic - its strength and stiffness are the same when measured along different axes.",
+                                "We assume an isotropic emission of radiation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

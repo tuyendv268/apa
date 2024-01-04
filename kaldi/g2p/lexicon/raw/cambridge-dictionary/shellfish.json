@@ -1,0 +1,33 @@
+{
+    "word": "shellfish",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃel.fɪʃ"
+                            ],
+                            "us": [
+                                "ˈʃel.fɪʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "sea creatures that live in shells and are eaten as food, or one of these creatures: ",
+                            "examples": [
+                                "Lobsters, crabs, and oysters are all shellfish."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

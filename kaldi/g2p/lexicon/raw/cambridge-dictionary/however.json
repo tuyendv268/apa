@@ -1,0 +1,55 @@
+{
+    "word": "however",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌhaʊˈev.ər"
+                            ],
+                            "us": [
+                                "ˌhaʊˈev.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "despite whatever amount or degree: ",
+                            "examples": [
+                                "However hungry I am, I never seem to be able to finish off a whole pizza.",
+                                "If Emma likes something she'll buy it however much it costs.",
+                                "I'll see you after the show and give you £20 for the tickets, or however much (= whatever) they cost."
+                            ]
+                        },
+                        {
+                            "explanation": "used to express surprise: ",
+                            "examples": [
+                                "However did you manage to get him to agree to that?"
+                            ]
+                        },
+                        {
+                            "explanation": "in whatever way: ",
+                            "examples": [
+                                "However you look at it, it's still a mess.",
+                                "You can do it however you like, it really doesn't matter."
+                            ]
+                        },
+                        {
+                            "explanation": "despite this: ",
+                            "examples": [
+                                "This is one possible solution to the problem. However, there are others.",
+                                "There may, however, be other reasons that we don't know about."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

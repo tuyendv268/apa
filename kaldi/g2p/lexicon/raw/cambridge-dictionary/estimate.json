@@ -1,0 +1,62 @@
+{
+    "word": "estimate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈes.tɪ.meɪt"
+                            ],
+                            "us": [
+                                "ˈes.tə.meɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to guess or calculate the cost, size, value, etc. of something: ",
+                            "examples": [
+                                "Government sources estimate a long-term 50 percent increase in rail fares.",
+                                "They estimate (that) the journey will take at least two weeks.",
+                                "It was difficult to estimate how many trees had been destroyed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈes.tɪ.mət"
+                            ],
+                            "us": [
+                                "ˈes.tə.mət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a guess of what the size, value, amount, cost, etc. of something might be: ",
+                            "examples": [
+                                "The number of people who applied for the course was 120 compared with an initial estimate of between 50 and 100.",
+                                "We'll accept the lowest of three estimates for the building work.",
+                                "a conservative (= low) estimate",
+                                "a rough (= not exact) estimate"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "word": "yesterday",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈjes.tə.deɪ"
+                            ],
+                            "us": [
+                                "ˈjes.tɚ.deɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "on the day before today: ",
+                            "examples": [
+                                "He called yesterday while you were out.",
+                                "I saw her yesterday afternoon."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈjes.tə.deɪ"
+                            ],
+                            "us": [
+                                "ˈjes.tɚ.deɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the day before today: ",
+                            "examples": [
+                                "\"Is that today's paper?\" \"No, it's yesterday's.\""
+                            ]
+                        },
+                        {
+                            "explanation": "two days ago: ",
+                            "examples": [
+                                "I called her the day before yesterday."
+                            ]
+                        },
+                        {
+                            "explanation": "the recent past: ",
+                            "examples": [
+                                "Nobody's interested in yesterday's pop stars.",
+                                "These songs are a part of all our yesterdays."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

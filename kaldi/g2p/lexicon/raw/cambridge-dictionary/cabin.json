@@ -1,0 +1,45 @@
+{
+    "word": "cabin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæb.ɪn"
+                            ],
+                            "us": [
+                                "ˈkæb.ɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small, simple house made of wood: ",
+                            "examples": [
+                                "a log cabin"
+                            ]
+                        },
+                        {
+                            "explanation": "a small room where you sleep in a ship",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the area where passengers sit in an aircraft",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a small separate space for someone to work in, inside a larger office",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

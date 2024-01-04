@@ -1,0 +1,40 @@
+{
+    "word": "senate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsen.ət"
+                            ],
+                            "us": [
+                                "ˈsen.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the two groups of politicians who make laws in some political systems such as in the US, Australia, and France, often having different powers from the other group and different rules for members, for example being elected for a longer period: ",
+                            "examples": [
+                                "The law has no chance of being passed by the Senate.",
+                                "the French/Australian Senate",
+                                "The US Senate has 100 members.",
+                                "The UK doesn't have a senate; it has a House of Lords."
+                            ]
+                        },
+                        {
+                            "explanation": "the group of people who control a college or university",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

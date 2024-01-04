@@ -1,0 +1,40 @@
+{
+    "word": "pictogram",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɪk.tə.ɡræm"
+                            ],
+                            "us": [
+                                "ˈpɪk.tə.ɡræm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a picture or symbol that represents a word, phrase, or idea: ",
+                            "examples": [
+                                "The wood is painted bright red with the pictogram for immortality cut into it in a repeated pattern.",
+                                "The sign features not only a pictogram (a crossed-out baby seat) but also the words \"ADULT ONLY\"."
+                            ]
+                        },
+                        {
+                            "explanation": "a picture that represents information or statistics (= numbers): ",
+                            "examples": [
+                                "How do you embed pictograms or line graphs into the text?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

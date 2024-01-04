@@ -1,0 +1,59 @@
+{
+    "word": "fuze",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fjuːz"
+                            ],
+                            "us": [
+                                "fjuːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a string or piece of paper connected to a firework or other explosive that is used for lighting it, or a device inside a bomb that causes it to explode after a fixed length of time or when it hits or is near something: ",
+                            "examples": [
+                                "Fireworks are composed of a shell, an explosive, and a fuze.",
+                                "He prepared and laid three fuzes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fjuːz"
+                            ],
+                            "us": [
+                                "fjuːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add a fuze to a firework, bomb, or other explosive: ",
+                            "examples": [
+                                "He showed me a photo of workers fuzing fireworks in a factory.",
+                                "No projectile should be fuzed until it has been filled."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

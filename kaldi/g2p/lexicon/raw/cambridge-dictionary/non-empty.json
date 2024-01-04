@@ -1,0 +1,34 @@
+{
+    "word": "non-empty",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈemp.ti"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈemp.ti"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A non-empty set is one which contains at least one member: ",
+                            "examples": [
+                                "Let X be any non-empty set of variables.",
+                                "When can a non-empty set M of real numbers be said to be unbounded?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

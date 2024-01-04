@@ -1,0 +1,34 @@
+{
+    "word": "security breach",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɪˈkjʊə.rə.ti ˌbriːtʃ"
+                            ],
+                            "us": [
+                                "səˈkjʊr.ə.t̬i ˌbriːtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a failure in a system that is intended to protect a person, building, organization, or country against threats such as crime or attacks: ",
+                            "examples": [
+                                "Investigators are looking into an alleged security breach at the air base.",
+                                "The online banking site suffered a serious security breach."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

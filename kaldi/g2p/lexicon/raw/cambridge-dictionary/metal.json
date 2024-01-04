@@ -1,0 +1,35 @@
+{
+    "word": "metal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmet.əl"
+                            ],
+                            "us": [
+                                "ˈmet̬.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a chemical element, such as iron or gold, or a mixture of such elements, such as steel, that is generally hard and strong, and through which electricity and heat can travel: ",
+                            "examples": [
+                                "Metal, paper, and glass can be recycled.",
+                                "Silver, gold, and platinum are precious metals.",
+                                "The wooden beam is reinforced with a metal plate."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

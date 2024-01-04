@@ -1,0 +1,40 @@
+{
+    "word": "housing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhaʊ.zɪŋ"
+                            ],
+                            "us": [
+                                "ˈhaʊ.zɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "buildings for people to live in: ",
+                            "examples": [
+                                "There's a shortage of cheap housing in the region."
+                            ]
+                        },
+                        {
+                            "explanation": "a case or covering that surrounds a machine or part of a machine: ",
+                            "examples": [
+                                "The engine appeared to be intact except for the loss of its housing.",
+                                "The underwater cable housings must be able to resist corrosion from salt water."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "ancestor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæn.ses.tər"
+                            ],
+                            "us": [
+                                "ˈæn.ses.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person related to you who lived a long time ago: ",
+                            "examples": [
+                                "There were portraits of his ancestors on the walls of the room."
+                            ]
+                        },
+                        {
+                            "explanation": "a plant, animal, or object that is related to one existing at a later point in time: ",
+                            "examples": [
+                                "This wooden instrument is the ancestor of the modern metal flute."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

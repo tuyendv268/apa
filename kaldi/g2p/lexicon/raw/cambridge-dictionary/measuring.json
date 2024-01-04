@@ -1,0 +1,70 @@
+{
+    "word": "measuring",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmeasure ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmeʒ.ər"
+                            ],
+                            "us": [
+                                "ˈmeʒ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to discover the exact size or amount of something: ",
+                            "examples": [
+                                "\"Will the table fit in here?\" \"I don't know - let's measure it.\"",
+                                "This machine measures your heart rate.",
+                                "He measured the flour into the bowl."
+                            ]
+                        },
+                        {
+                            "explanation": "to be a particular size: ",
+                            "examples": [
+                                "The area, measuring/which measures five kilometres by three kilometres, has been purchased by the army.",
+                                "The screen measures 34 inches diagonally. "
+                            ]
+                        },
+                        {
+                            "explanation": "to judge the quality, effect, importance, or value of something: ",
+                            "examples": [
+                                "There is no way of measuring the damage done to morale."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

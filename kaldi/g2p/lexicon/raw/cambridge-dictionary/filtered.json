@@ -1,0 +1,72 @@
+{
+    "word": "filtered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nfilter ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɪl.tər"
+                            ],
+                            "us": [
+                                "ˈfɪl.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to appear or happen gradually or to a limited degree: ",
+                            "examples": [
+                                "News filtered down to us during the day.",
+                                "Reports about an accident began to filter in.",
+                                "Sunlight filtered through the branches."
+                            ]
+                        },
+                        {
+                            "explanation": "to remove solids from liquids or gases, or to remove particular types of light, using special equipment: ",
+                            "examples": [
+                                "The water is filtered to remove any impurities.",
+                                "Devices in the two chimneys would filter (out) (= remove) radioactive dust."
+                            ]
+                        },
+                        {
+                            "explanation": "to select or remove a particular type of information from something: ",
+                            "examples": [
+                                "This command filters the search results by location.",
+                                "The software is well suited to small mobile phone screens because it filters out unnecessary information.",
+                                "Most email apps use spam filtering tools."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "locked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nlock ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "lɒk"
+                            ],
+                            "us": [
+                                "lɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put something in a safe place and fasten the lock: ",
+                            "examples": [
+                                "He locked the confidential documents in his filing cabinet.",
+                                "You really should lock your car (up) or it'll get stolen."
+                            ]
+                        },
+                        {
+                            "explanation": "to fasten something with a key, or be fastened with a key: ",
+                            "examples": [
+                                "Don't forget to lock the door when you go out.",
+                                "If you shut the door it will lock automatically."
+                            ]
+                        },
+                        {
+                            "explanation": "to become fixed in one position: ",
+                            "examples": [
+                                "I tried to start moving but the wheels had locked."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

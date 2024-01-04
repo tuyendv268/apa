@@ -1,0 +1,41 @@
+{
+    "word": "optically",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒp.tɪ.kəl.i"
+                            ],
+                            "us": [
+                                "ˈɑːp.tɪ.kəl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that relates to light or the ability to see, or to what someone sees: ",
+                            "examples": [
+                                "These lightbulbs are bad optically—they cause a lot of glare.",
+                                "The substance is polished to give an optically smooth surface."
+                            ]
+                        },
+                        {
+                            "explanation": "If information is read or stored optically, it is read or stored using light: ",
+                            "examples": [
+                                "People vote on paper ballots that are optically scanned by a machine or counted by hand.",
+                                "A machine reads the card optically."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

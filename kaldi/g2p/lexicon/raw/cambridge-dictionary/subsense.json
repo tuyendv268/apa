@@ -1,0 +1,34 @@
+{
+    "word": "subsense",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌb.sens"
+                            ],
+                            "us": [
+                                "ˈsʌb.sens"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a meaning of a word or phrase that is closely related to a more general meaning of the same word : ",
+                            "examples": [
+                                "The core sense can help you to understand other related subsenses. ",
+                                "This sense has four sub-senses in the dictionary."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

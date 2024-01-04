@@ -1,0 +1,70 @@
+{
+    "word": "amateur",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈæm.ə.tər"
+                            ],
+                            "us": [
+                                "ˈæm.ə.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "taking part in an activity for pleasure, not as a job: ",
+                            "examples": [
+                                "an amateur astronomer/boxer/historian",
+                                "He was an amateur singer until the age of 40, when he turned professional."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to an activity, especially a sport, where the people taking part do not receive money: ",
+                            "examples": [
+                                "amateur athletics"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæm.ə.tər"
+                            ],
+                            "us": [
+                                "ˈæm.ə.t̬ʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who takes part in an activity for pleasure, not as a job: ",
+                            "examples": [
+                                "This tennis tournament is open to both amateurs and professionals."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who does not have much skill in what they do: ",
+                            "examples": [
+                                "I won't be giving them any more work - they're a bunch of amateurs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

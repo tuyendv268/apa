@@ -1,0 +1,34 @@
+{
+    "word": "computable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpjuː.tə.bəl"
+                            ],
+                            "us": [
+                                "kəmˈpjuː.t̬ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If the answer to a mathematical problem is computable, you can calculate it by using a machine: ",
+                            "examples": [
+                                "The amount of heat produced by the process is easily computable.",
+                                "In theory, it is possible to express any computable function in one line of code."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

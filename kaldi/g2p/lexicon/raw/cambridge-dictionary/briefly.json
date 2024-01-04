@@ -1,0 +1,39 @@
+{
+    "word": "briefly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbriːf.li"
+                            ],
+                            "us": [
+                                "ˈbriːf.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "for a short time: ",
+                            "examples": [
+                                "We chatted briefly about the weather."
+                            ]
+                        },
+                        {
+                            "explanation": "using few words or without giving a lot of details: ",
+                            "examples": [
+                                "Briefly, the company needs to cut its expenditure."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

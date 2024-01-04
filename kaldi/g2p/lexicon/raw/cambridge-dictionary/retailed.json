@@ -1,0 +1,61 @@
+{
+    "word": "retailed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nretail ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈriː.teɪl"
+                            ],
+                            "us": [
+                                "ˈriː.teɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to sell goods to the public in shops, on the internet, etc.: ",
+                            "examples": [
+                                "The company makes and retails moderately priced sportswear."
+                            ]
+                        },
+                        {
+                            "explanation": "to be sold at a particular price: ",
+                            "examples": [
+                                "This laptop retails at £850."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

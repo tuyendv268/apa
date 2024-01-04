@@ -1,0 +1,66 @@
+{
+    "word": "escaping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nescape ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈskeɪp"
+                            ],
+                            "us": [
+                                "ɪˈskeɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get free from something, or to avoid something: ",
+                            "examples": [
+                                "Two prisoners have escaped.",
+                                "A lion has escaped from its cage.",
+                                "She was lucky to escape serious injury.",
+                                "He narrowly (= only just) escaped a fine.",
+                                "His name escapes me (= I have forgotten his name).",
+                                "Nothing important escapes her notice/attention."
+                            ]
+                        },
+                        {
+                            "explanation": "to press the key on a computer keyboard that allows you to leave a particular screen and return to the previous one or to interrupt a process: ",
+                            "examples": [
+                                "Escape from this window and return to the main menu."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

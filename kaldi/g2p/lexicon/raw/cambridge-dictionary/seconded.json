@@ -1,0 +1,84 @@
+{
+    "word": "seconded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsecond ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsek.ənd"
+                            ],
+                            "us": [
+                                "ˈsek.ənd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a formal statement of support for a suggestion made by someone else during a meeting so that there can be a discussion or vote: ",
+                            "examples": [
+                                "The motion was proposed by the club's chairwoman and seconded by the secretary.",
+                                "\"I could use a drink.\" \"I'll second that (= I agree with you)!\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sɪˈkɒnd"
+                            ],
+                            "us": [
+                                "səˈkɑːnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send an employee to work somewhere else temporarily, either to increase the number of workers or to replace other workers, or to exchange experience or skills: ",
+                            "examples": [
+                                "During the dispute, many police officers were seconded from traffic duty to the prison service."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

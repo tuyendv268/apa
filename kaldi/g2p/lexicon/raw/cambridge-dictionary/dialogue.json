@@ -1,0 +1,41 @@
+{
+    "word": "dialogue",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaɪ.ə.lɒɡ"
+                            ],
+                            "us": [
+                                "ˈdaɪ.ə.lɑːɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "conversation that is written for a book, play, or film: ",
+                            "examples": [
+                                "The play contained some very snappy/witty dialogue.",
+                                "Act Two begins with a short dialogue between father and son."
+                            ]
+                        },
+                        {
+                            "explanation": "formal talks between opposing countries, political groups, etc.: ",
+                            "examples": [
+                                "The rebel leaders stated that they are willing to enter into dialogue with the government.",
+                                "The two sides have at last begun to engage in a constructive dialogue."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

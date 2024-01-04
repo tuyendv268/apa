@@ -1,0 +1,78 @@
+{
+    "word": "sustaining",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsustain ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səˈsteɪn"
+                            ],
+                            "us": [
+                                "səˈsteɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause or allow something to continue for a period of time: ",
+                            "examples": [
+                                "The economy looks set to sustain its growth into next year.",
+                                "He seems to find it difficult to sustain relationships with women.",
+                                "The judge sustained (= accepted) the lawyer's objection."
+                            ]
+                        },
+                        {
+                            "explanation": "to keep alive: ",
+                            "examples": [
+                                "The soil in this part of the world is not rich enough to sustain a large population."
+                            ]
+                        },
+                        {
+                            "explanation": "to suffer or experience, especially damage or loss: ",
+                            "examples": [
+                                "She sustained multiple injuries in the accident.",
+                                "Most buildings sustained only minimal damage in the earthquake.",
+                                "The company has sustained heavy losses this year."
+                            ]
+                        },
+                        {
+                            "explanation": "to support emotionally: ",
+                            "examples": [
+                                "She was sustained by the strength of her religious faith.",
+                                "The love of my family and friends sustained me through my ordeal."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

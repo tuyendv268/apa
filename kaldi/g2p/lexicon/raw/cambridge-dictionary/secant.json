@@ -1,0 +1,35 @@
+{
+    "word": "secant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsiː.kənt"
+                            ],
+                            "us": [
+                                "ˈsiː.kənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a triangle that has one angle of 90°, the ratio of the hypotenuse (= the length of the side opposite the 90° angle) to the length of the side next to an angle less than 90°",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a line that crosses a circle at two places",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

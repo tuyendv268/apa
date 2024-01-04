@@ -1,0 +1,39 @@
+{
+    "word": "miner",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmaɪ.nər"
+                            ],
+                            "us": [
+                                "ˈmaɪ.nɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who works in a mine: ",
+                            "examples": [
+                                "a coal miner"
+                            ]
+                        },
+                        {
+                            "explanation": "someone who uses special software to try to obtain new cryptocurrency (= digital currency produced by a public network rather than by a government): ",
+                            "examples": [
+                                "Miners receive rewards for their work in the form of crypto tokens."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

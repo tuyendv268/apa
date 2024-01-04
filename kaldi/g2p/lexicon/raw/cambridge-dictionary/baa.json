@@ -1,0 +1,59 @@
+{
+    "word": "baa",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bɑː"
+                            ],
+                            "us": [
+                                "bæ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the sound that a sheep or goat makes: ",
+                            "examples": [
+                                "\"Baa,\" bleated the sheep.",
+                                "We listened to the therapeutic baas of sheep coming from the hills."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɑː"
+                            ],
+                            "us": [
+                                "bæ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a sheep or goat) to make a long sound: ",
+                            "examples": [
+                                "We could hear horses neighing and sheep baaing.",
+                                "The sheep all baaed in unison."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

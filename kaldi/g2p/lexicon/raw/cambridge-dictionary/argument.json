@@ -1,0 +1,44 @@
+{
+    "word": "argument",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑːɡ.jə.mənt"
+                            ],
+                            "us": [
+                                "ˈɑːrɡ.jə.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a disagreement, or the process of disagreeing: ",
+                            "examples": [
+                                "The children had an argument about/over what game to play.",
+                                "He got into an argument with Jeff in the pub last night.",
+                                "A decision was finally made after some heated argument."
+                            ]
+                        },
+                        {
+                            "explanation": "a reason or reasons why you support or oppose an idea or suggestion, or the process of explaining these reasons: ",
+                            "examples": [
+                                "Now that we've heard all the arguments for and against the proposal, let's vote on it.",
+                                "Her husband was not convinced by her argument that they needed a bigger house.",
+                                "I don't think that's a very strong/convincing/powerful argument.",
+                                "The central argument (= main point) of the book is that some of the plays were not written by Shakespeare."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

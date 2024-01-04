@@ -1,0 +1,125 @@
+{
+    "word": "us",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "ʌs",
+                                "əs"
+                            ],
+                            "us": [
+                                "ʌs",
+                                "əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used as the object of a verb or a preposition to refer to a group that includes the speaker and at least one other person: ",
+                            "examples": [
+                                "Thank you for driving us to the station.",
+                                "Many of us in the editorial department disagree with the changes that are happening."
+                            ]
+                        },
+                        {
+                            "explanation": "(especially used in spoken English) me: ",
+                            "examples": [
+                                "Give us a light, mate.",
+                                "Give us it here and I'll see if I can mend it."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "ʌs",
+                                "əs"
+                            ],
+                            "us": [
+                                "ʌs",
+                                "əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "our: ",
+                            "examples": [
+                                "Where've you parked us car?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌjuːˈes"
+                            ],
+                            "us": [
+                                "ˌjuːˈes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for the United States (of America): ",
+                            "examples": [
+                                "A new study of education in the US has just been published.",
+                                "The US has had several years of solid growth.",
+                                "The US have taken a different view of the situation."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌjuːˈes"
+                            ],
+                            "us": [
+                                "ˌjuːˈes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or relating to the United States of America or its people: ",
+                            "examples": [
+                                "She had served in the US army for several years.",
+                                "The decision was taken by the US State Department.",
+                                "When did you become a US citizen?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

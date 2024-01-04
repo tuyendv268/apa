@@ -1,0 +1,50 @@
+{
+    "word": "assert",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈsɜːt"
+                            ],
+                            "us": [
+                                "əˈsɝːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to behave in a way that expresses your confidence, importance, or power and earns you respect from others: ",
+                            "examples": [
+                                "I really must assert myself more in meetings.",
+                                "Don't be afraid to assert yourself and make your views clear.",
+                                "Refusing to help with the housework was his way of asserting himself.",
+                                "Things began to change when women asserted themselves politically.",
+                                "Boarding school was a tough environment, and she quickly learned to assert herself."
+                            ]
+                        },
+                        {
+                            "explanation": "to say that something is certainly true: ",
+                            "examples": [
+                                "He asserts that she stole money from him."
+                            ]
+                        },
+                        {
+                            "explanation": "to do something to show that you have power: ",
+                            "examples": [
+                                "She very rarely asserts her authority over the children.",
+                                "Throughout the Cold War, the Allies asserted their right to move freely between the two Berlins."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

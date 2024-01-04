@@ -1,0 +1,62 @@
+{
+    "word": "transposing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ntranspose ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trænˈspəʊz"
+                            ],
+                            "us": [
+                                "trænˈspoʊz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change something from one position to another, or to exchange the positions of two things: ",
+                            "examples": [
+                                "In their latest production they have reworked \"King Lear\", transposing it to pre-colonial Africa.",
+                                "The confusion was caused when two numbers were accidentally transposed by someone in the Social Security office."
+                            ]
+                        },
+                        {
+                            "explanation": "to play or write a piece of music in a different key (= set of musical notes based on a particular note) from the one used originally: ",
+                            "examples": [
+                                "The pianist transposed the song into C."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

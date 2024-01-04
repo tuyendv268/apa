@@ -1,0 +1,34 @@
+{
+    "word": "word class",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɜːd ˌklɑːs"
+                            ],
+                            "us": [
+                                "ˈwɜ˞ːd ˌklæs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the grammatical groups, such as noun, verb, and adjective, into which words are divided depending on their use: ",
+                            "examples": [
+                                "The checklist contained 403 items of various word classes, including 136 verbs and 201 nouns. ",
+                                "Of course, the same word form may occur in more than one word class."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

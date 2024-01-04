@@ -1,0 +1,67 @@
+{
+    "word": "curate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkjʊə.rət"
+                            ],
+                            "us": [
+                                "ˈkjʊr.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a priest of the lowest rank, especially in the Church of England, whose job is to help the vicar (= priest of a particular area)",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kjʊəˈreɪt"
+                            ],
+                            "us": [
+                                "ˈkjʊr.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be in charge of selecting and caring for objects to be shown in a museum or to form part of a collection of art, an exhibition, etc.: ",
+                            "examples": [
+                                "She curated a recent exhibition of Indian artwork."
+                            ]
+                        },
+                        {
+                            "explanation": "to be in charge of selecting films, performers, events, etc. to be included in a festival: ",
+                            "examples": [
+                                "a Messiaen festival curated by pianist Pierre-Laurent Aimard"
+                            ]
+                        },
+                        {
+                            "explanation": "to select things such as documents, music, products, or internet content to be included as part of a list or collection, or on a website: ",
+                            "examples": [
+                                "a curated library of short movies available online"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

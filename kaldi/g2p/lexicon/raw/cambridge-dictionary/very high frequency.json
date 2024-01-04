@@ -1,0 +1,34 @@
+{
+    "word": "very high frequency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌver.i ˌhaɪ ˈfriː.kwən.si"
+                            ],
+                            "us": [
+                                "ˌver.i ˌhaɪ ˈfriː.kwən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "radio waves between 30 and 300 MHz: ",
+                            "examples": [
+                                "VHF (Very High Frequency) is the electromagnetic frequencies from 30 million to 300 million cycles per second. ",
+                                "Very high frequency (VHF) air-to-ground communication was generally the main method of information exchange."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

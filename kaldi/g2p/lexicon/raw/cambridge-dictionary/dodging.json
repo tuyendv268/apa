@@ -1,0 +1,61 @@
+{
+    "word": "dodging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndodge ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɒdʒ"
+                            ],
+                            "us": [
+                                "dɑːdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to avoid being hit by something by moving quickly to one side: ",
+                            "examples": [
+                                "He dodged to avoid the hurtling bicycle."
+                            ]
+                        },
+                        {
+                            "explanation": "to avoid something unpleasant: ",
+                            "examples": [
+                                "The Senator dodged questions about his relationship with the actress."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "limb",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "lɪm"
+                            ],
+                            "us": [
+                                "lɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an arm or leg of a person or animal: ",
+                            "examples": [
+                                "The accident victims mostly had injuries to their lower limbs (= legs).",
+                                "an artificial limb"
+                            ]
+                        },
+                        {
+                            "explanation": "a large branch of a tree: ",
+                            "examples": [
+                                "An 18-year-old student at California State University died yesterday when she was struck by a falling limb from a large oak tree."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

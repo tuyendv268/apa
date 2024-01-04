@@ -1,0 +1,33 @@
+{
+    "word": "proper fraction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌprɒp.ə ˈfræk.ʃən"
+                            ],
+                            "us": [
+                                "ˌprɑː.pɚ ˈfræk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fraction in which the number below the line is larger than the number above it: ",
+                            "examples": [
+                                "3/4 and 5/8 are proper fractions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

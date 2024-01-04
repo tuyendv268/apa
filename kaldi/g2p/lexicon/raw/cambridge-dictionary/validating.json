@@ -1,0 +1,62 @@
+{
+    "word": "validating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nvalidate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈvæl.ɪ.deɪt"
+                            ],
+                            "us": [
+                                "ˈvæl.ə.deɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something officially acceptable or approved, especially after examining it: ",
+                            "examples": [
+                                "The data is validated automatically by the computer after it has been entered.",
+                                "It is a one-year course validated by London's City University."
+                            ]
+                        },
+                        {
+                            "explanation": "to prove that something is correct: ",
+                            "examples": [
+                                "He feels that today's economic problems validate his opposition to the policy. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "synchronized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪŋ.krə.naɪzd"
+                            ],
+                            "us": [
+                                "ˈsɪŋ.krə.naɪzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "happening together, at the same or right time, or in the expected way: ",
+                            "examples": [
+                                "The attacks don't appear to be synchronized.",
+                                "Steamboat Willie was the first animated cartoon to use synchronized sound.",
+                                "Each operation is closely synchronised.",
+                                "The female hormonal cycle is finely synchronized with the circulatory system and lymphatic drainage in particular."
+                            ]
+                        },
+                        {
+                            "explanation": "(of clocks or watches) having been made to show the same time: ",
+                            "examples": [
+                                "NTP is used to keep all of the client and server clocks synchronized. ",
+                                "The second hands of numerous synchronised watches reached twelve."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

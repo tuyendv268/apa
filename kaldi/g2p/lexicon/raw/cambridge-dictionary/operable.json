@@ -1,0 +1,39 @@
+{
+    "word": "operable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒp.ər.ə.bəl"
+                            ],
+                            "us": [
+                                "ˈɑː.pɚ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to be used: ",
+                            "examples": [
+                                "There will be a delay before the modified machines are operable."
+                            ]
+                        },
+                        {
+                            "explanation": "able to be treated by an operation: ",
+                            "examples": [
+                                "In about half of diagnosed cases, the condition is operable."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "hardly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɑːd.li"
+                            ],
+                            "us": [
+                                "ˈhɑːrd.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "only just; almost not: ",
+                            "examples": [
+                                "I could hardly hear her at the back.",
+                                "The party had hardly started when she left.",
+                                "He hardly ate anything/He ate hardly anything.",
+                                "We hardly ever (= almost never) go to concerts.",
+                                "Hardly had a moment passed before the door creaked open."
+                            ]
+                        },
+                        {
+                            "explanation": "certainly not: ",
+                            "examples": [
+                                "You can hardly expect a pay rise when you've only been working for the company for two weeks!",
+                                "Well don't be angry with me - it's hardly my fault that it's raining!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

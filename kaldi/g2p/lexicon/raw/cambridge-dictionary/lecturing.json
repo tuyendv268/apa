@@ -1,0 +1,62 @@
+{
+    "word": "lecturing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nlecture ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈlek.tʃər"
+                            ],
+                            "us": [
+                                "ˈlek.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give a formal talk to a group of people, often at a college or university: ",
+                            "examples": [
+                                "For ten years she lectured in law.",
+                                "She travelled widely in North America, lecturing on women's rights."
+                            ]
+                        },
+                        {
+                            "explanation": "to talk angrily or seriously to someone in order to criticize their behaviour: ",
+                            "examples": [
+                                "His parents used to lecture him on his table manners."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "correctness",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəˈrekt.nəs"
+                            ],
+                            "us": [
+                                "kəˈrekt.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the quality of being in agreement with the true facts or with what is generally accepted: ",
+                            "examples": [
+                                "He quickly proved the correctness of his findings.",
+                                "I began to question the correctness of his theory."
+                            ]
+                        },
+                        {
+                            "explanation": "care to behave or speak in a way that is generally accepted and approved of: ",
+                            "examples": [
+                                "He speaks with such correctness that it sometimes sounds very formal.",
+                                "During the next few days I went about my duties with propriety and correctness."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

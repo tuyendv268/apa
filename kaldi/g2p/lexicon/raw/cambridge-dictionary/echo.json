@@ -1,0 +1,72 @@
+{
+    "word": "echo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.əʊ"
+                            ],
+                            "us": [
+                                "ˈek.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sound that is heard after it has been reflected off a surface such as a wall or a cliff: ",
+                            "examples": [
+                                "The echoes of his scream sounded in the cave for several seconds.",
+                                "Thick carpet would reduce the echo in this hallway."
+                            ]
+                        },
+                        {
+                            "explanation": "a detail that is similar to and makes you remember something else: ",
+                            "examples": [
+                                "There are echoes of Mozart in her first piano compositions."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.əʊ"
+                            ],
+                            "us": [
+                                "ˈek.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a sound echoes or a place echoes with a sound, you hear the sound again because you are in a large, empty space: ",
+                            "examples": [
+                                "The sound of footsteps echoed around the hall.",
+                                "Suddenly, the building echoed with the sound of gunfire."
+                            ]
+                        },
+                        {
+                            "explanation": "to repeat details that are similar to, and make you think of, something else: ",
+                            "examples": [
+                                "The design of the church echoes that of St. Paul's Cathedral.",
+                                "I've heard the prime minister's view echoed throughout the party."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

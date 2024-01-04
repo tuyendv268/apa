@@ -1,0 +1,41 @@
+{
+    "word": "radio broadcast",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈreɪ.di.əʊ ˌbrɔːd.kɑːst"
+                            ],
+                            "us": [
+                                "ˈreɪ.di.oʊ ˌbrɑːd.kæst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a radio programme: ",
+                            "examples": [
+                                "Following the earthquake, radio broadcasts were interrupted to urge people to stay away from buildings.",
+                                "Over 10 million people tuned in for the live radio broadcast."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of sending out a programme on radio: ",
+                            "examples": [
+                                "Tonight's performance will be recorded for radio broadcast.",
+                                "He made a series of humorous talks for radio broadcast."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

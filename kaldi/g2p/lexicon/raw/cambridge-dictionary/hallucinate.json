@@ -1,0 +1,42 @@
+{
+    "word": "hallucinate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "həˈluː.sɪ.neɪt"
+                            ],
+                            "us": [
+                                "həˈluː.sə.neɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to seem to see, hear, feel, or smell something that does not exist, usually because of a health condition or because you have taken a drug: ",
+                            "examples": [
+                                "He hadn't slept for several days and was hallucinating through exhaustion and dehydration.",
+                                "He began hallucinating and hearing voices.",
+                                "She hallucinated a person talking to her when no one was there."
+                            ]
+                        },
+                        {
+                            "explanation": "When an artificial intelligence (= a computer system that has some of the qualities that the human brain has, such as the ability to produce language in a way that seems human) hallucinates, it produces false information: ",
+                            "examples": [
+                                "LLMs are notorious for hallucinating – generating completely false answers, often supported by fictitious citations. ",
+                                "The latest version of the chatbot is greatly improved but it will still hallucinate facts."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

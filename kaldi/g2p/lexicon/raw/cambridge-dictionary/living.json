@@ -1,0 +1,87 @@
+{
+    "word": "living",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪv.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈlɪv.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "alive now: ",
+                            "examples": [
+                                "living organisms",
+                                "He is probably the best-known living architect."
+                            ]
+                        },
+                        {
+                            "explanation": "still existing: ",
+                            "examples": [
+                                "The pyramids are a living monument to the skill of their builders."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪv.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈlɪv.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the money that you earn from your job: ",
+                            "examples": [
+                                "What do you do for a living? (= What is your job?)",
+                                "I mean, I don't like my job but at least it's a living (= a way of earning money)."
+                            ]
+                        },
+                        {
+                            "explanation": "to earn enough money to buy the things you need: ",
+                            "examples": [
+                                "Everyone has to make a living."
+                            ]
+                        },
+                        {
+                            "explanation": "in the Church of England, the job, given to a priest, of being in charge of a particular area",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the way in which you live your life: ",
+                            "examples": [
+                                "country/healthy living"
+                            ]
+                        },
+                        {
+                            "explanation": "people who are still alive: ",
+                            "examples": [
+                                "On this anniversary of the tragedy we remember the living as well as the dead."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

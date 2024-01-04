@@ -1,0 +1,64 @@
+{
+    "word": "chewing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nchew ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tʃuː"
+                            ],
+                            "us": [
+                                "tʃuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to crush food into smaller, softer pieces with the teeth so that it can be swallowed: ",
+                            "examples": [
+                                "This meat is difficult to chew.",
+                                "You don't chew your food enough - that's why you get indigestion."
+                            ]
+                        },
+                        {
+                            "explanation": "to bite something with your teeth, usually in order to taste its flavour: ",
+                            "examples": [
+                                "Would you like some gum to chew?",
+                                "She gave the children some sweets to chew (on) during the long car journey.",
+                                "She sat in the dentist's waiting room, nervously chewing (at) (= biting) her nails."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

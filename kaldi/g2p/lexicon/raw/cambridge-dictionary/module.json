@@ -1,0 +1,44 @@
+{
+    "word": "module",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɒdʒ.uːl"
+                            ],
+                            "us": [
+                                "ˈmɑː.dʒuːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of a set of separate parts that, when combined, form a complete whole: ",
+                            "examples": [
+                                "The emergency building is transported in individual modules, such as bedrooms and a kitchen, which are put together on site.",
+                                "The full computer program is made up of several modules (= small programs) which should be individually tested before being integrated."
+                            ]
+                        },
+                        {
+                            "explanation": "one of the units that together make a complete course, taught especially at a college or university",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a part of a spacecraft that can operate independently of the other parts, especially when separate from them: ",
+                            "examples": [
+                                "a lunar landing module"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

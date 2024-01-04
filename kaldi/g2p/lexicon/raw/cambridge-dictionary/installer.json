@@ -1,0 +1,40 @@
+{
+    "word": "installer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈstɔː.lər"
+                            ],
+                            "us": [
+                                "ɪnˈstɑː.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "software that tells your computer how to copy a program from a disk onto the computer: ",
+                            "examples": [
+                                "Just pop the CD into your computer and start the installer."
+                            ]
+                        },
+                        {
+                            "explanation": "someone whose job is to put furniture, equipment, a machine, etc. into the correct position and make it ready to use: ",
+                            "examples": [
+                                "a carpet installer",
+                                "a cable television installer"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

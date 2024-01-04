@@ -1,0 +1,41 @@
+{
+    "word": "injection",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈdʒek.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˈdʒek.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of putting a liquid, especially a drug, into a person's body using a needle and a syringe (= small tube): ",
+                            "examples": [
+                                "Daily insulin injections are necessary for some diabetics.",
+                                "This steroid is sometimes given by injection."
+                            ]
+                        },
+                        {
+                            "explanation": "the introduction of something new that is necessary or helpful to a situation or process: ",
+                            "examples": [
+                                "A cash injection of £20 million will be used to improve the health service.",
+                                "an injection of humour/excitement"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

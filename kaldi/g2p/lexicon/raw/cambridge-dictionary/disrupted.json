@@ -1,0 +1,62 @@
+{
+    "word": "disrupted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndisrupt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪsˈrʌpt"
+                            ],
+                            "us": [
+                                "dɪsˈrʌpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to prevent something, especially a system, process, or event, from continuing as usual or as expected: ",
+                            "examples": [
+                                "Heavy snow disrupted travel into the city this morning.",
+                                "The meeting was disrupted by a group of protesters who shouted and threw fruit at the speaker."
+                            ]
+                        },
+                        {
+                            "explanation": "to change the traditional way that an industry operates, especially in a new and effective way: ",
+                            "examples": [
+                                "Dell Inc. disrupted the traditional way of selling computers by switching to the internet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

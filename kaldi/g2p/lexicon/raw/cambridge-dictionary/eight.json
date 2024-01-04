@@ -1,0 +1,34 @@
+{
+    "word": "eight",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "eɪt"
+                            ],
+                            "us": [
+                                "eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 8: ",
+                            "examples": [
+                                "She was eight (years old) when her family moved here.",
+                                "We've got eight people coming to dinner."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

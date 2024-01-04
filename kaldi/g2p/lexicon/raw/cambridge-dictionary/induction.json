@@ -1,0 +1,66 @@
+{
+    "word": "induction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈdʌk.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˈdʌk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an occasion when someone is formally introduced into a new job or organization, especially through a special ceremony: ",
+                            "examples": [
+                                "Their induction into the church took place in June.",
+                                "Her induction as councillor took place in the town hall.",
+                                "an induction ceremony"
+                            ]
+                        },
+                        {
+                            "explanation": "a period during which a new member of an organization or a new member of staff learns about the organization and has basic training: ",
+                            "examples": [
+                                "New members will undergo a fitness induction.",
+                                "The aim is to develop an effective induction course for new academic staff that will address their particular requirements. "
+                            ]
+                        },
+                        {
+                            "explanation": "the act of causing an event or process to happen: ",
+                            "examples": [
+                                "The doctor will determine whether to begin the induction of labour."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of discovering a general principle from a set of facts",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the process of electrical power going from one object to another without the objects touching: ",
+                            "examples": [
+                                "an induction coil/motor"
+                            ]
+                        },
+                        {
+                            "explanation": "a form of this process used in some cooking devices, where metal coils (= wires) in the device create a magnetic field that induces (= causes) an electric current in the metal base of a pan, creating heat: ",
+                            "examples": [
+                                "Make sure that the pan is removed only when the food is cooked, otherwise the induction of heat will stop.",
+                                "This is a portable induction hob that comes complete with its own cookware.",
+                                "In induction cooking the energy is transferred directly to the pan by electro-magnetic field heating, so very little heat is wasted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "staccato",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "stəˈkɑː.təʊ"
+                            ],
+                            "us": [
+                                "stəˈkɑː.t̬oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe musical notes that are short and separate when played, or this way of playing music: ",
+                            "examples": [
+                                "The music suddenly changed from a smooth melody to a staccato rhythm.",
+                                "She played the whole piece staccato to improve her technique."
+                            ]
+                        },
+                        {
+                            "explanation": "used to describe a noise or way of speaking that consists of a series of short and separate sounds: ",
+                            "examples": [
+                                "She gave staccato replies to every question."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "rumor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈruː.mər"
+                            ],
+                            "us": [
+                                "ˈruː.mɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an unofficial interesting story or piece of news that might be true or invented, and quickly spreads from person to person: ",
+                            "examples": [
+                                "Rumors are going around (the school) about Mr. Mason and his assistant.",
+                                "She's circulating/spreading rumors that the manager is going to resign.",
+                                "I heard a rumor that she'd been seeing Luke Harrison."
+                            ]
+                        },
+                        {
+                            "explanation": "people are saying: ",
+                            "examples": [
+                                "Rumor has it (that) you're going to be the next managing director. Is it true?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

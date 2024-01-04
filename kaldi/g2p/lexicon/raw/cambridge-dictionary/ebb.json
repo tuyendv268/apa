@@ -1,0 +1,61 @@
+{
+    "word": "ebb",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "eb"
+                            ],
+                            "us": [
+                                "eb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When the sea or tide ebbs, it moves away from the coast and falls to a lower level.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If a physical or emotional feeling ebbs, it becomes less strong or disappears: ",
+                            "examples": [
+                                "He could feel his strength ebbing (away)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "eb"
+                            ],
+                            "us": [
+                                "eb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the tide when it is moving away from the coast: ",
+                            "examples": [
+                                "We'll sail on the ebb."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

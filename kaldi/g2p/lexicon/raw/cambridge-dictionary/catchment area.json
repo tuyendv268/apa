@@ -1,0 +1,51 @@
+{
+    "word": "catchment area",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkætʃ.mənt ˌeə.ri.ə"
+                            ],
+                            "us": [
+                                "ˈkætʃ.mənt ˌer.i.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the area of land from which water flows into a river, lake, or reservoir: ",
+                            "examples": [
+                                "There has been a lot of recent rainfall in the catchment area of the river.",
+                                "Deforestation in the lake's catchment areas is endangering the lake.",
+                                "the large area of native forest in the Georges River catchment"
+                            ]
+                        },
+                        {
+                            "explanation": "the area served by a school: ",
+                            "examples": [
+                                "They want their son to go to St Mary's, but they're not in the catchment area.",
+                                "The school has a very small catchment area of only about a mile radius.",
+                                "Catchments for local primary schools are fairly small."
+                            ]
+                        },
+                        {
+                            "explanation": "the area served by a hospital or medical centre: ",
+                            "examples": [
+                                "If there's a treatment centre you'd rather go to, don't be put off if you're told you're not in the catchment area.",
+                                "With some hospitals having a catchment area of more than one million patients this will be an expensive system.",
+                                "Patients were randomly selected from a hospital catchment population of 250,000 persons."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

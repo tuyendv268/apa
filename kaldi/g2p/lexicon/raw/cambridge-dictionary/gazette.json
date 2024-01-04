@@ -1,0 +1,69 @@
+{
+    "word": "gazette",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡəˈzet"
+                            ],
+                            "us": [
+                                "ɡəˈzet"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a newspaper",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "used in the titles of some newspapers and magazines: ",
+                            "examples": [
+                                "the Montreal Gazette"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡəˈzet"
+                            ],
+                            "us": [
+                                "ɡəˈzet"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to announce or publish something in an official list or record: ",
+                            "examples": [
+                                "The site was settled in 1863 as a livestock station, proclaimed a town in 1880, and gazetted a borough in 1885.",
+                                "There were campaigns to conserve the forest, wetlands and volcanic areas by gazetting them as national parks. "
+                            ]
+                        },
+                        {
+                            "explanation": "to officially announce that someone has been given a military rank or honour: ",
+                            "examples": [
+                                "Two years later, my father was gazetted a Second Lieutenant in the King's Liverpool Regiment.",
+                                "In 1945 he was gazetted with the award of the Military Cross for gallantry. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

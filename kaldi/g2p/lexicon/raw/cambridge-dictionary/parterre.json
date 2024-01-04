@@ -1,0 +1,41 @@
+{
+    "word": "parterre",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɑːˈteər"
+                            ],
+                            "us": [
+                                "pɑːrˈter"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a flat area in a garden, with a formal arrangement of plants or flowers: ",
+                            "examples": [
+                                "The parterre was planted with herbs.",
+                                "The garden features a duck pond, French parterres and a Victorian greenhouse."
+                            ]
+                        },
+                        {
+                            "explanation": "the area of seats in a theatre that is on the lower level, usually at the back and sides, below the balcony (= an area of seats at an upper level): ",
+                            "examples": [
+                                "How is the view of the stage from the parterre?",
+                                "The maximum number of tickets that can be bought by one person is 6 in the parterre or 2 in the galleries. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

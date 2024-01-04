@@ -1,0 +1,38 @@
+{
+    "word": "batch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bætʃ"
+                            ],
+                            "us": [
+                                "bætʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of things or people dealt with at the same time or considered similar in type: ",
+                            "examples": [
+                                "The cook brought in a fresh batch of homemade cupcakes.",
+                                "We looked at the job applications in two batches."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of students who are taught together at school, college, or university",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

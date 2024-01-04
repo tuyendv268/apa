@@ -1,0 +1,48 @@
+{
+    "word": "garden",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡɑː.dən"
+                            ],
+                            "us": [
+                                "ˈɡɑːr.dən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of land next to and belonging to a house, where flowers and other plants are grown, and often containing an area of grass: ",
+                            "examples": [
+                                "garden tools/furniture",
+                                "a garden shed",
+                                "The house has a large back garden, and a small front garden.",
+                                "The children were playing in the garden."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of land, usually in a yard next to a house, where you grow flowers and vegetables: ",
+                            "examples": [
+                                "a vegetable/flower garden"
+                            ]
+                        },
+                        {
+                            "explanation": "a public park with flowers, plants, and places to sit: ",
+                            "examples": [
+                                "the Botanical Gardens"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

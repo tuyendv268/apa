@@ -1,0 +1,67 @@
+{
+    "word": "remained",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nremain ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈmeɪn"
+                            ],
+                            "us": [
+                                "rɪˈmeɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stay in the same place or in the same condition: ",
+                            "examples": [
+                                "The doctor ordered him to remain in bed for a few days.",
+                                "Most commentators expect the basic rate of tax to remain at 25 percent.",
+                                "A great many things remain to be done (= have not yet been done).",
+                                "He remained silent.",
+                                "It remains a secret.",
+                                "The bank will remain open while renovations are carried out."
+                            ]
+                        },
+                        {
+                            "explanation": "to continue to exist when other parts or other things no longer exist: ",
+                            "examples": [
+                                "After the flood, nothing remained of the village.",
+                                "Only a few hundred of these animals remain today."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

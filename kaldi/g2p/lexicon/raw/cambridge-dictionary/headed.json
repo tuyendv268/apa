@@ -1,0 +1,61 @@
+{
+    "word": "headed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈhed.ɪd"
+                            ],
+                            "us": [
+                                "ˈhed.ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "going in a particular direction: ",
+                            "examples": [
+                                "Which way are you headed?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -hed.ɪd"
+                            ],
+                            "us": [
+                                " -hed.ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having the number or type of heads mentioned: ",
+                            "examples": [
+                                "a many-headed monster"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

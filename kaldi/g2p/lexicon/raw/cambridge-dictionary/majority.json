@@ -1,0 +1,48 @@
+{
+    "word": "majority",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məˈdʒɒr.ə.ti"
+                            ],
+                            "us": [
+                                "məˈdʒɔː.rə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the larger number or part of something: ",
+                            "examples": [
+                                "The majority of the employees have university degrees.",
+                                "A large majority of people approve of the death sentence.",
+                                "In Britain women are in the/a majority."
+                            ]
+                        },
+                        {
+                            "explanation": "in an election, the difference in the number of votes between the winning person or group and the one that comes second: ",
+                            "examples": [
+                                "The Democratic candidate won by a narrow/large majority."
+                            ]
+                        },
+                        {
+                            "explanation": "the age when you legally become an adult: ",
+                            "examples": [
+                                "the age of majority",
+                                "She will inherit her father's estate when she reaches her majority."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

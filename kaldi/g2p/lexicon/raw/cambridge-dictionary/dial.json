@@ -1,0 +1,69 @@
+{
+    "word": "dial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaɪ.əl"
+                            ],
+                            "us": [
+                                "ˈdaɪ.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "US usually"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to operate a phone or make a phone call to someone by choosing a particular series of numbers on the phone: ",
+                            "examples": [
+                                "Can I dial this number direct, or do I have to go through the operator?",
+                                "Dial 0 for the switchboard."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaɪ.əl"
+                            ],
+                            "us": [
+                                "ˈdaɪ.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of a machine or device that shows you a measurement of something such as speed or time: ",
+                            "examples": [
+                                "Can you read what it says on the dial?",
+                                "The dial of/on his watch had a picture of Mickey Mouse on it."
+                            ]
+                        },
+                        {
+                            "explanation": "a device on an instrument that you move in order to control it or make changes to it: ",
+                            "examples": [
+                                "You turn this dial to find a different radio station."
+                            ]
+                        },
+                        {
+                            "explanation": "the disc with numbers on old-fashioned phones that you turn when you make a call",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

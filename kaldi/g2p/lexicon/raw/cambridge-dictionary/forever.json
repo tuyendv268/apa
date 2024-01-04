@@ -1,0 +1,69 @@
+{
+    "word": "forever",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "fəˈre.vər"
+                            ],
+                            "us": [
+                                "fɔːˈrev.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "for all time: ",
+                            "examples": [
+                                "I like the house but I don't imagine I'll live there forever."
+                            ]
+                        },
+                        {
+                            "explanation": "for an extremely long time or too much time: ",
+                            "examples": [
+                                "We'd better walk a bit quicker - it's going to take forever if we go at this pace."
+                            ]
+                        },
+                        {
+                            "explanation": "very often: ",
+                            "examples": [
+                                "She's forever telling him she's going to leave him but she never actually does."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "fəˈre.vər"
+                            ],
+                            "us": [
+                                "fɔːˈrev.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "existing or happening for all time in the future: ",
+                            "examples": [
+                                "Today, more than 500,000 US children wait in foster care for a forever home. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

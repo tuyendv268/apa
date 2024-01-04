@@ -1,0 +1,90 @@
+{
+    "word": "freight",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "freɪt"
+                            ],
+                            "us": [
+                                "freɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "goods, but not passengers, that are carried from one place to another, by ship, aircraft, train, or truck, or the system of transporting these goods: ",
+                            "examples": [
+                                "The ship carries both freight and passengers.",
+                                "a freight company",
+                                "Kenyan farmers rely on air freight to sell their goods abroad.",
+                                "Will the goods be sent by air or sea freight?",
+                                "Hundreds of freight trains come down these tracks each day.",
+                                "The escaped prisoner made his getaway in a freight car on a train."
+                            ]
+                        },
+                        {
+                            "explanation": "the money paid for transporting goods",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "freɪt"
+                            ],
+                            "us": [
+                                "freɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send goods by air, sea, or train: ",
+                            "examples": [
+                                "Grapes from this region are freighted all over the world."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "freɪt"
+                            ],
+                            "us": [
+                                "freɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "transported as part of a large group of things, by ship, aircraft, train, or truck: ",
+                            "examples": [
+                                "It would be much cheaper to send the goods freight."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

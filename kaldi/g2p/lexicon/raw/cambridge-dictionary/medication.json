@@ -1,0 +1,34 @@
+{
+    "word": "medication",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmed.ɪˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌmed.əˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a medicine, or a set of medicines or drugs, used to improve a particular condition or illness: ",
+                            "examples": [
+                                "He is currently on/taking medication for his heart.",
+                                "In the study, patients were taken off their usual medications."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

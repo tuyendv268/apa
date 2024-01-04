@@ -1,0 +1,62 @@
+{
+    "word": "cascaded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncascade ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kæsˈkeɪd"
+                            ],
+                            "us": [
+                                "kæsˈkeɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fall quickly and in large amounts: ",
+                            "examples": [
+                                "Coins cascaded from/out of the fruit machine."
+                            ]
+                        },
+                        {
+                            "explanation": "to pass on information by giving it to just a few people, who then give it to more people; to be passed on in this way: ",
+                            "examples": [
+                                "Guest information is cascaded through employee shift briefings.",
+                                "Communication cascades down the organization until the information has been communicated through each level, to the front lines."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

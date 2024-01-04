@@ -1,0 +1,67 @@
+{
+    "word": "whatsapp",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɒts.æp"
+                            ],
+                            "us": [
+                                "wɑːtsˈæp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the brand name for a social media service with which two people or a group of people can send messages, photos, and videos to each other, or can make phone calls: ",
+                            "examples": [
+                                "I like chatting with my friends on WhatsApp.",
+                                "If you're spending a semester abroad, you can stay in touch via WhatsApp.",
+                                "I added him to the WhatsApp group. "
+                            ]
+                        },
+                        {
+                            "explanation": "a message that is sent using the WhatsApp service: ",
+                            "examples": [
+                                "Send me a Whatsapp with the details.",
+                                "She got a WhatsApp message supposedly coming from her son. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɒts.æp"
+                            ],
+                            "us": [
+                                "ˈwɑːts.æp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send a message to someone or to a group of people using the social media service WhatsApp: ",
+                            "examples": [
+                                "We used to WhatsApp about the movies we'd seen.",
+                                "She whatsapped me some photos from the wedding."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

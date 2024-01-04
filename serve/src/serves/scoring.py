@@ -30,13 +30,13 @@ class Scoring_Model:
             configs=configs, 
             gopt_ckpt_path=gopt_ckpt_path
         )
-        phone_dict_path = "resources/phone_dict.json"
-        relative_to_id_path = "resources/relative2id.json"
+        phone_dict_path = "exp/dicts/phone_dict.json"
+        relative_to_id_path = "exp/dicts/relative2id.json"
 
         self.phone_dict = json.load(open(phone_dict_path, "r"))
         self.rel_to_id = json.load(open(relative_to_id_path, "r"))
 
-        self.model.eval().cuda()
+        self.model.eval()
 
     def init_model(self, configs, gopt_ckpt_path):
         prep_model = PrepModel(
@@ -65,7 +65,7 @@ class Scoring_Model:
 
         indices[indices==-1] = indices.max() + 1
 
-        indices = torch.nn.functional.one_hot(indices.long(), num_classes=int(indices.max().item())+1).cuda()
+        indices = torch.nn.functional.one_hot(indices.long(), num_classes=int(indices.max().item())+1)
         indices = indices / indices.sum(0, keepdim=True)
         
         if features.shape[0] != indices.shape[0]:
@@ -76,7 +76,7 @@ class Scoring_Model:
         return features, phonemes
 
     def merge_ssl_feature_in_frame_level_to_phone_level(self, features, alignments):
-        indices = torch.arange(features.shape[0]).unsqueeze(-1).cuda()
+        indices = torch.arange(features.shape[0]).unsqueeze(-1)
         expanded_indices = indices.expand((-1, 2)).flatten()
         
         features = features[expanded_indices]
@@ -103,7 +103,7 @@ class Scoring_Model:
             relative_positions.append(relative_position)
             processed_alignments.append((phone, start_frame, duration_in_frame))
         
-        wavlm_features = torch.tensor(wavlm_features).cuda()
+        wavlm_features = torch.tensor(wavlm_features)
         ssl_features = self.merge_ssl_feature_in_frame_level_to_phone_level(
             features=wavlm_features,
             alignments=processed_alignments
@@ -178,11 +178,11 @@ class Scoring_Model:
         print('batch["ssl_features"]: ', batch["ssl_features"].shape)
         print('batch["durations"]: ', batch["durations"].shape)
 
-        wavlm_features = batch["ssl_features"].cuda()
-        gop_features = batch["gops"].cuda()
-        relative_positions = batch["relative_positions"].cuda()
-        durations = batch["durations"].cuda().unsqueeze(-1)
-        phone_ids = batch["phone_ids"].cuda()
+        wavlm_features = batch["ssl_features"]
+        gop_features = batch["gops"]
+        relative_positions = batch["relative_positions"]
+        durations = batch["durations"].unsqueeze(-1)
+        phone_ids = batch["phone_ids"]
 
         utterance_scores, phone_scores, word_scores = self.run_scoring(
             wavlm_features=wavlm_features, 

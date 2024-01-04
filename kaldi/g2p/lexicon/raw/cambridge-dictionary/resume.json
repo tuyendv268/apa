@@ -1,0 +1,76 @@
+{
+    "word": "resume",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈzjuːm"
+                            ],
+                            "us": [
+                                "rɪˈzuːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If an activity resumes, or if you resume it, it starts again after a pause: ",
+                            "examples": [
+                                "Normal services will be resumed in the spring.",
+                                "He stopped to take a sip of water and then resumed speaking.",
+                                "The talks are due to resume today."
+                            ]
+                        },
+                        {
+                            "explanation": "If you resume a place or position that you have left for a period of time, you return to it: ",
+                            "examples": [
+                                "to resume your post/job",
+                                "Please resume your seats, as the performance will continue in two minutes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈrez.juː.meɪ"
+                            ],
+                            "us": [
+                                "ˈrez.ə.meɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short statement of the important details of something: ",
+                            "examples": [
+                                "She gave us a brief résumé of the project so far."
+                            ]
+                        },
+                        {
+                            "explanation": "a short written description of your education, qualifications, previous jobs, and sometimes also your personal interests, that you send to an employer when you are trying to get a job: ",
+                            "examples": [
+                                "She sent her résumé to 50 companies, but didn't even get an interview."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

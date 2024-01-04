@@ -1,0 +1,66 @@
+{
+    "word": "gamble",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡæm.bəl"
+                            ],
+                            "us": [
+                                "ˈɡæm.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to do something that involves risks that might result in loss of money or failure, hoping to get money or achieve success: ",
+                            "examples": [
+                                "Anyone who gambles on the stock exchange has to be prepared to lose money."
+                            ]
+                        },
+                        {
+                            "explanation": "to risk money, for example in a game or on a horse race: ",
+                            "examples": [
+                                "I like to gamble when I play cards - it makes it more interesting.",
+                                "He gambles on the horses (= horse races).",
+                                "He gambled away all of our savings."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡæm.bəl"
+                            ],
+                            "us": [
+                                "ˈɡæm.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a risk that might result in loss of money or failure: ",
+                            "examples": [
+                                "Her publishers knew they were taking a gamble when they agreed to publish such an unusual novel.",
+                                "It was a gamble using such an inexperienced director, but it paid off (= was successful)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

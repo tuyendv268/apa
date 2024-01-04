@@ -1,0 +1,39 @@
+{
+    "word": "terabyte",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈter.ə.baɪt"
+                            ],
+                            "us": [
+                                "ˈter.ə.baɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of computer information consisting of 1,099,511,627,776 bytes: ",
+                            "examples": [
+                                "1 terabyte is approximately a thousand billion bytes."
+                            ]
+                        },
+                        {
+                            "explanation": "a unit of computer information consisting of 1,000,000,000,000 bytes: ",
+                            "examples": [
+                                "Having half a terabyte of storage on a PC is quite feasible."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "latency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈleɪ.tən.si"
+                            ],
+                            "us": [
+                                "ˈleɪ.tən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of being present but needing particular conditions to become active, obvious, or completely developed: ",
+                            "examples": [
+                                "The latency period for the cancer is 15 years.",
+                                "They measured the latency of the brain's response to a stimulus."
+                            ]
+                        },
+                        {
+                            "explanation": "the delay between an instruction to transfer (= move) computer information and the information being transferred, for example over the internet: ",
+                            "examples": [
+                                "If there is high latency, messages can take minutes or longer to be delivered.",
+                                "We found it impossible to hold choir rehearsals online because of problems with latency."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

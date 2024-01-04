@@ -1,0 +1,44 @@
+{
+    "word": "trauma",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtrɔː.mə",
+                                "ˈtraʊ.mə"
+                            ],
+                            "us": [
+                                "ˈtrɑː.mə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "severe and lasting emotional shock and pain caused by an extremely upsetting experience, or a case of such shock happening: ",
+                            "examples": [
+                                "the trauma of marriage breakdown",
+                                "He had psychotherapy to help him deal with his childhood traumas."
+                            ]
+                        },
+                        {
+                            "explanation": "physical injury, usually caused by an accident or attack, or a case of such injury happening: ",
+                            "examples": [
+                                "Central pain syndrome can result from trauma to the brain or spinal cord.",
+                                "to suffer brain/head trauma",
+                                "She was carried off on a stretcher and taken to the trauma centre at the city's Mercy Hospital.",
+                                "Infection in a person recovering from a trauma such as a car accident or severe burns can be as deadly as the incident itself."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

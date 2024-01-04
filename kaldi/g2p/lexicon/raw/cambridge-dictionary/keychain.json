@@ -1,0 +1,41 @@
+{
+    "word": "keychain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkiː.tʃeɪn"
+                            ],
+                            "us": [
+                                "ˈkiː.tʃeɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a brand name for a system developed by the Apple company that allows users to store passwords, credit card numbers, and other important information safely on their computer, phone, etc.: ",
+                            "examples": [
+                                "Keychain is a type of password management system.",
+                                "iCloud Keychain stores credit card numbers and expiry dates, passwords and usernames, Wi-Fi networks, Internet accounts, and more. "
+                            ]
+                        },
+                        {
+                            "explanation": "the Keychain system used by a particular person: ",
+                            "examples": [
+                                "To lock your Keychain, click the lock icon at the upper left-hand corner of the window.",
+                                "Either create a new login keychain or update it with your new password."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

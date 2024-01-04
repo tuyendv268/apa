@@ -1,0 +1,39 @@
+{
+    "word": "enclose",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈkləʊz"
+                            ],
+                            "us": [
+                                "ɪnˈkloʊz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to surround something: ",
+                            "examples": [
+                                "The park that encloses the monument has recently been enlarged."
+                            ]
+                        },
+                        {
+                            "explanation": "to send something in the same envelope or parcel as something else: ",
+                            "examples": [
+                                "Please enclose a curriculum vitae with your application."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

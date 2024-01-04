@@ -1,0 +1,35 @@
+{
+    "word": "grammar school",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡræm.ə ˌskuːl"
+                            ],
+                            "us": [
+                                "ˈɡræm.ɚ ˌskuːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the UK, a school for children aged between eleven and 18 who have passed an examination ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in the US, an \nelementary school ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

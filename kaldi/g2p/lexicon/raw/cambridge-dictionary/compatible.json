@@ -1,0 +1,43 @@
+{
+    "word": "compatible",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpæt.ə.bəl"
+                            ],
+                            "us": [
+                                "kəmˈpæt̬.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to exist, live, or work successfully with something or someone else: ",
+                            "examples": [
+                                "It was when we started living together that we found we just weren't compatible.",
+                                "Such policies are not compatible with democratic government.",
+                                "Are their two blood groups compatible (= can blood from one person be given to the other person)?"
+                            ]
+                        },
+                        {
+                            "explanation": "able to be used with a particular type of computer, machine, device, etc.: ",
+                            "examples": [
+                                "This software may not be compatible with older operating systems.",
+                                "Most models of coffee maker are compatible with only certain brands of coffee pods.",
+                                "The cartridges can be used in any compatible printer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

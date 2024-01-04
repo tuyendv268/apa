@@ -1,0 +1,45 @@
+{
+    "word": "classroom",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈklɑːs.ruːm",
+                                "ˈklɑːs.rʊm"
+                            ],
+                            "us": [
+                                "ˈklæs.ruːm",
+                                "ˈklæs.rʊm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a room in a school or college where groups of students are taught",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "being taught by a teacher: ",
+                            "examples": [
+                                "Students learning computer studies spend two days each week in a computer lab and four days in the classroom."
+                            ]
+                        },
+                        {
+                            "explanation": "teaching classes of students in school or college: ",
+                            "examples": [
+                                "There are also no promotions within the school, so that teachers remain in the classroom throughout their careers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

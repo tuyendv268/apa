@@ -1,0 +1,62 @@
+{
+    "word": "replicating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nreplicate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈrep.lɪ.keɪt"
+                            ],
+                            "us": [
+                                "ˈrep.lɪ.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make or do something again in exactly the same way: ",
+                            "examples": [
+                                "Researchers tried many times to replicate the original experiment."
+                            ]
+                        },
+                        {
+                            "explanation": "If organisms and genetic or other structures replicate, they make exact copies of themselves: ",
+                            "examples": [
+                                "Chromosomes replicate before cells divide and multiply.",
+                                "Computer viruses replicate themselves and are passed along from user to user."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

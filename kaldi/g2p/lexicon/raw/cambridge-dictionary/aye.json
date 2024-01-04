@@ -1,0 +1,72 @@
+{
+    "word": "aye",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "aɪ"
+                            ],
+                            "us": [
+                                "aɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "another word for \"yes\": ",
+                            "examples": [
+                                "\"Would you prefer not to work?\" \"Oh aye, I'd stop tomorrow if I could.\"",
+                                "All those who support this proposal say \"Aye\"."
+                            ]
+                        },
+                        {
+                            "explanation": "a word meaning \"ever\" or \"always\": ",
+                            "examples": [
+                                "We would gladly preserve his memory for aye.",
+                                "I have aye wanted to see Edinburgh."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "aɪ"
+                            ],
+                            "us": [
+                                "aɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "especially in the UK parliament, a vote to support a suggestion, idea, law, etc., or a person who votes \"yes\": ",
+                            "examples": [
+                                "Points of order are divided into ayes and noes.",
+                                "The ayes are 57; the nays are 44."
+                            ]
+                        },
+                        {
+                            "explanation": "a phrase used in a parliament or meeting to announce that there are more votes to support a suggestion, law, etc. than votes against it, so the \"yes\" votes have won: ",
+                            "examples": [
+                                "All those in favour, say aye. The ayes have it. The bill is passed. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

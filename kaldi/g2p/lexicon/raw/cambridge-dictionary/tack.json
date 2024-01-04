@@ -1,0 +1,75 @@
+{
+    "word": "tack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tæk"
+                            ],
+                            "us": [
+                                "tæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small, sharp nail with a flat end",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a long, loose stitch",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "all the objects that the rider of a horse needs, including saddles and bridles",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the direction or distance that a boat moves at an angle to the direction of the wind, so that the boat receives the wind on its sails: ",
+                            "examples": [
+                                "The ship was on the starboard tack."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tæk"
+                            ],
+                            "us": [
+                                "tæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fasten something to a place with tacks",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to sew with a long, loose stitch that holds two pieces of material together temporarily, before they are sewn together in a more tidy or permanent way",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(of a boat) to turn so that it is at an angle to the direction of the wind and receives the wind on its sails",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

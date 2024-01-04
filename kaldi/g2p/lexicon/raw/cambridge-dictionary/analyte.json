@@ -1,0 +1,35 @@
+{
+    "word": "analyte",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæn.ə.laɪt"
+                            ],
+                            "us": [
+                                "ˈæn.ə.laɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a chemical substance that is being found and measured: ",
+                            "examples": [
+                                "This is a system for monitoring the concentration of an analyte in the blood of a patient.",
+                                "Liquid chromatography with electrochemical detection was used for the measurement of analytes. ",
+                                "Methods for determining the presence of a target analyte using a portable device are provided."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

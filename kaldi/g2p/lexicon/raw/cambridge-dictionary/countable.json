@@ -1,0 +1,48 @@
+{
+    "word": "countable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkaʊn.tə.bəl"
+                            ],
+                            "us": [
+                                "ˈkaʊn.t̬ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A countable noun can be used with \"a\" or \"an\" and can be made plural: ",
+                            "examples": [
+                                "An example of a countable noun is \"table\", and an example of an uncountable noun is \"money\".",
+                                "Certain nouns may be countable in English and uncountable in another language, or vice versa."
+                            ]
+                        },
+                        {
+                            "explanation": "If things are countable, it is possible to say how many there are of them: ",
+                            "examples": [
+                                "The items were too numerous to be countable.",
+                                "The number of violent attacks in the city each year is relatively low, usually countable on two hands."
+                            ]
+                        },
+                        {
+                            "explanation": "allowed to be included as part of a total or group: ",
+                            "examples": [
+                                "The recount will look at all the possible countable ballots.",
+                                "If people are unsure what income is considered countable, they are advised to check with an accountant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

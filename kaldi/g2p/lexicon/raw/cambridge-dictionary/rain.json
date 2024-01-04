@@ -1,0 +1,69 @@
+{
+    "word": "rain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "reɪn"
+                            ],
+                            "us": [
+                                "reɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "drops of water from clouds: ",
+                            "examples": [
+                                "Rain is forecast for tomorrow.",
+                                "Come inside out of the rain.",
+                                "We had heavy/light rain all day.",
+                                "We got caught in pouring/torrential (= a lot of) rain without either raincoats or umbrellas.",
+                                "There will be showers of rain/rain showers (= short periods of rain) in the east.",
+                                "It looks like rain (= as if rain is going to fall)."
+                            ]
+                        },
+                        {
+                            "explanation": "the season of the year in tropical countries when there is a lot of rain: ",
+                            "examples": [
+                                "Villagers are now waiting for the rains to come so that the rice will grow."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "reɪn"
+                            ],
+                            "us": [
+                                "reɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If it rains, water falls from the sky in small drops: ",
+                            "examples": [
+                                "I think it's starting to rain.",
+                                "It's raining hard/heavily (= a large amount of rain is falling)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

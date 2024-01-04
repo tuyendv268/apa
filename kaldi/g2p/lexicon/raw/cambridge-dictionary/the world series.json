@@ -1,0 +1,31 @@
+{
+    "word": "the world series",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌwɜːld ˈsɪə.riːz"
+                            ],
+                            "us": [
+                                "ˌwɝːld ˈsɪr.iːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a series of baseball games played each year in the US and Canada to decide which is the region's best team",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

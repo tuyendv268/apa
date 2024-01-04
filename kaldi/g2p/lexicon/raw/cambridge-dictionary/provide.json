@@ -1,0 +1,43 @@
+{
+    "word": "provide",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prəˈvaɪd"
+                            ],
+                            "us": [
+                                "prəˈvaɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give someone something that they need: ",
+                            "examples": [
+                                "This booklet provides useful information about local services.",
+                                "All meals are provided at no additional cost.",
+                                "The author provides no documentary references to support her assertions.",
+                                "We have concerns about whether the government will be able to provide viable social services for poorer families/provide poorer families with viable social services.",
+                                "Putting more police on patrol doesn't provide a real solution to the problem of increasing violence."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a law or decision) to say that something must happen if particular conditions exist: ",
+                            "examples": [
+                                "Section 17 provides that all decisions must be circulated in writing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

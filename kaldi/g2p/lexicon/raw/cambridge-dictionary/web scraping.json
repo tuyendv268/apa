@@ -1,0 +1,33 @@
+{
+    "word": "web scraping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈweb ˌskreɪ.pɪŋ"
+                            ],
+                            "us": [
+                                "ˈweb ˌskreɪ.pɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "another name for \nscraping  (= the activity of taking information from a website or computer screen and putting it into an ordered document on a computer): ",
+                            "examples": [
+                                "Web scraping can be useful in the context of data science projects."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

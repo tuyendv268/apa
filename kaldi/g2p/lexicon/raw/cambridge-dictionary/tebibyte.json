@@ -1,0 +1,33 @@
+{
+    "word": "tebibyte",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈteb.ɪ.baɪt"
+                            ],
+                            "us": [
+                                "ˈteb.ɪ.baɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of computer information consisting of 1,024 gibibytes: ",
+                            "examples": [
+                                "There are kibibytes (KiB), mebibytes (MiB), tebibytes (TiB) and so on."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "boomed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nboom ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "buːm"
+                            ],
+                            "us": [
+                                "buːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a very deep and loud hollow sound: ",
+                            "examples": [
+                                "The cannons boomed (out) in the night.",
+                                "He boomed (out) an order to the soldiers."
+                            ]
+                        },
+                        {
+                            "explanation": "to increase or become successful and produce a lot of money very quickly: ",
+                            "examples": [
+                                "The leisure industry is booming."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

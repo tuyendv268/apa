@@ -1,0 +1,37 @@
+{
+    "word": "transcription",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "trænˈskrɪp.ʃən"
+                            ],
+                            "us": [
+                                "trænˈskrɪp.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a written record of words or music: ",
+                            "examples": [
+                                "This is a phonetic transcription of the conversations that were recorded on tape."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of transcribing something",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

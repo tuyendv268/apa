@@ -1,0 +1,60 @@
+{
+    "word": "ruptured",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nrupture ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈrʌp.tʃər"
+                            ],
+                            "us": [
+                                "ˈrʌp.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause something to) explode, break, or tear: ",
+                            "examples": [
+                                "His appendix ruptured and he had to be rushed to hospital.",
+                                "This news has ruptured (= violently ended) the delicate peace between the rival groups."
+                            ]
+                        },
+                        {
+                            "explanation": "If you rupture yourself, you break apart the wall of muscle that keeps your stomach and your bowels in place, usually by lifting something too heavy.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

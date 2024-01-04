@@ -1,0 +1,58 @@
+{
+    "word": "uninstall",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.ɪnˈstɔːl"
+                            ],
+                            "us": [
+                                "ˌʌn.ɪnˈstɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove a computer program from a computer: ",
+                            "examples": [
+                                "The program ran so slowly, I had to uninstall it.",
+                                "To uninstall this demo, double-click the Add/Remove icon."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.ɪnˈstɔːl"
+                            ],
+                            "us": [
+                                "ˌʌn.ɪnˈstɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An unistall computer program removes other programs from a computer: ",
+                            "examples": [
+                                "There is still a lot of software that comes without an uninstall program."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

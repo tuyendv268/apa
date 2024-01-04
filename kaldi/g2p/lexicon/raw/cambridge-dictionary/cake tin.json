@@ -1,0 +1,40 @@
+{
+    "word": "cake tin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkeɪk ˌtɪn"
+                            ],
+                            "us": [
+                                "ˈkeɪk ˌtɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tin for baking a cake or a layer of a cake in: ",
+                            "examples": [
+                                "Spread the mixture into the greased cake tin and smooth to ensure an even thickness.",
+                                "You will need a deep cake tin with a fixed bottom."
+                            ]
+                        },
+                        {
+                            "explanation": "a metal container with a lid for storing cake in: ",
+                            "examples": [
+                                "She opened her grandmother's cake tin, found a chocolate muffin and ate it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

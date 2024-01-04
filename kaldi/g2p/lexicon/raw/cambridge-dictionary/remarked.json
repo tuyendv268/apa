@@ -1,0 +1,56 @@
+{
+    "word": "remarked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nremark ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈmɑːk"
+                            ],
+                            "us": [
+                                "rɪˈmɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give a spoken statement of an opinion or thought: ",
+                            "examples": [
+                                "Dr Johnson once remarked (that) \"When a man is tired of London, he is tired of life.\"",
+                                "He remarked that she was looking thin."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

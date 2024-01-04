@@ -1,0 +1,39 @@
+{
+    "word": "orally",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.rə.li"
+                            ],
+                            "us": [
+                                "ˈɔːr.ə.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "expressed in speech, not writing: ",
+                            "examples": [
+                                "You need to be able to communicate well both orally and in writing."
+                            ]
+                        },
+                        {
+                            "explanation": "entering the body through the mouth: ",
+                            "examples": [
+                                "The drug is designed to be taken orally."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

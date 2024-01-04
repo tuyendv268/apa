@@ -1,0 +1,45 @@
+{
+    "word": "virus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvaɪə.rəs"
+                            ],
+                            "us": [
+                                "ˈvaɪ.rəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an extremely small piece of organic material that causes disease in humans, animals, and plants: ",
+                            "examples": [
+                                "the chickenpox/flu/herpes/mumps virus",
+                                "Evidence suggested that the AIDS virus was spreading very quickly among the heterosexual community."
+                            ]
+                        },
+                        {
+                            "explanation": "a disease caused by a virus: ",
+                            "examples": [
+                                "I don't know exactly what's wrong with her - I think she has some kind of virus.",
+                                "Several employees were off work with a vomiting virus."
+                            ]
+                        },
+                        {
+                            "explanation": "a computer program or part of a computer program that can make copies of itself and is intended to prevent the computer from working normally",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

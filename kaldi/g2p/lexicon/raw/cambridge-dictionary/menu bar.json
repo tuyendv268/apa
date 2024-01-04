@@ -1,0 +1,33 @@
+{
+    "word": "menu bar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmen.juː ˌbɑːr"
+                            ],
+                            "us": [
+                                "ˈmen.juː ˌbɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, narrow area, usually at the top of a computer screen, that contains lists of instructions to the computer. These lists are kept out of view until you choose to see them: ",
+                            "examples": [
+                                "Click \"File\" in the menu bar, then click \"Exit\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

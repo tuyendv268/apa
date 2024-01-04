@@ -1,0 +1,40 @@
+{
+    "word": "kashrut",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kɑːˈʃruːt"
+                            ],
+                            "us": [
+                                "kɑːˈʃruːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the rules of the Jewish religion about food : ",
+                            "examples": [
+                                "Kashrut dictates not only what foods may be eaten but how foods are prepared.",
+                                "According to the rules of kashruth, meat and milk products cannot be served at the same meal."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of obeying the rules of the Jewish religion about food: ",
+                            "examples": [
+                                "We observed strict kashrut at home, with two sets of dishes and a third one for Pesach."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

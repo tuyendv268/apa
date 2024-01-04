@@ -1,0 +1,55 @@
+{
+    "word": "authenticated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nauthenticate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɔːˈθen.tɪ.keɪt"
+                            ],
+                            "us": [
+                                "ɑːˈθen.t̬ə.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to prove that something is real, true, or what people say it is: ",
+                            "examples": [
+                                "They used carbon dating tests to authenticate the claim that the skeleton was two million years old."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

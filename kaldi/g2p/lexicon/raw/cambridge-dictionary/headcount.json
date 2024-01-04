@@ -1,0 +1,39 @@
+{
+    "word": "headcount",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhed.kaʊnt"
+                            ],
+                            "us": [
+                                "ˈhed.kaʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of counting how many people are present in a place: ",
+                            "examples": [
+                                "The teacher did a quick headcount before we all got back on the bus."
+                            ]
+                        },
+                        {
+                            "explanation": "the number of people who are in a place, at an event, or employed by a company: ",
+                            "examples": [
+                                "Times were hard, and the company was unwilling to increase the headcount (= employ more people)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

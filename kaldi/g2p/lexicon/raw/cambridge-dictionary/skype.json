@@ -1,0 +1,65 @@
+{
+    "word": "skype",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "skaɪp"
+                            ],
+                            "us": [
+                                "skaɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a brand name for an application for communicating with other people over the internet using video or voice calls",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skaɪp"
+                            ],
+                            "us": [
+                                "skaɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to call someone using Skype: ",
+                            "examples": [
+                                "I'll Skype you in the morning."
+                            ]
+                        },
+                        {
+                            "explanation": "to communicate using Skype: ",
+                            "examples": [
+                                "We skype every week."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

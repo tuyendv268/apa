@@ -1,0 +1,41 @@
+{
+    "word": "clause",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "klɔːz"
+                            ],
+                            "us": [
+                                "klɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a particular part of a written legal document, for example a law passed by Parliament or a contract (= an agreement): ",
+                            "examples": [
+                                "They have added/deleted/amended a clause in the contract which says the company can make people redundant for economic reasons.",
+                                "Clause 4 of the constitution is thought to be the most important section."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of words, consisting of a subject and a finite form of a verb: ",
+                            "examples": [
+                                "In the sentence \"I can't cook very well but I make quite good pancakes\", both \"I can't cook very well\" and \"I make good pancakes\" are main/independent clauses (= they are of equal importance and could each exist as a separate sentence).",
+                                "In the sentence \"I'll get you some stamps if I go to town\", \"if I go to town\" is a subordinate/dependent clause (= it is not as important as the main part of the sentence and could not exist as a separate sentence)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

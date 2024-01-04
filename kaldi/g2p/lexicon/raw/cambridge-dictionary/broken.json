@@ -1,0 +1,84 @@
+{
+    "word": "broken",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbrəʊ.kən"
+                            ],
+                            "us": [
+                                "ˈbroʊ.kən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past participle of break",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbrəʊ.kən"
+                            ],
+                            "us": [
+                                "ˈbroʊ.kən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "damaged, no longer able to work: ",
+                            "examples": [
+                                "He attacked the man with a broken bottle.",
+                                "My watch is broken.",
+                                "Careful - there's broken glass on the floor."
+                            ]
+                        },
+                        {
+                            "explanation": "suffering emotional pain that is so strong that it changes the way you live, usually as a result of an unpleasant event: ",
+                            "examples": [
+                                "He was a broken man after his wife died.",
+                                "After everything that's happened this year, I just feel broken."
+                            ]
+                        },
+                        {
+                            "explanation": "interrupted or not continuous: ",
+                            "examples": [
+                                "He tried to explain what had happened in broken English."
+                            ]
+                        },
+                        {
+                            "explanation": "destroyed or ended: ",
+                            "examples": [
+                                "a broken engagement",
+                                "They are materially prosperous but suffer from depression, work stress and broken relationships.",
+                                "When children are forced to move schools, education is interrupted and friendships are broken."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a law, rule, or promise) not obeyed or not kept: ",
+                            "examples": [
+                                "a broken promise"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

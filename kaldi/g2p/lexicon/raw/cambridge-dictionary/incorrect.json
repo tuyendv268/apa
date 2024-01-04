@@ -1,0 +1,41 @@
+{
+    "word": "incorrect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.kərˈekt"
+                            ],
+                            "us": [
+                                "ˌɪn.kəˈrekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not correct or not true: ",
+                            "examples": [
+                                "an incorrect answer/diagnosis",
+                                "The assumptions made about the economy's rate of growth proved to be incorrect."
+                            ]
+                        },
+                        {
+                            "explanation": "not acceptable or not as it should be: ",
+                            "examples": [
+                                "It's incorrect to address people by their first names at these formal events.",
+                                "incorrect grammar"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

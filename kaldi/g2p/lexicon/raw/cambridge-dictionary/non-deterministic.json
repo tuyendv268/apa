@@ -1,0 +1,41 @@
+{
+    "word": "non-deterministic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.dɪ.tɜː.mɪˈnɪs.tɪk"
+                            ],
+                            "us": [
+                                "ˌnɑːn.dɪ.tɝː.məˈnɪs.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "producing a different result each time the same piece of data is entered: ",
+                            "examples": [
+                                "The calculus is non-deterministic because the substitution mechanism does not follow any strategy for fetching resources from arguments.",
+                                "In the theory of computation, a nondeterministic finite state machine is one where there may be several possible next states."
+                            ]
+                        },
+                        {
+                            "explanation": "likely to have a different result every time, so that it is not possible to guess what will happen: ",
+                            "examples": [
+                                "We can adopt a non-deterministic position that sees social structure as a complex system that is unstable and dynamic.",
+                                "Any voting method which is completely strategy-free must be nondeterministic, that is, it might not select the same outcome every time it is applied."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

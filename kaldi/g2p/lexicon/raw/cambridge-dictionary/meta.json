@@ -1,0 +1,69 @@
+{
+    "word": "meta",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmet.ə"
+                            ],
+                            "us": [
+                                "ˈmet̬.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of something that is written or performed) referring to itself or to something of its own type: ",
+                            "examples": [
+                                "It's a meta joke. It's sort of a joke about jokes. ",
+                                "I am standing at my desk typing this about the media right now. It feels very meta."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "met.ə-"
+                            ],
+                            "us": [
+                                "met̬.ə-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving change: ",
+                            "examples": [
+                                "metamorphose (= to change into a completely different form)",
+                                "metabolism (= the processes in the body that change food into energy)"
+                            ]
+                        },
+                        {
+                            "explanation": "outside the normal limits of something: ",
+                            "examples": [
+                                "metalanguage (= a specialized form of language used for describing a language)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

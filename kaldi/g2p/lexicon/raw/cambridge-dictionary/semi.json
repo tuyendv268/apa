@@ -1,0 +1,74 @@
+{
+    "word": "semi",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsem.i"
+                            ],
+                            "us": [
+                                "ˈsem.aɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the two games that are played to decide who will take part in the final game of a competition: ",
+                            "examples": [
+                                "We got through to the semis."
+                            ]
+                        },
+                        {
+                            "explanation": "a house that is semi-detached",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a large lorry for carrying goods, consisting of a strong front part that pulls a large box-like container behind it",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "sem.i-"
+                            ],
+                            "us": [
+                                "sem.aɪ-",
+                                "sem.i-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "half or partly: ",
+                            "examples": [
+                                "semi-literate",
+                                "semiconscious",
+                                "semi-permanent",
+                                "semi-skilled workers",
+                                "a semi-autobiographical novel"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

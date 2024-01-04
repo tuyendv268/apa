@@ -1,0 +1,41 @@
+{
+    "word": "e-paper",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈiːˌpeɪ.pər"
+                            ],
+                            "us": [
+                                "ˈiːˌpeɪ.pɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "technology that makes it possible to read text easily on an electronic device: ",
+                            "examples": [
+                                "E-paper contains millions of tiny capsules loaded with black and white particles of ink.",
+                                "The touch-screen device uses \"ePaper\" technology to make it as much like reading normal newsprint as possible.",
+                                "A new invention, \"electronic paper\", promises to remove the discomfort of reading books on a computer monitor. "
+                            ]
+                        },
+                        {
+                            "explanation": "a newspaper in electronic form that is read on a computer, etc.: ",
+                            "examples": [
+                                "This e-paper features a daily digest of home and international news, a soapbox section and arts reviews."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

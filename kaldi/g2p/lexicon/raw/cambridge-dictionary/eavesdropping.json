@@ -1,0 +1,45 @@
+{
+    "word": "eavesdropping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈiːvz.drɒp.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈiːvz.drɑː.pɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the action of listening to someone's private conversation from close by without them knowing: ",
+                            "examples": [
+                                "I was trying not to listen to their conversation, but I finally gave up and started some serious eavesdropping."
+                            ]
+                        },
+                        {
+                            "explanation": "the action of listening to someone without them knowing by using an electronic listening device, for example attached to a telephone line: ",
+                            "examples": [
+                                "Telecommunications companies helped the security agency conduct eavesdropping without warrants."
+                            ]
+                        },
+                        {
+                            "explanation": "the action of stealing private information by secretly picking up an electronic signal or entering a computer system: ",
+                            "examples": [
+                                "There is concern over spy satellites and electronic eavesdropping."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

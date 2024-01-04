@@ -1,0 +1,62 @@
+{
+    "word": "implanted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nimplant ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˈplɑːnt"
+                            ],
+                            "us": [
+                                "ɪmˈplænt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put an organ, group of cells, or device into the body in a medical operation: ",
+                            "examples": [
+                                "The owner's name and address is stored on a microchip and implanted in the dog's body."
+                            ]
+                        },
+                        {
+                            "explanation": "to fix ideas, feelings, or opinions in someone else's mind: ",
+                            "examples": [
+                                "He implanted some very strange attitudes in his children.",
+                                "There is much debate on the issue of \"therapists\" implanting false memories of sexual abuse in adults."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

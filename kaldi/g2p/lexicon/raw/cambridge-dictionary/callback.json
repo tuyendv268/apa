@@ -1,0 +1,57 @@
+{
+    "word": "callback",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɔːl.bæk"
+                            ],
+                            "us": [
+                                "ˈkɑːl.bæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a phone call made to someone who called you earlier: ",
+                            "examples": [
+                                "If you don't get through after a few attempts, send an email requesting a callback.",
+                                "I'm still awaiting a callback from technical support.",
+                                "They have no website and refuse to give consumers a callback number."
+                            ]
+                        },
+                        {
+                            "explanation": "a request to come for another audition (= a short performance to try to get a job as an actor, etc.) or job interview (= a meeting in which you are asked questions to see if you are suitable for a job); the second audition or interview itself: ",
+                            "examples": [
+                                "I received a callback from my first audition!",
+                                "With no experience, I couldn't even get an interview, let alone a callback.",
+                                "When she went to the callback, there was only one other person there."
+                            ]
+                        },
+                        {
+                            "explanation": "something that refers to or reminds you of something that happened in the past or earlier in a story: ",
+                            "examples": [
+                                "The new album is a definite callback to the style that made the keyboardist famous 30 years ago.",
+                                "This is one of my favourite TV callbacks: the song they dance to on their first date is the same one they play when they get married many seasons later."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of code (= a computer instruction) that tells another piece of code to perform an action at a particular later time: ",
+                            "examples": [
+                                "If the callback raises an exception, go to the last step.",
+                                "a callback function/mechanism/method"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

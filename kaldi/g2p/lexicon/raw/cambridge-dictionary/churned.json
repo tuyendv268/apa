@@ -1,0 +1,69 @@
+{
+    "word": "churned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nchurn ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tʃɜːn"
+                            ],
+                            "us": [
+                                "tʃɝːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move something, especially a liquid, with great force: ",
+                            "examples": [
+                                "The sea was churned up by heavy winds."
+                            ]
+                        },
+                        {
+                            "explanation": "to mix milk until it becomes butter",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If your stomach is churning, you feel ill, usually because you are nervous: ",
+                            "examples": [
+                                "I had my driving test that morning and my stomach was churning."
+                            ]
+                        },
+                        {
+                            "explanation": "If customers churn between different companies that provide a particular service, they change repeatedly from one to another.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

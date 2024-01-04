@@ -1,0 +1,34 @@
+{
+    "word": "fibonacci sequence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fɪb.əˈnɑː.tʃi ˌsiː.kwəns"
+                            ],
+                            "us": [
+                                "fɪb.əˈnɑː.tʃi ˌsiː.kwəns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a series of numbers in which each number is the sum (= total when added together) of the two numbers that come before it in the series, for example 0, 1, 1, 2, 3, 5, 8 ..: ",
+                            "examples": [
+                                "The artist works from the Fibonacci sequence in mathematics and the Golden Section in the fine arts.",
+                                "The interstructure of the pentagon conforms to a Fibonacci series."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "word": "murdered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmurder ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɜː.dər"
+                            ],
+                            "us": [
+                                "ˈmɝː.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to commit the crime of intentionally killing a person: ",
+                            "examples": [
+                                "Her husband was murdered by gunmen as she watched.",
+                                "In the last year, terrorists have murdered several local journalists."
+                            ]
+                        },
+                        {
+                            "explanation": "If you say you will or could murder someone, you mean you are very angry with them: ",
+                            "examples": [
+                                "If he's late again, I'll murder him!"
+                            ]
+                        },
+                        {
+                            "explanation": "to do or perform something very badly, so that you spoil it completely: ",
+                            "examples": [
+                                "karaoke singers who murder pop classics"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

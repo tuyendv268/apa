@@ -1,0 +1,65 @@
+{
+    "word": "decayed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndecay ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈkeɪ"
+                            ],
+                            "us": [
+                                "dɪˈkeɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to become gradually damaged, worse, or less; to cause something to do this: ",
+                            "examples": [
+                                "Sugar makes your teeth decay.",
+                                "The role of the extended family has been decaying for some time.",
+                                "Pollution has decayed the surface of the stonework on the front of the cathedral.",
+                                "the smell of decaying meat"
+                            ]
+                        },
+                        {
+                            "explanation": "If a radioactive substance decays, it changes to a different form, producing radiation: ",
+                            "examples": [
+                                "Radioactive uranium decays into stable lead at a known rate.",
+                                "As the actinium-225 decays, it gives off short-lived, highly energized alpha particles. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

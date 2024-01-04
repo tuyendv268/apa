@@ -1,0 +1,46 @@
+{
+    "word": "comedy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒm.ə.di"
+                            ],
+                            "us": [
+                                "ˈkɑː.mə.di"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a (type of) film, play, or book that is intentionally funny either in its characters or its action: ",
+                            "examples": [
+                                "His latest movie is described as a \"romantic comedy\".",
+                                "I prefer Shakespeare's comedies to his tragedies."
+                            ]
+                        },
+                        {
+                            "explanation": "the humorous part of a situation: ",
+                            "examples": [
+                                "The vicar's forgetting his lines in the middle of the speech provided some good comedy."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of comedy in which the social behaviour of a particular group of people is made to appear silly: ",
+                            "examples": [
+                                "The novel is both a tender memoir and a comedy of manners."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

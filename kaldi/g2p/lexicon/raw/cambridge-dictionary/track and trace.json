@@ -1,0 +1,67 @@
+{
+    "word": "track and trace",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌtræk ən ˈtreɪs"
+                            ],
+                            "us": [
+                                "ˌtræk ən ˈtreɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an electronic system for following someone or something that is moving or being transported in order to find out where they are at a particular time: ",
+                            "examples": [
+                                "The company is pouring millions into a track and trace service so that internet companies can keep their customers up to date on the progress of their deliveries."
+                            ]
+                        },
+                        {
+                            "explanation": "an electronic system for seeing how a disease is spreading and who is affected by it, and then finding other people who might have been infected: ",
+                            "examples": [
+                                "Test, track and trace – TTT – involves testing people for coronavirus, tracking the spread of the virus, then tracing the people an infected person has come into contact with.",
+                                "The Government hopes to roll out the test, track, and trace app across the whole of the United Kingdom by the middle of May.",
+                                "Coronavirus: Councils across the north of England are to set up their own track-and-trace systems."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb ",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to follow, using electronic equipment, someone or something that is moving or being transported in order to find out where they are at a particular time: ",
+                            "examples": [
+                                "We'll give you a password and you can track and trace loads via the Internet."
+                            ]
+                        },
+                        {
+                            "explanation": "to discover, using electronic equipment, how a disease is spreading and who is affected by it, and then find other people who might have been infected: ",
+                            "examples": [
+                                "The aim of such apps is to allow those who have been in close contact with anyone confirmed to have COVID-19 to be tracked and traced."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

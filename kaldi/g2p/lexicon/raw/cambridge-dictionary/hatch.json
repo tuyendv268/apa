@@ -1,0 +1,62 @@
+{
+    "word": "hatch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "hætʃ"
+                            ],
+                            "us": [
+                                "hætʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause an egg to) break in order to allow a young animal to come out",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to make a plan, especially a secret plan: ",
+                            "examples": [
+                                "He hatched a plot to forge documents that would embarrass the company."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hætʃ"
+                            ],
+                            "us": [
+                                "hætʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an opening through a wall, floor, etc., or the cover for it: ",
+                            "examples": [
+                                "an escape hatch",
+                                "a serving hatch"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

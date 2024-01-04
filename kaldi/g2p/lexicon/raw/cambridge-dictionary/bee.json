@@ -1,0 +1,41 @@
+{
+    "word": "bee",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "biː"
+                            ],
+                            "us": [
+                                "biː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a yellow and black flying insect that makes honey and can sting you: ",
+                            "examples": [
+                                "A swarm of bees flew into the garden.",
+                                "My arm swelled up where I was stung by a bee."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of people who come together in order to take part in a particular activity: ",
+                            "examples": [
+                                "a sewing bee",
+                                "a spelling bee"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

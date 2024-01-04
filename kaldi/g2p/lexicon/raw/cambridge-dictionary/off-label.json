@@ -1,0 +1,59 @@
+{
+    "word": "off-label",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒfˈleɪ.bəl"
+                            ],
+                            "us": [
+                                "ˌɑːfˈleɪ.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the use of medical drugs in a way that is not officially approved, or for a different purpose than the one they were originally intended for: ",
+                            "examples": [
+                                "A number of off-label uses are probably safe and effective.",
+                                "Off-label prescribing is a legal practice for physicians."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒfˈleɪ.bəl"
+                            ],
+                            "us": [
+                                "ˌɑːfˈleɪ.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of the use of medical drugs) in a way that is not officially approved, or for a different purpose than the one that the drugs were originally intended for: ",
+                            "examples": [
+                                "It is common — and perfectly legal — for doctors to use their own discretion when prescribing drugs off-label.",
+                                "Asthma medications are often used off-label but caution should be exercised when giving these to young children."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

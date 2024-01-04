@@ -1,0 +1,34 @@
+{
+    "word": "modularity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɒd.jəˈlær.ə.ti"
+                            ],
+                            "us": [
+                                "ˌmɑː.djəˈler.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the quality of consisting of separate parts that, when combined, form a complete whole: ",
+                            "examples": [
+                                "A system lacks modularity when a tweak to one of its components affects the functioning of others.",
+                                "The modularity of this design means you can buy a second battery and put that in to keep your doorbell functional while the other charges. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

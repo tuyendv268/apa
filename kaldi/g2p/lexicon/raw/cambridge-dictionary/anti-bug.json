@@ -1,0 +1,40 @@
+{
+    "word": "anti-bug",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.tiˈbʌɡ"
+                            ],
+                            "us": [
+                                "ˌæn.taɪˈbʌɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "intended to prevent or deal with damage or injury caused by insects: ",
+                            "examples": [
+                                "anti-bug spray",
+                                "The fabric is treated with a product that gives anti-bug protection."
+                            ]
+                        },
+                        {
+                            "explanation": "intended to find bugs (= software or small devices that allow someone to secretly watch you or listen to you) or to stop them working effectively: ",
+                            "examples": [
+                                "The vehicles are fitted with detectors and anti-bug equipment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

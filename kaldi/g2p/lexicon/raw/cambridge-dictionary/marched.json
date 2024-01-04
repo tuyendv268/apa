@@ -1,0 +1,75 @@
+{
+    "word": "marched",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmarch ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɑːtʃ"
+                            ],
+                            "us": [
+                                "mɑːrtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to walk somewhere quickly and in a determined way, often because you are angry: ",
+                            "examples": [
+                                "She marched into my office and demanded to know why I hadn't written my report."
+                            ]
+                        },
+                        {
+                            "explanation": "to walk through a public place as part of a public event to express support for something, or disagreement with or disapproval of something: ",
+                            "examples": [
+                                "Over four thousand people marched through London today to protest against the proposed new law."
+                            ]
+                        },
+                        {
+                            "explanation": "to walk with regular steps and keeping the body stiff, usually in a formal group of people who are all walking in the same way: ",
+                            "examples": [
+                                "The band marched through the streets.",
+                                "The soldiers marched 90 miles in three days."
+                            ]
+                        },
+                        {
+                            "explanation": "to forcefully make someone go somewhere by taking hold of that person and pulling them there or going there together: ",
+                            "examples": [
+                                "Without saying a word, she took hold of my arm and marched me off to the headmaster's office.",
+                                "The police marched a gang of youths out of the building."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

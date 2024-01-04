@@ -1,0 +1,31 @@
+{
+    "word": "soccer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɒk.ər"
+                            ],
+                            "us": [
+                                "ˈsɑː.kɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game played between two teams of eleven people, where each team tries to win by kicking a ball into the other team's goal",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

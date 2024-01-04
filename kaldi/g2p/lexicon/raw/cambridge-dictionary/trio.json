@@ -1,0 +1,45 @@
+{
+    "word": "trio",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtriː.əʊ"
+                            ],
+                            "us": [
+                                "ˈtriː.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of three people or things: ",
+                            "examples": [
+                                "There was disappointment for the trio of 200 metre runners, all of whom failed to reach the final."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of three musicians or singers who perform together: ",
+                            "examples": [
+                                "Many jazz trios consist of piano, guitar, and double bass."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of music that has been written to be performed by three people: ",
+                            "examples": [
+                                "The final item on today's programme is Beethoven's Trio in B flat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

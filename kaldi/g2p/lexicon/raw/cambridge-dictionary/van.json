@@ -1,0 +1,45 @@
+{
+    "word": "van",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "væn"
+                            ],
+                            "us": [
+                                "væn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a medium-sized road vehicle, used especially for carrying goods, that often has no windows in the sides at the back: ",
+                            "examples": [
+                                "a delivery van",
+                                "a Transit van",
+                                "a van driver"
+                            ]
+                        },
+                        {
+                            "explanation": "a medium-sized vehicle with windows all round , used for carrying more people than an ordinary car",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "at the front, or in the most advanced position, of something: ",
+                            "examples": [
+                                "The US is in the van of the quest to establish contact with other planets."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

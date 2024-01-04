@@ -1,0 +1,35 @@
+{
+    "word": "by-election",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.ɪˌlek.ʃən"
+                            ],
+                            "us": [
+                                "ˈbaɪ.ɪˌlek.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the UK, an election that happens at a different time from a main election, to choose a Member of Parliament to replace one who has died or left his or her job: ",
+                            "examples": [
+                                "Losing one by-election would cost the government its majority in parliament.",
+                                "She resigned as an MP, triggering a by-election.",
+                                "Byelections are not very good predictors of general elections."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

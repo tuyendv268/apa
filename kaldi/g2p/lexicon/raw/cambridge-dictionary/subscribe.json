@@ -1,0 +1,41 @@
+{
+    "word": "subscribe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səbˈskraɪb"
+                            ],
+                            "us": [
+                                "səbˈskraɪb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pay money to an organization in order to receive a product, use a service regularly, or support the organization: ",
+                            "examples": [
+                                "2.3 million people subscribe to this online music service.",
+                                "She subscribes to several women's magazines.",
+                                "I subscribe €10 a month to the charity."
+                            ]
+                        },
+                        {
+                            "explanation": "to offer to buy something or pay an amount for something as part of your business activities: ",
+                            "examples": [
+                                "Existing shareholders subscribed to only 49 percent of the new share issue."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

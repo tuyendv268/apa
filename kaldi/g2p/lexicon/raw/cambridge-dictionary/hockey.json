@@ -1,0 +1,35 @@
+{
+    "word": "hockey",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɒk.i"
+                            ],
+                            "us": [
+                                "ˈhɑː.ki"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game played on a sports field between two teams of eleven players who each have a curved stick with which they try to put a small, hard ball into the other team's goal",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "→ \nice hockey mainly UK ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "emailing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nemail ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈiː.meɪl"
+                            ],
+                            "us": [
+                                "ˈiː.meɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send an email to someone: ",
+                            "examples": [
+                                "Email me when you've got time.",
+                                "Has he emailed you that list of addresses yet?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

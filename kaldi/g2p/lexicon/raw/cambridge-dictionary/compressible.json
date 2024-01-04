@@ -1,0 +1,41 @@
+{
+    "word": "compressible",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpres.ə.bəl"
+                            ],
+                            "us": [
+                                "kəmˈpres.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to be pressed into a smaller space: ",
+                            "examples": [
+                                "compressible gas",
+                                "Because plastic bags are light and compressible, they constitute only 2 percent of landfill."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a computer file) able to be made to use less space when it is stored in the memory of a computer or on a disk, by using a special program: ",
+                            "examples": [
+                                "Files are compressible in some applications, which saves memory.",
+                                "The degree to which the data is compressible depends on how many repeating patterns the data has."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "interpretation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˌtɜː.prəˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˌtɝː.prəˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an explanation or opinion of what something means: ",
+                            "examples": [
+                                "The dispute is based on two widely differing interpretations of the law.",
+                                "The rules are vague and open to interpretation.",
+                                "It is difficult for many people to accept a literal interpretation of the Bible."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular way of performing a piece of music, a part in a play, etc.: ",
+                            "examples": [
+                                "Her interpretation of Juliet was one of the best performances I have ever seen."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

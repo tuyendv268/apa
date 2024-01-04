@@ -1,0 +1,88 @@
+{
+    "word": "survey",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɜː.veɪ"
+                            ],
+                            "us": [
+                                "ˈsɝː.veɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an examination of opinions, behaviour, etc., made by asking people questions: ",
+                            "examples": [
+                                "A recent survey found/revealed/showed that 58 percent of people did not know where their heart is.",
+                                "to conduct/carry out/do a survey"
+                            ]
+                        },
+                        {
+                            "explanation": "the measuring and recording of the details of an area of land: ",
+                            "examples": [
+                                "a geological survey"
+                            ]
+                        },
+                        {
+                            "explanation": "a description of the whole of a subject: ",
+                            "examples": [
+                                "His new book is a survey of European theatre in the 19th century."
+                            ]
+                        },
+                        {
+                            "explanation": "an examination of the structure of a building by a specially trained person",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to look at or examine all of something, especially carefully: ",
+                            "examples": [
+                                "He got out of the car to survey the damage.",
+                                "She has written a book which surveys (= describes in detail) the history of feminism."
+                            ]
+                        },
+                        {
+                            "explanation": "to measure an area of land, and to record the details of it, especially on a map: ",
+                            "examples": [
+                                "Before the new railway was built, its route was carefully surveyed."
+                            ]
+                        },
+                        {
+                            "explanation": "If a building is surveyed, it is examined carefully by a specially trained person, in order to discover if there is anything wrong with its structure.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to ask people questions in order to find out about their opinions or behaviour: ",
+                            "examples": [
+                                "The researchers surveyed the attitudes of 2,500 college students.",
+                                "Many of the listeners surveyed said that they were not satisfied with the station's programming."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

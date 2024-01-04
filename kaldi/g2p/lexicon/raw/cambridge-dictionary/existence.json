@@ -1,0 +1,41 @@
+{
+    "word": "existence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪɡˈzɪs.təns"
+                            ],
+                            "us": [
+                                "ɪɡˈzɪs.təns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of something or someone existing: ",
+                            "examples": [
+                                "Many people question the existence of God.",
+                                "Modern cosmology believes the universe to have come into existence about 15 billion years ago.",
+                                "The theatre company that they started is still in existence today."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular way of life: ",
+                            "examples": [
+                                "She has a miserable existence living with him."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

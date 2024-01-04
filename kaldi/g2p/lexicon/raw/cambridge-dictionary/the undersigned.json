@@ -1,0 +1,33 @@
+{
+    "word": "the undersigned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.dəˈsaɪnd"
+                            ],
+                            "us": [
+                                "ˌʌn.dɚˈsaɪnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the people whose signatures appear below in the text, usually at the end of a formal letter: ",
+                            "examples": [
+                                "We, the undersigned, strongly object to the closure of St. Mary's Hospital: Dr Jack James, Dr Margaret Curry, Hugh Edwards."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

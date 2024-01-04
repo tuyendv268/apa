@@ -1,0 +1,69 @@
+{
+    "word": "eliminated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \neliminate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "iˈlɪm.ɪ.neɪt"
+                            ],
+                            "us": [
+                                "iˈlɪm.ə.neɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove or take away someone or something: ",
+                            "examples": [
+                                "A move towards healthy eating could help eliminate heart disease.",
+                                "We eliminated the possibility that it could have been an accident.",
+                                "The police eliminated him from their enquiries."
+                            ]
+                        },
+                        {
+                            "explanation": "to defeat someone so that they cannot continue in a competition: ",
+                            "examples": [
+                                "He was eliminated in the third round of the competition."
+                            ]
+                        },
+                        {
+                            "explanation": "to murder someone: ",
+                            "examples": [
+                                "A police officer was accused of helping a drug gang eliminate rivals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

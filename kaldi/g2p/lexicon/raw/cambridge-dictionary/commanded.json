@@ -1,0 +1,75 @@
+{
+    "word": "commanded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncommand ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəˈmɑːnd"
+                            ],
+                            "us": [
+                                "kəˈmænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give someone an order: ",
+                            "examples": [
+                                "The officer commanded his men to shoot.",
+                                "He commanded that the troops (should) cross the water."
+                            ]
+                        },
+                        {
+                            "explanation": "to control someone or something and tell him, her, or it what to do: ",
+                            "examples": [
+                                "Colonel Sailing commands the Guards Regiment."
+                            ]
+                        },
+                        {
+                            "explanation": "to deserve and get something good, such as attention, respect, or a lot of money: ",
+                            "examples": [
+                                "She was one of those teachers who just commanded respect.",
+                                "She commands one of the highest fees per film in Hollywood."
+                            ]
+                        },
+                        {
+                            "explanation": "to give a view: ",
+                            "examples": [
+                                "The master bedroom commands a view of rolling green hills."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

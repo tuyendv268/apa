@@ -1,0 +1,65 @@
+{
+    "word": "minor league",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmaɪ.nə ˌliːɡ"
+                            ],
+                            "us": [
+                                "ˈmaɪ.nɚ ˌliːɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the US, a league of professional baseball teams that plays below the highest level",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmaɪ.nəˈliːɡ"
+                            ],
+                            "us": [
+                                "ˌmaɪ.nɚˈliːɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging or relating to sport in a minor league in the US: ",
+                            "examples": [
+                                "minor-league baseball"
+                            ]
+                        },
+                        {
+                            "explanation": "not important and not having a lot of influence: ",
+                            "examples": [
+                                "a minor-league politician"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

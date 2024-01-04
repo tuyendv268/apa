@@ -1,0 +1,79 @@
+{
+    "word": "warehouse",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈweə.haʊs"
+                            ],
+                            "us": [
+                                "ˈwer.haʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large building for storing things before they are sold, used, or sent out to shops, or : ",
+                            "examples": [
+                                "The goods have been sitting in a warehouse for months because a strike has prevented distribution."
+                            ]
+                        },
+                        {
+                            "explanation": "a large shop selling large numbers of a particular product at a cheap rate: ",
+                            "examples": [
+                                "We bought both sofas from a big furniture warehouse out of town."
+                            ]
+                        },
+                        {
+                            "explanation": "a large prison, hospital, etc. in which people are kept but given little help with their problems: ",
+                            "examples": [
+                                "Our new jails are mostly brick-faced warehouses with high fences in low-value areas.",
+                                "The mental asylum in Romania was a warehouse for the mentally insane."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈweə.haʊz",
+                                "ˈweə.haʊs"
+                            ],
+                            "us": [
+                                "ˈwer.haʊz",
+                                "ˈwer.haʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to store something in a warehouse: ",
+                            "examples": [
+                                "The division was only able to sell 40 systems, leaving 80 units warehoused and unsold."
+                            ]
+                        },
+                        {
+                            "explanation": "to put people in a large prison, hospital, etc. without trying to help them with their problems: ",
+                            "examples": [
+                                "The UK is simply warehousing offenders in prisons without preparing them for a life beyond crime.",
+                                "Patients fear they are being illegally warehoused at the hospital with no real chance of getting out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

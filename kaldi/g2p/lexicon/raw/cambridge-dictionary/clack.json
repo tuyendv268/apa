@@ -1,0 +1,58 @@
+{
+    "word": "clack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "klæk"
+                            ],
+                            "us": [
+                                "klæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short sharp noise made by two hard objects being hit together: ",
+                            "examples": [
+                                "He could hear the clack of high heels walking past in the corridor."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "klæk"
+                            ],
+                            "us": [
+                                "klæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If two hard objects clack, they make a short sharp noise because they hit together: ",
+                            "examples": [
+                                "Their heels clacked on the bare concrete.",
+                                "A typewriter was clacking in the next room."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

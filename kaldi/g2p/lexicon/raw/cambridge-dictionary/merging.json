@@ -1,0 +1,61 @@
+{
+    "word": "merging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmerge ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɜːdʒ"
+                            ],
+                            "us": [
+                                "mɝːdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to combine or join together, or to cause things to do this: ",
+                            "examples": [
+                                "They decided to merge the two companies into one.",
+                                "The country's two biggest banks are planning to merge.",
+                                "After a while the narrow trail merges with a wider path."
+                            ]
+                        },
+                        {
+                            "explanation": "to join a line of moving traffic without causing other vehicles to slow down",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

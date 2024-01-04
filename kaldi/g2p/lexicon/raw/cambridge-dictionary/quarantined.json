@@ -1,0 +1,80 @@
+{
+    "word": "quarantined",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nquarantine ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkwɒr.ən.tiːn"
+                            ],
+                            "us": [
+                                "ˈkwɔːr.ən.tiːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stay away from others for a period of time because you have a disease, or may have one, in order to prevent the spread of the disease: ",
+                            "examples": [
+                                "All international arrivals, regardless of where they are from, must quarantine upon their arrival.",
+                                "The government is looking into how long those who have been exposed to COVID-19 need to quarantine.",
+                                "A friend of mine had symptoms but instead of quarantining himself he decided to carry on as normal. "
+                            ]
+                        },
+                        {
+                            "explanation": "to keep a person or animal away from others because they have a disease, or may have one, in order to prevent the spread of the disease: ",
+                            "examples": [
+                                "It's not uncommon to quarantine passengers after a widespread illness appears to be present on board a plane.",
+                                "The dogs are being quarantined for 10 days because it was not clear whether they are up to date on rabies shots.",
+                                "Two weeks ago, authorities quarantined 1,222 cattle that had eaten feed containing cattle byproducts."
+                            ]
+                        },
+                        {
+                            "explanation": "to keep something such as a product or plant that is infected or poisonous, or that contains substances that could be dangerous, in a place where it cannot harm anyone or anything until it is no longer dangerous or can be dealt with safely: ",
+                            "examples": [
+                                "If the traps capture a certain number of flies in a particular area, fruit from that area is quarantined until the end of the season.",
+                                "After a single bag of rice tested positive for melamine, the company decided to quarantine the entire shipment.",
+                                "The items were quarantined after a reported exposure to asbestos"
+                            ]
+                        },
+                        {
+                            "explanation": "to prevent people or animals from entering or leaving a particular area or building where some or all of those in it have been affected by a harmful substance or disease, until the danger of harming others has passed: ",
+                            "examples": [
+                                "Ranches with confirmed cases of foot-and-mouth disease are quarantined until at least 10 days after all livestock are vaccinated.",
+                                "The hotel has been quarantined due to an outbreak of legionnaire’s disease"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

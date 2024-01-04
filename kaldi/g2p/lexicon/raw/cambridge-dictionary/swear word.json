@@ -1,0 +1,33 @@
+{
+    "word": "swear word",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsweə ˌwɜːd"
+                            ],
+                            "us": [
+                                "ˈswer ˌwɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a rude or offensive word: ",
+                            "examples": [
+                                "All swear words, even mild ones such as \"damn\",, were deleted from the text."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

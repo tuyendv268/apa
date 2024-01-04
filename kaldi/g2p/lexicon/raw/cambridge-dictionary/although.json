@@ -1,0 +1,41 @@
+{
+    "word": "although",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "ɔːlˈðəʊ"
+                            ],
+                            "us": [
+                                "ɑːlˈðoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "despite the fact that: ",
+                            "examples": [
+                                "She walked home by herself, although she knew that it was dangerous.",
+                                "He decided to go, although I begged him not to."
+                            ]
+                        },
+                        {
+                            "explanation": "but: ",
+                            "examples": [
+                                "He's rather shy, although he's not as bad as he used to be.",
+                                "She'll be coming tonight, although I don't know exactly when."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

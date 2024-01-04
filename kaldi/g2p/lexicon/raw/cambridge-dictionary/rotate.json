@@ -1,0 +1,43 @@
+{
+    "word": "rotate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rəʊˈteɪt"
+                            ],
+                            "us": [
+                                "ˈroʊ.teɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to turn or cause something to turn in a circle, especially around a fixed point: ",
+                            "examples": [
+                                "Rotate the handle by 180° to open the door.",
+                                "The wheel rotates around an axle.",
+                                "The satellite slowly rotates as it circles the earth."
+                            ]
+                        },
+                        {
+                            "explanation": "If a job rotates or if a group of people rotate their jobs, the jobs are done at different times by different people.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "When farmers rotate crops, they regularly change which crops they grow in a particular field.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

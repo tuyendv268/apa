@@ -1,0 +1,46 @@
+{
+    "word": "movie",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmuː.vi"
+                            ],
+                            "us": [
+                                "ˈmuː.vi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a film shown in a cinema or on television and often telling a story: ",
+                            "examples": [
+                                "My favourite movie is \"Casablanca\"."
+                            ]
+                        },
+                        {
+                            "explanation": "a cinema or group of cinemas: ",
+                            "examples": [
+                                "What's on/showing at the movies this week?",
+                                "Do you want to go to the movies tonight?"
+                            ]
+                        },
+                        {
+                            "explanation": "the business of making films: ",
+                            "examples": [
+                                "She has worked in the movies all her life. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

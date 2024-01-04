@@ -1,0 +1,71 @@
+{
+    "word": "dose",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dəʊs"
+                            ],
+                            "us": [
+                                "doʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a measured amount of something such as medicine: ",
+                            "examples": [
+                                "a high/low dose",
+                                "a dose of penicillin",
+                                "The label says to take one dose three times a day.",
+                                "20 or 30 of these pills would be a lethal dose (= enough to kill you)."
+                            ]
+                        },
+                        {
+                            "explanation": "an amount or experience of something, often something bad or unpleasant: ",
+                            "examples": [
+                                "The government received a hefty dose of bad news this week.",
+                                "She's got a nasty dose of flu."
+                            ]
+                        },
+                        {
+                            "explanation": "a case of gonorrhoea (= a disease of the sexual organs)",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dəʊs"
+                            ],
+                            "us": [
+                                "doʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give someone a measured amount of medicine: ",
+                            "examples": [
+                                "He dosed himself (up) with valium to calm his nerves."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

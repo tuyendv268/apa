@@ -1,0 +1,34 @@
+{
+    "word": "density function",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈden.sɪ.ti ˌfʌŋk.ʃən"
+                            ],
+                            "us": [
+                                "ˈden.sə.t̬i ˌfʌŋk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number that represents how likely a random number is to be within a particular range of values: ",
+                            "examples": [
+                                "The score distribution is presented as a density function for all women aged 65–84 in the years between 2000 and 2010.",
+                                "The model produces estimates of the risk of the disease as a probability density function for the total number of cases predicted to occur. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

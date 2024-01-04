@@ -1,0 +1,34 @@
+{
+    "word": "banana",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bəˈnɑː.nə"
+                            ],
+                            "us": [
+                                "bəˈnæn.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, curved fruit with a yellow skin and soft, sweet, white flesh inside: ",
+                            "examples": [
+                                "a bunch of bananas",
+                                "banana milkshake"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

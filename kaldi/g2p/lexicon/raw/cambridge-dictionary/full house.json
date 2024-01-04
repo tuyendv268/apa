@@ -1,0 +1,39 @@
+{
+    "word": "full house",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfʊl ˈhaʊs"
+                            ],
+                            "us": [
+                                "ˌfʊl ˈhaʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which every seat in a cinema, theatre, concert, etc. is filled: ",
+                            "examples": [
+                                "We're expecting a full house tonight."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when a card player has three cards of one type and two cards of another: ",
+                            "examples": [
+                                "Steve won the poker game with a full house."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "recursion",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈkɜː.ʒən"
+                            ],
+                            "us": [
+                                "rɪˈkɝː.ʒən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the practice of describing numbers, expressions, etc. in terms of the numbers, expressions, etc. that come before them in a series: ",
+                            "examples": [
+                                "The function can be solved by recursion.",
+                                "Many DNS servers do not allow recursion."
+                            ]
+                        },
+                        {
+                            "explanation": "the practice of putting a structure such as a phrase inside a structure of the same kind: ",
+                            "examples": [
+                                "Recursion is the capacity to embed phrases inside one another.",
+                                "The language of the Pirahã has no evidence of recursion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

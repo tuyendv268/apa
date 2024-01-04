@@ -1,0 +1,53 @@
+{
+    "word": "confabulation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kən.fæb.jəˈleɪ.ʃən"
+                            ],
+                            "us": [
+                                "kən.fæb.jəˈleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "conversation or discussion about something: ",
+                            "examples": [
+                                "They were seen in close confabulation over a drink.",
+                                "Work involved endless meetings, confabulations, and discussions about the law."
+                            ]
+                        },
+                        {
+                            "explanation": "a problem that makes someone produce false memories about events, or the false memories themselves: ",
+                            "examples": [
+                                "Confabulation differs from lying in that the person is not consciously attempting to deceive.",
+                                "Confabulations are artificial constructions of our own design built round particles of retained experience."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of an artificial intelligence (= a computer system that has some of the qualities that the human brain has, such as the ability to produce language in a way that seems human) producing false information: ",
+                            "examples": [
+                                "We tried to fine-tune the model to reduce confabulation."
+                            ]
+                        },
+                        {
+                            "explanation": "false information that is produced by an artificial intelligence (= a computer system that has some of the qualities that the human brain has, such as the ability to produce language in a way that seems human): ",
+                            "examples": [
+                                "It's important to consider confabulations, or hallucinations, in AI-generated responses, which may lead to the creation of inaccurate information."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

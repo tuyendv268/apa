@@ -1,0 +1,61 @@
+{
+    "word": "discussed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndiscuss ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈskʌs"
+                            ],
+                            "us": [
+                                "dɪˈskʌs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to talk about a subject with someone and tell each other your ideas or opinions: ",
+                            "examples": [
+                                "The police want to discuss these recent racist attacks with local people."
+                            ]
+                        },
+                        {
+                            "explanation": "to talk or write about a subject in detail, especially considering different ideas and opinions related to it: ",
+                            "examples": [
+                                "The later chapters discuss the effects on the environment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "grape",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡreɪp"
+                            ],
+                            "us": [
+                                "ɡreɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small, round, purple or pale green fruit that you can eat or make into wine: ",
+                            "examples": [
+                                "black/white/red/green grapes",
+                                "a bunch of grapes",
+                                "seedless grapes",
+                                "grape juice"
+                            ]
+                        },
+                        {
+                            "explanation": "wine",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

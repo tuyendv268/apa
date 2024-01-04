@@ -1,0 +1,40 @@
+{
+    "word": "crowdfunder",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkraʊd.fʌn.dər"
+                            ],
+                            "us": [
+                                "ˈkraʊd.fʌn.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an attempt to get a large number of people to each give small amounts of money in order to provide the finance for a project, typically using the internet: ",
+                            "examples": [
+                                "Please support and share our crowdfunder.",
+                                "The crowdfunder for his treatment raised thousands of pounds in just a few days."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who takes part in or organizes an attempt to raise money through crowdfunding: ",
+                            "examples": [
+                                "The project was popular with crowdfunders, who paid $413,495 to back it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

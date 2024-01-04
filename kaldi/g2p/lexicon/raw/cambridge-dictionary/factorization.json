@@ -1,0 +1,36 @@
+{
+    "word": "factorization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfæk.tər.aɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌfæk.tɚ.əˈzeɪ.ʃən",
+                                "ˌfæk.tɚ.aɪˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the dividing of a number into factors (= whole numbers that are produced when you divide a larger number by another whole number): ",
+                            "examples": [
+                                "The factorization of 6 produces 1 and 6, and 2 and 3, because either of those pairs multiplied together equal 6. ",
+                                "The factorisation of 48 yields 1, 2, 3, 4, 6, 8, 12, 16, 24, and 48.",
+                                "The question asks students to perform a factorization of 160."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

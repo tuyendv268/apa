@@ -1,0 +1,67 @@
+{
+    "word": "auxiliary",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɔːɡˈzɪl.i.ə.ri"
+                            ],
+                            "us": [
+                                "ɑːɡˈzɪl.i.er.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "giving help or support, especially to a more important person or thing: ",
+                            "examples": [
+                                "auxiliary staff/nurses"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɔːɡˈzɪl.i.ə.ri"
+                            ],
+                            "us": [
+                                "ɑːɡˈzɪl.i.er.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person whose job is to give help or support to other workers: ",
+                            "examples": [
+                                "semi-skilled auxiliaries"
+                            ]
+                        },
+                        {
+                            "explanation": "a soldier of one country who fights for another country",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a verb that gives grammatical information not given by the main verb of a sentence: ",
+                            "examples": [
+                                "In the sentence \"she has finished her book\", \"has\" is an auxiliary."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

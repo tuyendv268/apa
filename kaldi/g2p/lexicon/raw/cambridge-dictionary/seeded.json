@@ -1,0 +1,77 @@
+{
+    "word": "seeded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsiː.dɪd"
+                            ],
+                            "us": [
+                                "ˈsiː.dɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "with the seeds removed: ",
+                            "examples": [
+                                "Garnish with peeled, seeded, and diced tomatoes."
+                            ]
+                        },
+                        {
+                            "explanation": "containing seeds",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "especially of a tennis player, given a place on the list of those expected to win games in a particular competition because of the way they have played in the past: ",
+                            "examples": [
+                                "seeded players"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -siː.dɪd"
+                            ],
+                            "us": [
+                                " -siː.dɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "with the type of seed mentioned: ",
+                            "examples": [
+                                "The walnut is a hard-seeded fruit."
+                            ]
+                        },
+                        {
+                            "explanation": "being seeded in the position mentioned: ",
+                            "examples": [
+                                "The fifth-seeded Browne crushed the defending champion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

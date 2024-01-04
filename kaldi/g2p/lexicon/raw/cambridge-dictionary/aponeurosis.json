@@ -1,0 +1,37 @@
+{
+    "word": "aponeurosis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæp.ə.njʊəˈrəʊ.sɪs"
+                            ],
+                            "us": [
+                                "ˌæp.ə.nʊˈroʊ.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "ˌæp.ə.njʊəˈrəʊ.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˌæp.ə.nʊˈroʊ.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a thin sheet of tissue that covers a muscle or connects a muscle to the part it moves: ",
+                            "examples": [
+                                "MRI has been used to determine the thickness of the aponeurosis."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

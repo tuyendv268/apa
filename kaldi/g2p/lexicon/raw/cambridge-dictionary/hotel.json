@@ -1,0 +1,44 @@
+{
+    "word": "hotel",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "həʊˈtel"
+                            ],
+                            "us": [
+                                "hoʊˈtel"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a building where you pay to have a room to sleep in, and where you can sometimes eat meals: ",
+                            "examples": [
+                                "a four-star hotel",
+                                "the Clarendon Hotel",
+                                "We stayed in/at a hotel on the beach.",
+                                "hotel guests"
+                            ]
+                        },
+                        {
+                            "explanation": "a building where alcoholic drinks can be bought and drunk and where food is often available",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a restaurant",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

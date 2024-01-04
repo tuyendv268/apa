@@ -1,0 +1,60 @@
+{
+    "word": "court martial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɔːt ˈmɑː.ʃəl"
+                            ],
+                            "us": [
+                                "ˌkɔːrt ˈmɑːr.ʃəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(a trial in) a military court for members of the armed forces",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɔːtˈmɑː.ʃəl"
+                            ],
+                            "us": [
+                                "ˈkɔːrtˌmɑːr.ʃəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "US usually"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send a member of the armed forces for trial in a military court: ",
+                            "examples": [
+                                "The Navy will not court-martial the submarine's commander.",
+                                "She is likely to be court-martialled for disobeying her commanding officer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

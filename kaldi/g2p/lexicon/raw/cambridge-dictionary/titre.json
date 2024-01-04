@@ -1,0 +1,44 @@
+{
+    "word": "titre",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtaɪ.tər",
+                                "ˈtiː.tər"
+                            ],
+                            "us": [
+                                "ˈtaɪ.t̬ər"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a measurement of the concentration of a substance (= how much of it there is) in an amount of blood: ",
+                            "examples": [
+                                "It is important that vets have rabies antibody titres checked every two years.",
+                                "If a pregnant patient’s rubella titre is less than 1:8, she should be immunized after delivering the baby. ",
+                                "A protective effect was observed among infants born to mothers with high titres.",
+                                "This test could not detect pigs with low titres of antibody."
+                            ]
+                        },
+                        {
+                            "explanation": "a measurement of the concentration of a substance (= how much of it there is) in an amount of liquid: ",
+                            "examples": [
+                                "In this unit you will be taught how to calculate the titre of a solution.",
+                                "In this video I explain how to calculate the mean titre from a set of titration results."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "the white house",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwaɪt ˌhaʊs"
+                            ],
+                            "us": [
+                                "ˈwaɪt ˌhaʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the official Washington home of the US president: ",
+                            "examples": [
+                                "We visited the White House."
+                            ]
+                        },
+                        {
+                            "explanation": "the American president and his or her administration: ",
+                            "examples": [
+                                "The White House is set to announce health-care reforms."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

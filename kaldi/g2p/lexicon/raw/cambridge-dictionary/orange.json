@@ -1,0 +1,63 @@
+{
+    "word": "orange",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒr.ɪndʒ"
+                            ],
+                            "us": [
+                                "ˈɔːr.ɪndʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a round sweet fruit that has a thick orange skin and an orange centre divided into many parts: ",
+                            "examples": [
+                                "a glass of orange juice"
+                            ]
+                        },
+                        {
+                            "explanation": "a colour between red and yellow: ",
+                            "examples": [
+                                "Orange is her favourite colour."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒr.ɪndʒ"
+                            ],
+                            "us": [
+                                "ˈɔːr.ɪndʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of a colour between red and yellow: ",
+                            "examples": [
+                                "The setting sun filled the sky with a deep orange glow."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

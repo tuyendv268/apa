@@ -1,0 +1,34 @@
+{
+    "word": "non-commutativity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.kəˌmjuː.təˈtɪv.ə.ti"
+                            ],
+                            "us": [
+                                "ˌnɑːn.kəˌmjuː.t̬əˈtɪv.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of not always giving the same result whatever order the values are in: ",
+                            "examples": [
+                                "This method avoids the problem of non-commutativity.",
+                                "Noncommutativity will prevent some of the rearrangements that were done in the commutative case."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

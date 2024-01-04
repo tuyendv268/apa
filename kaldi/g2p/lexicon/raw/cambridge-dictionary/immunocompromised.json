@@ -1,0 +1,58 @@
+{
+    "word": "immunocompromised",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪm.jə.nəʊˈkɒm.prə.maɪzd"
+                            ],
+                            "us": [
+                                "ˌɪm.jəˌnoʊˈkɑːm.prə.maɪzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "at more risk from disease because of something, such as a health condition or medical treatment, that prevents the body's immune system from working as well as it should: ",
+                            "examples": [
+                                "Some fungal diseases have proved to be highly pathogenic in immunocompromised patients, such as those with AIDS.",
+                                "Good hygiene is particularly important if anyone in the house is older, immunocompromised, or a newborn."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪm.jə.nəʊˈkɒm.prə.maɪzd"
+                            ],
+                            "us": [
+                                "ˌɪm.jəˌnoʊˈkɑːm.prə.maɪzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "people who are at more risk from disease because of something that prevents their body's immune system from working as well as it should: ",
+                            "examples": [
+                                "Groups at highest risk include the elderly, the immunocompromised, and the critically ill."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

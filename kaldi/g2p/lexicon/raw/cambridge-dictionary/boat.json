@@ -1,0 +1,42 @@
+{
+    "word": "boat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bəʊt"
+                            ],
+                            "us": [
+                                "boʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small vehicle for travelling on water: ",
+                            "examples": [
+                                "a rowing/sailing boat",
+                                "a fishing boat",
+                                "We took turns to row the boat up the river."
+                            ]
+                        },
+                        {
+                            "explanation": "a ship: ",
+                            "examples": [
+                                "Are you travelling by boat or by air?",
+                                "I'm taking the boat from Dover to Calais."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

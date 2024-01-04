@@ -1,0 +1,41 @@
+{
+    "word": "standpipe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstænd.paɪp"
+                            ],
+                            "us": [
+                                "ˈstænd.paɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a vertical pipe that is connected to a water supply and provides drinking water: ",
+                            "examples": [
+                                "The nearest clean water was from the standpipe in the churchyard.",
+                                "We all had to go and draw out our own drinking water from this one standpipe."
+                            ]
+                        },
+                        {
+                            "explanation": "a vertical pipe that is connected to a water supply and provides water to a public place such as a building or bridge, and that is used when there is a fire: ",
+                            "examples": [
+                                "A broken standpipe denied water to firefighters.",
+                                "In New York City, all standpipe systems must be inspected every five years."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

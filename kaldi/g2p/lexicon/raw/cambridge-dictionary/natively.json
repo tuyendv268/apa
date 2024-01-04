@@ -1,0 +1,48 @@
+{
+    "word": "natively",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈneɪ.tɪv.li"
+                            ],
+                            "us": [
+                                "ˈneɪ.t̬ɪv.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that relates to the first language that you learn: ",
+                            "examples": [
+                                "It's a language that is spoken natively by only a few million people.",
+                                "My generation of the family acquired Spanish natively."
+                            ]
+                        },
+                        {
+                            "explanation": "A computer program that runs natively is designed to work on a particular system. : ",
+                            "examples": [
+                                "This code is able to run natively on the hardware.",
+                                "The browser doesn’t support this program natively."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that relates to plants and animals that grow or live naturally in a place and have not been brought there from somewhere else : ",
+                            "examples": [
+                                "None of these plants is natively present in the valleys here.",
+                                "These trees are only found natively in the mountains of this region."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

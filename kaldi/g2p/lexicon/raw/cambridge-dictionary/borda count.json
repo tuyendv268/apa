@@ -1,0 +1,33 @@
+{
+    "word": "borda count",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɔː.də ˌkaʊnt"
+                            ],
+                            "us": [
+                                "ˈbɔːr.də ˌkaʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a voting system in which everyone puts a list of people or things in order, with the one they prefer scoring 1, and the person or thing with the lowest total wins: ",
+                            "examples": [
+                                "He makes a strong case for the Borda count as the fairest voting system. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

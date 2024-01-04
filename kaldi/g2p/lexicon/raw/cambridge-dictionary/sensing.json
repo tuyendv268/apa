@@ -1,0 +1,58 @@
+{
+    "word": "sensing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsense ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sens"
+                            ],
+                            "us": [
+                                "sens"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to feel or experience something without being able to explain exactly how: ",
+                            "examples": [
+                                "Although she said nothing, I could sense her anger",
+                                "He sensed something was about to happen.",
+                                "He sensed (that) his guests were bored, although they were listening politely.",
+                                "Could you sense what was likely to happen?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

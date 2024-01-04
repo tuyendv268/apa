@@ -1,0 +1,66 @@
+{
+    "word": "trembled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntremble ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtrem.bəl"
+                            ],
+                            "us": [
+                                "ˈtrem.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to shake slightly in a way that you cannot control, for example because you are frightened, angry, or excited, or because of illness: ",
+                            "examples": [
+                                "I was trembling with fear, panicking that I had not made the right decision.",
+                                "At her side Michael trembled uncontrollably. He was so distraught he could not speak.",
+                                "I could see them coming for me. I was already trembling in anticipation when they grabbed me.",
+                                "Her bottom lip trembled, and tears welled up in her eyes.",
+                                "His voice started to tremble, and I thought he was going to cry."
+                            ]
+                        },
+                        {
+                            "explanation": "of the ground or an object, to shake slightly: ",
+                            "examples": [
+                                "The pair remained calm as the earth trembled beneath their feet.",
+                                "I could tell the wind was rising - the leaves were trembling on the trees."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

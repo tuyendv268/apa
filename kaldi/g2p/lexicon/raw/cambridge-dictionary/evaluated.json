@@ -1,0 +1,56 @@
+{
+    "word": "evaluated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nevaluate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈvæl.ju.eɪt"
+                            ],
+                            "us": [
+                                "ɪˈvæl.ju.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to judge or calculate the quality, importance, amount, or value of something: ",
+                            "examples": [
+                                "It's impossible to evaluate these results without knowing more about the research methods employed.",
+                                "We shall need to evaluate how the new material stands up to wear and tear."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

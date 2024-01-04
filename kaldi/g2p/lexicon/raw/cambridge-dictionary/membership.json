@@ -1,0 +1,42 @@
+{
+    "word": "membership",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmem.bə.ʃɪp"
+                            ],
+                            "us": [
+                                "ˈmem.bɚ.ʃɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of belonging to an organization: ",
+                            "examples": [
+                                "You have to apply for membership of the sports club.",
+                                "a membership fee/card",
+                                "Annual membership (= the amount you have to pay to join a particular organization for one year) is £25."
+                            ]
+                        },
+                        {
+                            "explanation": "all the people who belong to an organization: ",
+                            "examples": [
+                                "Our membership is/are divided on the issue.",
+                                "The society has a very large membership (= number of members)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

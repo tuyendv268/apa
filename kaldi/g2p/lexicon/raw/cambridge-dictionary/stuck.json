@@ -1,0 +1,75 @@
+{
+    "word": "stuck",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stʌk"
+                            ],
+                            "us": [
+                                "stʌk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of stick",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "stʌk"
+                            ],
+                            "us": [
+                                "stʌk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "unable to move, or set in a particular position, place, or way of thinking: ",
+                            "examples": [
+                                "This door seems to be stuck - can you help me push it open?",
+                                "Seven of us were stuck in the lift for over an hour.",
+                                "I hate being stuck (= having to be) behind a desk - I'd rather work outside."
+                            ]
+                        },
+                        {
+                            "explanation": "in a difficult situation, or unable to change or get away from a situation: ",
+                            "examples": [
+                                "We'd be stuck if your sister hadn't offered to come over and look after the children tonight."
+                            ]
+                        },
+                        {
+                            "explanation": "not able to continue reading, answering questions, etc. because something is too difficult: ",
+                            "examples": [
+                                "I'm really stuck - do you have any idea how to answer these questions?"
+                            ]
+                        },
+                        {
+                            "explanation": "to have to deal with someone or something unpleasant because you have no choice or because no one else wants to: ",
+                            "examples": [
+                                "We were stuck with him for the entire journey!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

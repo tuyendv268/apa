@@ -1,0 +1,58 @@
+{
+    "word": "saline",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈseɪ.laɪn"
+                            ],
+                            "us": [
+                                "ˈseɪ.liːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a liquid mixture of salt and pure water, used to kill bacteria or to replace liquid lost from the body: ",
+                            "examples": [
+                                "a saline drip"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈseɪ.laɪn"
+                            ],
+                            "us": [
+                                "ˈseɪ.liːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "containing or consisting of salt: ",
+                            "examples": [
+                                "saline deposits/springs",
+                                "saline solution"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

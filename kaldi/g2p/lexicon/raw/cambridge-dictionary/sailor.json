@@ -1,0 +1,41 @@
+{
+    "word": "sailor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈseɪ.lər"
+                            ],
+                            "us": [
+                                "ˈseɪ.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who works on a ship, especially one who is not an officer",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a person who often takes part in the sport of using boats with sails",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "someone who is not/often ill when travelling by boat: ",
+                            "examples": [
+                                "I wasn't a good sailor at the best of times and the sea was very choppy that day."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

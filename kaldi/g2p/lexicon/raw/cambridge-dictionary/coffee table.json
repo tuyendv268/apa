@@ -1,0 +1,67 @@
+{
+    "word": "coffee table",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒf.i ˌteɪ.bəl"
+                            ],
+                            "us": [
+                                "ˈkɑː.fi ˌteɪ.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small, low table on which coffee is served or books and magazines are arranged",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒf.i ˌteɪ.bəl"
+                            ],
+                            "us": [
+                                "ˈkɑː.fiˌteɪ.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to books that are designed to be looked at rather than read: ",
+                            "examples": [
+                                "Coffee-table collections of his photographs sell for hundreds of pounds.",
+                                "She is one of the women profiled in a forthcoming coffee-table publication."
+                            ]
+                        },
+                        {
+                            "explanation": "used to describe music that has been arranged in a relaxing but boring way : ",
+                            "examples": [
+                                "The band even managed to make this coffee-table music sound positively energetic. ",
+                                "They produce smoothly bland, coffee-table pop."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

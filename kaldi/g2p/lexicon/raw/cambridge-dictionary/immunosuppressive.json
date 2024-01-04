@@ -1,0 +1,33 @@
+{
+    "word": "immunosuppressive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪm.jə.nəʊ.səˈpres.ɪv"
+                            ],
+                            "us": [
+                                "ˌɪm.jəˌnoʊ.səˈpres.ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "preventing the immune system from reacting to antigens, for example in order to prevent transplanted organs from being rejected: ",
+                            "examples": [
+                                "While immunosuppressive drugs can help prevent rejection of transplanted tissues or organs, they can also give rise to infections."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

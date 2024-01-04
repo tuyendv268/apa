@@ -1,0 +1,57 @@
+{
+    "word": "postponed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npostpone ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pəʊstˈpəʊn",
+                                "pəstˈpəʊn"
+                            ],
+                            "us": [
+                                "poʊstˈpoʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to delay an event and plan or decide that it should happen at a later date or time: ",
+                            "examples": [
+                                "They decided to postpone their holiday until next year.",
+                                "We've had to postpone going to France because the children are ill."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

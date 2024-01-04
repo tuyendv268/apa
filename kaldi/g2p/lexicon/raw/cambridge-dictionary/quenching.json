@@ -1,0 +1,67 @@
+{
+    "word": "quenching",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nquench ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kwentʃ"
+                            ],
+                            "us": [
+                                "kwentʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to drink liquid so that you stop being thirsty: ",
+                            "examples": [
+                                "When it's hot, it's best to quench your thirst with water."
+                            ]
+                        },
+                        {
+                            "explanation": "to use water to put out a fire: ",
+                            "examples": [
+                                "The flames were quenched by heavy rain."
+                            ]
+                        },
+                        {
+                            "explanation": "to satisfy a need or wish: ",
+                            "examples": [
+                                "Her thirst for knowledge will never be quenched."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "word": "bash",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bæʃ"
+                            ],
+                            "us": [
+                                "bæʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to hit hard: ",
+                            "examples": [
+                                "He bashed his arm against a shelf.",
+                                "I could hear her bashing away on the computer (= hitting the keys loudly)."
+                            ]
+                        },
+                        {
+                            "explanation": "to criticize someone severely: ",
+                            "examples": [
+                                "He kept bashing local government officials."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bæʃ"
+                            ],
+                            "us": [
+                                "bæʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a party: ",
+                            "examples": [
+                                "He had a big bash for his 18th birthday."
+                            ]
+                        },
+                        {
+                            "explanation": "a hit: ",
+                            "examples": [
+                                "a bash on the head"
+                            ]
+                        },
+                        {
+                            "explanation": "to try to do something you have not done before: ",
+                            "examples": [
+                                "I've never been skiing before, but I'm prepared to have a bash (at it)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

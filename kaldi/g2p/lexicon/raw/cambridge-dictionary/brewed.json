@@ -1,0 +1,66 @@
+{
+    "word": "brewed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbrew ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bruː"
+                            ],
+                            "us": [
+                                "bruː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make beer",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If you brew tea or coffee, you add boiling water to it to make a hot drink, and if it brews, it gradually develops flavour in the container in which it was made: ",
+                            "examples": [
+                                "He brewed us some coffee./He brewed some coffee for us."
+                            ]
+                        },
+                        {
+                            "explanation": "If an unpleasant situation or a storm is brewing, you feel that it is about to happen: ",
+                            "examples": [
+                                "It was too quiet - I felt that trouble was brewing.",
+                                "A storm was brewing in the distance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

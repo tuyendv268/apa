@@ -1,0 +1,41 @@
+{
+    "word": "validly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈvæl.ɪd.li"
+                            ],
+                            "us": [
+                                "ˈvæl.ɪd.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that is based on truth or reason, or that is able to be accepted: ",
+                            "examples": [
+                                "You can validly criticize management for being arrogant.",
+                                "I think he can validly claim a widespread base of support."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that has legal force, or that is legally acceptable: ",
+                            "examples": [
+                                "4,018 votes of validly registered state residents had been missed in the original tally.",
+                                "The attackers obtained 63 validly issued driver's licences ."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

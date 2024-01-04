@@ -1,0 +1,82 @@
+{
+    "word": "recall",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈkɔːl"
+                            ],
+                            "us": [
+                                "ˈriː.kɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to bring the memory of a past event into your mind, and often to give a description of what you remember: ",
+                            "examples": [
+                                "The old man recalled the city as it had been before the war.",
+                                "\"As I recall,\" he said with some irritation, \"you still owe me €150.\"",
+                                "He recalled (that) he had sent the letter over a month ago.",
+                                "Can you recall what happened last night?",
+                                "She recalled seeing him outside the shop on the night of the robbery."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause you to think of a particular event, situation, or style: ",
+                            "examples": [
+                                "His paintings recall the style of Picasso."
+                            ]
+                        },
+                        {
+                            "explanation": "to order the return of a person who belongs to an organization or of products made by a company: ",
+                            "examples": [
+                                "The ambassador was recalled when war broke out.",
+                                "The company recalled thousands of jars of baby food after a salmonella scare."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈkɔːl"
+                            ],
+                            "us": [
+                                "ˈriː.kɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the ability to remember things: ",
+                            "examples": [
+                                "Old people often have astonishing powers of recall.",
+                                "My brother has total recall (= he can remember every detail of past events)."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when someone orders the return of a person who belongs to an organization, or orders the return of products made by a company: ",
+                            "examples": [
+                                "an emergency recall of Parliament",
+                                "The company issued a recall of all their latest antibiotics."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

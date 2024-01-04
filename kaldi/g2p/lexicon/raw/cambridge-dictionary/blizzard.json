@@ -1,0 +1,40 @@
+{
+    "word": "blizzard",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈblɪz.əd"
+                            ],
+                            "us": [
+                                "ˈblɪz.ɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a severe snow storm with strong winds: ",
+                            "examples": [
+                                "We once got stuck in a blizzard for six hours.",
+                                "Blizzard conditions made the main roads almost impassable."
+                            ]
+                        },
+                        {
+                            "explanation": "a large amount of something that arrives or is produced together in a confusing or badly organized way: ",
+                            "examples": [
+                                "a blizzard of statistics/handouts"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "revolution",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌrev.əˈluː.ʃən"
+                            ],
+                            "us": [
+                                "ˌrev.əˈluː.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a change in the way a country is governed, usually to a different political system and often using violence or war: ",
+                            "examples": [
+                                "The French Revolution changed France from a monarchy to a republic.",
+                                "The country seems to be heading towards revolution."
+                            ]
+                        },
+                        {
+                            "explanation": "a very important change in the way that people do things: ",
+                            "examples": [
+                                "a technological revolution",
+                                "Penicillin produced a revolution in medicine."
+                            ]
+                        },
+                        {
+                            "explanation": "a circular movement: ",
+                            "examples": [
+                                "The revolution of the earth around the sun was proposed by Copernicus."
+                            ]
+                        },
+                        {
+                            "explanation": "one complete circular movement of something, for example a wheel: ",
+                            "examples": [
+                                "Engine speed can be measured in revolutions per minute (abbreviation rpm)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

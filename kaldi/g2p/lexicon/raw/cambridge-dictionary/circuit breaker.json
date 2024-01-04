@@ -1,0 +1,46 @@
+{
+    "word": "circuit breaker",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɜː.kɪt ˌbreɪ.kər"
+                            ],
+                            "us": [
+                                "ˈsɝː.kɪt ˌbreɪ.kɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a safety device that stops the flow of current in an electrical circuit when there is a fault: ",
+                            "examples": [
+                                "There was a loss of power after a strong gust of wind tripped a circuit breaker."
+                            ]
+                        },
+                        {
+                            "explanation": "something that interrupts a series of events, usually intentionally because they are developing in a harmful way: ",
+                            "examples": [
+                                "Circuit breakers halt trading on the nation's stock markets during dramatic drops.",
+                                "For the last two years, the Democratic Senate majority had provided a circuit-breaker for the House Speaker's conservative initiatives."
+                            ]
+                        },
+                        {
+                            "explanation": "a fixed period of time in which people are not allowed to leave their homes or travel freely, in order to try and stop the spread of a dangerous disease: ",
+                            "examples": [
+                                "The leader of the opposition called for a two-week circuit breaker to arrest the spike in the pandemic."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

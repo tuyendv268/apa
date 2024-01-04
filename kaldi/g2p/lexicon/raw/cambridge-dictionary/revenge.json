@@ -1,0 +1,59 @@
+{
+    "word": "revenge",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈvendʒ"
+                            ],
+                            "us": [
+                                "rɪˈvendʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "harm done to someone as a punishment for harm that they have done to someone else: ",
+                            "examples": [
+                                "She took/got/exacted (her) revenge on him for leaving her by smashing up his car.",
+                                "He is believed to have been shot by a rival gang in revenge for the shootings last week."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈvendʒ"
+                            ],
+                            "us": [
+                                "rɪˈvendʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to harm someone as a punishment for harm that they have done to you: ",
+                            "examples": [
+                                "to revenge a death/defeat/injustice",
+                                "The red team revenged themselves on the blue team by winning the semifinal."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "high def",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌhaɪ ˈdef"
+                            ],
+                            "us": [
+                                "ˌhaɪ ˈdef"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for high definition: a system for showing very clear pictures on a television or computer screen or for producing very clear sound: ",
+                            "examples": [
+                                "With high def, you can recognize faces in the crowd."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈhaɪˌdef"
+                            ],
+                            "us": [
+                                "ˈhaɪˌdef"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for high-definition: used to describe a system for showing very clear pictures on a television or computer screen or for producing very clear sound: ",
+                            "examples": [
+                                "a high-def channel/video/television"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

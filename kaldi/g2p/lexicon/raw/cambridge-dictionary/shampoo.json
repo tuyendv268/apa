@@ -1,0 +1,66 @@
+{
+    "word": "shampoo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʃæmˈpuː"
+                            ],
+                            "us": [
+                                "ʃæmˈpuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a liquid used for washing hair, or for washing particular objects or materials: ",
+                            "examples": [
+                                "an anti-dandruff shampoo",
+                                "a carpet shampoo",
+                                "Directions: wet hair, apply shampoo, and massage into a rich lather."
+                            ]
+                        },
+                        {
+                            "explanation": "an act of washing something, especially your hair, with shampoo: ",
+                            "examples": [
+                                "My hair/The rug/The dog needs a shampoo.",
+                                "She went to the hairdressers for a shampoo and set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʃæmˈpuː"
+                            ],
+                            "us": [
+                                "ʃæmˈpuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to wash something with shampoo: ",
+                            "examples": [
+                                "Duncan shampooed my hair and then Tracy cut it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

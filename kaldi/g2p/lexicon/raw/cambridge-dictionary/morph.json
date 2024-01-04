@@ -1,0 +1,78 @@
+{
+    "word": "morph",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɔːf"
+                            ],
+                            "us": [
+                                "mɔːrf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to gradually change, or change someone or something, from one thing to another: ",
+                            "examples": [
+                                "When someone brings up politics at a party, a casual conversation can quickly morph into an ugly argument.",
+                                "He grew up watching his elder brother Joe morph from a difficult child to a criminal.",
+                                "She claims the media and society make a person try to morph their body into an unnatural size or weight."
+                            ]
+                        },
+                        {
+                            "explanation": "to gradually change one image into another, or combine them, using a computer program: ",
+                            "examples": [
+                                "Her boyfriend used a computer to morph photos of her face onto the actor's body.",
+                                "The video showed a man morphing into a tiger."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mɔːf"
+                            ],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an example of something or someone that has gradually changed from one thing to another: ",
+                            "examples": [
+                                "Transformational grammars attempt to describe the grammar of another language as a morph or transformation of the learner's language. "
+                            ]
+                        },
+                        {
+                            "explanation": "a computer image that is a combination of more than one image: ",
+                            "examples": [
+                                "Each frontal view is an image from a morph made from six different individuals.",
+                                "A multimedia resource showing an image of the site before and after, as well as two morphs of the project, have been published."
+                            ]
+                        },
+                        {
+                            "explanation": "one of several possible phenotypes (= sets of physical characteristics) within a species (= a set of animals or plants in which the members have similar characteristics to each other and can breed with each other): ",
+                            "examples": [
+                                "Where a significant number of individuals share a colour that deviates from the species norm, we call it a colour morph.",
+                                "The narrow-leafed morph of Z. marina is referred to as Zostera angustifolia in the UK."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "exponential",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌek.spəˈnen.ʃəl"
+                            ],
+                            "us": [
+                                "ˌek.spoʊˈnen.ʃəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An exponential rate of increase becomes quicker and quicker as the thing that increases becomes larger: ",
+                            "examples": [
+                                "We are looking for exponential growth in our investment.",
+                                "There has been an exponential increase in the world population this century."
+                            ]
+                        },
+                        {
+                            "explanation": "containing an exponent (= a number or sign that shows how many times another number is to be multiplied by itself): ",
+                            "examples": [
+                                "64 is an exponential expression."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

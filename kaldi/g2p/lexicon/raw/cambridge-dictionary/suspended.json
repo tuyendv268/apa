@@ -1,0 +1,80 @@
+{
+    "word": "suspended",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsuspend ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səˈspend"
+                            ],
+                            "us": [
+                                "səˈspend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stop something from being active, either temporarily or permanently: ",
+                            "examples": [
+                                "The ferry service has been suspended for the day because of bad weather.",
+                                "The country's president has suspended the constitution and assumed total power.",
+                                "When you go to the theatre, you have to be willing to suspend disbelief (= to act as if you believe that what you are seeing is real or true, although you know that it is not).",
+                                "I'm suspending judgment (= not forming an opinion) on the book I'm reading until I've finished it.",
+                                "Mr Young was given a six-month jail sentence, suspended for two years (= if he commits another crime within two years, he will have to go to prison for six months for his original crime)."
+                            ]
+                        },
+                        {
+                            "explanation": "If someone is suspended from work, school, etc., they are temporarily not allowed to work, go to school, or take part in an activity because of having done something wrong: ",
+                            "examples": [
+                                "She was suspended from school for fighting.",
+                                "He was suspended for four games after arguing with the referee."
+                            ]
+                        },
+                        {
+                            "explanation": "to hang: ",
+                            "examples": [
+                                "The builders worked on wooden platforms, suspended by ropes from the roof of the building.",
+                                "It was very uncomfortable lying on the hospital bed with my legs suspended in the air."
+                            ]
+                        },
+                        {
+                            "explanation": "If small pieces of solid material are suspended in a gas or a liquid, they hang or float in the gas or liquid: ",
+                            "examples": [
+                                "The drug is suspended in a saline solution.",
+                                "A cloud of smoke was suspended in the air."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

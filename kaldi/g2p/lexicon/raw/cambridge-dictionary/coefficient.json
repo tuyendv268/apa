@@ -1,0 +1,33 @@
+{
+    "word": "coefficient",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkəʊ.ɪˈfɪʃ.ənt"
+                            ],
+                            "us": [
+                                "ˌkoʊ.ɪˈfɪʃ.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a value, in mathematics, that appears in front of and multiplies another value: ",
+                            "examples": [
+                                "In 2x + 4y = 7, 2 is the coefficient of x."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

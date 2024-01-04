@@ -1,0 +1,61 @@
+{
+    "word": "predicated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npredicate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpred.ɪ.keɪt"
+                            ],
+                            "us": [
+                                "ˈpred.ɪ.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say that something is true: ",
+                            "examples": [
+                                "It would be unwise to predicate that the disease is caused by a virus before further tests have been carried out."
+                            ]
+                        },
+                        {
+                            "explanation": "If an idea or argument is predicated on something, it depends on the existence or truth of this thing: ",
+                            "examples": [
+                                "The sales forecast is predicated on the assumption that the economy will grow by four percent."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

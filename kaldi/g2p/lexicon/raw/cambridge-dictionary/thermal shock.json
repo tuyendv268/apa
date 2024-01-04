@@ -1,0 +1,41 @@
+{
+    "word": "thermal shock",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌθɜː.məl ˈʃɒk"
+                            ],
+                            "us": [
+                                "ˌθɝː.məl ˈʃɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "damage to a material such as glass or metal caused by a sudden change in temperature: ",
+                            "examples": [
+                                "Thermal shock can cause the metal to crack.",
+                                "This high-quality glass is resistant to heat and thermal shock."
+                            ]
+                        },
+                        {
+                            "explanation": "damage to the body of a person or animal caused by a sudden change in temperature: ",
+                            "examples": [
+                                "He died from thermal shock after rescuing a young boy from an icy river.",
+                                "Signs of thermal shock include a high body temperature, no sweat, difficulty breathing, and strange behaviour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

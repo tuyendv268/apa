@@ -1,0 +1,34 @@
+{
+    "word": "teraflop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈter.ə.flɒp"
+                            ],
+                            "us": [
+                                "ˈter.ə.flɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit for measuring a computer’s speed, equal to approximately one thousand billion (= 1,000,000,000,000), or a trillion, operations (= processes) per second: ",
+                            "examples": [
+                                "The processor has a peak performance of 34 trillion floating-point calculations a second, or 34 teraflops.",
+                                "This new product utilizes advanced GDDR5 memory and a 1 GHz clock speed to deliver 1.6 TeraFLOPs of computing power."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "antithesis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ænˈtɪθ.ə.sɪs"
+                            ],
+                            "us": [
+                                "ænˈtɪθ.ə.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "ænˈtɪθ.ə.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ænˈtɪθ.ə.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the exact opposite: ",
+                            "examples": [
+                                "She is slim and shy - the very antithesis of her sister.",
+                                "He is the exact antithesis of what I find attractive in men."
+                            ]
+                        },
+                        {
+                            "explanation": "a difference or opposition between two things: ",
+                            "examples": [
+                                "Thanks to the collapse of communism the political antithesis between Left and Right is less important."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

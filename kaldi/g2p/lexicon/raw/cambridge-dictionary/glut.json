@@ -1,0 +1,58 @@
+{
+    "word": "glut",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡlʌt"
+                            ],
+                            "us": [
+                                "ɡlʌt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a supply of something that is much greater than can be sold or is needed or wanted: ",
+                            "examples": [
+                                "The fall in demand for coffee could cause a glut on/in the market.",
+                                "The current glut of graduates means that many of them will not be able to find jobs."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡlʌt"
+                            ],
+                            "us": [
+                                "ɡlʌt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to provide more of something than is needed or wanted, or more of something than can be sold: ",
+                            "examples": [
+                                "Higher mortgage rates and over-building left some markets glutted with unsold houses."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

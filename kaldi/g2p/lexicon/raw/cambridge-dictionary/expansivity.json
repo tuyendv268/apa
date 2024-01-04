@@ -1,0 +1,34 @@
+{
+    "word": "expansivity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪk.spænˈsɪv.ə.ti"
+                            ],
+                            "us": [
+                                "ˌek.spænˈsɪv.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the amount that a material increases or decreases per unit of length as the result of a one degree change in temperature: ",
+                            "examples": [
+                                "The expansivity of copper does not change significantly in this temperature range.",
+                                "The expansivities of the two materials become more divergent with temperature."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "word": "residential",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌrez.ɪˈden.ʃəl"
+                            ],
+                            "us": [
+                                "ˌrez.əˈden.ʃəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A residential road, area, etc. has only private houses, not offices and factories.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "A residential building is one in which people live: ",
+                            "examples": [
+                                "Behind the beach are high-rise hotels and residential buildings.",
+                                "The architect's tallest building is a 75 storey residential tower."
+                            ]
+                        },
+                        {
+                            "explanation": "A residential job, position, course, etc. is one for which you live at the same place where you work or study: ",
+                            "examples": [
+                                "The college runs residential courses throughout the summer."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to where you live or have lived: ",
+                            "examples": [
+                                "You must satisfy the residential qualifications to get a work permit."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

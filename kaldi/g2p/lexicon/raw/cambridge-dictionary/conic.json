@@ -1,0 +1,66 @@
+{
+    "word": "conic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒn.ɪk"
+                            ],
+                            "us": [
+                                "ˈkɑː.nɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the shape of a cone: ",
+                            "examples": [
+                                "Their tents are conic in shape.",
+                                "The missile has a conic warhead."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to cones or being part of a cone: ",
+                            "examples": [
+                                "Conic geometry is very important in astronomy. ",
+                                "In this graph an elliptical conic form is generated."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒn.ɪk"
+                            ],
+                            "us": [
+                                "ˈkɑː.nɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for conic section: a curve formed by a plane (= a flat surface) cutting through a cone: ",
+                            "examples": [
+                                "The comet traced a conic.",
+                                "Projective geometry is based in the study of conics."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

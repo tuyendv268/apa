@@ -1,0 +1,42 @@
+{
+    "word": "hat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hæt"
+                            ],
+                            "us": [
+                                "hæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a covering for the head that is not part of a piece of clothing: ",
+                            "examples": [
+                                "a straw hat",
+                                "a woolly hat",
+                                "a wide-brimmed hat"
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to one of the various jobs or responsibilities that someone has: ",
+                            "examples": [
+                                "For this movie, she is wearing the hats of director and actress.",
+                                "This is me with my manager's hat on talking."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

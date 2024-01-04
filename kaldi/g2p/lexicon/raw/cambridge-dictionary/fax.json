@@ -1,0 +1,65 @@
+{
+    "word": "fax",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fæks"
+                            ],
+                            "us": [
+                                "fæks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(a copy of) a document that travels in electronic form along a phone line and is then printed on paper: ",
+                            "examples": [
+                                "I'll send you a fax with the details of the proposal."
+                            ]
+                        },
+                        {
+                            "explanation": "a device or system used to send and receive documents in electronic form along a phone line: ",
+                            "examples": [
+                                "I'll send you the agenda by fax.",
+                                "Do you have a fax at home?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fæks"
+                            ],
+                            "us": [
+                                "fæks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send a document using a fax machine: ",
+                            "examples": [
+                                "I'll fax it (through/over/across) to you.",
+                                "Fax me your reply/Fax your reply to me."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

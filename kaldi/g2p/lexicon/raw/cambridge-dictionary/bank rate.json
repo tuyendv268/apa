@@ -1,0 +1,35 @@
+{
+    "word": "bank rate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæŋk ˌreɪt"
+                            ],
+                            "us": [
+                                "ˈbæŋk ˌreɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the rate of interest set by a central bank in a country that is the lowest rate at which it lends money to other banks. This rate affects the interest rates that are then charged to customers by the banks.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the amount of interest that a bank charges when it lends money",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

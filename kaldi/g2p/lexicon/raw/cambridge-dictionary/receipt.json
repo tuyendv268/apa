@@ -1,0 +1,47 @@
+{
+    "word": "receipt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈsiːt"
+                            ],
+                            "us": [
+                                "rɪˈsiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something such as a piece of paper or message proving that money, goods, or information have been received: ",
+                            "examples": [
+                                "Make sure you are given a receipt for everything you buy.",
+                                "More retailers are switching to email receipts instead of paper."
+                            ]
+                        },
+                        {
+                            "explanation": "the act or state of receiving money or goods: ",
+                            "examples": [
+                                "Goods will be delivered on receipt of payment (= after the money is received).",
+                                "You have been in receipt of unemployment benefit for two months."
+                            ]
+                        },
+                        {
+                            "explanation": "the amounts of money received during a particular period by a business: ",
+                            "examples": [
+                                "The theatre's receipts for the winter were badly down."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

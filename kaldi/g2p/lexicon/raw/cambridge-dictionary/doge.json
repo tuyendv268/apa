@@ -1,0 +1,33 @@
+{
+    "word": "doge",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dəʊdʒ"
+                            ],
+                            "us": [
+                                "doʊdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the most important government official in an Italian city-state, for example Venice and Genoa, in the past: ",
+                            "examples": [
+                                "The Palazzo Ducale once served as the residence of the Genoese doges."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

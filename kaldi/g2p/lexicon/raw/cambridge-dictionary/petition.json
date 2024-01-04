@@ -1,0 +1,65 @@
+{
+    "word": "petition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəˈtɪʃ.ən"
+                            ],
+                            "us": [
+                                "pəˈtɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a document signed by a large number of people demanding or asking for some action from the government or another authority: ",
+                            "examples": [
+                                "I signed a petition against the proposed closure of the local hospital today."
+                            ]
+                        },
+                        {
+                            "explanation": "a formal letter to a law court asking for a particular legal action: ",
+                            "examples": [
+                                "She's filing a petition for divorce."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pəˈtɪʃ.ən"
+                            ],
+                            "us": [
+                                "pəˈtɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a formal request for something, especially in a law court: ",
+                            "examples": [
+                                "They're petitioning for/about better facilities for disabled people.",
+                                "I think we should petition the government to increase the grant for the project.",
+                                "She is petitioning for a re-trial."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

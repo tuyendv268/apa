@@ -1,0 +1,60 @@
+{
+    "word": "acclaim",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈkleɪm"
+                            ],
+                            "us": [
+                                "əˈkleɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "public approval and praise: ",
+                            "examples": [
+                                "Despite the critical acclaim, the novel did not sell well.",
+                                "Her first novel was published to great acclaim in 2018.",
+                                "Hamlet was played by Ion Caramitrou to rapturous acclaim."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈkleɪm"
+                            ],
+                            "us": [
+                                "əˈkleɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give public approval and praise: ",
+                            "examples": [
+                                "She was widely acclaimed for her contribution to the discovery.",
+                                "She is being acclaimed (= publicly recognized) as the greatest dancer of her generation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

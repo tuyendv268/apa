@@ -1,0 +1,41 @@
+{
+    "word": "stormy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈstɔː.mi"
+                            ],
+                            "us": [
+                                "ˈstɔːr.mi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "with strong wind, heavy rain, and often thunder and lightning: ",
+                            "examples": [
+                                "stormy weather",
+                                "The sky was dark and stormy."
+                            ]
+                        },
+                        {
+                            "explanation": "involving a lot of strong argument and shouting: ",
+                            "examples": [
+                                "a stormy debate",
+                                "They had a passionate and often stormy relationship."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

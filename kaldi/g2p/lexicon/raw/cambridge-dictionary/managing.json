@@ -1,0 +1,83 @@
+{
+    "word": "managing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmanage ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæn.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈmæn.ədʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to succeed in doing or dealing with something, especially something difficult: ",
+                            "examples": [
+                                "Did you manage to get any bread?",
+                                "I only just managed to finish on time.",
+                                "A small dog had somehow managed to survive the fire.",
+                                "I can't manage all this work on my own.",
+                                "Don't worry about us - we'll manage!",
+                                "I'm afraid I can't manage the time (= to find enough time) to see you at the moment."
+                            ]
+                        },
+                        {
+                            "explanation": "to succeed in living on a small amount of money: ",
+                            "examples": [
+                                "After she lost her job, they had to manage on his salary."
+                            ]
+                        },
+                        {
+                            "explanation": "to be able to attend or do something at a particular time: ",
+                            "examples": [
+                                "Let's meet tomorrow - I can manage 3.",
+                                "Can you manage dinner on Saturday? ",
+                                "Can't you manage any earlier?"
+                            ]
+                        },
+                        {
+                            "explanation": "to be responsible for controlling or organizing someone or something, especially a business or employees: ",
+                            "examples": [
+                                "Has she had any experience of managing large projects?",
+                                "He's not very good at managing people.",
+                                "His job involved managing large investment funds.",
+                                "When you have a job as well as children to look after, you have to learn how to manage your time."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

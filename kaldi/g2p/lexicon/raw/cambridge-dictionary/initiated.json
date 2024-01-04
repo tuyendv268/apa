@@ -1,0 +1,62 @@
+{
+    "word": "initiated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ninitiate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈnɪʃ.i.eɪt"
+                            ],
+                            "us": [
+                                "ɪˈnɪʃ.i.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause something to begin: ",
+                            "examples": [
+                                "Who initiated the violence?"
+                            ]
+                        },
+                        {
+                            "explanation": "to teach someone about an area of knowledge, or to allow someone into a group by a special ceremony: ",
+                            "examples": [
+                                "At the age of eleven, Harry was initiated into the art of golf by his father.",
+                                "Each culture had a special ritual to initiate boys into manhood."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

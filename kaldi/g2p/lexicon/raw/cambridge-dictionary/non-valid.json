@@ -1,0 +1,48 @@
+{
+    "word": "non-valid",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈvæl.ɪd"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈvæl.ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not based on truth or reason: ",
+                            "examples": [
+                                "The results of the experiment were said to be non-valid because of the inconsistent methodology employed.",
+                                "They persisted in employing the same arguments even after they had been shown to be non-valid."
+                            ]
+                        },
+                        {
+                            "explanation": "A document or computer file is non-valid if it does not meet a set of conditions, often official ones: ",
+                            "examples": [
+                                "This is a non-valid sequence of tags.",
+                                "She was fined for travelling on a train with a non-valid ticket."
+                            ]
+                        },
+                        {
+                            "explanation": "not having legal force: ",
+                            "examples": [
+                                "The contract was deemed to be non-valid.",
+                                "The lawyer claimed that the agreement had not been drafted properly and hence was non-valid."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

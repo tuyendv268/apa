@@ -1,0 +1,48 @@
+{
+    "word": "interchannel",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈtʃæn.əl"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˈtʃæn.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "between passages for water, especially rivers or areas of sea: ",
+                            "examples": [
+                                "This allowed floodwater from the channel to flow into an adjacent interchannel area. ",
+                                "Sand sedimentation on interchannel islands was the product of flash floods."
+                            ]
+                        },
+                        {
+                            "explanation": "between different electric circuits that are paths for signals : ",
+                            "examples": [
+                                "inter-channel audio signals",
+                                "The control through virtual microphones captures inter-channel time differences, in a way that is familiar to sound recording engineers."
+                            ]
+                        },
+                        {
+                            "explanation": "between ranges of frequencies for broadcasting radio and television signals: ",
+                            "examples": [
+                                "Some interchannel interference was detected.",
+                                "TV viewing in those days meant interchannel drift, picture rolling, and all sorts of other odd reception peculiarities."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

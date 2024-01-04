@@ -1,0 +1,60 @@
+{
+    "word": "piped",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npipe ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "paɪp"
+                            ],
+                            "us": [
+                                "paɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak or sing in a high voice",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to transport something in a pipe: ",
+                            "examples": [
+                                "Hot water is piped to all apartments from the central boiler room.",
+                                "Music is piped throughout the hotel complex."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "word": "triage",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtriː.ɑːʒ"
+                            ],
+                            "us": [
+                                "ˈtriː.ɑːʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of quickly examining patients who are taken to a hospital in order to decide which ones are the most seriously ill and must be treated first: ",
+                            "examples": [
+                                "The team's main job is to treat trauma victims at the scene of a disaster and perform triage. ",
+                                "The triage nurse told him he would have to wait."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of examining problems in order to decide which ones are the most serious and must be dealt with first: ",
+                            "examples": [
+                                "We are performing triage on funding requests.",
+                                "A healthy project is in a constant state of triage between bugs and feature development."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtriː.ɑːʒ"
+                            ],
+                            "us": [
+                                "ˈtriː.ɑːʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to quickly examine patients who are taken to a hospital in order to decide which ones are the most seriously ill and must be treated first: ",
+                            "examples": [
+                                "The casualties were triaged.",
+                                "Patients are triaged so that those most in need get blood first.",
+                                "The hardest thing for me was having to start triaging and treating patients in a less than ideal environment."
+                            ]
+                        },
+                        {
+                            "explanation": "to examine problems in order to decide which ones are the most serious and must be dealt with first: ",
+                            "examples": [
+                                "The job consisted of triaging stacks of burglary incident reports.",
+                                "The sheer number of claims has insurers triaging which policyholders get attention first."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

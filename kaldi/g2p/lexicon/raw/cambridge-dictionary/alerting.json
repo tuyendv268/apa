@@ -1,0 +1,55 @@
+{
+    "word": "alerting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nalert ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈlɜːt"
+                            ],
+                            "us": [
+                                "əˈlɝːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to warn someone of a possibly dangerous situation: ",
+                            "examples": [
+                                "An anonymous letter alerted police to the possibility of a terrorist attack at the airport."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

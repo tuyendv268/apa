@@ -1,0 +1,41 @@
+{
+    "word": "turbidity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tɜːˈbɪd.ə.ti"
+                            ],
+                            "us": [
+                                "tɝːˈbɪd.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a liquid) the quality or state of being cloudy because a lot of small pieces of matter are held in it: ",
+                            "examples": [
+                                "The water is treated to clear turbidity, or cloudiness, by removing sediment.",
+                                "The water is clouded by turbidity."
+                            ]
+                        },
+                        {
+                            "explanation": "the degree to which a transparent liquid moves light in different directions, usually a measurement of the number of small pieces of matter in the liquid: ",
+                            "examples": [
+                                "Measuring runoff and turbidity is costly. ",
+                                "The students tested the oxygen, temperature, and turbidity of the water. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

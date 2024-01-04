@@ -1,0 +1,47 @@
+{
+    "word": "million",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪl.jən"
+                            ],
+                            "us": [
+                                "ˈmɪl.jən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 1,000,000: ",
+                            "examples": [
+                                "The city has a population of almost a/one million.",
+                                "She got eight million dollars for appearing in that film.",
+                                "His business is worth millions of euros."
+                            ]
+                        },
+                        {
+                            "explanation": "a large number: ",
+                            "examples": [
+                                "I must have told you a million times to close the windows when you leave the house."
+                            ]
+                        },
+                        {
+                            "explanation": "numbers between 1,000,000 and 1,000,000,000: ",
+                            "examples": [
+                                "In wealthy areas, homes cost from €750,000 into the millions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

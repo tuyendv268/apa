@@ -1,0 +1,69 @@
+{
+    "word": "shielded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nshield ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʃiːld"
+                            ],
+                            "us": [
+                                "ʃiːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to protect someone or something: ",
+                            "examples": [
+                                "She held her hand above her eyes to shield them from the sun.",
+                                "They are accused of trying to shield the General from US federal investigators."
+                            ]
+                        },
+                        {
+                            "explanation": "in football, to keep your body between an opponent and the ball, with your back to the other player, to prevent them from getting the ball: ",
+                            "examples": [
+                                "We teach young players how to step in front of the defender and use their body to shield the ball."
+                            ]
+                        },
+                        {
+                            "explanation": "to protect yourself from a disease by staying at home and having as little contact as possible with people from outside your home, because you are at risk of becoming seriously ill if you get the disease: ",
+                            "examples": [
+                                "Please contact your GP if you think you should be shielding.",
+                                "Cancer patients need to shield from coronovirus. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

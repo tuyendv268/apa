@@ -1,0 +1,42 @@
+{
+    "word": "steak",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "steɪk"
+                            ],
+                            "us": [
+                                "steɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a thick, flat piece of meat or fish, especially meat from a cow: ",
+                            "examples": [
+                                "T-bone/sirloin steaks",
+                                "salmon/turkey steaks",
+                                "Shall we have steak for dinner?"
+                            ]
+                        },
+                        {
+                            "explanation": "a thick, flat piece of a vegetable such as cauliflower, or large mushrooms, cooked like a steak: ",
+                            "examples": [
+                                "The mains include hearty cauliflower steaks with roasted red peppers and salsa. ",
+                                "Mushroom steaks make a fitting part of a winter vegetarian feast."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

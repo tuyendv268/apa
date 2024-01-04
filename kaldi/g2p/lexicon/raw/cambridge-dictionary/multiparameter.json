@@ -1,0 +1,36 @@
+{
+    "word": "multiparameter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.ti.pəˈræm.ɪ.tər"
+                            ],
+                            "us": [
+                                "ˌmʌl.ti.pəˈræm.ə.t̬ɚ",
+                                "ˌmʌl.taɪ.pəˈræm.ə.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving or based on several parameters (= facts, measurements, or fixed limits): ",
+                            "examples": [
+                                "a multiparameter patient monitoring system",
+                                "You need experience analysing multiparameter data sets.",
+                                "For diagnosis we use a multi-parameter classification approach."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

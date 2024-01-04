@@ -1,0 +1,34 @@
+{
+    "word": "sentiment analysis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsen.tɪ.mənt əˌnæl.ə.sɪs"
+                            ],
+                            "us": [
+                                "ˈsen.t̬ə.mənt əˌnæl.ə.sɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of finding out people's opinions or feelings about something from things that have been written, especially from comments that people have posted on social media: ",
+                            "examples": [
+                                "We use sentiment analysis to track public opinion on our products. ",
+                                "Sentiment analysis uses machine learning to automatically identify how people are talking about a given topic. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

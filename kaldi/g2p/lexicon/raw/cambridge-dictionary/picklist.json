@@ -1,0 +1,34 @@
+{
+    "word": "picklist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɪk.lɪst"
+                            ],
+                            "us": [
+                                "ˈpɪk.lɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of things from which a user can choose: ",
+                            "examples": [
+                                "The software shows a picklist of all Memos.",
+                                "What if you needed to select from a pick-list of a million users every time you wanted to send an email to someone?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

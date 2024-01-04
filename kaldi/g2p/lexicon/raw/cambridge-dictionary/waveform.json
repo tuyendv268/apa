@@ -1,0 +1,33 @@
+{
+    "word": "waveform",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈweɪv.fɔːm"
+                            ],
+                            "us": [
+                                "ˈweɪv.fɔːrm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the curved shape of a graph (= a picture showing how two sets of information are related) that shows a wave (= the pattern in which some types of energy move): ",
+                            "examples": [
+                                "The heartbeat is measured so that various features of the waveform can be used to identify the individual whose waveform is being analyzed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

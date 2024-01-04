@@ -1,0 +1,40 @@
+{
+    "word": "non-magnetic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.mæɡˈnet.ɪk"
+                            ],
+                            "us": [
+                                "ˌnɑːn.mæɡˈnet̬.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a metal object or material) not able to attract objects or materials containing iron or steel: ",
+                            "examples": [
+                                "In the experiment, half the participants had strong magnets, while the rest had non-magnetic metal bars."
+                            ]
+                        },
+                        {
+                            "explanation": "not able to be attracted by a magnet (= an object that is able to attract iron and steel objects): ",
+                            "examples": [
+                                "The metal detector is able to detect firearms in magnetic and non-magnetic metals and mixed alloys.",
+                                "A copper rod is used because it is a nonmagnetic material."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "shopping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃɒp.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈʃɑː.pɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the activity of buying things from shops: ",
+                            "examples": [
+                                "I'm going shopping this afternoon.",
+                                "My granddaughter does my weekly shopping for me.",
+                                "The store is open for late night shopping on Wednesdays.",
+                                "Christmas shopping"
+                            ]
+                        },
+                        {
+                            "explanation": "goods that you have bought from shops, especially food: ",
+                            "examples": [
+                                "She had so many bags of shopping that she could hardly carry them.",
+                                "I forgot my shopping list."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

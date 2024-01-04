@@ -1,0 +1,99 @@
+{
+    "word": "null",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "nʌl"
+                            ],
+                            "us": [
+                                "nʌl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having no legal force: ",
+                            "examples": [
+                                "The 1944 contract has since been declared null and void.",
+                                "About 200 marriages in the diocese were declared null last year.",
+                                "Buyout terms become null if the company has not broken ground for a new stadium by July 1."
+                            ]
+                        },
+                        {
+                            "explanation": "with no value or effect: ",
+                            "examples": [
+                                "Will these null findings change anyone's opinion of ESP?",
+                                "Four decades of a null result should tell us something about the hypothesis that there are intelligent civilizations in space."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a set or matrix) containing nothing or containing only zeros: ",
+                            "examples": [
+                                "A matrix having all its elements zero is said to be null and is written 0.",
+                                "Failed searches are defined as null set results."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "nʌl"
+                            ],
+                            "us": [
+                                "nʌl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an empty value or a zero: ",
+                            "examples": [
+                                "Flags may be used to prevent nulls by bringing attention to the absence of a value in a table.",
+                                "He took down the lengthy list of produce prices and eradicated the zeros or \"nulls\"."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "nʌl"
+                            ],
+                            "us": [
+                                "nʌl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove the effect of one thing by doing another thing that has the opposite effect: ",
+                            "examples": [
+                                "Used in very small quantities, the digestive aid nulls this effect and adds a wonderful aroma to the vegetables.",
+                                "The deflection of the gyro spin axis is detected and nulled by the stabilization loops. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

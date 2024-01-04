@@ -1,0 +1,33 @@
+{
+    "word": "i've",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "aɪv"
+                            ],
+                            "us": [
+                                "aɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short form of I have: ",
+                            "examples": [
+                                "I've been waiting an hour already."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

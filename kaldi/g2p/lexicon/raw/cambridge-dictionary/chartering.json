@@ -1,0 +1,61 @@
+{
+    "word": "chartering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncharter ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʃɑː.tər"
+                            ],
+                            "us": [
+                                "ˈtʃɑːr.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to rent a vehicle, especially an aircraft, for a special use and not as part of a regular service: ",
+                            "examples": [
+                                "They've chartered a plane to take delegates to the conference."
+                            ]
+                        },
+                        {
+                            "explanation": "to officially start a new organization by giving it a charter: ",
+                            "examples": [
+                                "Cambridge University Press was chartered in 1534."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "trooping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ntroop ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "truːp"
+                            ],
+                            "us": [
+                                "truːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to walk somewhere in a large group, usually with one person behind another: ",
+                            "examples": [
+                                "The little boys trooped after him across the playing fields.",
+                                "The Norwich fans gave their team a loud cheer as they trooped off the field.",
+                                "None of us knew what to expect as we trooped into her office."
+                            ]
+                        },
+                        {
+                            "explanation": "to travel somewhere as a group, especially when told to: ",
+                            "examples": [
+                                "We all trooped down to London for the meeting."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

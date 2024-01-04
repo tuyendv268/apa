@@ -1,0 +1,34 @@
+{
+    "word": "background variable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌbæk.ɡraʊnd ˈveə.ri.ə.bəl"
+                            ],
+                            "us": [
+                                "ˌbæk.ɡraʊnd ˈver.i.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a factor (= fact or situation) that can affect other values in a scientific study, but cannot be affected by those values: ",
+                            "examples": [
+                                "Several background variables were considered in the research.",
+                                "The groups that we studied did not differ in any of the background variables. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

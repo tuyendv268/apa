@@ -1,0 +1,67 @@
+{
+    "word": "consumable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "kənˈsjuː.mə.bəl"
+                            ],
+                            "us": [
+                                "kənˈsuː.mə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "bought regularly because of being quickly used and needing to be replaced often: ",
+                            "examples": [
+                                "Consumable items such as groceries and petrol should be paid for with cash or a debit card."
+                            ]
+                        },
+                        {
+                            "explanation": "possible to eat, drink, or use up completely: ",
+                            "examples": [
+                                "Some of the items in the shop are consumable within the museum."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈsjuː.mə.bəl"
+                            ],
+                            "us": [
+                                "kənˈsuː.mə.bəl"
+                            ],
+                            "uk_other_tense": [
+                                "kənˈsjuː.mə.bəlz"
+                            ],
+                            "us_other_tense": [
+                                "kənˈsuː.mə.bəlz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Consumables are goods, especially food or services, that people buy regularly because they are quickly used and need to be replaced often: ",
+                            "examples": [
+                                "At this hospital we use up bandages, disposable gloves, and other consumables very quickly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

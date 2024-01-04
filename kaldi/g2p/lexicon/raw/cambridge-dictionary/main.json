@@ -1,0 +1,88 @@
+{
+    "word": "main",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "meɪn"
+                            ],
+                            "us": [
+                                "meɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "larger, more important, or having more influence than others of the same type: ",
+                            "examples": [
+                                "The main thing is not to worry.",
+                                "One of the main reasons I came to England was to study the language.",
+                                "You'll find the main points of my proposal in the report.",
+                                "Our main aim/objective is to improve the company's productivity.",
+                                "The main problem is a lack of resources.",
+                                "My main concern about moving to San Fransisco is the cost of housing."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "meɪn"
+                            ],
+                            "us": [
+                                "meɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large pipe that carries water or gas, or a wire carrying electricity, from one place to another, to which a house can be connected: ",
+                            "examples": [
+                                "a gas main",
+                                "The severe cold caused a water main to burst and flood the street."
+                            ]
+                        },
+                        {
+                            "explanation": "the system of pipes or wires that carry water or electricity into a house, or the pipes that carry sewage away from a house: ",
+                            "examples": [
+                                "The house isn't on the mains."
+                            ]
+                        },
+                        {
+                            "explanation": "the place at which outside pipes or wires carrying water, electricity, etc. connect with the system inside a house or building: ",
+                            "examples": [
+                                "Switch off the electricity at the mains before starting work."
+                            ]
+                        },
+                        {
+                            "explanation": "the largest or most important part of a meal when the different parts of the meal are served separately: ",
+                            "examples": [
+                                "We each had different entrees and different mains.",
+                                "For my main, I went with the tiger prawn penne pasta."
+                            ]
+                        },
+                        {
+                            "explanation": "generally or mostly: ",
+                            "examples": [
+                                "Her friends are teachers in the main."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

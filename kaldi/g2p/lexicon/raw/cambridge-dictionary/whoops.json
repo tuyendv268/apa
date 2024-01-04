@@ -1,0 +1,33 @@
+{
+    "word": "whoops",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "wʊps"
+                            ],
+                            "us": [
+                                "wʊps"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an expression of surprise or feeling sorry about a mistake or slight accident: ",
+                            "examples": [
+                                "Whoops! That's the second time I've spilled coffee today!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

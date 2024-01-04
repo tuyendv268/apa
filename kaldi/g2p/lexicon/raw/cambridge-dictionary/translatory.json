@@ -1,0 +1,41 @@
+{
+    "word": "translatory",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "trænzˈleɪ.tər.i"
+                            ],
+                            "us": [
+                                "ˈtrænz.lə.tɔːr.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to or involving movement from one place to another without any other change of direction or movement such as rotation: ",
+                            "examples": [
+                                "The two systems are in uniform translatory motion relative to each other.",
+                                "The Earth's rotation carries the object alternately in and against the direction of translatory movement."
+                            ]
+                        },
+                        {
+                            "explanation": "involving a change of words from one language to another : ",
+                            "examples": [
+                                "I would like to thank Maria Ibanez for providing translatory help.",
+                                "Turning this text into readable English was quite a challenge to my translatory skills."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

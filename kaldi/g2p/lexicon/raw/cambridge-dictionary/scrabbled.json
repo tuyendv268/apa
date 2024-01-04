@@ -1,0 +1,68 @@
+{
+    "word": "scrabbled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nscrabble ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈskræb.əl"
+                            ],
+                            "us": [
+                                "ˈskræb.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use your fingers to quickly find something that you cannot see: ",
+                            "examples": [
+                                "He was scrabbling in the sand searching for the ring."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to get something quickly that is not easily available: ",
+                            "examples": [
+                                "The government is scrabbling around for ways to raise revenue without putting up taxes."
+                            ]
+                        },
+                        {
+                            "explanation": "to climb quickly and without care: ",
+                            "examples": [
+                                "Paul scrabbled up the cliff, dislodging several small stones.",
+                                "We were scrabbling over the rocks as fast as we could."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "cookie",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkʊk.i"
+                            ],
+                            "us": [
+                                "ˈkʊk.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small, flat, sweet food made from flour and sugar: ",
+                            "examples": [
+                                "chocolate-chip cookies"
+                            ]
+                        },
+                        {
+                            "explanation": "a person of the type mentioned: ",
+                            "examples": [
+                                "She's a smart/tough cookie."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of information stored on your computer about internet documents that you have looked at",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

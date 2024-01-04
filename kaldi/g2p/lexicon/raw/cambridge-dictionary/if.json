@@ -1,0 +1,99 @@
+{
+    "word": "if",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "ɪf"
+                            ],
+                            "us": [
+                                "ɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to say that a particular thing can or will happen only after something else happens or becomes true: ",
+                            "examples": [
+                                "I'll pay you double if you get the work finished by Friday.",
+                                "We'll have the party in the garden if the weather's good. If not (= if the weather is not good), it'll have to be inside.",
+                                "If anyone calls, just say I'll be back in the office at four o'clock.",
+                                "If she hadn't called, I wouldn't have known.",
+                                "I wouldn't work for them (even) if they paid me twice my current salary.",
+                                "We'll deal with that problem if and when it arises.",
+                                "If disturbed, the bird may abandon the nest, leaving the chicks to die."
+                            ]
+                        },
+                        {
+                            "explanation": "although: ",
+                            "examples": [
+                                "They're great kids, even if they can be demanding.",
+                                "It was a hot, if windy day."
+                            ]
+                        },
+                        {
+                            "explanation": "every time: ",
+                            "examples": [
+                                "If water is heated to 100°C it turns to steam.",
+                                "If I don't get enough sleep I get a headache."
+                            ]
+                        },
+                        {
+                            "explanation": "used to mean \"if it is true that\": ",
+                            "examples": [
+                                "I'm very sorry if I've offended you."
+                            ]
+                        },
+                        {
+                            "explanation": "used to introduce a clause, often in indirect speech, that shows two or more possibilities: ",
+                            "examples": [
+                                "Mrs Kramer called half an hour ago to ask if her cake was ready.",
+                                "I don't care if he likes it or not - I'm coming!",
+                                "I was wondering if you'd like to come to the cinema with me this evening?"
+                            ]
+                        },
+                        {
+                            "explanation": "used when you want to make a polite request or remark: ",
+                            "examples": [
+                                "If you'd like to take a seat, Mr Chang will be with you in a moment.",
+                                "Would you mind if I open/opened (= can I open) the window?",
+                                "There are, if you don't mind me saying so, one or two problems with this plan."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪf"
+                            ],
+                            "us": [
+                                "ɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is not certain or not yet decided: ",
+                            "examples": [
+                                "There's a big if hanging over the project (= it is uncertain whether the project will happen)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

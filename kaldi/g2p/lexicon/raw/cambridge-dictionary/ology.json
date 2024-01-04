@@ -1,0 +1,62 @@
+{
+    "word": "ology",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒl.ə.dʒi"
+                            ],
+                            "us": [
+                                "ˈɑː.lə.dʒi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a subject that is studied at school, college, or university and is thought to need a large amount of special knowledge: ",
+                            "examples": [
+                                "\"What's his new girlfriend studying?\" \"Oh, some ology or other. Pharmacology, I think.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -ɒl.ə.dʒi"
+                            ],
+                            "us": [
+                                " -ɑː.lə.dʒi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the scientific study of a particular subject: ",
+                            "examples": [
+                                "geology",
+                                "climatology"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

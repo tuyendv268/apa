@@ -1,0 +1,33 @@
+{
+    "word": "radar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈreɪ.dɑːr"
+                            ],
+                            "us": [
+                                "ˈreɪ.dɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system that uses radio waves to find the position of objects that cannot be seen: ",
+                            "examples": [
+                                "Other vessels in the area show up on the ship's radar (screen)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

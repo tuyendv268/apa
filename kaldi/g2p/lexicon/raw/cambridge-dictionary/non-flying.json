@@ -1,0 +1,41 @@
+{
+    "word": "non-flying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈflaɪ.ɪŋ"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈflaɪ.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A non-flying bird, insect, or animal is not able to fly: ",
+                            "examples": [
+                                "The flightless cormorant is the only example of a non-flying cormorant in the world.",
+                                "Certain species of moth are wingless and hence non-flying."
+                            ]
+                        },
+                        {
+                            "explanation": "not travelling by or controlling an aircraft: ",
+                            "examples": [
+                                "Non-flying tourists are forced to take a 12-hour journey by ferry",
+                                "Pilots have requested that they are paid for non-flying hours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

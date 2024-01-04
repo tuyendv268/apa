@@ -1,0 +1,35 @@
+{
+    "word": "owl",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "aʊl"
+                            ],
+                            "us": [
+                                "aʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a bird with a flat face and large eyes that hunts small mammals at night",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a person who likes to stay up late at night",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

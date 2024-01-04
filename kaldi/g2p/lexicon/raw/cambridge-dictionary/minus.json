@@ -1,0 +1,108 @@
+{
+    "word": "minus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "ˈmaɪ.nəs"
+                            ],
+                            "us": [
+                                "ˈmaɪ.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "reduced by a stated number: ",
+                            "examples": [
+                                "What is 57 minus 39?",
+                                "That will be $1,500, minus the deposit of $150 that you already paid."
+                            ]
+                        },
+                        {
+                            "explanation": "without, or lacking: ",
+                            "examples": [
+                                "We're minus a chair for Elsa - could you get one from the other room?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmaɪ.nəs"
+                            ],
+                            "us": [
+                                "ˈmaɪ.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a disadvantage or a bad feature: ",
+                            "examples": [
+                                "Having to travel such a long way to work is a definite minus."
+                            ]
+                        },
+                        {
+                            "explanation": "the (-) sign, written between two numbers to show that the second number should be taken away from the first, or in front of one number to show that it has a value of less than 0",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmaɪ.nəs"
+                            ],
+                            "us": [
+                                "ˈmaɪ.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A minus number or amount is less than zero.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "used to show that temperatures are less than zero: ",
+                            "examples": [
+                                "Temperatures could fall to minus eight tonight."
+                            ]
+                        },
+                        {
+                            "explanation": "used after a mark given to written work to mean that it is of a slightly lower standard than that mark: ",
+                            "examples": [
+                                "I got A minus for my English homework."
+                            ]
+                        },
+                        {
+                            "explanation": "used to describe a disadvantage or bad point: ",
+                            "examples": [
+                                "One of the minus points of working at home is not having social contact with colleagues."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "word": "washed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nwash ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "wɒʃ"
+                            ],
+                            "us": [
+                                "wɑːʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to clean something using water: ",
+                            "examples": [
+                                "wash your hair/hands",
+                                "wash the car/clothes/floor",
+                                "These sheets need washing.",
+                                "I'll wash the bottle out (= clean its inside) and use it again."
+                            ]
+                        },
+                        {
+                            "explanation": "to clean yourself, or a part of yourself, with water and usually soap: ",
+                            "examples": [
+                                "I'd like to wash before dinner."
+                            ]
+                        },
+                        {
+                            "explanation": "If a particular material or piece of clothing washes well, it is not damaged or spoiled by repeated washing.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If water washes somewhere, it flows there, usually repeatedly: ",
+                            "examples": [
+                                "She stood on the shore and let the water wash over her tired feet."
+                            ]
+                        },
+                        {
+                            "explanation": "(of the sea) to carry something or someone to or away from a place: ",
+                            "examples": [
+                                "Overnight the waves had washed up a lot of rubbish.",
+                                "More than 400 dead dolphins had been washed ashore.",
+                                "A Spanish crew member had been washed overboard (= carried off a ship into the sea by the force of the water) in the storm."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

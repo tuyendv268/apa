@@ -1,0 +1,63 @@
+{
+    "word": "cowardly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkaʊ.əd.li"
+                            ],
+                            "us": [
+                                "ˈkaʊ.ɚd.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a person) not at all brave and too eager to avoid danger, difficulty, or pain : ",
+                            "examples": [
+                                "He was too cowardly to give the order.",
+                                "When they criticize us anonymously they come across as cowardly.",
+                                "These are not cowardly people, but they are cautious."
+                            ]
+                        },
+                        {
+                            "explanation": "(of an action) showing that someone is not at all brave and is too eager to avoid danger, difficulty, or pain: ",
+                            "examples": [
+                                "This was a particularly brutal and cowardly attack.",
+                                "They are guilty of a cowardly failure to address the problem.",
+                                "It was cowardly not to own up to the mistake."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that shows someone is not at all brave and is too eager to avoid danger, difficulty, or pain: ",
+                            "examples": [
+                                "We will not retreat or act cowardly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "bread",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bred"
+                            ],
+                            "us": [
+                                "bred"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a food made from flour, water, and usually yeast, mixed together and baked: ",
+                            "examples": [
+                                "She went to the store to get a loaf of bread.",
+                                "He ate his soup with a slice of bread.",
+                                "wholemeal (US wholewheat) bread",
+                                "sliced bread",
+                                "This bread was fresh yesterday but is now stale.",
+                                "Do you bake your own bread?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

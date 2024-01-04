@@ -1,0 +1,71 @@
+{
+    "word": "launching",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nlaunch ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "lɔːntʃ"
+                            ],
+                            "us": [
+                                "lɑːntʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to begin something such as a plan or introduce something new such as a product: ",
+                            "examples": [
+                                "The programme was launched a year ago.",
+                                "The airline will launch its new transatlantic service next month.",
+                                "A devastating attack was launched on the rebel stronghold.",
+                                "After working for the company for several years she decided to launch out on her own and set up in business."
+                            ]
+                        },
+                        {
+                            "explanation": "to send something out, such as a new ship into the water or a spacecraft into space: ",
+                            "examples": [
+                                "A spokesman for the dockyard said they hoped to launch the first submarine within two years.",
+                                "to launch a missile"
+                            ]
+                        },
+                        {
+                            "explanation": "to jump with great force: ",
+                            "examples": [
+                                "The defender launched himself at the attacking player, bringing him to the ground."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

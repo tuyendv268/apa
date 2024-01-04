@@ -1,0 +1,62 @@
+{
+    "word": "looping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nloop ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "luːp"
+                            ],
+                            "us": [
+                                "luːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a loop or curve: ",
+                            "examples": [
+                                "Loop the rope over the bar.",
+                                "Turn left where the road loops round the farm buildings."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a short piece of recorded music) to be repeated all through a song or part of a song: ",
+                            "examples": [
+                                "The sample is automatically looped to repeat continuously until you tell it to stop."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

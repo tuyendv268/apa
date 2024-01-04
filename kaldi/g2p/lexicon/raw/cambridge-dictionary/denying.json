@@ -1,0 +1,91 @@
+{
+    "word": "denying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndeny ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈnaɪ"
+                            ],
+                            "us": [
+                                "dɪˈnaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say that something is not true: ",
+                            "examples": [
+                                "He will not confirm or deny the allegations.",
+                                "Neil denies that he broke the window, but I'm sure he did.",
+                                "Neil denies breaking the window."
+                            ]
+                        },
+                        {
+                            "explanation": "it is true: ",
+                            "examples": [
+                                "There's no denying that this has been a difficult year for the company."
+                            ]
+                        },
+                        {
+                            "explanation": "to not allow someone to have or do something: ",
+                            "examples": [
+                                "Her request for time off work was denied.",
+                                "No one should be denied a good education./A good education should be denied to no one.",
+                                "The goalkeeper denied him his third goal.",
+                                "I was denied the opportunity of learning French at school."
+                            ]
+                        },
+                        {
+                            "explanation": "to not admit that you have knowledge, responsibility, feelings, etc.: ",
+                            "examples": [
+                                "He denied all responsibility for the rumours which have been circulating.",
+                                "Even under torture, he refused to deny his beliefs/faith."
+                            ]
+                        },
+                        {
+                            "explanation": "to not allow yourself to have or do things: ",
+                            "examples": [
+                                "Many parents deny themselves so that their children can have the best."
+                            ]
+                        },
+                        {
+                            "explanation": "to refuse to admit that you have any connection with something or someone: ",
+                            "examples": [
+                                "She has denied her family and refuses to have any contact with them."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

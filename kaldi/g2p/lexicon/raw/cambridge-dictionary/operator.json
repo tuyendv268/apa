@@ -1,0 +1,53 @@
+{
+    "word": "operator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒp.ər.eɪ.tər"
+                            ],
+                            "us": [
+                                "ˈɑː.pə.reɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone whose job is to use and control a machine or vehicle: ",
+                            "examples": [
+                                "a computer operator"
+                            ]
+                        },
+                        {
+                            "explanation": "a company that does a particular type of business: ",
+                            "examples": [
+                                "a tour operator"
+                            ]
+                        },
+                        {
+                            "explanation": "a person who helps to connect people on a phone system",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "someone who is skilled at dealing with people and getting what he or she wants from a situation: ",
+                            "examples": [
+                                "He has shown himself to be a canny operator in wage negotiations."
+                            ]
+                        },
+                        {
+                            "explanation": "a symbol that does something to a number or quantity in a calculation. For example, in 7 + y, the symbol + is the operator ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

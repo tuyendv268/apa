@@ -1,0 +1,59 @@
+{
+    "word": "decrease",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdiː.kriːs"
+                            ],
+                            "us": [
+                                "ˈdiː.kriːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to become less, or to make something become less: ",
+                            "examples": [
+                                "Our share of the market has decreased sharply this year.",
+                                "We have decreased our involvement in children's books."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdiː.kriːs"
+                            ],
+                            "us": [
+                                "ˈdiː.kriːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a reduction: ",
+                            "examples": [
+                                "There has been a steady decrease in the number of visitors.",
+                                "I haven't noticed much decrease in interest."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

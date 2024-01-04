@@ -1,0 +1,63 @@
+{
+    "word": "mannered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæn.əd"
+                            ],
+                            "us": [
+                                "ˈmæn.ɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A mannered style of speech or behaviour is artificial, or intended to achieve a particular effect: ",
+                            "examples": [
+                                "His performance as Hamlet was criticized for being very mannered."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -mæn.əd"
+                            ],
+                            "us": [
+                                " -ɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe a person with the behaviour or character of the stated type: ",
+                            "examples": [
+                                "a bad-mannered boy",
+                                "He was a mild-mannered (= gentle and calm) young man.",
+                                "I noticed how well-mannered her children were."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

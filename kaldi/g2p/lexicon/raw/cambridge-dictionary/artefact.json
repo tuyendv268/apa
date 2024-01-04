@@ -1,0 +1,48 @@
+{
+    "word": "artefact",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑː.tə.fækt"
+                            ],
+                            "us": [
+                                "ˈɑːr.t̬ə.fækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an object that has been made by a person, such as a tool or a decoration, especially one that is of historical interest: ",
+                            "examples": [
+                                "The museum's collection includes artefacts dating back to prehistoric times.",
+                                "The house displays a number of paintings of the poet, as well as his typewriter and other personal artefacts."
+                            ]
+                        },
+                        {
+                            "explanation": "something that is seen in a scientific experiment or study that does not exist naturally, but has been caused by the way the experiment or study is done: ",
+                            "examples": [
+                                "It should be remembered that a \"household\" is a statistical artefact created by data limitations.",
+                                "Getting the data from two different groups provided a check on whether the results are an artefact of cultural differences, or if they are universal."
+                            ]
+                        },
+                        {
+                            "explanation": "a fault in a digital image or in data that appears as a result of the methods used to create it: ",
+                            "examples": [
+                                "Digital systems allow manipulation such as the removal of artefacts.",
+                                "MPEG artefacts are not an issue in this transfer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

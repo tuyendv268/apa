@@ -1,0 +1,41 @@
+{
+    "word": "football player",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfʊt.bɔːl ˌpleɪ.ər"
+                            ],
+                            "us": [
+                                "ˈfʊt.bɔːl ˌpleɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who plays football, especially as a job: ",
+                            "examples": [
+                                "Lionel Messi is one of the best football players in the world.",
+                                "Why are so few English football players playing for teams from other countries?"
+                            ]
+                        },
+                        {
+                            "explanation": "a person who plays American football, especially as a job: ",
+                            "examples": [
+                                "He was an all-state football player as a high school senior.",
+                                "Many football players suffer in later life as a result of brain injuries they received during their careers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

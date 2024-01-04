@@ -1,0 +1,41 @@
+{
+    "word": "iced tea",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌaɪst ˈtiː"
+                            ],
+                            "us": [
+                                "ˌaɪst ˈtiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "tea that is served cold, sometimes with ice, or a glass of this drink: ",
+                            "examples": [
+                                "Let me pour you some iced tea.",
+                                "Can I have an iced tea, please?"
+                            ]
+                        },
+                        {
+                            "explanation": "cold tea with a sweet flavour such as peach or lemon added and sold in cans or bottles, or a glass, can, or bottle of this drink: ",
+                            "examples": [
+                                "a bottle of peach ice tea",
+                                "I'll have two cans of soda and an iced tea, please."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

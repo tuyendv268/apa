@@ -1,0 +1,41 @@
+{
+    "word": "non-infectious",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.ɪnˈfek.ʃəs"
+                            ],
+                            "us": [
+                                "ˌnɑːn.ɪnˈfek.ʃəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a disease) not able to be passed from one person, animal, or plant to another: ",
+                            "examples": [
+                                "The public awareness campaign focused on chronic, non-infectious diseases such as cancer and heart disease.",
+                                "A fever may be present in both infectious and non-infectious conditions."
+                            ]
+                        },
+                        {
+                            "explanation": "not able to pass on a disease: ",
+                            "examples": [
+                                "All such patients must be placed in isolation until they are confirmed to be non-infectious.",
+                                "Non-infectious cases were treated in a separate part of the hospital."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

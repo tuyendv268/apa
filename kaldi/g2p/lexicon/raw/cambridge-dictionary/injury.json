@@ -1,0 +1,36 @@
+{
+    "word": "injury",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.dʒər.i"
+                            ],
+                            "us": [
+                                "ˈɪn.dʒər.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "physical harm or damage to someone's body caused by an accident or an attack: ",
+                            "examples": [
+                                "a head/back/knee injury",
+                                "Several train passengers received/sustained serious injuries in the crash.",
+                                "Injuries to the spine are common among these workers.",
+                                "They were lucky to escape (without) injury."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

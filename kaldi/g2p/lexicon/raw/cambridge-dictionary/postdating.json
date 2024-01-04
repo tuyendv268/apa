@@ -1,0 +1,62 @@
+{
+    "word": "postdating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npostdate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌpəʊstˈdeɪt",
+                                "ˈpəʊst.deɪt"
+                            ],
+                            "us": [
+                                "ˌpoʊstˈdeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to happen or exist after something: ",
+                            "examples": [
+                                "Most manuscripts postdate the stories that have circulated by word of mouth for centuries."
+                            ]
+                        },
+                        {
+                            "explanation": "to write a date on a document, such as a cheque or letter, that is later than the date on which you are writing it, usually to get some advantage: ",
+                            "examples": [
+                                "Luckily, she let me postdate the cheque until the end of the month when I get paid."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

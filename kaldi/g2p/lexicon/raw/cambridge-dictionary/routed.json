@@ -1,0 +1,62 @@
+{
+    "word": "routed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nroute ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ruːt"
+                            ],
+                            "us": [
+                                "ruːt",
+                                "raʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send something somewhere using a particular way or direction: ",
+                            "examples": [
+                                "Deliveries are routed via/by way of London."
+                            ]
+                        },
+                        {
+                            "explanation": "to send information from one computer network to another: ",
+                            "examples": [
+                                "When a customer buys, the purchase order is routed via the internet to each supplier's personal Web page."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

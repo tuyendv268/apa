@@ -1,0 +1,107 @@
+{
+    "word": "guess",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡes"
+                            ],
+                            "us": [
+                                "ɡes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give an answer to a particular question when you do not have all the facts and so cannot be certain if you are correct: ",
+                            "examples": [
+                                "I didn't know the answer, so I had to guess.",
+                                "On the last question, she guessed right/wrong.",
+                                "Guess when this was built.",
+                                "I guessed (that) she was your sister.",
+                                "She asked me to guess her age.",
+                                "I guessed the total amount to be about £50,000."
+                            ]
+                        },
+                        {
+                            "explanation": "to give the correct answer or make the correct judgment: ",
+                            "examples": [
+                                "I bet you can't guess how old he is.",
+                                "She guessed the answer on her first try.",
+                                "\"You have a new job, don't you?\" \"Yes, how did you guess?\""
+                            ]
+                        },
+                        {
+                            "explanation": "used before telling someone something interesting or surprising: ",
+                            "examples": [
+                                "Guess what? We won the game 4–0."
+                            ]
+                        },
+                        {
+                            "explanation": "used when you believe something is true or likely but are not certain: ",
+                            "examples": [
+                                "I guess (that) things are pretty hard for you now.",
+                                "I guess I should start looking for a lawyer.",
+                                "It's been four or five weeks, I guess, since I last spoke to her.",
+                                "I guess most people know about their breakup by now.",
+                                "\"Do you like sushi?\" \"I guess? I've only had it once.\""
+                            ]
+                        },
+                        {
+                            "explanation": "used to show agreement, but not very strong agreement: ",
+                            "examples": [
+                                "That would be okay, I guess.",
+                                "I stand corrected, I guess."
+                            ]
+                        },
+                        {
+                            "explanation": "used to say what you are probably going to do: ",
+                            "examples": [
+                                "I guess I'd better get dressed.",
+                                "I'll ask the teacher in the morning I guess."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡes"
+                            ],
+                            "us": [
+                                "ɡes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an attempt to give the right answer when you are not certain if you are correct: ",
+                            "examples": [
+                                "Go on - have/make a guess.",
+                                "Both teams made some wild guesses (= made without much thought), none of which were right."
+                            ]
+                        },
+                        {
+                            "explanation": "someone's opinion about something that is formed without any knowledge of the situation: ",
+                            "examples": [
+                                "\"I wonder why she's not here.\" \"My guess is that her car has broken down.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

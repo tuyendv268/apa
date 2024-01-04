@@ -1,0 +1,69 @@
+{
+    "word": "cleaned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nclean ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kliːn"
+                            ],
+                            "us": [
+                                "kliːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove dirt from something: ",
+                            "examples": [
+                                "I'm going to clean the windows this morning.",
+                                "You should always clean your teeth after meals.",
+                                "Would you clean the fingermarks from/off the door?",
+                                "He asked her to help him clean out the stables."
+                            ]
+                        },
+                        {
+                            "explanation": "to become clean: ",
+                            "examples": [
+                                "This carpet doesn't clean very well.",
+                                "I hope these bloodstains will clean off my shirt."
+                            ]
+                        },
+                        {
+                            "explanation": "to prepare a fish or an animal killed for food by removing the inside parts of it that are not eaten",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

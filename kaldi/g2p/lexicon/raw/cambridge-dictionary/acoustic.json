@@ -1,0 +1,63 @@
+{
+    "word": "acoustic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈkuː.stɪk"
+                            ],
+                            "us": [
+                                "əˈkuː.stɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to sound or hearing: ",
+                            "examples": [
+                                "The microphone converts acoustic waves to electrical signals for transmission."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a musical instrument that is not made louder by electrical equipment: ",
+                            "examples": [
+                                "an acoustic guitar"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈkuː.stɪk"
+                            ],
+                            "us": [
+                                "əˈkuː.stɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the way in which the structure of a building or room affects the qualities of musical or spoken sound: ",
+                            "examples": [
+                                "The concert was recorded in a church that is famous for its acoustics."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

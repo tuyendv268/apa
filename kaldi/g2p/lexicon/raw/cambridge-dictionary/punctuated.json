@@ -1,0 +1,60 @@
+{
+    "word": "punctuated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npunctuate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpʌŋk.tʃuː.eɪt"
+                            ],
+                            "us": [
+                                "ˈpʌŋk.tuː.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add punctuation marks (= symbols) to writing so that people can see when a sentence starts and finishes, see that something is a question, etc.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to happen or cause something to happen repeatedly while something else is happening; to interrupt something repeatedly: ",
+                            "examples": [
+                                "The president spoke at length in a speech punctuated by applause.",
+                                "He chatted freely, punctuating his remarks as often as possible with the interviewer's first name."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "noise",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "nɔɪz"
+                            ],
+                            "us": [
+                                "nɔɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sound or sounds, especially when it is unwanted, unpleasant, or loud: ",
+                            "examples": [
+                                "The noise out in the street was deafening.",
+                                "I heard a loud noise and ran to the window.",
+                                "traffic/background noise",
+                                "dangerously high noise levels"
+                            ]
+                        },
+                        {
+                            "explanation": "any bad change in a signal, especially in a signal produced by an electronic device: ",
+                            "examples": [
+                                "Using a single chip reduces (the) noise on the output signal by 90 percent."
+                            ]
+                        },
+                        {
+                            "explanation": "unexplained or unexpected information in a sample that is not useful and that can be ignored: ",
+                            "examples": [
+                                "There will be a certain amount of statistical noise in the numbers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

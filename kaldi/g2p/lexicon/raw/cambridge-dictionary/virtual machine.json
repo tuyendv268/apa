@@ -1,0 +1,29 @@
+{
+    "word": "virtual machine",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a computer system that is created by software on one computer to copy the operations performed by a separate computer: ",
+                            "examples": [
+                                "Because you are not creating a storage file the virtual machine will take up very little space on your system."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

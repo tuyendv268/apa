@@ -1,0 +1,41 @@
+{
+    "word": "announce",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈnaʊns"
+                            ],
+                            "us": [
+                                "əˈnaʊns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something known or tell people about something officially: ",
+                            "examples": [
+                                "They announced the death of their mother in the local paper.",
+                                "She announced the winner of the competition to an excited audience.",
+                                "The prime minister has announced that public spending will be increased next year."
+                            ]
+                        },
+                        {
+                            "explanation": "to show that something is going to happen: ",
+                            "examples": [
+                                "The first few leaves in the gutter announced the beginning of autumn."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "album",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæl.bəm"
+                            ],
+                            "us": [
+                                "ˈæl.bəm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a collection of several pieces of music, made available as a single item on a CD, the internet, etc.: ",
+                            "examples": [
+                                "Have you heard their new album?"
+                            ]
+                        },
+                        {
+                            "explanation": "a book with plain pages, used for collecting together and protecting stamps, photographs, etc.: ",
+                            "examples": [
+                                "a stamp/photograph album",
+                                "We've put the best wedding photos into an album."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

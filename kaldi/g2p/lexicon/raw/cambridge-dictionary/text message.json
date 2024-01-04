@@ -1,0 +1,33 @@
+{
+    "word": "text message",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtekst ˌmes.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈtekst ˌmes.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a written message, often containing short forms of words, sent from one mobile phone or pager to another: ",
+                            "examples": [
+                                "He sent me a text message to say he would be late."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

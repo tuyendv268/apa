@@ -1,0 +1,34 @@
+{
+    "word": "backend stack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌbæk.end ˈstæk"
+                            ],
+                            "us": [
+                                "ˌbæk.end ˈstæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the parts of the hardware, software, programming languages, operating system, etc. in a mobile app or website that the user does not interact with (= use directly) but that are necessary for the app, website, etc. to work: ",
+                            "examples": [
+                                "A tech stack consists of two equally important elements: the frontend stack (client-side) and backend stack (server-side).",
+                                "The server-side of software development is the backend tech stack."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "word": "corrupt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "kəˈrʌpt"
+                            ],
+                            "us": [
+                                "kəˈrʌpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "dishonestly using your position or power to get an advantage, especially for money: ",
+                            "examples": [
+                                "Both companies are under investigation for corrupt practices.",
+                                "The whole system was corrupt - every official she approached wanted money before helping her."
+                            ]
+                        },
+                        {
+                            "explanation": "morally bad: ",
+                            "examples": [
+                                "a corrupt society"
+                            ]
+                        },
+                        {
+                            "explanation": "When information on a computer becomes corrupt, it cannot be used because it has changed and become wrong: ",
+                            "examples": [
+                                "corrupt data",
+                                "a corrupt file"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəˈrʌpt"
+                            ],
+                            "us": [
+                                "kəˈrʌpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone or something become dishonest or immoral: ",
+                            "examples": [
+                                "The study claimed that violence on television corrupts the minds of children."
+                            ]
+                        },
+                        {
+                            "explanation": "to change information on a computer so that it is wrong and cannot be used: ",
+                            "examples": [
+                                "Most of the data on the hard drive was corrupted when the power went out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

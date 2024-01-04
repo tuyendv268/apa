@@ -1,0 +1,38 @@
+{
+    "word": "mycosis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "maɪˈkəʊ.sɪs"
+                            ],
+                            "us": [
+                                "maɪˈkoʊ.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "maɪˈkəʊ.siːz"
+                            ],
+                            "us_other_tense": [
+                                "maɪˈkoʊ.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a disease or infection caused by a fungus (= an organism that gets its food from decaying material or other living things): ",
+                            "examples": [
+                                "mycoses of the hair and scalp",
+                                "Cryptococcus neoformans is an environmental yeast that is a leading cause of fatal mycosis in AIDS patients."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

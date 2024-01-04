@@ -1,0 +1,70 @@
+{
+    "word": "terminated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nterminate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtɜː.mɪ.neɪt"
+                            ],
+                            "us": [
+                                "ˈtɝː.mə.neɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause something to) end or stop: ",
+                            "examples": [
+                                "They terminated my contract in October.",
+                                "This train will terminate at the next stop - passengers who wish to continue should change trains."
+                            ]
+                        },
+                        {
+                            "explanation": "to stop employing an employee: ",
+                            "examples": [
+                                "Employers must terminate all illegal employees.",
+                                "In most occupations, poorly performing workers can be terminated."
+                            ]
+                        },
+                        {
+                            "explanation": "to end a pregnancy intentionally, usually by a medical operation: ",
+                            "examples": [
+                                "She made the difficult decision to terminate the pregnancy.",
+                                "Even the baby's father urged her to terminate."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

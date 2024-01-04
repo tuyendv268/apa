@@ -1,0 +1,40 @@
+{
+    "word": "bruised",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "bruːzd"
+                            ],
+                            "us": [
+                                "bruːzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having bruises: ",
+                            "examples": [
+                                "a bruised shoulder/knee/elbow",
+                                "She was badly bruised but otherwise unhurt."
+                            ]
+                        },
+                        {
+                            "explanation": "emotionally hurt as a result of a bad experience: ",
+                            "examples": [
+                                "Divorce generally leaves both partners feeling bruised."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "describe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈskraɪb"
+                            ],
+                            "us": [
+                                "dɪˈskraɪb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say or write what someone or something is like: ",
+                            "examples": [
+                                "Could you describe your attacker?",
+                                "He described the painting in detail.",
+                                "Let me describe (to you) how it happened.",
+                                "She described Gary as shy."
+                            ]
+                        },
+                        {
+                            "explanation": "If you describe a shape, you draw it or move in a direction that follows the line of it: ",
+                            "examples": [
+                                "He used compasses to describe a circle."
+                            ]
+                        },
+                        {
+                            "explanation": "to recognize a plant or animal as belonging to a particular type, and give it a scientific name: ",
+                            "examples": [
+                                "So far, scientists have described 15,482 marine fish species, up from 15,304 a year ago.",
+                                "The scientific name for mountain laurel is Kalmia latifolia, from Peter Kalm, an 18th-century botanist who first described the species."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

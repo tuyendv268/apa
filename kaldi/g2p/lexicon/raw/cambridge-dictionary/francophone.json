@@ -1,0 +1,57 @@
+{
+    "word": "francophone",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfræŋ.kə.fəʊn"
+                            ],
+                            "us": [
+                                "ˈfræŋ.koʊ.foʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "speaking French as the main or official language: ",
+                            "examples": [
+                                "francophone Africa"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfræŋ.kə.fəʊn"
+                            ],
+                            "us": [
+                                "ˈfræŋ.koʊ.foʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who speaks French as a first or main language: ",
+                            "examples": [
+                                "Most of the francophones live in these two provinces."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

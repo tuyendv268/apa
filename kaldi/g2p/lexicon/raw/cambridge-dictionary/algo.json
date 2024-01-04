@@ -1,0 +1,34 @@
+{
+    "word": "algo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæl.ɡəʊ"
+                            ],
+                            "us": [
+                                "ˈæl.ɡoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \nalgorithm : a set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem: ",
+                            "examples": [
+                                "I need an algo which can convert any screen position in pixels to a screen position in millimeters.",
+                                "Algo trading already accounts for an estimated 40 per cent of trades in US markets, and the proportion is growing fast."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

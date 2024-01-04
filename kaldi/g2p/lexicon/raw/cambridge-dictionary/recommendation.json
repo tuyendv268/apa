@@ -1,0 +1,40 @@
+{
+    "word": "recommendation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌrek.ə.menˈdeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌrek.ə.menˈdeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a suggestion that something is good or suitable for a particular purpose or job: ",
+                            "examples": [
+                                "I bought this computer on John's recommendation (= because John told me that it was good).",
+                                "I got the job on Sam's recommendation (= because she told her employers that I was suitable for the job)."
+                            ]
+                        },
+                        {
+                            "explanation": "advice telling someone what the best thing to do is: ",
+                            "examples": [
+                                "The report makes the recommendation that no more prisons should be built."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

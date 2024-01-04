@@ -1,0 +1,51 @@
+{
+    "word": "rotation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rəʊˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "roʊˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "movement in a circle around a fixed point: ",
+                            "examples": [
+                                "the speed of rotation"
+                            ]
+                        },
+                        {
+                            "explanation": "a complete circular movement around a fixed point: ",
+                            "examples": [
+                                "The earth completes 366 rotations about its axis in every leap year."
+                            ]
+                        },
+                        {
+                            "explanation": "the act by farmers of regularly changing which crops they grow in a field: ",
+                            "examples": [
+                                "crop rotation"
+                            ]
+                        },
+                        {
+                            "explanation": "the act of different people doing the same job at different times: ",
+                            "examples": [
+                                "the rotation of key positions such as that of chairman"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

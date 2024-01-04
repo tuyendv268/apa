@@ -1,0 +1,59 @@
+{
+    "word": "maybe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmeɪ.bi"
+                            ],
+                            "us": [
+                                "ˈmeɪ.bi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to show that something is possible or that something might be true: ",
+                            "examples": [
+                                "Maybe they'll come tomorrow.",
+                                "Maybe you were right after all."
+                            ]
+                        },
+                        {
+                            "explanation": "used to show that a number or amount is approximate: ",
+                            "examples": [
+                                "There were 200, maybe 300, refugees on the boat."
+                            ]
+                        },
+                        {
+                            "explanation": "used to politely suggest or ask for something: ",
+                            "examples": [
+                                "Maybe Ted would like to go.",
+                                "Maybe we should start again."
+                            ]
+                        },
+                        {
+                            "explanation": "used to avoid giving a clear or certain answer to a question: ",
+                            "examples": [
+                                "\"Are you coming to Kelly's party?\" \"Maybe.\""
+                            ]
+                        },
+                        {
+                            "explanation": "used to mean that something is a possible explanation for why something else happened: ",
+                            "examples": [
+                                "\"Why were you chosen for the team and not me?\" \"Maybe it's because I've been to more practices than you.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

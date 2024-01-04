@@ -1,0 +1,33 @@
+{
+    "word": "question tag",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkwes.tʃən ˌtæɡ"
+                            ],
+                            "us": [
+                                "ˈkwes.tʃən ˌtæɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short phrase such as \"isn't it\" or \"don't you\" that is added to the end of a sentence to check information or to ask if someone agrees with you: ",
+                            "examples": [
+                                "In the sentence \"It's hot, isn't it?\", \"isn't it\" is a question tag."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "word": "back end",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæk ˌend"
+                            ],
+                            "us": [
+                                "ˈbæk ˌend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of an object or place that is furthest from the front: ",
+                            "examples": [
+                                "He made the car's back end blunter and more aerodynamic."
+                            ]
+                        },
+                        {
+                            "explanation": "a person's or animal's bottom: ",
+                            "examples": [
+                                "A cow will always turn around and smell the back end of a calf."
+                            ]
+                        },
+                        {
+                            "explanation": "the last part of a process, series of events, or period of time: ",
+                            "examples": [
+                                "We're not willing to spend on the front end - education for these kids - so we pay at the back end, for problems with crime and violence."
+                            ]
+                        },
+                        {
+                            "explanation": "the part of a computer system, piece of software, etc., where data is stored or processed rather than the parts that are seen and directly used by the user: ",
+                            "examples": [
+                                "Two of the most popular SQL back ends are MySQL and SQL Server."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbækˌend"
+                            ],
+                            "us": [
+                                "ˈbækˌend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the last part of a process, series of events, or period of time: ",
+                            "examples": [
+                                "The price of fuels should reflect back-end costs, such as the cost of decommissioning power plants."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the part of a computer system, piece of software, etc. where data is stored or processed rather than the parts that are seen and directly used by the user: ",
+                            "examples": [
+                                "A front-end client and a back-end server allows multiple workstations to access the same server at the same time."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

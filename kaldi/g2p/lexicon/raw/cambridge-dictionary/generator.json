@@ -1,0 +1,53 @@
+{
+    "word": "generator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒen.ər.eɪ.tər"
+                            ],
+                            "us": [
+                                "ˈdʒen.ər.eɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a machine that produces electrical power: ",
+                            "examples": [
+                                "The hospital's emergency generators are designed to cope with power cuts. "
+                            ]
+                        },
+                        {
+                            "explanation": "a machine or device that produces something: ",
+                            "examples": [
+                                "a random number generator"
+                            ]
+                        },
+                        {
+                            "explanation": "a company or organization that produces something: ",
+                            "examples": [
+                                "The two major electricity generators declined to comment.",
+                                "Within the United States, the military is the largest generator of hazardous waste. ",
+                                "Tourism is Australia's greatest generator of employment."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who produces something: ",
+                            "examples": [
+                                "Effective leaders do not themselves have to be generators of ideas."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

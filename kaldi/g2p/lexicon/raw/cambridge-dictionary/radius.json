@@ -1,0 +1,44 @@
+{
+    "word": "radius",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈreɪ.di.əs"
+                            ],
+                            "us": [
+                                "ˈreɪ.di.əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(the length of) a straight line joining the centre of a circle to its edge or the centre of a sphere to its surface: ",
+                            "examples": [
+                                "The radius of this wheel is 30 cm..",
+                                "This wheel has a radius of 30 cm."
+                            ]
+                        },
+                        {
+                            "explanation": "a distance from a central point: ",
+                            "examples": [
+                                "The station, shopping centre and school lie within a one-mile radius of the house."
+                            ]
+                        },
+                        {
+                            "explanation": "the thicker of the two bones in the lower arm",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

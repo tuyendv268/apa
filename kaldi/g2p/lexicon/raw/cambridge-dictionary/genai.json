@@ -1,0 +1,41 @@
+{
+    "word": "genai",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒen.eɪˈaɪ"
+                            ],
+                            "us": [
+                                "ˌdʒen.eɪˈaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \ngenerative AI : the use or study of artificial intelligences (= computer systems that have some of the qualities that a human brain has, such as the ability to interpret language, recognize images, and learn from data supplied to them) that are able to produce text, images, etc.: ",
+                            "examples": [
+                                "GenAI could help automate mundane tasks.",
+                                "Data quality and responsible implementation are two challenges often associated with GenAI."
+                            ]
+                        },
+                        {
+                            "explanation": "short for \ngenerative AI : a particular artificial intelligence (= a computer system that has some of the qualities that a human brain has, such as the ability to interpret language, recognize images, and learn from data supplied to it) that is able to produce text, images, etc.: ",
+                            "examples": [
+                                "Workshop participants recognized the importance of understanding the capabilities of the GenAI.",
+                                "The company is interested in estimating the costs and value of training a genAI."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

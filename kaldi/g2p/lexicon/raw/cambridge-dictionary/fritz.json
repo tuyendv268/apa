@@ -1,0 +1,33 @@
+{
+    "word": "fritz",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "frɪts"
+                            ],
+                            "us": [
+                                "frɪts"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "broken or not working: ",
+                            "examples": [
+                                "The fridge is on the fritz."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

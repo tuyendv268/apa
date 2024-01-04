@@ -1,0 +1,42 @@
+{
+    "word": "extractive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈstræk.tɪv"
+                            ],
+                            "us": [
+                                "ɪkˈstræk.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving removing oil, metals, coal, stone, etc. from the ground: ",
+                            "examples": [
+                                "Gold mining is an extractive industry that eventually exhausts the resource it exploits.",
+                                "The biggest extractive industry in Cornwall today is the mining of china clay.",
+                                "Most of these settlements were dependent upon extractive and processing activities."
+                            ]
+                        },
+                        {
+                            "explanation": "involving taking a resource (= something valuable) or profit from something without trying to replace it or trying to avoid harming that thing: ",
+                            "examples": [
+                                "Cash crops are always \"extractive\" and tend to lower the overall fertility of the farm.",
+                                "Banks have found it is easier and quicker to make money by being extractive and predatory."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

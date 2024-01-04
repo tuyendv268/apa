@@ -1,0 +1,60 @@
+{
+    "word": "vat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "væt"
+                            ],
+                            "us": [
+                                "væt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large container used for mixing or storing liquid substances, especially in a factory: ",
+                            "examples": [
+                                "a vat of wine/oil"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "væt"
+                            ],
+                            "us": [
+                                "ˌviː.eɪˈtiː",
+                                "væt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "value added tax (= a type of tax in European countries that is paid by the person who buys goods and services)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

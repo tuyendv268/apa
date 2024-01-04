@@ -1,0 +1,38 @@
+{
+    "word": "language acquisition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "collocation",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the natural process by which people and especially children become able to understand and speak a language, without having lessons or learning rules: ",
+                            "examples": [
+                                "Language acquisition starts at a very young age.",
+                                "This is an ideal text for students with little or no background in child language acquisition.",
+                                "There are many mechanisms which contribute to language acquisition and development."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of learning to understand and speak a language: ",
+                            "examples": [
+                                "Language acquisition involves learning words as well as the rules for inflecting and combining them. ",
+                                "This book will also be of value to the general reader with an interest in second- and third-language acquisition."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

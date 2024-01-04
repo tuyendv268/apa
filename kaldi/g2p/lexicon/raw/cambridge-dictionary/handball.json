@@ -1,0 +1,45 @@
+{
+    "word": "handball",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhænd.bɔːl"
+                            ],
+                            "us": [
+                                "ˈhænd.bɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the US, a game in which players hit a small, hard rubber ball against a wall with their hands",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a game similar to football, played by throwing a ball instead of kicking it",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in football, the act of touching the ball with your hand or arm",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the ball used in the game of handball: ",
+                            "examples": [
+                                "He was bouncing a handball against the wall."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "gull",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡʌl"
+                            ],
+                            "us": [
+                                "ɡʌl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a bird that lives near the coast with black and white or grey and white feathers",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "someone who is easily tricked or cheated: ",
+                            "examples": [
+                                "What a gull I've been!",
+                                "Surely he's not such a gull that he would believe her ridiculous story."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡʌl"
+                            ],
+                            "us": [
+                                "ɡʌl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to trick or cheat someone: ",
+                            "examples": [
+                                "She was gulled by a smooth-talking con man.",
+                                "They gulled him into buying something he didn't want or need."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

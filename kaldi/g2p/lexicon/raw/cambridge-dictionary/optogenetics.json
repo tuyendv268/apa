@@ -1,0 +1,34 @@
+{
+    "word": "optogenetics",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒp.təʊ.dʒəˈnet.ɪks"
+                            ],
+                            "us": [
+                                "ˌɑːp.toʊ.dʒəˈnet̬.ɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a process in which genes for proteins that react to light are added to cells, other proteins, etc. in order to study and control those cells or proteins : ",
+                            "examples": [
+                                "Optogenetics is a technology that allows you to turn specific neurons on and off in the brain by genetic targeting.",
+                                "Using optogenetics, the scientists then briefly disabled a part of the brain as rats approached the crossroad."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

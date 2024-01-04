@@ -1,0 +1,43 @@
+{
+    "word": "widget",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɪdʒ.ɪt"
+                            ],
+                            "us": [
+                                "ˈwɪdʒ.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any small device whose name you have forgotten or do not know",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an imagined small product made by a company: ",
+                            "examples": [
+                                "Let's assume the company makes ten cents profit on every widget they sell."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of software that is used on a page of a website to give the user changing information of a particular type in a small area of the computer screen: ",
+                            "examples": [
+                                "This new widget will bring fresh content to your website every hour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

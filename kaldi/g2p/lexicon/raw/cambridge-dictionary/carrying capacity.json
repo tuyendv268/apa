@@ -1,0 +1,41 @@
+{
+    "word": "carrying capacity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkær.i.ɪŋ kəˌpæs.ə.ti"
+                            ],
+                            "us": [
+                                "ˈker.i.ɪŋ kəˌpæs.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the largest number of animals that an area of land or sea can support: ",
+                            "examples": [
+                                "In some areas, deer populations have exceeded their carrying capacity on available habitat.",
+                                "The plan's objective is to define the state's carrying capacity for bears."
+                            ]
+                        },
+                        {
+                            "explanation": "the total amount that something can hold or carry : ",
+                            "examples": [
+                                "The car's carrying capacity is just 165 kg.",
+                                "Planes were routinely overloaded above their carrying capacity."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

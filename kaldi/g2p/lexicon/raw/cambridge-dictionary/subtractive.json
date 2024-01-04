@@ -1,0 +1,46 @@
+{
+    "word": "subtractive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "səbˈtræk.tɪv"
+                            ],
+                            "us": [
+                                "səbˈtræk.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to subtraction (= the process of removing one number from another): ",
+                            "examples": [
+                                "The subtractive equation property states that the two sides of an equation remain equal if the same number is subtracted from each side."
+                            ]
+                        },
+                        {
+                            "explanation": "involving taking something away: ",
+                            "examples": [
+                                "Milling machines carve parts in a subtractive process from a blank. ",
+                                "Medicine is subtractive in that you need to subtract out anything that is irrelevant until you can isolate the one thing left that works."
+                            ]
+                        },
+                        {
+                            "explanation": "getting less by being combined, or getting less over time: ",
+                            "examples": [
+                                "Interference is a phenomenon in which two waves either have an additive or subtractive effect on each other's intensity."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

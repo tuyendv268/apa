@@ -1,0 +1,41 @@
+{
+    "word": "style sheet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstaɪl ˌʃiːt"
+                            ],
+                            "us": [
+                                "ˈstaɪl ˌʃiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a document that gives a set of rules for writing and presenting text that is going to be published: ",
+                            "examples": [
+                                "At some presses, the copy editor sends a style sheet to the author before beginning work.",
+                                "The publisher's style sheet will indicate spelling conventions to be applied."
+                            ]
+                        },
+                        {
+                            "explanation": "a file that contains rules about how the different parts of a document will appear on screen, and automatically applies them: ",
+                            "examples": [
+                                "The style sheet just controls properties of the HTML elements.",
+                                "Java Script works with style sheets for two different browsers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "machinery",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məˈʃiː.nər.i"
+                            ],
+                            "us": [
+                                "məˈʃiː.nɚ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of large machines or the parts of a machine that make it work: ",
+                            "examples": [
+                                "industrial/farm machinery",
+                                "His hand was injured when he got it caught in the machinery."
+                            ]
+                        },
+                        {
+                            "explanation": "the structure and systems of an organization or process: ",
+                            "examples": [
+                                "bureaucratic/political/decision-making machinery",
+                                "the machinery of government"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

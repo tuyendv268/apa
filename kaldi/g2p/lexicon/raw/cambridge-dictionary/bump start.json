@@ -1,0 +1,57 @@
+{
+    "word": "bump start",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌmp ˌstɑːt"
+                            ],
+                            "us": [
+                                "ˈbʌmp ˌstɑːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "→ \npush start ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌmp.stɑːt"
+                            ],
+                            "us": [
+                                "ˈbʌmp.stɑːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "→ \npush-start ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

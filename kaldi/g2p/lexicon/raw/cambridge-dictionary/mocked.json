@@ -1,0 +1,62 @@
+{
+    "word": "mocked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmock ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɒk"
+                            ],
+                            "us": [
+                                "mɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to laugh at someone, often by copying them in a funny but unkind way: ",
+                            "examples": [
+                                "They were mocking him because he kept falling off his bike.",
+                                "She made fun of him by mocking his limp."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something appear stupid or not effective: ",
+                            "examples": [
+                                "The wind mocked their attempts to reach the shore by pushing the boat further and further out to sea."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

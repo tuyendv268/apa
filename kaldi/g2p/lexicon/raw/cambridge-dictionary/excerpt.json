@@ -1,0 +1,58 @@
+{
+    "word": "excerpt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.sɜːpt"
+                            ],
+                            "us": [
+                                "ˈek.sɝːpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short part taken from a speech, book, film, etc.: ",
+                            "examples": [
+                                "An excerpt from her new thriller will appear in this weekend's magazine."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ekˈsɜːpt"
+                            ],
+                            "us": [
+                                "ekˈsɝːpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take a small part from a speech, book, film, etc. in order to publish it separately: ",
+                            "examples": [
+                                "This passage has been excerpted from her latest novel.",
+                                "Here I excerpt from a list of recommendations given to me by a former boss."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

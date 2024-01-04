@@ -1,0 +1,39 @@
+{
+    "word": "crispr",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkrɪsp.ər"
+                            ],
+                            "us": [
+                                "ˈkrɪsp.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for clustered regularly interspaced short palindromic repeat: a piece of DNA that includes short, repeated sequences: ",
+                            "examples": [
+                                "In 1987 Osaka University researcher Yoshizumi Ishino cloned part of a CRISPR. "
+                            ]
+                        },
+                        {
+                            "explanation": "a method of editing (= making changes to) a gene that uses these repeated sequences: ",
+                            "examples": [
+                                "CRISPR can be used to change mosquitos so they cannot transmit diseases such as malaria."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

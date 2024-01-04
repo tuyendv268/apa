@@ -1,0 +1,34 @@
+{
+    "word": "gdpr",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒiː.diː.piːˈɑːr"
+                            ],
+                            "us": [
+                                "ˌdʒiː.diː.piːˈɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for General Data Protection Regulation: a legal act of the European Union intended to protect people's personal data (= information that is about them and no one else): ",
+                            "examples": [
+                                "The GDPR came into force on 25 May 2018.",
+                                "GDPR applies across all of Europe but each individual country can make its own small changes. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

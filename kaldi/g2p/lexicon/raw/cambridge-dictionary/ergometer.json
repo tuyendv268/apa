@@ -1,0 +1,41 @@
+{
+    "word": "ergometer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɜːˈɡɒm.ɪ.tər"
+                            ],
+                            "us": [
+                                "ɝːˈɡɑː.mə.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of equipment that measures the effort or energy that someone uses while performing a particular action: ",
+                            "examples": [
+                                "Patients performed progressive exercise on a semi-upright bicycle ergometer.",
+                                "Tests of cardiopulmonary function can be carried out using an arm ergometer."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of exercise equipment that copies the actions of rowing a boat and measures the effort or energy that someone uses while doing this: ",
+                            "examples": [
+                                "In training, she spends as much time on the ergometer as she does on the river.",
+                                "For rowing without getting wet and cold, you need a machine called an ergometer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

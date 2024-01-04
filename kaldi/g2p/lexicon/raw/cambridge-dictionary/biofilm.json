@@ -1,0 +1,35 @@
+{
+    "word": "biofilm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.əʊ.fɪlm"
+                            ],
+                            "us": [
+                                "ˈbaɪ.oʊ.fɪlm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a thin layer that forms on top of some wet surfaces and consists of bacteria and other very small organisms: ",
+                            "examples": [
+                                "Samples were obtained from areas of waste water where the biofilm was of uniform thickness.",
+                                "Biofilms can pose a problem during water treatment.",
+                                "There are several methods of detecting biofilm formation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

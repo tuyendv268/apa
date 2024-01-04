@@ -1,0 +1,41 @@
+{
+    "word": "synchronously",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪŋ.krə.nəs.li"
+                            ],
+                            "us": [
+                                "ˈsɪŋ.krə.nəs.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that involves things happening or being done at the same time or speed: ",
+                            "examples": [
+                                "Dragonflies beat their two sets of wings synchronously.",
+                                "The predator eggs hatch synchronously with the emergence of the wasp larvae."
+                            ]
+                        },
+                        {
+                            "explanation": "with a teacher and students taking part in a lesson at the same time, either physically together in one place, or using the internet: ",
+                            "examples": [
+                                "Students can study synchronously or asynchronously.",
+                                "Small-group and one-to-one teacher-learner interaction, both synchronously and asynchronously, forms part of this learning system."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

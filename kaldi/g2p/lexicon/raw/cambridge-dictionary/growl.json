@@ -1,0 +1,58 @@
+{
+    "word": "growl",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡraʊl"
+                            ],
+                            "us": [
+                                "ɡraʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a low, rough sound, usually in anger: ",
+                            "examples": [
+                                "The dog growled at her and snapped at her ankles.",
+                                "\"Not now, I'm busy,\" he growled."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡraʊl"
+                            ],
+                            "us": [
+                                "ɡraʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, low sound, like the threatening sound made by a dog: ",
+                            "examples": [
+                                "The dog eyed me suspiciously and gave a low growl."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "word": "primary",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpraɪ.mər.i"
+                            ],
+                            "us": [
+                                "ˈpraɪ.mer.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "more important than anything else; main: ",
+                            "examples": [
+                                "The Red Cross's primary concern is to preserve and protect human life.",
+                                "The primary responsibility lies with those who break the law."
+                            ]
+                        },
+                        {
+                            "explanation": "of or for the teaching of young children, especially those between five and eleven years old: ",
+                            "examples": [
+                                "primary education",
+                                "a primary school"
+                            ]
+                        },
+                        {
+                            "explanation": "happening first: ",
+                            "examples": [
+                                "the primary stages of development"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpraɪ.mə.ri"
+                            ],
+                            "us": [
+                                "ˈpraɪ.mer.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the US, an election in which people choose who will represent a particular party in an election for political office",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a primary in which only voters who are members of a political party can vote for the candidates from that party in order to choose who will represent the party in a later election: ",
+                            "examples": [
+                                "They won't give up on their demand for a closed primary election."
+                            ]
+                        },
+                        {
+                            "explanation": "a primary in which everyone who is allowed to vote can choose either party's ballot (= list of candidates) in order to vote for a candidate to represent that party at a later election: ",
+                            "examples": [
+                                "In an open primary, you can vote for a candidate from either party."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

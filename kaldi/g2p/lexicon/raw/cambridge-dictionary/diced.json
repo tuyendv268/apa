@@ -1,0 +1,62 @@
+{
+    "word": "diced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndice ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "daɪs"
+                            ],
+                            "us": [
+                                "daɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut food into small squares: ",
+                            "examples": [
+                                "Peel and dice the potatoes.",
+                                "diced carrots"
+                            ]
+                        },
+                        {
+                            "explanation": "to do something extremely dangerous and silly: ",
+                            "examples": [
+                                "You're dicing with death driving at that speed on icy roads."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

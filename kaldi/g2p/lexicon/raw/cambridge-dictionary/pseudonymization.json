@@ -1,0 +1,34 @@
+{
+    "word": "pseudonymization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sjuːˌdɒn.ɪ.maɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "suːˌdɑːn.ə.məˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a process in which information that relates to a particular person, for example, a name or email address, is changed to a number or name that has no meaning so that it is impossible to see who the information relates to : ",
+                            "examples": [
+                                "The data typically passes through a pseudonymization service.",
+                                "Pseudonymization uses a form of encryption to translate identifiable personal data to unique artificial identifiers called pseudonyms."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

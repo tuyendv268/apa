@@ -1,0 +1,35 @@
+{
+    "word": "gpt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒiː.piːˈtiː"
+                            ],
+                            "us": [
+                                "ˌdʒiː.piːˈtiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for Generative Pretrained Transformer: a complex mathematical representation of text or other types of media that allows a computer to perform some tasks, such as interpreting and producing language, recognizing or creating images, and solving problems, in a way that seems similar to the way a human brain works : ",
+                            "examples": [
+                                "GPT is a natural language system that can be used to answer questions, translate languages, and generate text in response to a prompt.",
+                                "GPTs aren't limited to natural language processing; you can use them for a variety of tasks depending on how you train the model.",
+                                "One ethical concern is that GPT models can inadvertently generate offensive content."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

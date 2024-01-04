@@ -1,0 +1,71 @@
+{
+    "word": "english",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪŋ.ɡlɪʃ"
+                            ],
+                            "us": [
+                                "ˈɪŋ.ɡlɪʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the language that is spoken in the UK, the US, and in many other countries: ",
+                            "examples": [
+                                "American/British English",
+                                "Do you speak English?"
+                            ]
+                        },
+                        {
+                            "explanation": "the people of England",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪŋ.ɡlɪʃ"
+                            ],
+                            "us": [
+                                "ˈɪŋ.ɡlɪʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in or relating to the English language: ",
+                            "examples": [
+                                "an English teacher",
+                                "an English translation"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to or from England: ",
+                            "examples": [
+                                "English films/food/people",
+                                "English law",
+                                "Is she English?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

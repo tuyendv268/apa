@@ -1,0 +1,77 @@
+{
+    "word": "distorting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndistort ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈstɔːt"
+                            ],
+                            "us": [
+                                "dɪˈstɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change the shape of something so that it looks strange or unnatural: ",
+                            "examples": [
+                                "The map distorted Greenland to appear four times its actual size.",
+                                "a distorting mirror"
+                            ]
+                        },
+                        {
+                            "explanation": "to change something so that it is false or wrong, or no longer means what it was intended to mean: ",
+                            "examples": [
+                                "She accused her opponent of distorting the truth.",
+                                "The survey methods can distort reality."
+                            ]
+                        },
+                        {
+                            "explanation": "to change or affect something, especially in a way that makes it worse: ",
+                            "examples": [
+                                "The government is actually distorting markets and undermining competition.",
+                                "There's a danger this could distort his judgment."
+                            ]
+                        },
+                        {
+                            "explanation": "to make sound produced on electrical equipment sound strange and unpleasant because of changes in the shape of the sound wave: ",
+                            "examples": [
+                                "a powerful amplifier capable of producing sound at high volume without distorting it",
+                                "The sound system distorted the vocals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

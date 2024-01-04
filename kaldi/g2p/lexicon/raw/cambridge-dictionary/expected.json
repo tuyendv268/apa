@@ -1,0 +1,47 @@
+{
+    "word": "expected",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspek.tɪd"
+                            ],
+                            "us": [
+                                "ɪkˈspek.tɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "believed to be going to happen or arrive: ",
+                            "examples": [
+                                "The expected counterattack never happened.",
+                                "The painting sold for three times the expected price."
+                            ]
+                        },
+                        {
+                            "explanation": "going to be born soon: ",
+                            "examples": [
+                                "They do not yet know the sex of their expected child."
+                            ]
+                        },
+                        {
+                            "explanation": "believed to be something that should happen or be done: ",
+                            "examples": [
+                                "A third of pupils are failing to reach the expected standards.",
+                                "His findings suggest a significant departure from the expected level of professionalism and performance of the company's senior leadership."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "qubit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkjuː.bɪt"
+                            ],
+                            "us": [
+                                "ˈkjuː.bɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of information used in quantum computing (= computing that does certain types of complicated calculations much faster than traditional computing) that can be either 0 or 1 or a combination of these values: ",
+                            "examples": [
+                                "A qubit is a \"quantum digit\" and is the quantum computing equivalent of a bit.",
+                                "Each qubit is based on some property of a fundamental particle, such as the spin of an atom's nucleus."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

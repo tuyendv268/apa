@@ -1,0 +1,41 @@
+{
+    "word": "ventilated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈven.tɪ.leɪ.tɪd"
+                            ],
+                            "us": [
+                                "ˈven.t̬əl.eɪ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a space) having fresh air entering and moving around it: ",
+                            "examples": [
+                                "The animals were kept in cages that were too small and poorly ventilated.",
+                                "Always use the cleaning fluid in a well-ventilated room."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a person) having air forced in and out of their lungs because they cannot breathe easily on their own, with the use of a special machine called a ventilator: ",
+                            "examples": [
+                                "Seven of 13 ventilated infants in the random group needed red cell transfusions.",
+                                "The procedure takes less than a minute and is recommended for all mechanically ventilated patients."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

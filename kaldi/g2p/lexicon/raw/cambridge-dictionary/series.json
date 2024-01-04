@@ -1,0 +1,60 @@
+{
+    "word": "series",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪə.riːz"
+                            ],
+                            "us": [
+                                "ˈsɪr.iːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number of similar or related events or things, one following another: ",
+                            "examples": [
+                                "There has been a series of sexual attacks on women in the area.",
+                                "She gave a series of lectures at Warwick University last year on contemporary British writers."
+                            ]
+                        },
+                        {
+                            "explanation": "a number of games played one after another by two teams against each other: ",
+                            "examples": [
+                                "The Yankees have a four-game series against the Orioles at home."
+                            ]
+                        },
+                        {
+                            "explanation": "Parts of an electrical system that are in series are arranged in a single line so that the current flows through each part, one after another: ",
+                            "examples": [
+                                "If two bulbs are in series, there is a single conducting path."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of television or radio broadcasts on the same subject or using the same characters but in different situations: ",
+                            "examples": [
+                                "The star is to host a television series on extreme sports.",
+                                "a comedy series",
+                                "I missed the second episode of the series so I don't know what's going on now."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of books published by the same company that deal with the same subject: ",
+                            "examples": [
+                                "They do a series on architecture throughout the ages."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

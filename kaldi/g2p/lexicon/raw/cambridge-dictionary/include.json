@@ -1,0 +1,35 @@
+{
+    "word": "include",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈkluːd"
+                            ],
+                            "us": [
+                                "ɪnˈkluːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to contain something as a part of something else, or to make something part of something else: ",
+                            "examples": [
+                                "The bill includes tax and service.",
+                                "Tax and service are included in the bill.",
+                                "Your responsibilities will include making appointments on my behalf."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

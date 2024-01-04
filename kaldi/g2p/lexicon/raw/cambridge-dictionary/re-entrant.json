@@ -1,0 +1,67 @@
+{
+    "word": "re-entrant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈen.trənt"
+                            ],
+                            "us": [
+                                "ˌriːˈen.trənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person, organization, etc. that goes back to an activity they did earlier: ",
+                            "examples": [
+                                "The state's labour markets had been flooded by both new entrants and re-entrants into the labour force.",
+                                "The chess festival attracted over 1,000 participants, including 89 reentrants, who are allowed, if dissatisfied with their start, to pay to begin the tournament again."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈen.trənt"
+                            ],
+                            "us": [
+                                "ˌriːˈen.trənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a computer program or code) able to be run on several processors at the same time and be interrupted and called again without affecting what is happening on the other processors : ",
+                            "examples": [
+                                "Re-entrant subprograms are useful in multi-threaded situations, since multiple threads can call the same subprogram without fear of interfering with each other.",
+                                "When a program is executing reentrant code, another program can interrupt the execution and can then start or continue execution of that same code."
+                            ]
+                        },
+                        {
+                            "explanation": "A re-entrant angle points inwards: ",
+                            "examples": [
+                                "There was greater erosion of the tips of the teeth and discoloration spread into the re-entrant angles of the teeth.",
+                                "The twinning is clearly shown by reentrant angles formed by equivalent faces of the two crystals where they meet.",
+                                "A reentrant recess extends upwards into the coupling part around the hub."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

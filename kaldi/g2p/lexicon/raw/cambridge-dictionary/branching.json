@@ -1,0 +1,61 @@
+{
+    "word": "branching",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nbranch ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "brɑːntʃ"
+                            ],
+                            "us": [
+                                "bræntʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to produce branches: ",
+                            "examples": [
+                                "The top of the tree had been cut off to encourage it to branch (out) lower down."
+                            ]
+                        },
+                        {
+                            "explanation": "to divide into two: ",
+                            "examples": [
+                                "The road branches at the bottom of the hill."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "word": "stereo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈster.i.əʊ"
+                            ],
+                            "us": [
+                                "ˈster.i.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a way of recording or playing sound so that it is separated into two signals and produces more natural sound: ",
+                            "examples": [
+                                "The concert will be broadcast in stereo."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of electrical equipment for playing music, listening to the radio, etc. that sounds very natural because the sounds come out of two speakers (= parts for playing sound): ",
+                            "examples": [
+                                "Loud music was coming from the car stereo."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈster.i.əʊ"
+                            ],
+                            "us": [
+                                "ˈster.i.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "recording or playing sound in a way that separates it into two signals and produces more natural sound, or relating to this kind of sound: ",
+                            "examples": [
+                                "a stereo system",
+                                "The unit's stereo speakers sounded surprisingly good.",
+                                "Tape was the format that introduced stereo sound into the home."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to a process, camera, etc. that creates an image that looks three-dimensional (= having width, height, and depth) by presenting two slightly different images to each eye: ",
+                            "examples": [
+                                "The photographs were taken by a high-resolution stereo camera.",
+                                "Stereo photography is a way of capturing an image with two different shots that combine together to create a holographic effect."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "infix",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.fɪks"
+                            ],
+                            "us": [
+                                "ˈɪn.fɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a letter or group of letters added in the middle of a word to make a new word, especially a letter or letters that always have a particular meaning when used like this: ",
+                            "examples": [
+                                "Affixes are classified as prefixes, infixes, and suffixes, according to their position in the word: at the beginning, middle or end.",
+                                "Some languages have infixes, which are inserted within a word."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.fɪks"
+                            ],
+                            "us": [
+                                "ˈɪn.fɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add a letter or group of letters in the middle of a word to make a new word: ",
+                            "examples": [
+                                "The applicative morpheme in Bantu languages is generally infixed toward the end of the verb stem.",
+                                "A popular infixed word is \"damn\" in such examples as \"fan-damn-tastic\". "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "welded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nweld ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "weld"
+                            ],
+                            "us": [
+                                "weld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to join two pieces of metal together permanently by melting the parts that touch: ",
+                            "examples": [
+                                "Iron spikes have been welded (on) to the railings around the embassy."
+                            ]
+                        },
+                        {
+                            "explanation": "to make separate people into a group who can work together successfully: ",
+                            "examples": [
+                                "He is a born leader, who welded a collection of gifted individualists into a real team."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

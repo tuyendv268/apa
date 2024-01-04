@@ -1,0 +1,46 @@
+{
+    "word": "precedent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpres.ɪ.dənt"
+                            ],
+                            "us": [
+                                "ˈpres.ə.dent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an action, situation, or decision that has already happened and can be used as a reason why a similar action or decision should be performed or made: ",
+                            "examples": [
+                                "There are several precedents for promoting people who don't have formal qualifications.",
+                                "Some politicians fear that agreeing to the concession would set a dangerous precedent."
+                            ]
+                        },
+                        {
+                            "explanation": "the way that something has been done in the past that therefore shows that it is the correct way: ",
+                            "examples": [
+                                "Would it be breaking with precedent for the bride to make a speech?"
+                            ]
+                        },
+                        {
+                            "explanation": "a decision about a particular legal case that makes it likely that other similar cases will be decided in the same way: ",
+                            "examples": [
+                                "The judgment on pension rights has established/set a precedent."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

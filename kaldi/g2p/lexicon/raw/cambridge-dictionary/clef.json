@@ -1,0 +1,33 @@
+{
+    "word": "clef",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "klef"
+                            ],
+                            "us": [
+                                "klef"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sign put at the beginning of a line of music to show how high or low the notes are: ",
+                            "examples": [
+                                "the bass/treble/alto clef"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

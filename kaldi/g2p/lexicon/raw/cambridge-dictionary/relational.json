@@ -1,0 +1,41 @@
+{
+    "word": "relational",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈleɪ.ʃən.əl"
+                            ],
+                            "us": [
+                                "rɪˈleɪ.ʃən.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "that relates to the relationship between members of a group of people or a family: ",
+                            "examples": [
+                                "Relational learning focuses on how teachers and students can learn together.",
+                                "Any relational considerations need to be put aside when deciding on the future running of the company."
+                            ]
+                        },
+                        {
+                            "explanation": "that forms or describes a connection between things: ",
+                            "examples": [
+                                "There is no relational link between these two parts of the website.",
+                                "He designed a relational database to keep track of the stock."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

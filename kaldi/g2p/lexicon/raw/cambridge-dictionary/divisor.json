@@ -1,0 +1,33 @@
+{
+    "word": "divisor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈvaɪ.zər"
+                            ],
+                            "us": [
+                                "dɪˈvaɪ.zɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number by which another number is divided in a calculation: ",
+                            "examples": [
+                                "When you divide 21 by 7, 7 is the divisor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

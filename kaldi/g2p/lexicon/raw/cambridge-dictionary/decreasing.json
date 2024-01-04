@@ -1,0 +1,34 @@
+{
+    "word": "decreasing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈkriː.sɪŋ"
+                            ],
+                            "us": [
+                                "dɪˈkriː.sɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "In a decreasing list of numbers or amounts, each number or amount is less than the previous one: ",
+                            "examples": [
+                                "The demand for labour is a decreasing function of the real wage rate. ",
+                                "Records were given a score and would be output in decreasing score order."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "composite",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒm.pə.zɪt"
+                            ],
+                            "us": [
+                                "ˈkɑːm.pə.zɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is made of various different parts: ",
+                            "examples": [
+                                "The main character in her latest novel is a composite of several public figures of that era.",
+                                "Scientists have put together a composite picture of what the earth's crust is like."
+                            ]
+                        },
+                        {
+                            "explanation": "a material made up of more than one substance that is used for building things: ",
+                            "examples": [
+                                "The bodies of these racing cars are moulded from the same composite that is used for making aircraft."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

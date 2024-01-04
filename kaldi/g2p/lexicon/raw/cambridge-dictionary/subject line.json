@@ -1,0 +1,34 @@
+{
+    "word": "subject line",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌb.dʒekt ˌlaɪn"
+                            ],
+                            "us": [
+                                "ˈsʌb.dʒekt ˌlaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the space at the top of an email in which a line of text is written that tells you what the email is about, or the line of text itself: ",
+                            "examples": [
+                                "The email subject line was blank.",
+                                "He thought of a great subject line for the next marketing campaign."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

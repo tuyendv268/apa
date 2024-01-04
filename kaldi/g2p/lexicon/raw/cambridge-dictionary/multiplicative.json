@@ -1,0 +1,41 @@
+{
+    "word": "multiplicative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.tiˈplɪk.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˌmʌl.tɪˈplɪk.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to multiplication (= the process of adding a number to itself a particular number of times): ",
+                            "examples": [
+                                "The arguments may be followed by multiplicative suffixes such as KiB (=1024) and MiB (=1024*1024).",
+                                "The outcome according to the multiplicative rule would be x a +(- b) or x a-b."
+                            ]
+                        },
+                        {
+                            "explanation": "increasing more and more over time: ",
+                            "examples": [
+                                "Oppression can have multiplicative effects. ",
+                                "You can take advantage of this multiplicative power of networks."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

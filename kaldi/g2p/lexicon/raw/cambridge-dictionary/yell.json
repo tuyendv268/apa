@@ -1,0 +1,60 @@
+{
+    "word": "yell",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "jel"
+                            ],
+                            "us": [
+                                "jel"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to shout something or make a loud noise, usually when you are angry, in pain, or excited: ",
+                            "examples": [
+                                "Our neighbours were yelling (obscenities) at each other this morning.",
+                                "The child yelled out in pain.",
+                                "\"Just get out of here!\" she yelled."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "jel"
+                            ],
+                            "us": [
+                                "jel"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a loud shout, usually when you are angry, in pain, or excited: ",
+                            "examples": [
+                                "Suddenly there was a loud yell from the bathroom.",
+                                "I heard a yell and a heavy crunch as he fell to the floor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

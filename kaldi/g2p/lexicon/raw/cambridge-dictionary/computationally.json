@@ -1,0 +1,41 @@
+{
+    "word": "computationally",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "kɒm.pjəˈteɪ.ʃən.əl.i"
+                            ],
+                            "us": [
+                                "ˌkɑːm.pjəˈteɪ.ʃən.əl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that involves the use of computers: ",
+                            "examples": [
+                                "Some of the work can be done computationally.",
+                                "The model that they use is computationally intensive."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that involves the calculation of answers, amounts, results, etc.: ",
+                            "examples": [
+                                "Theories like this are computationally unprovable.",
+                                "Very young children may be computationally more capable than most people believe."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

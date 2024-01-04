@@ -1,0 +1,84 @@
+{
+    "word": "placed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nplace ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pleɪs"
+                            ],
+                            "us": [
+                                "pleɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put something in a particular position: ",
+                            "examples": [
+                                "She placed the letter in front of me.",
+                                "She placed her name on the list of volunteers.",
+                                "I'd place him among the ten most brilliant scientists of his age.",
+                                "The horse was placed first/second/third in its first race (= finished the race in first/second/third position)."
+                            ]
+                        },
+                        {
+                            "explanation": "to arrange to have an advertisement, bet, order, etc.: ",
+                            "examples": [
+                                "We placed the order for the furniture six weeks ago.",
+                                "They were placing bets (= gambling) on who would win."
+                            ]
+                        },
+                        {
+                            "explanation": "to give something emphasis, importance, etc.: ",
+                            "examples": [
+                                "She placed the emphasis on the word \"soon\" in order to make sure was understood.",
+                                "He placed importance on a comfortable lifestyle (= it was important to him)."
+                            ]
+                        },
+                        {
+                            "explanation": "to find someone a job: ",
+                            "examples": [
+                                "The students are placed in/with companies for a period of work experience."
+                            ]
+                        },
+                        {
+                            "explanation": "to recognize someone or remember where you have seen someone and how you know them: ",
+                            "examples": [
+                                "She looks familiar but I can't place her - did she use to work here?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

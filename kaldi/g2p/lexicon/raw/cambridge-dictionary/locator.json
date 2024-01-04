@@ -1,0 +1,41 @@
+{
+    "word": "locator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ləʊˈkeɪ.tər"
+                            ],
+                            "us": [
+                                "loʊˈkeɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of equipment for finding where something is: ",
+                            "examples": [
+                                "Satellite locators will keep track of where the trucks are.",
+                                "This particular sat nav is not a very good speed camera locator."
+                            ]
+                        },
+                        {
+                            "explanation": "a feature on a website that shows you where a particular shop, bank, etc. is on a map: ",
+                            "examples": [
+                                "Simply click on the store locator button and follow the directions to find the retailer nearest you.",
+                                "Locate your closest branch through the website’s online Branch Locator tool."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

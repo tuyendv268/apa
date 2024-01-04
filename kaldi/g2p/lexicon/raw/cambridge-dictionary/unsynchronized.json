@@ -1,0 +1,39 @@
+{
+    "word": "unsynchronized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈsɪŋ.krə.naɪzd"
+                            ],
+                            "us": [
+                                "ʌnˈsɪŋ.krə.naɪzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not happening together, at the same or right time, or in the expected way: ",
+                            "examples": [
+                                "The unsynchronised traffic lights along major roads leave many drivers frustrated."
+                            ]
+                        },
+                        {
+                            "explanation": "not having been made to show the same time: ",
+                            "examples": [
+                                "You will want to know the exact time when something has happened, and so an unsynchronised clock in your system will lead to problems."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

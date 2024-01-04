@@ -1,0 +1,41 @@
+{
+    "word": "monophonic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɒn.əˈfɒn.ɪk"
+                            ],
+                            "us": [
+                                "ˌmɑː.nəˈfɑː.nɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "producing or consisting of a single note or a single melody (= a series of notes): ",
+                            "examples": [
+                                "Brass instruments are monophonic.",
+                                "Strictly speaking, monophonic music is a single melodic line, without harmony."
+                            ]
+                        },
+                        {
+                            "explanation": "recording or playing sound in a way that produces a single signal, or relating to this kind of sound: ",
+                            "examples": [
+                                "The first audio reproduction devices were monophonic.",
+                                "Electronic amplifiers and mixers were installed to mix in monophonic or stereophonic sound."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

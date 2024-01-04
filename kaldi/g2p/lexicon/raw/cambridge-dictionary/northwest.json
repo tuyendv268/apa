@@ -1,0 +1,72 @@
+{
+    "word": "northwest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɔːθˈwest"
+                            ],
+                            "us": [
+                                "ˌnɔːrθˈwest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the direction that is between north and west: ",
+                            "examples": [
+                                "We live in the northwest of the city."
+                            ]
+                        },
+                        {
+                            "explanation": "the area in the northwest of England, the US, or another country: ",
+                            "examples": [
+                                "The Lake District is a very beautiful region in the Northwest.",
+                                "Seattle is the largest city in the Northwest."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɔːθˈwest"
+                            ],
+                            "us": [
+                                "ˌnɔːrθˈwest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in or towards the northwest: ",
+                            "examples": [
+                                "the sale of the company's northwest division",
+                                "Turn northwest.",
+                                "The town is/lies about 100 miles northwest of Las Vegas."
+                            ]
+                        },
+                        {
+                            "explanation": "a wind that comes from the northwest: ",
+                            "examples": [
+                                "Strong northwest winds had blown the volcanic ash out to sea and over Europe."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

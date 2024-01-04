@@ -1,0 +1,35 @@
+{
+    "word": "-ible",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -ə.bəl"
+                            ],
+                            "us": [
+                                " -ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form adjectives meaning \"able to be\": ",
+                            "examples": [
+                                "convertible",
+                                "accessible",
+                                "permissible"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

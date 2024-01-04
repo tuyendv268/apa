@@ -1,0 +1,37 @@
+{
+    "word": "shalt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "modal verb",
+                        "ipa": {
+                            "uk": [
+                                "ʃælt"
+                            ],
+                            "us": [
+                                "ʃælt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "you shall",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "used humorously in modern English when talking about people who follow rules exactly when the rules are not very important: ",
+                            "examples": [
+                                "You know what he's like about food - thou shalt not serve red wine with fish."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

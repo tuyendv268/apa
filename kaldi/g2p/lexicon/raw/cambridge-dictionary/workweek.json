@@ -1,0 +1,39 @@
+{
+    "word": "workweek",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɜːk.wiːk"
+                            ],
+                            "us": [
+                                "ˈwɝːk.wiːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the days or hours that are spent working during one week: ",
+                            "examples": [
+                                "a 37-hour workweek "
+                            ]
+                        },
+                        {
+                            "explanation": "the time when most people are working during a week, usually from Monday to Friday: ",
+                            "examples": [
+                                "The medical team extended the workweek to include Saturdays."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

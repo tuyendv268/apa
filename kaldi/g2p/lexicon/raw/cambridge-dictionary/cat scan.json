@@ -1,0 +1,34 @@
+{
+    "word": "cat scan",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæt ˌskæn"
+                            ],
+                            "us": [
+                                "ˈkæt ˌskæn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for computerized axial tomography scan: a medical test that involves using X-rays to create a three-dimensional image (= appearing to have length, width, and height) of the inside of the body: ",
+                            "examples": [
+                                "The doctor arranged for me to have a CAT scan.",
+                                "When they ordered a CAT scan, they discovered that I had blood clots in my lung."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

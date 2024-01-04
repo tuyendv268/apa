@@ -1,0 +1,34 @@
+{
+    "word": "vaccine",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvæk.siːn"
+                            ],
+                            "us": [
+                                "vækˈsiːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance that is put into the body of a person or animal to protect them from a disease by causing them to produce antibodies (=proteins that fight diseases): ",
+                            "examples": [
+                                "This vaccine protects against some kinds of the bacteria.",
+                                "The measles vaccine is one of the immunizations that is recommended for all children."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

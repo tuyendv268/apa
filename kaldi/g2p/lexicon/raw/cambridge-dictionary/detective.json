@@ -1,0 +1,40 @@
+{
+    "word": "detective",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈtek.tɪv"
+                            ],
+                            "us": [
+                                "dɪˈtek.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone whose job is to discover information about crimes and find out who is responsible for them: ",
+                            "examples": [
+                                "a private detective",
+                                "detective stories"
+                            ]
+                        },
+                        {
+                            "explanation": "used as part of the title of particular ranks in the police force: ",
+                            "examples": [
+                                "Detective Sergeant Lewis"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "unmedicated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌnˈmed.ɪ.keɪ.tɪd"
+                            ],
+                            "us": [
+                                "ˌʌnˈmed.ɪ.keɪ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not having received medicine of some kind: ",
+                            "examples": [
+                                "Unmedicated patients are more likely to react with violence.",
+                                "She's HIV-positive but has been unmedicated and healthy for over 15 years."
+                            ]
+                        },
+                        {
+                            "explanation": "not containing a medical substance: ",
+                            "examples": [
+                                "Make sure you use unmedicated body lotion as that is less likely to irritate your skin.",
+                                "Unless you have dandruff or another scalp condition, I recommend that you use an unmedicated shampoo."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

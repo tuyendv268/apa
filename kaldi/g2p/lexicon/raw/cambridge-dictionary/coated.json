@@ -1,0 +1,71 @@
+{
+    "word": "coated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkəʊ.tɪd"
+                            ],
+                            "us": [
+                                "ˈkoʊ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "thickly covered: ",
+                            "examples": [
+                                "Your trousers are coated in mud!"
+                            ]
+                        },
+                        {
+                            "explanation": "If your tongue is coated, it is covered with a layer of a greyish-white substance, often because you are ill.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -kəʊ.tɪd"
+                            ],
+                            "us": [
+                                " -koʊ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "with a covering of the stated substance: ",
+                            "examples": [
+                                "sugar-coated almonds"
+                            ]
+                        },
+                        {
+                            "explanation": "(of an animal) with a coat (= hair, wool, or fur) of the stated type: ",
+                            "examples": [
+                                "a smooth-coated dog"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "touchdown",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʌtʃ.daʊn"
+                            ],
+                            "us": [
+                                "ˈtʌtʃ.daʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the landing of an aircraft or of some types of spacecraft: ",
+                            "examples": [
+                                "One of the plane's tyres burst on touchdown."
+                            ]
+                        },
+                        {
+                            "explanation": "(in American football) the act of scoring points by carrying the ball across the other team's goal line or throwing the ball so that it is caught by a member of your team who is across the other team's goal line",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(in rugby) the act of scoring points by putting the ball down on the ground behind the other team's goal",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

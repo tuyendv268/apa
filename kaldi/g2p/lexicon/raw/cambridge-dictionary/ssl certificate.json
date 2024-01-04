@@ -1,0 +1,34 @@
+{
+    "word": "ssl certificate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "es.esˈel səˌtɪf.ɪ.kət"
+                            ],
+                            "us": [
+                                "es.esˈel sɚˌtɪf.ə.kət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small data file that shows that a website is what it claims to be and allows users to connect to it safely. SSL is short for \"Secure Sockets Layer\": ",
+                            "examples": [
+                                "Choose the encryption level of your SSL certificate.",
+                                "A padlock icon is displayed only when an SSL certificate is installed by their web server."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

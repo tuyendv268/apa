@@ -1,0 +1,41 @@
+{
+    "word": "o'clock",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "əˈklɒk"
+                            ],
+                            "us": [
+                                "əˈklɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used after a number from one to twelve to say the time when it is exactly that hour: ",
+                            "examples": [
+                                "It's two o'clock.",
+                                "He called me at four o'clock in the morning."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a time of day when you usually do or have a particular thing: ",
+                            "examples": [
+                                "For many mums, the kids' bedtime is chocolate o'clock.",
+                                "It's wine o'clock!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

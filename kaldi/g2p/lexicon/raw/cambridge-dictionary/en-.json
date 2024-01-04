@@ -1,0 +1,81 @@
+{
+    "word": "en-",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "ɪn-",
+                                "en-"
+                            ],
+                            "us": [
+                                "ɪn-",
+                                "en-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form verbs that mean to put into or onto something: ",
+                            "examples": [
+                                "encase",
+                                "encircle",
+                                "endanger"
+                            ]
+                        },
+                        {
+                            "explanation": "used to form verbs that mean to cause to be something: ",
+                            "examples": [
+                                "enable",
+                                "endear",
+                                "enlarge",
+                                "enrich"
+                            ]
+                        },
+                        {
+                            "explanation": "used to form verbs that mean to provide with something: ",
+                            "examples": [
+                                "empower"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -ən"
+                            ],
+                            "us": [
+                                " -ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form verbs that mean to increase the stated quality: ",
+                            "examples": [
+                                "Sweeten to taste with honey or brown sugar.",
+                                "I've had to loosen my belt."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

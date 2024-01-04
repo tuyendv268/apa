@@ -1,0 +1,74 @@
+{
+    "word": "migrating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmigrate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "maɪˈɡreɪt"
+                            ],
+                            "us": [
+                                "ˈmaɪ.ɡreɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When an animal migrates, it travels to a different place, usually when the season changes: ",
+                            "examples": [
+                                "These animals migrate annually in search of food.",
+                                "In September, these birds migrate 2,000 miles south to a warmer climate."
+                            ]
+                        },
+                        {
+                            "explanation": "If people migrate, they travel in large numbers to a new place to live temporarily: ",
+                            "examples": [
+                                "Mexican farm workers migrate into the US each year to find work at harvest time."
+                            ]
+                        },
+                        {
+                            "explanation": "to move from one place to another: ",
+                            "examples": [
+                                "Trade has migrated from local shops to the larger chain stores."
+                            ]
+                        },
+                        {
+                            "explanation": "to begin using a new computer system, or to move information from one type of system to another: ",
+                            "examples": [
+                                "Migrating to Windows XP shouldn't cause you any problems."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

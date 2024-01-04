@@ -1,0 +1,35 @@
+{
+    "word": "absentee ballot",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæb.sən.tiː ˈbæl.ət"
+                            ],
+                            "us": [
+                                "ˌæb.sən.tiː ˈbæl.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system of voting in which people send their votes by post when they cannot be present at an election",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a piece of paper on which people mark their votes and then send them by post when they cannot be present at an election",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

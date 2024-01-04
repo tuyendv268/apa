@@ -1,0 +1,63 @@
+{
+    "word": "regressed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nregress ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈɡres"
+                            ],
+                            "us": [
+                                "rɪˈɡres"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to return to a previous and less advanced or worse state, condition, or way of behaving: ",
+                            "examples": [
+                                "She suffered brain damage from the car accident and regressed to the mental age of a five-year-old.",
+                                "He says the city has regressed in terms of participation in recycling."
+                            ]
+                        },
+                        {
+                            "explanation": "(of an illness or its symptoms (= effects)) to become less severe: ",
+                            "examples": [
+                                "Following removal of the tumour, all the symptoms regressed.",
+                                "The disease may regress if the patient stops smoking."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "google",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡuː.ɡəl"
+                            ],
+                            "us": [
+                                "ˈɡuː.ɡəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the name of a search engine (= program for finding information on the internet): ",
+                            "examples": [
+                                "Have you tried Google?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡuː.ɡəl"
+                            ],
+                            "us": [
+                                "ˈɡuː.ɡəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to search for something on the internet using the Google search engine (= computer program that finds information)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

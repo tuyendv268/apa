@@ -1,0 +1,41 @@
+{
+    "word": "unweighted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈweɪ.tɪd"
+                            ],
+                            "us": [
+                                "ʌnˈweɪ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An unweighted set of numbers has not been changed in a way that gives extra importance to particular information: ",
+                            "examples": [
+                                "All of the figures in the table are unweighted averages.",
+                                "My calculation is based on a crude, unweighted average of the cost of some grocery items."
+                            ]
+                        },
+                        {
+                            "explanation": "An unweighted object does not have something heavy fastened to it: ",
+                            "examples": [
+                                "The unweighted bundle bobbed up and down on the surface of the water.",
+                                "I started by lifting an unweighted bar."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

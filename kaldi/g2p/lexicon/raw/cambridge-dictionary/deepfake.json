@@ -1,0 +1,34 @@
+{
+    "word": "deepfake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdiːp.feɪk"
+                            ],
+                            "us": [
+                                "ˈdiːp.feɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a video or sound recording that replaces someone's face or voice with that of someone else, in a way that appears real: ",
+                            "examples": [
+                                "Deepfakes were born when someone posted videos that swapped the faces of celebrities onto porn performers.",
+                                "A deepfake of a world leader pressing the big red button should not cause armageddon."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

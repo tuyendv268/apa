@@ -1,0 +1,65 @@
+{
+    "word": "lamp",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "læmp"
+                            ],
+                            "us": [
+                                "læmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device for giving light, especially one that has a covering or is contained within something: ",
+                            "examples": [
+                                "an electric/oil/gas lamp",
+                                "a street lamp",
+                                "a table/bedside lamp"
+                            ]
+                        },
+                        {
+                            "explanation": "any of various devices that produce particular types of light: ",
+                            "examples": [
+                                "an infrared lamp"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "læmp"
+                            ],
+                            "us": [
+                                "læmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to punch someone (= hit them with your closed hand) hard: ",
+                            "examples": [
+                                "He managed to ignore the guy and walk away, instead of lamping him."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

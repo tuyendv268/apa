@@ -1,0 +1,89 @@
+{
+    "word": "spec",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "spek"
+                            ],
+                            "us": [
+                                "spek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "informal for\nspecification  (= a detailed description of how something should be or has been done, made, etc.): ",
+                            "examples": [
+                                "The article compares the specs of ten of the best-selling cars."
+                            ]
+                        },
+                        {
+                            "explanation": "taking a chance, without being sure that you will get what you want: ",
+                            "examples": [
+                                "We just turned up at the airport on spec, hoping that we'd be able to get tickets."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "spek"
+                            ],
+                            "us": [
+                                "spek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to plan, do, or make something according to a particular specification (= a detailed description of how something should be done or made): ",
+                            "examples": [
+                                "I have seen players spec their characters into real killing machines.",
+                                "You can also spec your TwinTop with a 197bhp engine."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "spek"
+                            ],
+                            "us": [
+                                "spek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe a house, etc. that is designed and built by a person or company to be sold to anyone who will buy it, rather than for a particular customer: ",
+                            "examples": [
+                                "Building high-priced spec homes is a gamble that can pay off but also can prove disastrous when the market tightens.",
+                                "His company has one spec house for sale in Scottsdale for nearly $3.8 million."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

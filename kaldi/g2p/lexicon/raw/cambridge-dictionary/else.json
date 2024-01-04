@@ -1,0 +1,39 @@
+{
+    "word": "else",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "els"
+                            ],
+                            "us": [
+                                "els"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used after words beginning with any-, every-, no-, and some-, or after how, what, where, who, why, but not which, to mean 'other', 'another', 'different', 'extra': ",
+                            "examples": [
+                                "Everybody else has (= all the other people have) agreed except for you.",
+                                "If it doesn't work, try something else (= something different).",
+                                "Let's go before they ask us to visit anyone else (= another person).",
+                                "It's not my bag. It must be someone else's (= it must belong to another person).",
+                                "The book isn't here. Where else (= in what other place) should I look?",
+                                "He came to see you. Why else (= for what other reason) would he come?",
+                                "After I'd thanked them I didn't know what else (= what other things) to say."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

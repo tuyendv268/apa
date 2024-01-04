@@ -1,0 +1,79 @@
+{
+    "word": "text",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tekst"
+                            ],
+                            "us": [
+                                "tekst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the written words in a book, magazine, etc., not the pictures: ",
+                            "examples": [
+                                "The book has 500 pages of text."
+                            ]
+                        },
+                        {
+                            "explanation": "a \ntext message : ",
+                            "examples": [
+                                "I'll send you a text as soon as I have any news."
+                            ]
+                        },
+                        {
+                            "explanation": "the exact words of a speech, etc.: ",
+                            "examples": [
+                                "Can we see the full text of your speech before Tuesday?"
+                            ]
+                        },
+                        {
+                            "explanation": "a book or piece of writing that you study as part of a course: ",
+                            "examples": [
+                                "\"Ulysses\" is a set text for the exam."
+                            ]
+                        },
+                        {
+                            "explanation": "a sentence or piece of writing from the Bible that a priest or minister reads aloud in church and talks about",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tekst"
+                            ],
+                            "us": [
+                                "tekst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send someone a text message by phone: ",
+                            "examples": [
+                                "I texted her to arrange a time to meet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "untrained",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈtreɪnd"
+                            ],
+                            "us": [
+                                "ʌnˈtreɪnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "never having been taught the skills for a particular job or activity: ",
+                            "examples": [
+                                "untrained staff",
+                                "The notation is designed to make it easier for untrained singers to read music."
+                            ]
+                        },
+                        {
+                            "explanation": "to someone without the skill or knowledge to judge what they see: ",
+                            "examples": [
+                                "To the untrained eye, most fake diamonds look real."
+                            ]
+                        },
+                        {
+                            "explanation": "An untrained animal has not been taught the habits or skills it needs to live with or help humans: ",
+                            "examples": [
+                                "Untrained dogs can pose a risk to other pets.",
+                                "He demonstrated his unique technique of introducing untrained horses to being ridden."
+                            ]
+                        },
+                        {
+                            "explanation": "In machine learning (= the study of creating computer systems that can improve their own ability to carry out tasks by analysing new data), an untrained system is one that has not been supplied with data to improve it: ",
+                            "examples": [
+                                "The untrained neural network plays millions of games against itself in a process of trial and error that gradually improves its performance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

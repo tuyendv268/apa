@@ -1,0 +1,42 @@
+{
+    "word": "monetary",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmʌn.ɪ.tri"
+                            ],
+                            "us": [
+                                "ˈmɑː.nə.ter.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the money in a country: ",
+                            "examples": [
+                                "The monetary policies of Germany affect other EU nations.",
+                                "The monarchy exerts monetary control over the duchy. ",
+                                "The monetary unit of the UK is the pound."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to money or in the form of money: ",
+                            "examples": [
+                                "They betrayed their friends for monetary gain.",
+                                "It's hard to put a monetary value on the harm that was done."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

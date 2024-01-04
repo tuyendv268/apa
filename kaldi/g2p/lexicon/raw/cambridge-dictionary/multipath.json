@@ -1,0 +1,35 @@
+{
+    "word": "multipath",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.tiˈpɑːθ"
+                            ],
+                            "us": [
+                                "ˌmʌl.tiˈpæθ",
+                                "ˌmʌl.taɪˈpæθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "travelling along, using, or relating to two or more different routes within a computer network or from a radio or television transmitter (= a device that broadcasts signals) to a receiver (= a device that receives signals): ",
+                            "examples": [
+                                "These analogue multipath signals are what can cause picture distortions.",
+                                "Ensure that the multi-path driver is running before you use this command."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

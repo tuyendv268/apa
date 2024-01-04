@@ -1,0 +1,35 @@
+{
+    "word": "interworking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈwɜː.kɪŋ"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˈwɝː.kɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact or process of computer equipment and software being able to connect and exchange information, or an example of this: ",
+                            "examples": [
+                                "In these configurations, interworking is enabled by default.",
+                                "This function makes possible the interworking of different IP networks.",
+                                "Explain the interworkings of a cellular network from a hardware point of view."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

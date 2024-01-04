@@ -1,0 +1,41 @@
+{
+    "word": "drown",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "draʊn"
+                            ],
+                            "us": [
+                                "draʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause to) die by being unable to breathe underwater: ",
+                            "examples": [
+                                "He drowned in a boating accident.",
+                                "Many animals were drowned by the tidal wave."
+                            ]
+                        },
+                        {
+                            "explanation": "to cover or be covered, especially with a liquid: ",
+                            "examples": [
+                                "A whole valley was drowned when the river was dammed.",
+                                "He drowned his food in/with tomato sauce."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

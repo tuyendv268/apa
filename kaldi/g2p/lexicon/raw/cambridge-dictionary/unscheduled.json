@@ -1,0 +1,34 @@
+{
+    "word": "unscheduled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈʃed.juːld"
+                            ],
+                            "us": [
+                                "ʌnˈsked.juːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not planned: ",
+                            "examples": [
+                                "The train made an unscheduled stop.",
+                                "We may need to perform unscheduled maintenance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

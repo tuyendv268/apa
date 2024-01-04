@@ -1,0 +1,42 @@
+{
+    "word": "township",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtaʊn.ʃɪp"
+                            ],
+                            "us": [
+                                "ˈtaʊn.ʃɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a South African town where only black people lived during apartheid: ",
+                            "examples": [
+                                "the township of Soweto",
+                                "poverty and deprivation in the townships",
+                                "township music"
+                            ]
+                        },
+                        {
+                            "explanation": "in the US and Canada, a unit of local government consisting of a town and the area surrounding it: ",
+                            "examples": [
+                                "the township of Dulce, New Mexico",
+                                "Madison Township, Ohio"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

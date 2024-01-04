@@ -1,0 +1,41 @@
+{
+    "word": "railway",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈreɪl.weɪ"
+                            ],
+                            "us": [
+                                "ˈreɪl.weɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the metal tracks on which trains run: ",
+                            "examples": [
+                                "We live close to the railway line.",
+                                "She travelled across Siberia on the Trans-Siberian railway."
+                            ]
+                        },
+                        {
+                            "explanation": "the system of tracks, stations, trains, etc.: ",
+                            "examples": [
+                                "a railway station/timetable/siding",
+                                "Thomas Grant worked on the railway(s) for 50 years."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

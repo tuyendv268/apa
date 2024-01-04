@@ -1,0 +1,96 @@
+{
+    "word": "patent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪ.tənt"
+                            ],
+                            "us": [
+                                "ˈpæt.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the official legal right to make or sell an invention for a particular number of years: ",
+                            "examples": [
+                                "In 1880 Alexander Graham Bell was granted a patent on an apparatus for signalling and communicating called a Photophone.",
+                                "The company took out/filed a patent on a genetically engineered tomato."
+                            ]
+                        },
+                        {
+                            "explanation": "→ \npatent leather ",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪ.tənt"
+                            ],
+                            "us": [
+                                "ˈpæt.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get the official legal right to make or sell an invention: ",
+                            "examples": [
+                                "If you don't patent your invention, other people may make all the profit out of it."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪ.tənt",
+                                "ˈpæt.ənt"
+                            ],
+                            "us": [
+                                "ˈpæt.ənt",
+                                "ˈpeɪ.tənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "very obvious: ",
+                            "examples": [
+                                "a patent lie",
+                                "a patent disregard of the law",
+                                "\"No,\" he replied, with patent distaste."
+                            ]
+                        },
+                        {
+                            "explanation": "A patent invention is protected by law so that only particular people or companies have the right to make or sell it: ",
+                            "examples": [
+                                "a patent screwdriver"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

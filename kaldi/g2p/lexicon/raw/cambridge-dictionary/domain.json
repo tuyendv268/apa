@@ -1,0 +1,38 @@
+{
+    "word": "domain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dəˈmeɪn"
+                            ],
+                            "us": [
+                                "doʊˈmeɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area of interest or an area over which a person has control: ",
+                            "examples": [
+                                "She treated the business as her private domain.",
+                                "These documents are in the public domain (= available to everybody)."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of websites on the internet that end with the same letters, for example .com",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

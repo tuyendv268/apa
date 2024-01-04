@@ -1,0 +1,33 @@
+{
+    "word": "quid",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kwɪd"
+                            ],
+                            "us": [
+                                "kwɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pound: ",
+                            "examples": [
+                                "Could you lend me 20 quid (= £20), mate?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

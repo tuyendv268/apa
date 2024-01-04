@@ -1,0 +1,42 @@
+{
+    "word": "dollar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɒl.ər"
+                            ],
+                            "us": [
+                                "ˈdɑː.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the standard unit of money used in the US, Canada, Australia, New Zealand, and other countries: ",
+                            "examples": [
+                                "Can I borrow $10?",
+                                "There are one hundred cents in a dollar.",
+                                "You can pay in euros or in US dollars.",
+                                "The suitcase was full of dollar bills."
+                            ]
+                        },
+                        {
+                            "explanation": "the value of the US dollar, used in comparing the values of different types of money from around the world: ",
+                            "examples": [
+                                "In the financial markets today, the dollar rose against/fell against (= was worth more than/less than) the pound."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "mews",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mjuːz"
+                            ],
+                            "us": [
+                                "mjuːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a building that was used in the past for keeping horses and is now used as a house: ",
+                            "examples": [
+                                "They bought a converted mews.",
+                                "a tiny mews house"
+                            ]
+                        },
+                        {
+                            "explanation": "a short, narrow road where these buildings are found: ",
+                            "examples": [
+                                "Their new address is 6 Gloucester Mews."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "word": "handled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nhandle ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæn.dəl"
+                            ],
+                            "us": [
+                                "ˈhæn.dəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to deal with, have responsibility for, or be in charge of: ",
+                            "examples": [
+                                "I thought he handled the situation very well.",
+                                "Some people are brilliant with computers, but have no idea how to handle (= behave with) other people.",
+                                "If you can't handle the job I'll get someone else to do it.",
+                                "Who handles the marketing in your company?"
+                            ]
+                        },
+                        {
+                            "explanation": "to pick something up and touch, hold, or move it with your hands: ",
+                            "examples": [
+                                "Always wash your hands before handling food.",
+                                "Please don't handle the vases - they're very fragile."
+                            ]
+                        },
+                        {
+                            "explanation": "to operate or control something that could be difficult or dangerous: ",
+                            "examples": [
+                                "Have you ever handled a gun before?"
+                            ]
+                        },
+                        {
+                            "explanation": "If a car handles well, it is easy and pleasant to drive.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to buy and sell goods: ",
+                            "examples": [
+                                "We only handle cosmetics that have not been tested on animals.",
+                                "He's been arrested for handling stolen goods."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

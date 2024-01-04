@@ -1,0 +1,34 @@
+{
+    "word": "superscript",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsuː.pə.skrɪpt"
+                            ],
+                            "us": [
+                                "ˈsuː.pɚ.skrɪpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word, letter, number, or symbol written or printed just above a word, letter, number, or symbol, usually in a smaller size: ",
+                            "examples": [
+                                "References to the notes are given in superscript.",
+                                "His typewriter could not produce a superscript \"th\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

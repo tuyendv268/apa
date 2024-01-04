@@ -1,0 +1,39 @@
+{
+    "word": "trojan horse",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌtrəʊ.dʒən ˈhɔːs"
+                            ],
+                            "us": [
+                                "ˌtroʊ.dʒən ˈhɔːrs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person or thing that joins and deceives a group or organization in order to attack it from the inside: ",
+                            "examples": [
+                                "Older supporters have accused the new leadership of being a Trojan horse that will try to destroy the party from the inside."
+                            ]
+                        },
+                        {
+                            "explanation": "a computer program that has been deliberately designed to destroy information, or allow someone to steal it: ",
+                            "examples": [
+                                "It's easier than you think to inadvertently download a malicious Trojan horse."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

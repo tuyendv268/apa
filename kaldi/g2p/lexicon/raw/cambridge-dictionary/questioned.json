@@ -1,0 +1,64 @@
+{
+    "word": "questioned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nquestion ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkwes.tʃən"
+                            ],
+                            "us": [
+                                "ˈkwes.tʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to ask a person about something, especially officially: ",
+                            "examples": [
+                                "Several men were questioned by police yesterday about the burglary.",
+                                "68 percent of those questioned in the poll thought noise levels had increased."
+                            ]
+                        },
+                        {
+                            "explanation": "to express doubts about the value or truth of something: ",
+                            "examples": [
+                                "I questioned the wisdom of taking so many pills.",
+                                "Results from a study questioned whether treatment with the drug really improved survival.",
+                                "She gave me a questioning look (= as if she wanted an answer from me)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "word": "swiss",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "swɪs"
+                            ],
+                            "us": [
+                                "swɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or relating to Switzerland or its people: ",
+                            "examples": [
+                                "The meeting took place at a Swiss spa resort.",
+                                "Meyer Guggenheim was a Swiss Jew who emigrated to the US and made a fortune in mining and smelting."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "swɪs"
+                            ],
+                            "us": [
+                                "swɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person from Switzerland: ",
+                            "examples": [
+                                "You can only buy a chalet here if you are a Swiss."
+                            ]
+                        },
+                        {
+                            "explanation": "the people of Switzerland: ",
+                            "examples": [
+                                "The Swiss look back on this period with pride."
+                            ]
+                        },
+                        {
+                            "explanation": "short for Swiss cheese: hard cheese with a mild (= not strong) flavour and large holes in it: ",
+                            "examples": [
+                                "I use sharp cheddar instead of swiss."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

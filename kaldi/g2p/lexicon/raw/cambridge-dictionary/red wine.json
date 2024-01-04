@@ -1,0 +1,34 @@
+{
+    "word": "red wine",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌred ˈwaɪn"
+                            ],
+                            "us": [
+                                "ˌred ˈwaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a wine with a dark red colour that is made from black grapes, including their skins: ",
+                            "examples": [
+                                "red wines from Chile",
+                                "Would you like a glass of red wine?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

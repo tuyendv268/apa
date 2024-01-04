@@ -1,0 +1,43 @@
+{
+    "word": "maze",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "meɪz"
+                            ],
+                            "us": [
+                                "meɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a complicated system of paths or passages that people try to find their way through for entertainment",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an area in which you can get easily lost because there are so many similar streets or passages: ",
+                            "examples": [
+                                "The old part of the town was a maze of narrow passages."
+                            ]
+                        },
+                        {
+                            "explanation": "a complicated set of rules, ideas, or subjects that you find difficult to deal with or understand: ",
+                            "examples": [
+                                "It's almost impossible to get through the maze of bureaucracy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

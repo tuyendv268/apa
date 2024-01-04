@@ -1,0 +1,70 @@
+{
+    "word": "co-resident",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌkəʊˈrez.ɪ.dənt"
+                            ],
+                            "us": [
+                                "ˈkoʊˌrez.ə.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If two people are co-resident, they live in the same home: ",
+                            "examples": [
+                                "a co-resident carer",
+                                "The study followed non-smokers who were co-resident with smokers."
+                            ]
+                        },
+                        {
+                            "explanation": "on the same computer, part of a computer, server (= central computer), etc.: ",
+                            "examples": [
+                                "VMs may be co-resident on a server."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkəʊˈrez.ɪ.dənt"
+                            ],
+                            "us": [
+                                "ˌkoʊˈrez.ə.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who lives in the same home as one or more other people: ",
+                            "examples": [
+                                "They surveyed teleworkers and their co-residents."
+                            ]
+                        },
+                        {
+                            "explanation": "one of two or more computers on the same server (= central computer), computer programs on the same part of a computer, etc.: ",
+                            "examples": [
+                                "They are vulnerable to attack from co-residents on the same server."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

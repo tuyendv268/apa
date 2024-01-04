@@ -1,0 +1,67 @@
+{
+    "word": "retro",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈret.rəʊ"
+                            ],
+                            "us": [
+                                "ˈret.roʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "similar to styles, fashions, etc. from the past: ",
+                            "examples": [
+                                "retro clothes/music",
+                                "a retro style",
+                                "Inside, the decor is very retro."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "ret.rəʊ-"
+                            ],
+                            "us": [
+                                "ret.roʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "going backwards",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "looking at or copying the past: ",
+                            "examples": [
+                                "retro-pop (= popular music from the past)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

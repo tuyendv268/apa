@@ -1,0 +1,61 @@
+{
+    "word": "buster",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌs.tər"
+                            ],
+                            "us": [
+                                "ˈbʌs.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to address a man or a boy you do not like: ",
+                            "examples": [
+                                "Cut it out, buster!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -bʌs.tər"
+                            ],
+                            "us": [
+                                " -bʌs.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person or thing intended to destroy the stated thing: ",
+                            "examples": [
+                                "crime-busters"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "literal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪt.ər.əl"
+                            ],
+                            "us": [
+                                "ˈlɪt̬.ɚ.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "The literal meaning of a word is its original, basic meaning: ",
+                            "examples": [
+                                "The literal meaning of \"television\" is \"seeing from a distance\".",
+                                "You will need to show more than just a literal understanding of the text."
+                            ]
+                        },
+                        {
+                            "explanation": "A literal translation of a text is done by translating each word separately, without looking at how the words are used together in a phrase or sentence: ",
+                            "examples": [
+                                "Her translation is too literal, resulting in unnatural-sounding prose."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

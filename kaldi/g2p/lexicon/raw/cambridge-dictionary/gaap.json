@@ -1,0 +1,33 @@
+{
+    "word": "gaap",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡɑːp"
+                            ],
+                            "us": [
+                                "ɡɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for Generally Accepted Accounting Principles: the rules that companies must follow when they give financial information: ",
+                            "examples": [
+                                "Under US GAAP accounting rules, the company's earnings fell to a $1.1 billion loss."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

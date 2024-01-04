@@ -1,0 +1,40 @@
+{
+    "word": "retry",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈtraɪ"
+                            ],
+                            "us": [
+                                "ˌriːˈtraɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try someone again in a court of law (= examine them to find out if they have committed a crime or not): ",
+                            "examples": [
+                                "The original jury could not come to a verdict in the case. The defendant was retried several months later and convicted of the crime."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to do something again because you have not been successful the first time: ",
+                            "examples": [
+                                "Don't worry if you make a mistake; you can always retry until you get the result you want.",
+                                "If that doesn't work, retry with a different payment card."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

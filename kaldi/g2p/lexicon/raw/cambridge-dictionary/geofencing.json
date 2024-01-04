@@ -1,0 +1,34 @@
+{
+    "word": "geofencing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒiː.əʊ.fen.sɪŋ"
+                            ],
+                            "us": [
+                                "ˈdʒiː.oʊ.fen.sɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "technology that allows the movements of a person, vehicle, etc. to be recorded or limited using satellite signals: ",
+                            "examples": [
+                                "Geofencing can be used to notify parents if a child leaves a designated area.",
+                                "Why did they not deploy anti-drone technology such as geofencing?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

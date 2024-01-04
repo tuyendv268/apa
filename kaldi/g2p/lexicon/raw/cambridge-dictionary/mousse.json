@@ -1,0 +1,40 @@
+{
+    "word": "mousse",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "muːs"
+                            ],
+                            "us": [
+                                "muːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a light cold food made from eggs mixed with cream: ",
+                            "examples": [
+                                "chocolate mousse",
+                                "salmon mousse"
+                            ]
+                        },
+                        {
+                            "explanation": "a light substance that is put on the hair or skin to improve its appearance or condition: ",
+                            "examples": [
+                                "styling mousse"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

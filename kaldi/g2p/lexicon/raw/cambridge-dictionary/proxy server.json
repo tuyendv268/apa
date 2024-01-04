@@ -1,0 +1,33 @@
+{
+    "word": "proxy server",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɒk.si ˌsɜː.vər"
+                            ],
+                            "us": [
+                                "ˈprɑːk.si ˌsɝː.vɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a server (= central computer) that removes or processes certain types of infomation passing between a user and another server, especially to make the exchange of information quicker or safer: ",
+                            "examples": [
+                                "A proxy server will ensure that popular pages are retrieved more quickly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

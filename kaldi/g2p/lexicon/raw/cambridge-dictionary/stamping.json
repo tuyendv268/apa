@@ -1,0 +1,71 @@
+{
+    "word": "stamping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nstamp ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stæmp"
+                            ],
+                            "us": [
+                                "stæmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put a mark on an object either by printing on it or pushing into it with a small tool: ",
+                            "examples": [
+                                "It is necessary to stamp your passport.",
+                                "Every carton of yogurt is stamped with a sell-by date."
+                            ]
+                        },
+                        {
+                            "explanation": "to put a foot down on the ground hard and quickly, making a loud noise, often to show anger: ",
+                            "examples": [
+                                "The little boy was stamping his foot and refusing to take his medicine.",
+                                "She stood by the road, stamping her feet to stay warm.",
+                                "I wish those people upstairs would stop stamping (about/around).",
+                                "Why did you stamp on that insect?"
+                            ]
+                        },
+                        {
+                            "explanation": "to mark with a particular quality or show that someone has a particular quality: ",
+                            "examples": [
+                                "Our new administrator seems to be trying to stamp her authority on every aspect of the department."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

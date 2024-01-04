@@ -1,0 +1,59 @@
+{
+    "word": "sanitized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsanitize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsæn.ɪ.taɪz"
+                            ],
+                            "us": [
+                                "ˈsæn.ə.taɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something completely clean and free from bacteria",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to change something in order to make it less strongly expressed, less harmful, or less offensive: ",
+                            "examples": [
+                                "The military wants to allow only a sanitized report/version of the incident to become public."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

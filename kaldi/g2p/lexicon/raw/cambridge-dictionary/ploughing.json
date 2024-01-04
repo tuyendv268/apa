@@ -1,0 +1,57 @@
+{
+    "word": "ploughing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nplough ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "plaʊ"
+                            ],
+                            "us": [
+                                "plaʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to dig land with a plough: ",
+                            "examples": [
+                                "Farmers start ploughing in the spring.",
+                                "We're going to plough the top field next week.",
+                                "Large areas of grazing land have been ploughed up to grow wheat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

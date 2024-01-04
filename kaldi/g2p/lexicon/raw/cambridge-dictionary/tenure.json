@@ -1,0 +1,41 @@
+{
+    "word": "tenure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈten.jər",
+                                "ˈtenjʊər"
+                            ],
+                            "us": [
+                                "ˈten.jɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "being the legal owner of land, a job, or an official public position, or the period of time during which you own it: ",
+                            "examples": [
+                                "During his tenure as dean, he had a real influence on the students."
+                            ]
+                        },
+                        {
+                            "explanation": "the right to remain permanently in a job: ",
+                            "examples": [
+                                "She is one of the few people in the English Department who has tenure.",
+                                "professors (= those likely to get tenure) who don't publish enough work may not be offered tenure."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

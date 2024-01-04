@@ -1,0 +1,40 @@
+{
+    "word": "predator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpred.ə.tər"
+                            ],
+                            "us": [
+                                "ˈpred.ə.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an animal that hunts, kills, and eats other animals: ",
+                            "examples": [
+                                "lions, wolves, and other predators"
+                            ]
+                        },
+                        {
+                            "explanation": "someone who follows people in order to harm them or commit a crime against them: ",
+                            "examples": [
+                                "a sexual predator",
+                                "In court, he was accused of being a merciless predator who had tricked his grandmother out of her savings."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

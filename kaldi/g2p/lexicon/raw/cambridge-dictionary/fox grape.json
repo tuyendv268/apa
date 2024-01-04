@@ -1,0 +1,41 @@
+{
+    "word": "fox grape",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɒks ˌɡreɪp"
+                            ],
+                            "us": [
+                                "ˈfɑːks ˌɡreɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any of several wild grapevines (= a type of climbing plant on which grapes grow) that grow in eastern North America: ",
+                            "examples": [
+                                "They grafted the grape vine on pieces of the root of the wild fox grape.",
+                                "The northern Fox grape is the mother of a great many cultivated varieties and hybrids."
+                            ]
+                        },
+                        {
+                            "explanation": "the dark purple fruit from the fox grape: ",
+                            "examples": [
+                                "The native grapes used in early colonial wine production came to be known as \"fox grapes\".",
+                                "A clear stream flowed through stands of oak and maple, hung with clusters of purple fox grapes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

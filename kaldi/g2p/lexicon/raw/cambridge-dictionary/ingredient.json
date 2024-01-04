@@ -1,0 +1,39 @@
+{
+    "word": "ingredient",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈɡriː.di.ənt"
+                            ],
+                            "us": [
+                                "ɪnˈɡriː.di.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a food that is used with other foods in the preparation of a particular dish: ",
+                            "examples": [
+                                "The list of ingredients included 250 g of almonds."
+                            ]
+                        },
+                        {
+                            "explanation": "one of the parts of something successful: ",
+                            "examples": [
+                                "Trust is a vital ingredient in a successful marriage."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

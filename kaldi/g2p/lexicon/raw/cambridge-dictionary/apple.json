@@ -1,0 +1,35 @@
+{
+    "word": "apple",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæp.əl"
+                            ],
+                            "us": [
+                                "ˈæp.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a round fruit with firm, white flesh and a green, red, or yellow skin: ",
+                            "examples": [
+                                "to peel an apple",
+                                "apple pie/sauce",
+                                "an apple tree"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

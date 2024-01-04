@@ -1,0 +1,40 @@
+{
+    "word": "mining",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmaɪ.nɪŋ"
+                            ],
+                            "us": [
+                                "ˈmaɪ.nɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the industry or activity of removing substances such as coal or metal from the ground by digging: ",
+                            "examples": [
+                                "coal/salt mining"
+                            ]
+                        },
+                        {
+                            "explanation": "the use of special software to try to obtain new cryptocurrency (= digital currency produced by a public network rather than by a government): ",
+                            "examples": [
+                                "\"Mining\" is the discovery of new bitcoins—just like finding gold.",
+                                "You can do mining on your own or join a mining \"pool\", where a number of people combine their processing resources and take a share of the rewards."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

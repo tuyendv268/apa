@@ -1,0 +1,102 @@
+{
+    "word": "asked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nask ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɑːsk"
+                            ],
+                            "us": [
+                                "æsk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put a question to someone, or to request an answer from someone: ",
+                            "examples": [
+                                "She asked me a question.",
+                                "She asked a question about Welsh history.",
+                                "She asked me about Welsh history.",
+                                "She asked about Welsh history.",
+                                "I've no idea what time the train leaves. Ask the guard whether he knows.",
+                                "I asked the guard the time of the train's departure.",
+                                "I asked when the train would leave.",
+                                "\"What time does the train leave?\" I asked."
+                            ]
+                        },
+                        {
+                            "explanation": "to consider something carefully: ",
+                            "examples": [
+                                "She needs to ask herself why nobody seems to like her."
+                            ]
+                        },
+                        {
+                            "explanation": "to speak or write to someone saying that you want them to do something, to give you something, or to allow you to do something: ",
+                            "examples": [
+                                "If you need any help, please don't hesitate to ask.",
+                                "She asked (her manager) if/whether she could leave early to pick up the kids.",
+                                "I asked to see my accountant.",
+                                "You should ask (your accountant) for some financial advice.",
+                                "You should ask your accountant to give you some financial advice.",
+                                "Can I ask you a favour?/formal Can I ask a favour of you?",
+                                "I'd like to ask your advice/opinion on a financial matter.",
+                                "You have to ask permission to leave.",
+                                "We ask that any faulty goods be returned in their original packaging.",
+                                "The solicitor asked that her client be allowed to make a phone call."
+                            ]
+                        },
+                        {
+                            "explanation": "to request or invite someone to go somewhere with you or to come to your home: ",
+                            "examples": [
+                                "I've asked David to the party.",
+                                "I've asked David to come to the party.",
+                                "\"Are you going to Muriel's party?\" \"No, I haven't been asked.\"",
+                                "Jorge has asked us over for dinner next Friday.",
+                                "Ian's asked us round to/for dinner next Friday.",
+                                "In fact they've asked us to stay for the whole weekend."
+                            ]
+                        },
+                        {
+                            "explanation": "to expect or demand something: ",
+                            "examples": [
+                                "Greg's asking (= expecting to be paid) £250,000 for his house.",
+                                "He asks too much of me - I can't always be there to help him.",
+                                "It's asking a lot when your boss wants you to work weekends as well as evenings."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

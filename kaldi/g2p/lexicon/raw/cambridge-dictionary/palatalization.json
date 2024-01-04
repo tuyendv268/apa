@@ -1,0 +1,34 @@
+{
+    "word": "palatalization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpæl.ə.təl.aɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌpæl.ə.t̬əl.əˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the effect on a speech sound when the tongue touches the highest part of the mouth, or the process by which this happens: ",
+                            "examples": [
+                                "Some dialects have palatalisation of initial \"k\" sounds in certain positions, as in \"kjat\" (cat) and \"kjar\" (car).",
+                                "Palatalization generally depends mostly on the tongue height of the following vowel. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

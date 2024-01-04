@@ -1,0 +1,49 @@
+{
+    "word": "abortion",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈbɔː.ʃən"
+                            ],
+                            "us": [
+                                "əˈbɔːr.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the intentional ending of a pregnancy: ",
+                            "examples": [
+                                "Abortion is illegal in some countries.",
+                                "She decided to get an abortion.",
+                                "She had an abortion when she was a teenager."
+                            ]
+                        },
+                        {
+                            "explanation": "the early, unintentional ending of a pregnancy when a baby or young animal is born too early and dies before it is fully developed: ",
+                            "examples": [
+                                "The virus can cause abortion in cattle.",
+                                "We expect to see late abortions and birth abnormalities as a result of the radiation leak."
+                            ]
+                        },
+                        {
+                            "explanation": "something considered to be a complete failure or to be extremely bad or ugly: ",
+                            "examples": [
+                                "This is an abortion of truth.",
+                                "One local man described the new building as \"an abortion\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

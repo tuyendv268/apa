@@ -1,0 +1,41 @@
+{
+    "word": "linearly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪn.i.ə.li"
+                            ],
+                            "us": [
+                                "ˈlɪn.i.ɚ.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that involves events or thoughts following another one directly, in a clear order: ",
+                            "examples": [
+                                "The story does not progress linearly from one event in the character's life to the next.",
+                                "Key arguments are scattered throughout the book instead of being built up linearly."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way in which one thing changes at the same rate as another, so that the relationship between them does not change: ",
+                            "examples": [
+                                "This graph shows that the initial rate of reaction increases linearly.",
+                                "The speed of the dots increased linearly with distance from the centre."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

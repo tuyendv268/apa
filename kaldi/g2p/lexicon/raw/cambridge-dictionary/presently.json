@@ -1,0 +1,40 @@
+{
+    "word": "presently",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈprez.ənt.li"
+                            ],
+                            "us": [
+                                "ˈprez.ənt.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "now; at the present time: ",
+                            "examples": [
+                                "Of 200 boats, only 20 are presently operational.",
+                                "Three sites are presently under consideration for the new hotel."
+                            ]
+                        },
+                        {
+                            "explanation": "soon; not at the present time but in the future, after a short time: ",
+                            "examples": [
+                                "The room was hot and presently her eyes grew heavy and she began to feel sleepy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "anonymization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˌnɒn.ɪ.maɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "əˌnɑː.nə.məˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact or process of removing any information that shows which particular person something, particularly something such as a record on or message from a computer, relates to: ",
+                            "examples": [
+                                "These protections would require the destruction or anonymization of all communications data.",
+                                "If making data public, use an anonymization process for privacy protection."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

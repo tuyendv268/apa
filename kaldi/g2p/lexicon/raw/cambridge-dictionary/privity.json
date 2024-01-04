@@ -1,0 +1,41 @@
+{
+    "word": "privity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɪv.ə.ti"
+                            ],
+                            "us": [
+                                "ˈprɪv.ɪt̬.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a legally recognized relationship between two people or groups of people: ",
+                            "examples": [
+                                "The lawyer argued that there was no privity of contract between the plaintiff and the defendant.",
+                                "The original contracting parties no longer have privity with each other. "
+                            ]
+                        },
+                        {
+                            "explanation": "knowledge or information about a private matter : ",
+                            "examples": [
+                                "Did the owner of the ship have privity that an accident was likely? ",
+                                "The carrier of the goods is not responsible for damage caused by fire, unless caused by the actual fault or privity of the carrier."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

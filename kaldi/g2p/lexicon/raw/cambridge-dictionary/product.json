@@ -1,0 +1,61 @@
+{
+    "word": "product",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɒd.ʌkt"
+                            ],
+                            "us": [
+                                "ˈprɑː.dʌkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is made to be sold, usually something that is produced by an industrial process or, less commonly, something that is grown or obtained through farming: ",
+                            "examples": [
+                                "They do a range of skin-care products.",
+                                "The product is so good it sells itself.",
+                                "I'm trying to cut down on dairy products."
+                            ]
+                        },
+                        {
+                            "explanation": "a substance that is used on someone's hair in order to make it look or feel better, keep it in a particular style, etc.: ",
+                            "examples": [
+                                "How often should I wash my hair if I use product?",
+                                "I shower once a day and I try not to sleep with product in my hair.",
+                                "Product such as styling gel or mousse can leave residue on your hair that builds up over time."
+                            ]
+                        },
+                        {
+                            "explanation": "a/the result of something: ",
+                            "examples": [
+                                "A figure like that is usually the product of many hours spent in the gym."
+                            ]
+                        },
+                        {
+                            "explanation": "the result you get when two or more numbers are multiplied together: ",
+                            "examples": [
+                                "The product of 6 and 3 is 18."
+                            ]
+                        },
+                        {
+                            "explanation": "a substance formed in a chemical reaction: ",
+                            "examples": [
+                                "Pipettes can easily become contaminated with the products of previous reactions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

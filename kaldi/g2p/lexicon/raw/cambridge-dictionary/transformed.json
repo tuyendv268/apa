@@ -1,0 +1,41 @@
+{
+    "word": "transformed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "trænsˈfɔːmd"
+                            ],
+                            "us": [
+                                "trænsˈfɔːrmd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having been changed in an important way: ",
+                            "examples": [
+                                "Soldiers came home to a transformed country.",
+                                "After the break, the team came out looking totally transformed."
+                            ]
+                        },
+                        {
+                            "explanation": "(of information) having been arranged or presented in a particular way: ",
+                            "examples": [
+                                "The same results were obtained when we excluded children with missing data and retained the raw instead of transformed scores.",
+                                "All statistical comparisons have been made on logarithmically transformed data."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

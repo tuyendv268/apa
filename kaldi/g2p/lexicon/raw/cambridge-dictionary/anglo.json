@@ -1,0 +1,61 @@
+{
+    "word": "anglo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæŋ.ɡləʊ"
+                            ],
+                            "us": [
+                                "ˈæŋ.ɡloʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a white person in the US who is not from a Latin American country: ",
+                            "examples": [
+                                "The students are Anglos, Latinos, and Native Americans."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "æŋ.ɡləʊ-"
+                            ],
+                            "us": [
+                                "æŋ.ɡloʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to England or the UK: ",
+                            "examples": [
+                                "an Anglophile (= someone who loves England)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

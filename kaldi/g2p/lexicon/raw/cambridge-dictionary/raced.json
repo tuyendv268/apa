@@ -1,0 +1,66 @@
+{
+    "word": "raced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nrace ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "reɪs"
+                            ],
+                            "us": [
+                                "reɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause to) compete in a race: ",
+                            "examples": [
+                                "He has been racing for over ten years.",
+                                "I used to race (against) him when we were boys.",
+                                "He's racing three of his dogs on Saturday."
+                            ]
+                        },
+                        {
+                            "explanation": "to move or go fast: ",
+                            "examples": [
+                                "He raced down the street.",
+                                "The ambulance raced (= quickly took) the injured to a nearby hospital.",
+                                "The summer seems to have raced by (= passed very quickly).",
+                                "He raced the car engine (= made it work faster than it needed to) as he sat impatiently at the traffic lights."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

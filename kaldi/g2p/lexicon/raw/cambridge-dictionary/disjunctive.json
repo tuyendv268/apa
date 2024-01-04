@@ -1,0 +1,39 @@
+{
+    "word": "disjunctive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪsˈdʒʌŋk.tɪv"
+                            ],
+                            "us": [
+                                "dɪsˈdʒʌŋk.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "lacking any clear connection: ",
+                            "examples": [
+                                "The play consists of a series of brief, disjunctive scenes."
+                            ]
+                        },
+                        {
+                            "explanation": "expressing a choice between two or more things, where only one is possible: ",
+                            "examples": [
+                                "Technically speaking, the question is not disjunctive."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

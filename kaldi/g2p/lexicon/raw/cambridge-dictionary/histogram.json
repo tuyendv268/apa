@@ -1,0 +1,34 @@
+{
+    "word": "histogram",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɪs.tə.ɡræm"
+                            ],
+                            "us": [
+                                "ˈhɪs.tə.ɡræm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mathematical picture that uses vertical columns of different heights to show ranges of weight, height, time, etc. or frequencies (= how many times something happens). A histogram does not usually have spaces between the columns: ",
+                            "examples": [
+                                "A histogram looks similar to a bar chart.",
+                                "Figure 2 is a histogram of the heights of all the children in the class."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

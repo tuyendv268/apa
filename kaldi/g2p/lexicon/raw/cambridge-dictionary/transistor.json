@@ -1,0 +1,35 @@
+{
+    "word": "transistor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "trænˈzɪs.tər"
+                            ],
+                            "us": [
+                                "trænˈzɪs.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small electrical device containing a semiconductor, used in televisions, radios, etc. to control or increase an electric current",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a small radio containing transistors, used especially in the past",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "monaurally",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "mɒnˈɔː.rəl.i"
+                            ],
+                            "us": [
+                                "ˌmɑːˈnɔːr.əl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that relates to or uses only one ear: ",
+                            "examples": [
+                                "The performance of the monaurally impaired participants in the experiments is reported below.",
+                                "The sounds were played to the participants monaurally, to either the left or the right ear."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that relates to recording or playing sound in which a single signal is produced: ",
+                            "examples": [
+                                "The tapes were played monaurally through the speaker.",
+                                "The equipment records and plays back monaurally."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

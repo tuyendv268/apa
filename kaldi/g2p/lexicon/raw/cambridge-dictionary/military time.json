@@ -1,0 +1,34 @@
+{
+    "word": "military time",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪl.ɪ.tər.i ˌtaɪm"
+                            ],
+                            "us": [
+                                "ˈmɪl.ə.ter.i ˌtaɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the system of using 24 numbers instead of twelve to refer to the hours in the day: ",
+                            "examples": [
+                                "The clock should be read in military time.",
+                                "The Perl script will wait until 8:00 p.m. (20:00 hours in military time) before starting the reboot process."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

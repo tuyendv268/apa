@@ -1,0 +1,33 @@
+{
+    "word": "numerator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnjuː.mə.reɪ.tər"
+                            ],
+                            "us": [
+                                "ˈnuː.mə.reɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number above the line in a fraction: ",
+                            "examples": [
+                                "In the fraction ¾, 3 is the numerator."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

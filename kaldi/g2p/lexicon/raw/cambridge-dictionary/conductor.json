@@ -1,0 +1,48 @@
+{
+    "word": "conductor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈdʌk.tər"
+                            ],
+                            "us": [
+                                "kənˈdʌk.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who directs the performance of musicians or a piece of music: ",
+                            "examples": [
+                                "The conductor raised his baton.",
+                                "a guest conductor"
+                            ]
+                        },
+                        {
+                            "explanation": "a railway official who travels on and is responsible for a train",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "someone whose job is to sell tickets on a bus, train, or other public vehicle",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a substance that allows heat or electricity to go through it: ",
+                            "examples": [
+                                "Metal is a good conductor of heat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

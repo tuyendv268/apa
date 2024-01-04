@@ -1,0 +1,48 @@
+{
+    "word": "define",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈfaɪn"
+                            ],
+                            "us": [
+                                "dɪˈfaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say what the meaning of something, especially a word, is: ",
+                            "examples": [
+                                "In the dictionary, \"reality\" is defined as \"the state of things as they are, rather than as they are imagined to be\".",
+                                "Before I answer your question, could you define your terms a little more (= explain what you mean by the words you have used)?"
+                            ]
+                        },
+                        {
+                            "explanation": "to explain and describe the meaning and exact limits of something: ",
+                            "examples": [
+                                "Your rights and responsibilities are defined in the citizens' charter.",
+                                "Your role in the project will be strictly defined (= limited to particular areas).",
+                                "I'd hate to feel that I was defined by (= that my life got its meaning and importance only from) my job."
+                            ]
+                        },
+                        {
+                            "explanation": "to show clearly the edge of something: ",
+                            "examples": [
+                                "The outline of the castle on the hill was clearly defined against the evening sky."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

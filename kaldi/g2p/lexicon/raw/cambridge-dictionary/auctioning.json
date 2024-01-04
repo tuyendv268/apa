@@ -1,0 +1,56 @@
+{
+    "word": "auctioning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nauction ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔːk.ʃən"
+                            ],
+                            "us": [
+                                "ˈɑːk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to sell something in a public auction: ",
+                            "examples": [
+                                "The stamps will be auctioned tomorrow.",
+                                "The family is auctioning (off) its art collection."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

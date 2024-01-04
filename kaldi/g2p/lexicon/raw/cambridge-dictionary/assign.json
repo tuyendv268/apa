@@ -1,0 +1,69 @@
+{
+    "word": "assign",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈsaɪn"
+                            ],
+                            "us": [
+                                "əˈsaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give a particular job or piece of work to someone: ",
+                            "examples": [
+                                "UN troops were assigned the task of rebuilding the hospital.",
+                                "The case has been assigned to our most senior officer."
+                            ]
+                        },
+                        {
+                            "explanation": "If you assign a time for a job or activity, you decide it will be done during that time: ",
+                            "examples": [
+                                "Have you assigned a day for the interviews yet?"
+                            ]
+                        },
+                        {
+                            "explanation": "If you assign a characteristic or value to something, you say that it has it: ",
+                            "examples": [
+                                "Each visitor to the site chooses an online alter ego, which is assigned a name. "
+                            ]
+                        },
+                        {
+                            "explanation": "to decide a reason for something: ",
+                            "examples": [
+                                "Detectives have been unable to assign a motive for the murder.",
+                                "The report assigned the blame for the accident to inadequate safety regulations."
+                            ]
+                        },
+                        {
+                            "explanation": "to send someone somewhere to do a job: ",
+                            "examples": [
+                                "She was assigned to the newspaper's Berlin office."
+                            ]
+                        },
+                        {
+                            "explanation": "to put a value in a particular position in the memory of a computer",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to give property, money, or rights using a legal process: ",
+                            "examples": [
+                                "Her property was assigned to her grandchildren."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

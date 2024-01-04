@@ -1,0 +1,39 @@
+{
+    "word": "passable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɑː.sə.bəl"
+                            ],
+                            "us": [
+                                "ˈpæs.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "possible to travel on: ",
+                            "examples": [
+                                "Because of the heavy snow, roads in the area were passable only with care."
+                            ]
+                        },
+                        {
+                            "explanation": "satisfactory but not excellent: ",
+                            "examples": [
+                                "Mary can speak passable Russian."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

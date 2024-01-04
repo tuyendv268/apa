@@ -1,0 +1,61 @@
+{
+    "word": "spearing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nspear ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "spɪər"
+                            ],
+                            "us": [
+                                "spɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to push or throw a spear into an animal: ",
+                            "examples": [
+                                "They catch the fish by spearing them."
+                            ]
+                        },
+                        {
+                            "explanation": "to catch something on the end of a pointed tool or object: ",
+                            "examples": [
+                                "He speared a meatball with his fork."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

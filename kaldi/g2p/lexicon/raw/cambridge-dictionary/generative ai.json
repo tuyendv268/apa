@@ -1,0 +1,41 @@
+{
+    "word": "generative ai",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒen.ər.ə.tɪv eɪˈaɪ"
+                            ],
+                            "us": [
+                                "ˌdʒen.ɚ.ə.t̬ɪv eɪˈaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use or study of artificial intelligences (= computer systems that have some of the qualities that a human brain has, such as the ability to interpret language, recognize images, and learn from data supplied to them) that are able to produce text, images, etc.: ",
+                            "examples": [
+                                "The tech industry rushed to incorporate generative AI into everything from search engines to food delivery apps.",
+                                "Universities have drawn up new guidelines to help teaching and assessment methods adapt to the growing use of generative artificial intelligence."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular artificial intelligence (= a computer system that has some of the qualities that a human brain has, such as the ability to interpret language, recognize images, and learn from data supplied to it) that is able to produce text, images, etc.: ",
+                            "examples": [
+                                "You can help the generative AI to produce the results you want by giving it more detailed prompts.",
+                                "Large language models are not the only generative AIs – you have probably also used image generation models."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

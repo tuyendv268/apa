@@ -1,0 +1,80 @@
+{
+    "word": "binary",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.nər.i"
+                            ],
+                            "us": [
+                                "ˈbaɪ.ner.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "using a system of numbers that uses only 0 and 1: ",
+                            "examples": [
+                                "Computers store all data in binary code.",
+                                "The server writes these files in binary format. ",
+                                "What would pi be in binary numbers?"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to or consisting of two things, in which everything is either one thing or the other: ",
+                            "examples": [
+                                "It's a binary choice, you either accept or you refuse.",
+                                "The system tends to reinforce binary opposites: us and them, self and other, objective and subjective.",
+                                "The study showed that most people under 30 believe that attributes such as male and female aren't binary, but rather are on a spectrum."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.nər.i"
+                            ],
+                            "us": [
+                                "ˈbaɪ.ner.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system of numbers that uses only 0 and 1: ",
+                            "examples": [
+                                "The data is stored in binary, which is then decoded and played back. "
+                            ]
+                        },
+                        {
+                            "explanation": "something such as a system or description that has two parts, in which everything is either one thing or the other: ",
+                            "examples": [
+                                "We think of truth and falsehood as a binary: you're either right or you're wrong.",
+                                "Binaries – choice versus life, liberal versus conservative, us versus them – work well in media and politics."
+                            ]
+                        },
+                        {
+                            "explanation": "a \nbinary star : ",
+                            "examples": [
+                                "Spica, over 2000 times as luminous as the Sun, is actually a binary."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

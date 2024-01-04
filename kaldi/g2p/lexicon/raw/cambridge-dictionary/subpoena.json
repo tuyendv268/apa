@@ -1,0 +1,62 @@
+{
+    "word": "subpoena",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səˈpiː.nə"
+                            ],
+                            "us": [
+                                "səˈpiː.nə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to order someone to go to a law court to answer questions: ",
+                            "examples": [
+                                "A friend of the victim was subpoenaed as a witness by lawyers representing the accused.",
+                                "They were subpoenaed to testify before the judge."
+                            ]
+                        },
+                        {
+                            "explanation": "to order that documents must be produced in a law court",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "səˈpiː.nə"
+                            ],
+                            "us": [
+                                "səˈpiː.nə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a legal document ordering someone to appear in a law court: ",
+                            "examples": [
+                                "Subpoenas were issued to several government employees."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

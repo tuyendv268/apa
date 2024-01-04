@@ -1,0 +1,67 @@
+{
+    "word": "knight",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "naɪt"
+                            ],
+                            "us": [
+                                "naɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a man given a rank of honour by a British king or queen because of his special achievements, and who has the right to be called \"Sir\": ",
+                            "examples": [
+                                "He hopes to be made a knight for his work at the Bank of England."
+                            ]
+                        },
+                        {
+                            "explanation": "(in the past) a man of high social position trained to fight as a soldier on a horse: ",
+                            "examples": [
+                                "knights in black armour"
+                            ]
+                        },
+                        {
+                            "explanation": "in the game of chess, a piece in the shape of a horse's head that moves two squares in one direction and then one square at an angle of 90°",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "naɪt"
+                            ],
+                            "us": [
+                                "naɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give someone the rank of knight: ",
+                            "examples": [
+                                "He was knighted for his work with famine victims."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

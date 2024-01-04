@@ -1,0 +1,58 @@
+{
+    "word": "begin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɪˈɡɪn"
+                            ],
+                            "us": [
+                                "bɪˈɡɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to start to happen or exist: ",
+                            "examples": [
+                                "What time does the concert begin?",
+                                "The bridge was begun five years ago and the estimated cost has already doubled.",
+                                "The film they want to watch begins at seven.",
+                                "The meeting began promisingly, but then things started to go wrong."
+                            ]
+                        },
+                        {
+                            "explanation": "to start to do something: ",
+                            "examples": [
+                                "I began the book six months ago, but I can't seem to finish it.",
+                                "Jane has just begun learning to drive.",
+                                "If you want to learn to play a musical instrument, it might be a good idea to begin on something simple.",
+                                "After waiting for half an hour she was beginning to get angry.",
+                                "I have so much to tell you, I don't know where to begin."
+                            ]
+                        },
+                        {
+                            "explanation": "to start speaking: ",
+                            "examples": [
+                                "\"Well,\" he began. \"I don't quite know how to tell you this.\""
+                            ]
+                        },
+                        {
+                            "explanation": "to have something as the first part: ",
+                            "examples": [
+                                "The word \"cat\" begins with the letter \"c\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

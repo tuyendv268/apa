@@ -1,0 +1,45 @@
+{
+    "word": "mechanic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məˈkæn.ɪk"
+                            ],
+                            "us": [
+                                "məˈkæn.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone whose job is repairing the engines of vehicles and other machines: ",
+                            "examples": [
+                                "a car/garage/bike mechanic"
+                            ]
+                        },
+                        {
+                            "explanation": "the study of the effect of physical forces on objects and their movement: ",
+                            "examples": [
+                                "He wanted to get a better understanding of the mechanics of his sport."
+                            ]
+                        },
+                        {
+                            "explanation": "the way something works or happens: ",
+                            "examples": [
+                                "He knows a lot about the mechanics of running a school."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

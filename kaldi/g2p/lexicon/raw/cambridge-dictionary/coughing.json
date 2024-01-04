@@ -1,0 +1,62 @@
+{
+    "word": "coughing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncough ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kɒf"
+                            ],
+                            "us": [
+                                "kɑːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to force air out of your lungs through your throat with a short, loud sound: ",
+                            "examples": [
+                                "The smoke made me cough.",
+                                "I coughed all night long."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a sound like a cough: ",
+                            "examples": [
+                                "The car engine coughed a few times, but wouldn't start."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

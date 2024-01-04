@@ -1,0 +1,54 @@
+{
+    "word": "tracker",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtræk.ər"
+                            ],
+                            "us": [
+                                "ˈtræk.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who is able to find animals or people by following the marks they leave on the ground as they move over it: ",
+                            "examples": [
+                                "An Aboriginal tracker led them to the place where the plane had crashed."
+                            ]
+                        },
+                        {
+                            "explanation": "an electronic device or piece of software that records information about your physical activity: ",
+                            "examples": [
+                                "The sleep tracker records all sorts of details about your sleep.",
+                                "What is the best activity tracker? "
+                            ]
+                        },
+                        {
+                            "explanation": "a financial product that follows the level of an interest rate, share price, etc.: ",
+                            "examples": [
+                                "Trackers are usually cheaper than actively managed funds, as they are often run by computer instead of a fund manager.",
+                                "A typical base-rate tracker offers between 0.2 and 0.3 percentage points above the Bank's rate."
+                            ]
+                        },
+                        {
+                            "explanation": "a device that shows where someone or something is: ",
+                            "examples": [
+                                "GPS trackers can be plugged into most cars' onboard computers.",
+                                "Every time someone downloads the file, the tracker records where they are."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

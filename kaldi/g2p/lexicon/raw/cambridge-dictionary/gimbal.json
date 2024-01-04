@@ -1,0 +1,33 @@
+{
+    "word": "gimbal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡɪm.bəl"
+                            ],
+                            "us": [
+                                "ˈɡɪm.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device with a circular part that turns around a fixed central axis (= straight line), used for keeping a compass, camera, or other piece of equipment in position when it is inside a moving vehicle or object: ",
+                            "examples": [
+                                "The platform is isolated from vehicle rotations by four gimbals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

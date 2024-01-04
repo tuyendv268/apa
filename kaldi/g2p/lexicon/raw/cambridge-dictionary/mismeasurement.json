@@ -1,0 +1,41 @@
+{
+    "word": "mismeasurement",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mɪsˈmeʒ.ə.mənt"
+                            ],
+                            "us": [
+                                "ˌmɪsˈmeʒ.ɚ.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a failure to measure the size, amount, value, or importance of something correctly: ",
+                            "examples": [
+                                "The cases involve allegations of mismeasurement and undervaluation of gas volumes on which royalty payments are due. ",
+                                "Mis-measurement of tariffs is also captured in the model."
+                            ]
+                        },
+                        {
+                            "explanation": "an incorrect value relating to the size, amount, or importance of something: ",
+                            "examples": [
+                                "These are inadvertent mismeasurements and miscalculations.",
+                                "The lower the quality of the image, the higher the chance of mis-measurements."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

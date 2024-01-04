@@ -1,0 +1,41 @@
+{
+    "word": "interception",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈsep.ʃən"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˈsep.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the action of stopping and catching something or someone before that thing or person is able to reach a particular place: ",
+                            "examples": [
+                                "the interception of enemy messages",
+                                "They established a secure communications channel to prevent the interception of critical information."
+                            ]
+                        },
+                        {
+                            "explanation": "in team sports, the action of catching, stopping, or taking control of the ball as it is being passed between two players of the opposing team: ",
+                            "examples": [
+                                "An interception gave Philadelphia the ball again in Dallas territory with one minute left in the half.",
+                                "He made two vital interceptions to block efforts in the final minutes. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

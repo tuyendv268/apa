@@ -1,0 +1,68 @@
+{
+    "word": "remand",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈmɑːnd"
+                            ],
+                            "us": [
+                                "rɪˈmænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send someone accused of committing a crime away from court until their trial begins: ",
+                            "examples": [
+                                "He was remanded on theft charges.",
+                                "The accused was remanded in custody (= kept in prison before the trial began) for a week."
+                            ]
+                        },
+                        {
+                            "explanation": "to be allowed to leave a law court after you have been accused of committing a crime to go to a particular place, usually your home, to wait until the trial begins, after paying an amount of money to the court that will not be given back if you do not appear at the trial: ",
+                            "examples": [
+                                "Both women were remanded on bail."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈmɑːnd"
+                            ],
+                            "us": [
+                                "rɪˈmænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of being remanded",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in prison until a court trial begins: ",
+                            "examples": [
+                                "He was held on remand in prison for 18 months."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "word": "fairy tale",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfeə.ri ˌteɪl"
+                            ],
+                            "us": [
+                                "ˈfer.i ˌteɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a traditional story written for children that usually involves imaginary creatures and magic",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfeə.ri.teɪl"
+                            ],
+                            "us": [
+                                "ˈfer.i.teɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a special and attractive or beautiful quality, like something in a fairy tale: ",
+                            "examples": [
+                                "They had a fairy-tale wedding.",
+                                "Sadly, there was no fairy-tale happy ending to the story."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

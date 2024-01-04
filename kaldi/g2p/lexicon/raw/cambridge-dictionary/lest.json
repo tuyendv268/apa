@@ -1,0 +1,33 @@
+{
+    "word": "lest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "lest"
+                            ],
+                            "us": [
+                                "lest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in order to prevent any possibility that something will happen: ",
+                            "examples": [
+                                "They were afraid to complain about the noise lest they annoyed the neighbours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

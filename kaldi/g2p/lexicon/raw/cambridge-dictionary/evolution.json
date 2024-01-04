@@ -1,0 +1,41 @@
+{
+    "word": "evolution",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌiː.vəˈluː.ʃən",
+                                "ˌev.əˈluː.ʃən"
+                            ],
+                            "us": [
+                                "ˌiː.vəˈluː.ʃən",
+                                "ˌev.əˈluː.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the way in which living things change and develop over millions of years: ",
+                            "examples": [
+                                "Darwin's theory of evolution"
+                            ]
+                        },
+                        {
+                            "explanation": "a gradual process of change and development: ",
+                            "examples": [
+                                "the evolution of language"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

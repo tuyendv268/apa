@@ -1,0 +1,83 @@
+{
+    "word": "list",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "lɪst"
+                            ],
+                            "us": [
+                                "lɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a record of short pieces of information, such as people's names, usually written or printed with a single thing on each line and often ordered in a way that makes a particular thing easy to find: ",
+                            "examples": [
+                                "a shopping list",
+                                "Is your name on the list?",
+                                "I've made a list of places I'd like to visit while we're in Paris."
+                            ]
+                        },
+                        {
+                            "explanation": "If a ship has a list, it leans to one side.",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "lɪst"
+                            ],
+                            "us": [
+                                "lɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a list, or to include something in a list: ",
+                            "examples": [
+                                "I've listed some useful reading material on the handout."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a ship) to lean to one side, especially as a result of damage: ",
+                            "examples": [
+                                "The tanker is listing badly and liable to sink at any moment."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a company's shares available on a particular financial market: ",
+                            "examples": [
+                                "Last year, eight new companies were listed on the Lahore stock exchange."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something, especially a property, available for people to buy: ",
+                            "examples": [
+                                "The actor has listed his 5,000-sq.-ft. house and plans to find a new place in the Los Angeles area.",
+                                "If you look on the internet, you'll find the product listed on several websites.",
+                                "The real estate agent suggested we list at $700,000."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

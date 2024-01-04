@@ -1,0 +1,40 @@
+{
+    "word": "suburb",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌb.ɜːb"
+                            ],
+                            "us": [
+                                "ˈsʌb.ɝːb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area on the edge of a large town or city where people who work in the town or city often live: ",
+                            "examples": [
+                                "Box Hill is a suburb of Melbourne.",
+                                "We drove from middle-class suburbs to a very poor inner-city area."
+                            ]
+                        },
+                        {
+                            "explanation": "the outer area of a town, rather than the shopping and business centre in the middle: ",
+                            "examples": [
+                                "The company decided to relocate to the suburbs because the rent was much cheaper."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

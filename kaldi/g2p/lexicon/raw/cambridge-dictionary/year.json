@@ -1,0 +1,86 @@
+{
+    "word": "year",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "jɪər"
+                            ],
+                            "us": [
+                                "jɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a period of twelve months, especially from 1 January to 31 December: ",
+                            "examples": [
+                                "Annette worked in Italy for two years.",
+                                "2005 was one of the worst years of my life.",
+                                "We went to Egypt on holiday last year.",
+                                "At this time of year the beaches are almost deserted.",
+                                "This species keeps its leaves all year (round) (= through the year)."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of twelve months relating to a particular activity: ",
+                            "examples": [
+                                "The financial/tax year begins in April."
+                            ]
+                        },
+                        {
+                            "explanation": "the part of the year, in a school or university, during which courses are taught: ",
+                            "examples": [
+                                "the academic/school year",
+                                "She's now in her final/first/second year at Manchester University.",
+                                "My daughter is in her freshman/sophomore/junior/senior year. "
+                            ]
+                        },
+                        {
+                            "explanation": "a group of students who start school, college, university, or a course together: ",
+                            "examples": [
+                                "Kathy was in the year above me at college."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -jɪər"
+                            ],
+                            "us": [
+                                " -jɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to refer to a student in a particular year group at a school, college, or university: ",
+                            "examples": [
+                                "I like teaching the first-years, but the second-years can be difficult.",
+                                "a first-year student"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

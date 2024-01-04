@@ -1,0 +1,33 @@
+{
+    "word": "percentile",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəˈsen.taɪl"
+                            ],
+                            "us": [
+                                "pɚˈsen.taɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the points into which a large range of numbers, results, etc. is divided to make 100 groups of the same size: ",
+                            "examples": [
+                                "That score puts you in the 97th percentile."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

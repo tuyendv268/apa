@@ -1,0 +1,62 @@
+{
+    "word": "depending",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndepend ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈpend"
+                            ],
+                            "us": [
+                                "dɪˈpend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be decided by or to change according to the stated thing: ",
+                            "examples": [
+                                "Whether or not we go to Mexico for our holiday depends on the cost.",
+                                "I might go to the cinema tomorrow - it depends what time I get home from work."
+                            ]
+                        },
+                        {
+                            "explanation": "it is not decided yet: ",
+                            "examples": [
+                                "\"Are you going to Emma's party?\" \"I don't know, it depends - we might be going away that weekend.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "blazed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nblaze ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bleɪz"
+                            ],
+                            "us": [
+                                "bleɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to burn brightly and strongly: ",
+                            "examples": [
+                                "The sun was blazing down that afternoon."
+                            ]
+                        },
+                        {
+                            "explanation": "to be brightly lit or full of colour: ",
+                            "examples": [
+                                "Isaac's eyes suddenly blazed with anger."
+                            ]
+                        },
+                        {
+                            "explanation": "When a gun or a person using a gun blazes, the gun fires and continues firing: ",
+                            "examples": [
+                                "The ship's guns blazed at the British as they tried to run for shore."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "malicious",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "məˈlɪʃ.əs"
+                            ],
+                            "us": [
+                                "məˈlɪʃ.əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "intended to harm or upset other people: ",
+                            "examples": [
+                                "malicious gossip",
+                                "a malicious look in his eyes",
+                                "He complained that he'd been receiving malicious phone calls.",
+                                "He was charged with malicious wounding."
+                            ]
+                        },
+                        {
+                            "explanation": "intended to cause damage to a computer system, or to steal private information from a computer system: ",
+                            "examples": [
+                                "protection against malicious software/code"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

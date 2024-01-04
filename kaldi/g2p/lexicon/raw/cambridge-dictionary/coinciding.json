@@ -1,0 +1,63 @@
+{
+    "word": "coinciding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncoincide ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌkəʊ.ɪnˈsaɪd"
+                            ],
+                            "us": [
+                                "ˌkoʊ.ɪnˈsaɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to happen at or near the same time: ",
+                            "examples": [
+                                "I timed my holiday to coincide with the children's.",
+                                "If the heavy rain had coincided with an extreme high tide, serious flooding would have resulted."
+                            ]
+                        },
+                        {
+                            "explanation": "to be the same or similar: ",
+                            "examples": [
+                                "Our views coincide on a range of subjects.",
+                                "If our schedules coincide, we'll go to Spain together."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

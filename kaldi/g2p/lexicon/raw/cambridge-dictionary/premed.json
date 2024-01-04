@@ -1,0 +1,71 @@
+{
+    "word": "premed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "priːˈmed"
+                            ],
+                            "us": [
+                                "priːˈmed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a college or university course that prepares students for medical school: ",
+                            "examples": [
+                                "Michael decided that premed was no longer for him.",
+                                "I started in premed and switched to social work."
+                            ]
+                        },
+                        {
+                            "explanation": "a student who is doing a course that prepares him or her for medical school: ",
+                            "examples": [
+                                "This is a difficult question to answer for a premed."
+                            ]
+                        },
+                        {
+                            "explanation": "a drug or mix of drugs sometimes given to relax someone before an anaesthetic (= a substance that makes you unable to feel pain): ",
+                            "examples": [
+                                "The surgeon said I was nervous and gave me a premed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpriː.med"
+                            ],
+                            "us": [
+                                "priːˈmed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to or doing a course that prepares someone for medical school: ",
+                            "examples": [
+                                "He was a premed student at the University of California.",
+                                "The two students had been admitted to a prestigious premed program."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "word": "latinx",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌlæˈtiː.neks"
+                            ],
+                            "us": [
+                                "ˌlæˈtiː.neks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "from Latin America, or having a family from Latin America; used when you do not want to say if the person is a man or a woman: ",
+                            "examples": [
+                                "A Latinx immigrant student on the border of Texas and Mexico may have a different experience than a Latinx immigrant student in North Carolina."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌlæˈtiː.neks"
+                            ],
+                            "us": [
+                                "ˌlæˈtiː.neks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who lives in the US and who comes from, or whose family comes from, Latin America; used when you do not want to say that the person is a man or a woman: ",
+                            "examples": [
+                                "Some companies in El Paso, Texas seek out Spanish-speaking employees that can communicate with US Latinxs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

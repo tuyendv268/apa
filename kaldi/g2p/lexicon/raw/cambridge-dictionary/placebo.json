@@ -1,0 +1,39 @@
+{
+    "word": "placebo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pləˈsiː.bəʊ"
+                            ],
+                            "us": [
+                                "pləˈsiː.boʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance given to someone who is told that it is a particular medicine, either to make that person feel as if they are getting better or to compare the effect of the particular medicine when given to others: ",
+                            "examples": [
+                                "She was only given a placebo, but she claimed she got better - that's the placebo effect."
+                            ]
+                        },
+                        {
+                            "explanation": "something that is given to try to satisfy a person who has not been given the thing they really want: ",
+                            "examples": [
+                                "These small concessions have been made as a placebo to stop the workers making further demands."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

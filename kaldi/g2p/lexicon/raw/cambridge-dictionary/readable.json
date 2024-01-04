@@ -1,0 +1,61 @@
+{
+    "word": "readable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈriː.də.bəl"
+                            ],
+                            "us": [
+                                "ˈriː.də.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "easy and enjoyable to read: ",
+                            "examples": [
+                                "It is an excellent and highly readable account of the army today."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -riː.də.bəl"
+                            ],
+                            "us": [
+                                " -riː.də.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a form that is able to be used by a computer: ",
+                            "examples": [
+                                "Machine-readable passports will permit precise identity-checking."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

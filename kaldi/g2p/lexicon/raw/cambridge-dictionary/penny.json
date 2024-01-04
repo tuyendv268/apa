@@ -1,0 +1,78 @@
+{
+    "word": "penny",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpen.i"
+                            ],
+                            "us": [
+                                "ˈpen.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the smallest unit of money in the UK, of which there are 100 in a pound, or a small coin worth this much. You use \"pence\" or, more informally, \"p\" when you are talking about the units of money and pennies when you are talking about the coins themselves: ",
+                            "examples": [
+                                "Could you lend me 50 pence/50p please?",
+                                "I found a ten/twenty/fifty pence piece (= a coin of this value) on the floor.",
+                                "I keep pennies and other small coins in a jar."
+                            ]
+                        },
+                        {
+                            "explanation": "in the US and Canada, a cent or a coin of this value",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in the UK before 1971, a large coin. There were twelve pennies in a shilling.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "used when talking about the smallest amount of money possible: ",
+                            "examples": [
+                                "Buy a TV now and it won't cost you a penny (= will cost nothing) for three months.",
+                                "It was an expensive meal but worth every penny."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -pen.i"
+                            ],
+                            "us": [
+                                " -pen.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used in the past with numbers to show how many pence something cost: ",
+                            "examples": [
+                                "a fourpenny ice-cream"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "mooed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmoo ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "muː"
+                            ],
+                            "us": [
+                                "muː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make the long, deep sound that a cow makes: ",
+                            "examples": [
+                                "A dozen cows mooed sadly.",
+                                "A calf mooed nearby, and its mother answered in a deep contralto."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

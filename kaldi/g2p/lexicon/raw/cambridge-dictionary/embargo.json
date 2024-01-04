@@ -1,0 +1,58 @@
+{
+    "word": "embargo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˈbɑː.ɡəʊ"
+                            ],
+                            "us": [
+                                "ɪmˈbɑːr.ɡoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an order to temporarily stop something, especially trading or giving information: ",
+                            "examples": [
+                                "They have put an embargo on imports of clothing.",
+                                "The police asked for a news embargo while they tried to find the kidnapper."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˈbɑː.ɡəʊ"
+                            ],
+                            "us": [
+                                "ɪmˈbɑːr.ɡoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to officially stop trading with another country: ",
+                            "examples": [
+                                "They are planning to embargo oil imports."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

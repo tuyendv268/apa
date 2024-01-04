@@ -1,0 +1,34 @@
+{
+    "word": "randomize",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈræn.də.maɪz"
+                            ],
+                            "us": [
+                                "ˈræn.də.maɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something random (= so that it happens or is chosen by chance), especially as a way of making a test fairer or more accurate: ",
+                            "examples": [
+                                "Some studies are easier to randomize than others.",
+                                "Scrambling is a technique used to randomize a data stream."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

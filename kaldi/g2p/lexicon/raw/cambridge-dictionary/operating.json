@@ -1,0 +1,41 @@
+{
+    "word": "operating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒp.ər.eɪ.tɪŋ"
+                            ],
+                            "us": [
+                                "ˈɑː.pər.eɪ.t̬ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the main business activities of a company: ",
+                            "examples": [
+                                "The membership fees are enough to cover the operating costs of the health club.",
+                                "The company aims to make at least £100 million in operating profits in its next financial year."
+                            ]
+                        },
+                        {
+                            "explanation": "working or being used: ",
+                            "examples": [
+                                "We went to visit an operating windmill.",
+                                "It was the last operating machine of its kind until it broke down last year."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

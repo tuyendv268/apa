@@ -1,0 +1,59 @@
+{
+    "word": "dye",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "daɪ"
+                            ],
+                            "us": [
+                                "daɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change the colour of something using a special liquid: ",
+                            "examples": [
+                                "For a change, why not dye your T-shirts?",
+                                "He dyed his hair black."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "daɪ"
+                            ],
+                            "us": [
+                                "daɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance used to change the colour of something: ",
+                            "examples": [
+                                "She dipped the material into the dye.",
+                                "There are dozens of different dyes to choose from."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

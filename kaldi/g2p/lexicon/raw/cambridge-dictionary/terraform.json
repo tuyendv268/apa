@@ -1,0 +1,33 @@
+{
+    "word": "terraform",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈter.ə.fɔːm"
+                            ],
+                            "us": [
+                                "ˈter.ə.fɔːrm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in books, films, or games about an imagined future, to change the environment of a planet so that it is more like another planet, especially so that it is more like Earth and could therefore be a place where humans could live: ",
+                            "examples": [
+                                "Can we terraform Mars? Could Venus be made to support life?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "library",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlaɪ.brər.i"
+                            ],
+                            "us": [
+                                "ˈlaɪ.brer.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a building, room, or organization that has a collection of books, documents, music, and sometimes things such as tools or artwork, for people to borrow, usually without payment: ",
+                            "examples": [
+                                "a public/university library",
+                                "a library book",
+                                "Some libraries were lending MP3 players to students.",
+                                "She set up a toy library for local parents and toddlers."
+                            ]
+                        },
+                        {
+                            "explanation": "a collection or set of books or recordings, all produced in the same style or about the same subject: ",
+                            "examples": [
+                                "the Penguin Shakespeare Library"
+                            ]
+                        },
+                        {
+                            "explanation": "a collection of songs or pieces of music on an online music service: ",
+                            "examples": [
+                                "You can share your music library with other users.",
+                                "The music streaming service is growing its library by tens of thousands of tracks per week."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

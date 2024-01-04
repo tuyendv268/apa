@@ -1,0 +1,43 @@
+{
+    "word": "ugly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈʌɡ.li"
+                            ],
+                            "us": [
+                                "ˈʌɡ.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "unpleasant to look at; not attractive: ",
+                            "examples": [
+                                "I think a lot of modern architecture is very ugly.",
+                                "Yesterday I saw the ugliest baby I've ever seen in my life.",
+                                "I feel really fat and ugly today.",
+                                "He was a really unpleasant man and as ugly as sin (= very ugly)."
+                            ]
+                        },
+                        {
+                            "explanation": "unpleasant and threatening or violent: ",
+                            "examples": [
+                                "There were ugly scenes outside the stadium.",
+                                "The demonstration turned ugly when a group of protesters started to throw bottles at the police."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

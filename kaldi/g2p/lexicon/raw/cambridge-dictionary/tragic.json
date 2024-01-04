@@ -1,0 +1,42 @@
+{
+    "word": "tragic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈtrædʒ.ɪk"
+                            ],
+                            "us": [
+                                "ˈtrædʒ.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "very sad, often involving death and suffering: ",
+                            "examples": [
+                                "His friends were deeply shocked and saddened by the tragic news of his death.",
+                                "The bomb explosion resulted in a tragic loss of life.",
+                                "Hospital authorities admitted that a tragic mistake/error had been made.",
+                                "It is tragic that the theatre has had to close."
+                            ]
+                        },
+                        {
+                            "explanation": "belonging or relating to literature about death or suffering: ",
+                            "examples": [
+                                "During his acting career, he has played all Shakespeare's great tragic heroes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

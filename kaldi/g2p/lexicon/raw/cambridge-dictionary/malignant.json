@@ -1,0 +1,40 @@
+{
+    "word": "malignant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "məˈlɪɡ.nənt"
+                            ],
+                            "us": [
+                                "məˈlɪɡ.nənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A malignant disease or growth is cancer or is related to cancer, and is likely to be harmful: ",
+                            "examples": [
+                                "The process by which malignant cancer cells multiply isn't fully understood.",
+                                "Is the tumour malignant or benign?"
+                            ]
+                        },
+                        {
+                            "explanation": "having a strong wish to do harm: ",
+                            "examples": [
+                                "He developed a malignant hatred for the land of his birth."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

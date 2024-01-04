@@ -1,0 +1,40 @@
+{
+    "word": "gravimetric",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɡræv.ɪˈmet.rɪk"
+                            ],
+                            "us": [
+                                "ˌɡræv.əˈmet.rɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "based on measuring the weight of a substance: ",
+                            "examples": [
+                                "Soil samples were analysed for gravimetric moisture content.",
+                                "Gravimetric measurements of sweat production were recorded prior to starting treatment. "
+                            ]
+                        },
+                        {
+                            "explanation": "based on measuring the gravitational force of something (= the force that attracts objects towards one another): ",
+                            "examples": [
+                                "Geological, aeromagnetic, and gravimetric studies had already been conducted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

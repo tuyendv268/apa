@@ -1,0 +1,88 @@
+{
+    "word": "shed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʃed"
+                            ],
+                            "us": [
+                                "ʃed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small building, usually made of wood, used for storing things: ",
+                            "examples": [
+                                "a tool/storage shed",
+                                "a garden/bicycle shed"
+                            ]
+                        },
+                        {
+                            "explanation": "a large, simple building used for a particular purpose: ",
+                            "examples": [
+                                "the lambing shed",
+                                "a cow shed"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʃed"
+                            ],
+                            "us": [
+                                "ʃed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(often used in newspapers) to get rid of something you do not need or want: ",
+                            "examples": [
+                                "900 jobs will be shed over the next few months.",
+                                "Psychotherapy helped him to shed some of his insecurity/inhibitions.",
+                                "I'm going on a diet to see if I can shed (= become thinner by losing) a few pounds."
+                            ]
+                        },
+                        {
+                            "explanation": "to lose a covering, such as leaves, hair, or skin, because it falls off naturally, or to drop something in a natural way or by accident: ",
+                            "examples": [
+                                "The trees shed their leaves in autumn.",
+                                "They ran down to the water, shedding clothes as they went.",
+                                "A lorry had shed a load of gravel across the road."
+                            ]
+                        },
+                        {
+                            "explanation": "to allow tears or blood to flow: ",
+                            "examples": [
+                                "She shed a few tears at her daughter's wedding."
+                            ]
+                        },
+                        {
+                            "explanation": "to release a virus or bacterium from a cell or body into the environment where it can infect other people: ",
+                            "examples": [
+                                "Those who have contracted the new coronavirus shed the virus most heavily in the first few days of the illness.",
+                                "People shed the virus in respiratory droplets and aerosols."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

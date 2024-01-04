@@ -1,0 +1,40 @@
+{
+    "word": "asynchronous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "eɪˈsɪŋ.krə.nəs"
+                            ],
+                            "us": [
+                                "eɪˈsɪŋ.krə.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not happening or done at the same time or speed: ",
+                            "examples": [
+                                "This finding suggests asynchronous climate changes in the Northern and Southern hemispheres."
+                            ]
+                        },
+                        {
+                            "explanation": "(of learning or teaching) involving students working separately at different times, for example using recorded lessons or the internet, rather than involving students and teacher taking part in a lesson all at the same time: ",
+                            "examples": [
+                                "In asynchronous learning the interaction between instructors and students occurs intermittently with a time delay.",
+                                "Get a first look at our asynchronous training modules and participate in the educator feedback process."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

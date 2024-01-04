@@ -1,0 +1,63 @@
+{
+    "word": "fouling",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nfoul ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "faʊl"
+                            ],
+                            "us": [
+                                "faʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to do something against the rules of a sport",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in baseball, to hit a ball outside the playing area",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to spoil or damage something by making it dirty: ",
+                            "examples": [
+                                "The oil spill fouled the river and destroyed habitats."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

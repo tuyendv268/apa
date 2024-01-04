@@ -1,0 +1,63 @@
+{
+    "word": "loaf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ləʊf"
+                            ],
+                            "us": [
+                                "loʊf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "bread that is shaped and baked in a single piece and can be sliced for eating: ",
+                            "examples": [
+                                "two loaves of white bread"
+                            ]
+                        },
+                        {
+                            "explanation": "a dish made of meat or vegetables cut into small pieces then pressed together and cooked in a single solid piece: ",
+                            "examples": [
+                                "meat/nut loaf"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ləʊf"
+                            ],
+                            "us": [
+                                "loʊf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to avoid activity, especially work: ",
+                            "examples": [
+                                "Stop loafing (about/around) and get on with cleaning the windows!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "self-help",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌselfˈhelp"
+                            ],
+                            "us": [
+                                "ˌselfˈhelp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the activity of you yourself providing what you need to help you solve a problem, end a habit, learn a skill, etc. : ",
+                            "examples": [
+                                "It is a group providing self-help for single parents.",
+                                "Exercise is often recommended as a first line of self help."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌselfˈhelp"
+                            ],
+                            "us": [
+                                "ˌselfˈhelp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "intended to help you solve a problem, end a habit, learn a skill, etc. by yourself: ",
+                            "examples": [
+                                "We joined a self-help group for the parents of young gamblers.",
+                                "She is currently working on a self help book for cancer survivors."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

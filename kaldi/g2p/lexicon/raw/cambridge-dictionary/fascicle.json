@@ -1,0 +1,42 @@
+{
+    "word": "fascicle",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfæs.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈfæs.ɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one part of a book that is published or made available separately: ",
+                            "examples": [
+                                "The collected works were issued in fascicles.",
+                                "Only 200 copies of the fascicules were run off."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of muscle or nerve fibres: ",
+                            "examples": [
+                                "muscle fascicles",
+                                "axonal fascicles",
+                                "the medial longitudinal fasciculus"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

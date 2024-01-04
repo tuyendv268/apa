@@ -1,0 +1,38 @@
+{
+    "word": "chapel",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʃæp.əl"
+                            ],
+                            "us": [
+                                "ˈtʃæp.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a room that is part of a larger building and is used for Christian worship: ",
+                            "examples": [
+                                "The college/hospital/prison has its own chapel.",
+                                "the Chapel of St Paul"
+                            ]
+                        },
+                        {
+                            "explanation": "a building used for Christian worship by Christians who do not belong to the Church of England or the Roman Catholic Church",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

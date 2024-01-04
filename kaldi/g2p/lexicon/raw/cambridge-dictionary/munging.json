@@ -1,0 +1,34 @@
+{
+    "word": "munging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmʌŋ.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈmʌŋ.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of changing data into another format (= arrangement) so that it can be used or processed: ",
+                            "examples": [
+                                "data munging ",
+                                "A lot of munging has to take place to get the data from one schema into another. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

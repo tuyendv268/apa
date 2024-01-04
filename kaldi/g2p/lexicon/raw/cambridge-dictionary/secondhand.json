@@ -1,0 +1,38 @@
+{
+    "word": "secondhand",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [],
+                            "us": [
+                                "ˈsek·əndˈhænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "owned or used in the past by someone else: ",
+                            "examples": [
+                                "a secondhand car",
+                                "I bought it second-hand at that bookstore on Elm Street."
+                            ]
+                        },
+                        {
+                            "explanation": "learned or heard about from someone else rather than directly from the person involved: ",
+                            "examples": [
+                                "She said she had heard second-hand reports of officers sleeping on the job."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

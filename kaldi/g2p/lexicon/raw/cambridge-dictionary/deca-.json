@@ -1,0 +1,41 @@
+{
+    "word": "deca-",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "dek.ə-"
+                            ],
+                            "us": [
+                                "dek.ə-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "ten; used in forming nouns: ",
+                            "examples": [
+                                "decathlon (= a sports competition with 10 events)",
+                                "decahedron (= a shape with 10 faces)"
+                            ]
+                        },
+                        {
+                            "explanation": "ten times the stated unit: ",
+                            "examples": [
+                                "a decapascal",
+                                "a decametre"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "transcribed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntranscribe ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trænˈskraɪb"
+                            ],
+                            "us": [
+                                "trænˈskraɪb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to record something written, spoken, or played by writing it down: ",
+                            "examples": [
+                                "Recordings of conversations are transcribed and entered into the database."
+                            ]
+                        },
+                        {
+                            "explanation": "to change a piece of writing or music into another form, for example into a different writing system or into music for different instruments: ",
+                            "examples": [
+                                "Transcribing the Ethiopian text into the English alphabet was their first task.",
+                                "The quintet had been transcribed for clarinet and piano."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

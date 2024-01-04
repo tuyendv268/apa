@@ -1,0 +1,77 @@
+{
+    "word": "console",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈsəʊl"
+                            ],
+                            "us": [
+                                "kənˈsoʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone who is sad or disappointed feel better, usually by giving them comfort or sympathy: ",
+                            "examples": [
+                                "Her friends tried to console her, telling her \"Everything will be fine.\"",
+                                "He was consoled by the fact that he was young enough to try again the following year.",
+                                "I consoled myself with the thought that no one else could have done any better."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒn.səʊl"
+                            ],
+                            "us": [
+                                "ˈkɑːn.soʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a surface or device with controls for electronic equipment, a vehicle, etc.: ",
+                            "examples": [
+                                "A sound engineer's console looks as complicated as the cockpit of a jet aircraft."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of electronic equipment for playing computer games: ",
+                            "examples": [
+                                "It's the only console that will run this game.",
+                                "The early model was a $40 game console that plugged directly into your TV."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of narrow table, sometimes fixed to a wall: ",
+                            "examples": [
+                                "You could try adding a mirrored top to a hallway table or a console. ",
+                                "Console tables are ideal for narrow passageways."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

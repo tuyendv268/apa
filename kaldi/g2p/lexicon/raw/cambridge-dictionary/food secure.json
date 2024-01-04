@@ -1,0 +1,41 @@
+{
+    "word": "food secure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌfuːd sɪˈkjʊər"
+                            ],
+                            "us": [
+                                "ˌfuːd səˈkjʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a person, family, etc.) generally able to obtain enough food: ",
+                            "examples": [
+                                "The majority of people lived in households that were food secure.",
+                                "They were considered to be food secure because they had regular access to enough food."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a country, region) able to produce or obtain enough food to feed its population: ",
+                            "examples": [
+                                "The government has a number of policies aimed at making the country food secure.",
+                                "Regular drought or floods prompt refugees to flee to more fertile, food-secure areas."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "respondent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈspɒn.dənt"
+                            ],
+                            "us": [
+                                "rɪˈspɑːn.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who answers a request for information: ",
+                            "examples": [
+                                "In a recent opinion poll, a majority of respondents were against nuclear weapons."
+                            ]
+                        },
+                        {
+                            "explanation": "in a court case, the person who a petition (= a formal letter to the court asking for a particular action) is made against, especially in a divorce case: ",
+                            "examples": [
+                                "She divorced the respondent on the grounds of unreasonable behaviour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

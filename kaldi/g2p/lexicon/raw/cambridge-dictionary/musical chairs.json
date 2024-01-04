@@ -1,0 +1,33 @@
+{
+    "word": "musical chairs",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmjuː.zɪ.kəl ˈtʃeəz"
+                            ],
+                            "us": [
+                                "ˌmjuː.zɪ.kəl ˈtʃerz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game in which children walk around a group of chairs while music plays. When the music stops they have to sit quickly on a chair, but because there is always one less chair than the number of children, the child that is left standing must leave the game: ",
+                            "examples": [
+                                "It's a game of musical chairs (= a situation in which people change jobs often) as editors move from one newspaper to another."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

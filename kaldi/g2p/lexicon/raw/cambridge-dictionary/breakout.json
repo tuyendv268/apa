@@ -1,0 +1,64 @@
+{
+    "word": "breakout",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbreɪk.aʊt"
+                            ],
+                            "us": [
+                                "ˈbreɪk.aʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a violent escape, especially by a group, from prison: ",
+                            "examples": [
+                                "There has been a mass breakout from one of Germany's top security jails."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbreɪk.aʊt"
+                            ],
+                            "us": [
+                                "ˈbreɪk.aʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe someone or something that suddenly becomes very well known or successful in a particular type of activity, or an achievement that helps them do this: ",
+                            "examples": [
+                                "She was the breakout star of this year's Women's World Cup.",
+                                "This was the breakout book by one of the most original writers of his generation."
+                            ]
+                        },
+                        {
+                            "explanation": "used in connection with smaller groups that separate from a meeting to discuss a particular issue, before returning to the main meeting: ",
+                            "examples": [
+                                "a breakout session/meeting"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

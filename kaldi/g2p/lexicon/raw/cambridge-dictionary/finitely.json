@@ -1,0 +1,34 @@
+{
+    "word": "finitely",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈfaɪ.naɪt.li"
+                            ],
+                            "us": [
+                                "ˈfaɪ.naɪt.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that has a limit or end: ",
+                            "examples": [
+                                "This is a finitely generated group of values. ",
+                                "The authors of this study investigate the consequences of the policy, given the finitely available resources."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

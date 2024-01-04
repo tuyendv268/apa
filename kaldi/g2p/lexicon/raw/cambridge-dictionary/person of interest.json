@@ -1,0 +1,33 @@
+{
+    "word": "person of interest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɜː.sən əv ˈɪn.trest"
+                            ],
+                            "us": [
+                                "ˌpɝː.sən əv ˈɪn.trɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who the police think might have been involved in a crime, but who has not been arrested: ",
+                            "examples": [
+                                "No one has been arrested, but several people have been labeled \"persons of interest\" and questioned."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

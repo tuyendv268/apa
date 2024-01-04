@@ -1,0 +1,56 @@
+{
+    "word": "microwaved",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmicrowave ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmaɪ.krə.weɪv"
+                            ],
+                            "us": [
+                                "ˈmaɪ.kroʊ.weɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cook something in a microwave: ",
+                            "examples": [
+                                "Shall I microwave something for dinner?",
+                                "I microwaved the sauce for 30 seconds so it was hot when poured over the fish."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

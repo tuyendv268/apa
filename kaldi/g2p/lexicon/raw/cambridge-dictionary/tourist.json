@@ -1,0 +1,43 @@
+{
+    "word": "tourist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʊə.rɪst",
+                                "ˈtɔː.rɪst"
+                            ],
+                            "us": [
+                                "ˈtʊr.ɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who visits a place for pleasure and interest, usually while on holiday: ",
+                            "examples": [
+                                "Millions of tourists visit Rome every year.",
+                                "Hordes (= very large groups) of tourists flock to the Mediterranean each year.",
+                                "Florida has a number of major tourist attractions.",
+                                "The island is very busy during the tourist season."
+                            ]
+                        },
+                        {
+                            "explanation": "a member of a sports team who is travelling from place to place in a foreign country, playing games: ",
+                            "examples": [
+                                "The West Indies easily defeated the tourists."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

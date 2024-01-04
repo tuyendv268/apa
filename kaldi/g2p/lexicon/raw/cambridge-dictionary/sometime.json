@@ -1,0 +1,59 @@
+{
+    "word": "sometime",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌm.taɪm"
+                            ],
+                            "us": [
+                                "ˈsʌm.taɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "at a time in the future or the past that is not known or not stated: ",
+                            "examples": [
+                                "sometime before June",
+                                "We really should meet sometime soon to discuss the details.",
+                                "sometime in the autumn"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌm.taɪm"
+                            ],
+                            "us": [
+                                "ˈsʌm.taɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(especially of a job or position) in the past but not any longer: ",
+                            "examples": [
+                                "The new paper will be headed by Rebecca Jones, sometime editor of the \"Daily News\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

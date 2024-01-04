@@ -1,0 +1,65 @@
+{
+    "word": "goose",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡuːs"
+                            ],
+                            "us": [
+                                "ɡuːs"
+                            ],
+                            "uk_other_tense": [
+                                "ɡiːs"
+                            ],
+                            "us_other_tense": [
+                                "ɡiːs"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large water bird similar to a duck but larger, or the meat from this bird",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a silly person",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡuːs"
+                            ],
+                            "us": [
+                                "ɡuːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to press or take hold of someone's bottom",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to encourage or cause something or someone to be more active",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

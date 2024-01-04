@@ -1,0 +1,76 @@
+{
+    "word": "fed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fed"
+                            ],
+                            "us": [
+                                "fed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of\nfeed ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(of the police or someone in authority) to catch someone: ",
+                            "examples": [
+                                "Run or we'll get fedded.",
+                                "I got fedded for using my phone in class."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fed"
+                            ],
+                            "us": [
+                                "fed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a police officer who works for the F.B.I., or an officer who represents the central government: ",
+                            "examples": [
+                                "The Feds completely screwed up the arrest."
+                            ]
+                        },
+                        {
+                            "explanation": "a police officer: ",
+                            "examples": [
+                                "Let's go, there's too many feds around here."
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for \nthe Federal Reserve ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

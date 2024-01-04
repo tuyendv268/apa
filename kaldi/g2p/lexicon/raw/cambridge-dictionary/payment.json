@@ -1,0 +1,47 @@
+{
+    "word": "payment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪ.mənt"
+                            ],
+                            "us": [
+                                "ˈpeɪ.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an amount of money paid: ",
+                            "examples": [
+                                "Usually we ask for payment on receipt of the goods.",
+                                "We need a deposit of £165 followed by twelve monthly payments of £60.",
+                                "When is the first payment due?"
+                            ]
+                        },
+                        {
+                            "explanation": "reward: ",
+                            "examples": [
+                                "Verbal abuse was hardly the payment I expected for my troubles."
+                            ]
+                        },
+                        {
+                            "explanation": "an amount of money received by a person that has been owed to them, and especially money received by an employee because of a pay rise at an earlier time: ",
+                            "examples": [
+                                "The company refused to give them their full pension, sick pay and other back payments."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

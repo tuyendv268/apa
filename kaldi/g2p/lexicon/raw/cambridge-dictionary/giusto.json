@@ -1,0 +1,42 @@
+{
+    "word": "giusto",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒuː.stəʊ"
+                            ],
+                            "us": [
+                                "ˈdʒuː.stoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "exact: a written instruction used to tell a musician that they should perform at the exact tempo (= speed) that is shown: ",
+                            "examples": [
+                                "The third movement uses one of his trademark tempo indications, Tempo giusto.",
+                                "The duo plays six movements characterized by a stricter tempo giusto style.",
+                                "The composer's own interpretations are infinitely preferable to the inexpressive tempo giusto playing of so many modern pianists."
+                            ]
+                        },
+                        {
+                            "explanation": "suitable: a written instruction used to tell a musician that they should perform at a suitable speed: ",
+                            "examples": [
+                                "The first movement leads into a fractured fugue, played allegro giusto.",
+                                "The initial larghetto progresses to an \"allegro giusto\" marking."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

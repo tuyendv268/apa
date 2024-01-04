@@ -1,0 +1,84 @@
+{
+    "word": "glance",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡlɑːns"
+                            ],
+                            "us": [
+                                "ɡlæns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give a quick short look: ",
+                            "examples": [
+                                "She glanced around/round the room to see who was there.",
+                                "He glanced up from his book as I passed.",
+                                "Could you glance over/through this letter and see if it's alright?"
+                            ]
+                        },
+                        {
+                            "explanation": "to shine, reflect light, or sparkle: ",
+                            "examples": [
+                                "The sunlight glanced on the lake."
+                            ]
+                        },
+                        {
+                            "explanation": "In cricket, if a batter glances the ball, they hit it quickly and lightly at an angle so that it goes behind them with only a small change of direction: ",
+                            "examples": [
+                                "He glanced the delivery for four.",
+                                "She glanced a short-pitched delivery down to fine leg for a single."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡlɑːns"
+                            ],
+                            "us": [
+                                "ɡlæns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a quick short look: ",
+                            "examples": [
+                                "She took/cast a glance at her watch."
+                            ]
+                        },
+                        {
+                            "explanation": "immediately: ",
+                            "examples": [
+                                "He could tell at a glance that something was wrong."
+                            ]
+                        },
+                        {
+                            "explanation": "when first looking: ",
+                            "examples": [
+                                "At first glance I thought it was a dog (but I was mistaken)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

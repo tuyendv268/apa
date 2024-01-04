@@ -1,0 +1,47 @@
+{
+    "word": "luminosity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌluː.mɪˈnɒs.ə.tɪ"
+                            ],
+                            "us": [
+                                "ˌluː.məˈnɑː.sə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of producing or reflecting bright light; the state of appearing to shine: ",
+                            "examples": [
+                                "The photographer achieved the luminosity in the image through careful manipulation in the darkroom.",
+                                "The light was crystalline, giving everything a shimmering luminosity."
+                            ]
+                        },
+                        {
+                            "explanation": "the brightness of a star, comet, etc.: ",
+                            "examples": [
+                                "The object of the project is to investigate the mass and luminosity of nearby stars.",
+                                "The stars have high surface temperatures (50,000 kelvins and up) and luminosities (100,000 suns and greater)."
+                            ]
+                        },
+                        {
+                            "explanation": "the measurement of the rate at which an object produces radiation: ",
+                            "examples": [
+                                "The X-ray luminosity from a galaxy cluster can be used to find its centre very accurately."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

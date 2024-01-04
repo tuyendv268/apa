@@ -1,0 +1,48 @@
+{
+    "word": "pellet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpel.ət"
+                            ],
+                            "us": [
+                                "ˈpel.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small hard ball or tube-shaped piece of any substance: ",
+                            "examples": [
+                                "iron/lead/wax/plastic/paper pellets",
+                                "food pellets"
+                            ]
+                        },
+                        {
+                            "explanation": "the solid waste of particular animals: ",
+                            "examples": [
+                                "rabbit/sheep pellets"
+                            ]
+                        },
+                        {
+                            "explanation": "small metal objects that are shot from some types of gun: ",
+                            "examples": [
+                                "airgun pellets",
+                                "shotgun pellets",
+                                "a pellet gun"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "executing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nexecute ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.sɪ.kjuːt"
+                            ],
+                            "us": [
+                                "ˈek.sə.kjuːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to kill someone as a legal punishment: ",
+                            "examples": [
+                                "He was executed for murder."
+                            ]
+                        },
+                        {
+                            "explanation": "to do or perform something, especially in a planned way: ",
+                            "examples": [
+                                "to execute a deal/plan",
+                                "The whole play was executed with great precision."
+                            ]
+                        },
+                        {
+                            "explanation": "If you execute someone's will, you deal with that person's money, property, etc., according to the instructions in it.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

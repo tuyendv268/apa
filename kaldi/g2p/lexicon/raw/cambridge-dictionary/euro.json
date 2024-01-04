@@ -1,0 +1,76 @@
+{
+    "word": "euro",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈjʊə.rəʊ"
+                            ],
+                            "us": [
+                                "ˈjʊr.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the unit of money used in most European Union countries: ",
+                            "examples": [
+                                "You can usually find a hotel for €70 a night.",
+                                "I need to change my pounds into euros.",
+                                "a 20-euro note"
+                            ]
+                        },
+                        {
+                            "explanation": "the value of the euro, used in comparing the values of different types of money from around the world: ",
+                            "examples": [
+                                "The euro fell/rose against (= was worth less/more compared to) the pound today."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "jʊə.rəʊ-"
+                            ],
+                            "us": [
+                                "jʊr.oʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the European Union: ",
+                            "examples": [
+                                "the Euro elections",
+                                "a Euro-MP (= a Member of the European Parliament)"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to Europe: ",
+                            "examples": [
+                                "Europop (= modern, young people's music from Europe)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

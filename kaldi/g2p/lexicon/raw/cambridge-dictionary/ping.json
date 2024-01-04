@@ -1,0 +1,76 @@
+{
+    "word": "ping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pɪŋ"
+                            ],
+                            "us": [
+                                "pɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a short, sharp sound: ",
+                            "examples": [
+                                "We heard a small stone ping against our window."
+                            ]
+                        },
+                        {
+                            "explanation": "to send an email, text, or other kind of message, especially to someone's mobile phone: ",
+                            "examples": [
+                                "Ping me an email.",
+                                "It is a legal requirement to self-isolate after being pinged by the COVID-19 app. "
+                            ]
+                        },
+                        {
+                            "explanation": "to send a message to another computer in a network to check whether your computer is connected to it",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "When a car engine pings, it makes a high knocking sound because the fuel is not burning correctly.",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɪŋ"
+                            ],
+                            "us": [
+                                "pɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short, sharp sound",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the time taken for a computer to connect to another computer or to a server: ",
+                            "examples": [
+                                "If you play games online, you may want to test your ping time to any game server or website to see how good the connection is."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

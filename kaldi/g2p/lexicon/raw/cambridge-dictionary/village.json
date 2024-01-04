@@ -1,0 +1,43 @@
+{
+    "word": "village",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɪl.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈvɪl.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of houses and other buildings that is smaller than a town, usually in the countryside: ",
+                            "examples": [
+                                "a fishing village",
+                                "a mountain village",
+                                "a village shop",
+                                "a village green (= an area of grass in the middle of a village)",
+                                "Many people come from the outlying/surrounding villages to work in the town."
+                            ]
+                        },
+                        {
+                            "explanation": "all the people who live in a village: ",
+                            "examples": [
+                                "The village is/are campaigning for a by-pass to be built."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

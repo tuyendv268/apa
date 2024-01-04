@@ -1,0 +1,59 @@
+{
+    "word": "poo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "puː"
+                            ],
+                            "us": [
+                                "puː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(a piece of) solid waste from the body: ",
+                            "examples": [
+                                "Ugh, it looks like poo!",
+                                "Have you done a poo, Ellie?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "puː"
+                            ],
+                            "us": [
+                                "puː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pass solid waste from the body: ",
+                            "examples": [
+                                "Ten minutes after we'd left home, Anna announced that she needed to poo.",
+                                "Make sure the dog doesn't poo everywhere! "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

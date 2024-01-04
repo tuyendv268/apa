@@ -1,0 +1,69 @@
+{
+    "word": "binomial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "baɪˈnəʊ.mi.əl"
+                            ],
+                            "us": [
+                                "baɪˈnoʊ.mi.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an expression (= a mathematical statement) that has two terms (= numbers or symbols) that are not the same: ",
+                            "examples": [
+                                "4x + y is a binomial."
+                            ]
+                        },
+                        {
+                            "explanation": "two words separated by a conjunction that almost always appear in the same order, for example \"bread and butter\"",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "baɪˈnəʊ.mi.əl"
+                            ],
+                            "us": [
+                                "baɪˈnoʊ.mi.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a binomial: ",
+                            "examples": [
+                                "a binomial equation",
+                                "The actual numbers are compared to those expected, derived from a binomial distribution."
+                            ]
+                        },
+                        {
+                            "explanation": "(especially of a system of naming plants and animals) having or consisting of two names: ",
+                            "examples": [
+                                "All plants, from seaweeds to orchids, follow the rules of binomial nomenclature.",
+                                "He was meticulous about the descriptions of the specimens, employing the Linnean system of binomial classification."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

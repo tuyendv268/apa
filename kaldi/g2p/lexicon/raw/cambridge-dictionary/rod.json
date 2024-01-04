@@ -1,0 +1,38 @@
+{
+    "word": "rod",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɒd"
+                            ],
+                            "us": [
+                                "rɑːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, thin pole made of wood or metal: ",
+                            "examples": [
+                                "He was given a fishing rod for his birthday.",
+                                "The concrete is strengthened with steel rods."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of cell in the retina (= part at the back of the eye) that helps you to see when there is not much light",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

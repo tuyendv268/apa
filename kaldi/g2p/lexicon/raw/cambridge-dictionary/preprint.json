@@ -1,0 +1,71 @@
+{
+    "word": "preprint",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpriː.prɪnt"
+                            ],
+                            "us": [
+                                "ˈpriː.prɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a document, article, etc. that is available before it is officially published: ",
+                            "examples": [
+                                "The following is a preprint of an article for the magazine, due to be published in May.",
+                                "He was attending a meeting of physicists when one pulled out the pre-print for a forthcoming paper by Jones."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌpriːˈprɪnt"
+                            ],
+                            "us": [
+                                "ˌpriːˈprɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to print a letter or information on a form, label, etc. so that someone does not have to write it or fill it out themselves: ",
+                            "examples": [
+                                "Enrolment forms are preprinted for most students before enrolment each autumn.",
+                                "The bank's \"Switchers Kit\" includes pre-printed letters to help customers change direct debts and standing orders."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a printed copy of a document, article, etc. available before it is officially published: ",
+                            "examples": [
+                                "Pre-internet physics had a tradition of preprinting articles."
+                            ]
+                        },
+                        {
+                            "explanation": "to print something before a particular event or time: ",
+                            "examples": [
+                                "They produce a minimal number of shirts and wait to see the result of the game, but they would not say how many shirts are preprinted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

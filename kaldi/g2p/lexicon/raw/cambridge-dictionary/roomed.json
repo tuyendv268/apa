@@ -1,0 +1,57 @@
+{
+    "word": "roomed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nroom ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ruːm",
+                                "rʊm"
+                            ],
+                            "us": [
+                                "ruːm",
+                                "rʊm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to rent a room from someone, or share a rented room with someone: ",
+                            "examples": [
+                                "At college he rooms with this guy from Nebraska."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

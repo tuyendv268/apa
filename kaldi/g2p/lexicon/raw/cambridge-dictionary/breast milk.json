@@ -1,0 +1,34 @@
+{
+    "word": "breast milk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbrest ˌmɪlk"
+                            ],
+                            "us": [
+                                "ˈbrest ˌmɪlk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "milk produced by a woman's body to feed her baby: ",
+                            "examples": [
+                                "The mother's antibodies can be passed on in her breastmilk.",
+                                "The milk bank distributes donated breast milk to premature and low-birth-weight babies."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

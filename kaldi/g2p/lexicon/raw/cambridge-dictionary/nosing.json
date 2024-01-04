@@ -1,0 +1,63 @@
+{
+    "word": "nosing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nnose ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "nəʊz"
+                            ],
+                            "us": [
+                                "noʊz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to look around or search in order to discover something, especially something that other people do not want you to find: ",
+                            "examples": [
+                                "There were some reporters nosing about/around.",
+                                "The police came in and started nosing into drawers and looking through papers."
+                            ]
+                        },
+                        {
+                            "explanation": "to (make a vehicle) move forwards slowly and carefully: ",
+                            "examples": [
+                                "The car nosed out of the side street, its driver peering anxiously around.",
+                                "He carefully nosed his lorry into the small space."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

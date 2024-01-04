@@ -1,0 +1,77 @@
+{
+    "word": "phobia",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfəʊ.bi.ə"
+                            ],
+                            "us": [
+                                "ˈfoʊ.bi.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of anxiety disorder (= a mental illness that makes someone very worried and affects their life) that involves an extreme fear of something: ",
+                            "examples": [
+                                "She refused the injection because she had a phobia about needles.",
+                                "He has no real desire to travel and suffers from a phobia of flying.",
+                                "For someone with social phobia, a conversation with a neighbour can cause a paralyzing sense of dread."
+                            ]
+                        },
+                        {
+                            "explanation": "an extreme fear or dislike of a particular thing or situation, especially one that is not reasonable: ",
+                            "examples": [
+                                "Why is there this phobia about women doing so-called men's jobs?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                "-ˈfəʊ.bi.ə"
+                            ],
+                            "us": [
+                                "-ˈfoʊ.bi.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form words for types of anxiety disorder (= a mental illness that makes someone very worried and affects their life) that involve an extreme fear of something: ",
+                            "examples": [
+                                "People who suffer from agoraphobia may panic when they're in public places.",
+                                "Podophobia is a fear of feet."
+                            ]
+                        },
+                        {
+                            "explanation": "used to form words that mean an extreme fear or dislike, especially one that is not reasonable: ",
+                            "examples": [
+                                "They were accused of transphobia (hatred of transgender people).",
+                                "He seemed to be suffering from a case of commitment-phobia."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

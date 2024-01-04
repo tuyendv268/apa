@@ -1,0 +1,31 @@
+{
+    "word": "parallel port",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpær.ə.lel ˈpɔːt"
+                            ],
+                            "us": [
+                                "ˌper.ə.lel ˈpɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a part of a computer to which wires from other pieces of equipment such as a printer can be connected, sending information eight bits (= units of information), or one byte, at a time through a special wire",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

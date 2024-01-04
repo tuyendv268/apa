@@ -1,0 +1,33 @@
+{
+    "word": "postage",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊ.stɪdʒ"
+                            ],
+                            "us": [
+                                "ˈpoʊ.stɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the money that you pay for sending letters and parcels through the post: ",
+                            "examples": [
+                                "Please enclose £15.99, plus £2 for postage."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

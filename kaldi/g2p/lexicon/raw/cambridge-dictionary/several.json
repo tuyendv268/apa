@@ -1,0 +1,59 @@
+{
+    "word": "several",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "ˈsev.ər.əl"
+                            ],
+                            "us": [
+                                "ˈsev.ɚ.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "some; an amount that is not exact but is fewer than many: ",
+                            "examples": [
+                                "I've seen \"Gone with the Wind\" several times.",
+                                "Several people have complained about the plans.",
+                                "Several of my friends are learning English."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsev.ər.əl"
+                            ],
+                            "us": [
+                                "ˈsev.ɚ.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "separate or different: ",
+                            "examples": [
+                                "We are striving to reach an agreement which will satisfy the several interests of the parties concerned."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

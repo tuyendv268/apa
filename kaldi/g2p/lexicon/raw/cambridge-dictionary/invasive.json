@@ -1,0 +1,40 @@
+{
+    "word": "invasive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈveɪ.sɪv"
+                            ],
+                            "us": [
+                                "ɪnˈveɪ.sɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "moving into all areas of something and difficult to stop: ",
+                            "examples": [
+                                "an invasive disease",
+                                "They treated the cancer with non-invasive methods/surgery (= not cutting into the body)."
+                            ]
+                        },
+                        {
+                            "explanation": "An invasive organism is one that has arrived in a place from somewhere else and has a harmful effect on that place: ",
+                            "examples": [
+                                "The Asian long-horned beetle is one of the newest and most harmful invasive species in the United States."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

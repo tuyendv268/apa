@@ -1,0 +1,106 @@
+{
+    "word": "code",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəʊd"
+                            ],
+                            "us": [
+                                "koʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system of words, letters, or signs used to represent a message in secret form, or a system of numbers, letters, or signals used to represent something in a shorter or more convenient form: ",
+                            "examples": [
+                                "The message was written in code.",
+                                "She managed to decipher/break/crack (= succeed in understanding) the code.",
+                                "Each entry in this dictionary has a grammar code."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of rules that are accepted as general principles, or a set of written rules that say how people in a particular organization or country should behave: ",
+                            "examples": [
+                                "Clinics will be subject to a new code of conduct and stronger controls by local authorities."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of principles that are accepted and used by society or a particular group of people: ",
+                            "examples": [
+                                "a moral code",
+                                "a code of behaviour/ethics"
+                            ]
+                        },
+                        {
+                            "explanation": "a language used to program (= give instructions to) computers: ",
+                            "examples": [
+                                "The children are learning to write code.",
+                                "The problem was fixed with about 150 lines of computer code."
+                            ]
+                        },
+                        {
+                            "explanation": "an arrangement of genetic material in DNA (= the chemical that carries genetic information in cells): ",
+                            "examples": [
+                                "Each person's genetic code is unique except in the case of identical twins."
+                            ]
+                        },
+                        {
+                            "explanation": "a language or dialect (= a form of a language that people speak in a particular part of a country): ",
+                            "examples": [
+                                "People often switch codes depending on the conversational context.",
+                                "He was interested in the linguistic codes of people living on the margins of society."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəʊd"
+                            ],
+                            "us": [
+                                "koʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to represent a message in code so that it can only be understood by the person who is meant to receive it: ",
+                            "examples": [
+                                "The original signal is coded by the scrambler before transmission, and reconstituted into its original form by the receiver."
+                            ]
+                        },
+                        {
+                            "explanation": "to write computer programs (= instructions): ",
+                            "examples": [
+                                "My third grade daughter loves learning to code with MIT's amazing (and free) software.",
+                                "I have been learning to code programs."
+                            ]
+                        },
+                        {
+                            "explanation": "to mark something, for example with letters, numbers, a name, or a colour, so that you know what type of thing it is: ",
+                            "examples": [
+                                "To avoid bias in the laboratory, the samples were coded with numbers rather than names of individuals.",
+                                "Each story in selected bulletins was timed and coded into one of 31 categories for domestic news, while foreign news was separately coded by country."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "illness",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪl.nəs"
+                            ],
+                            "us": [
+                                "ˈɪl.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a disease of the body or mind: ",
+                            "examples": [
+                                "He died at home after a long illness."
+                            ]
+                        },
+                        {
+                            "explanation": "the state of being ill: ",
+                            "examples": [
+                                "She had five days off work due to illness."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

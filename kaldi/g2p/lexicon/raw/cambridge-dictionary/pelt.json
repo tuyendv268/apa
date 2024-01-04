@@ -1,0 +1,67 @@
+{
+    "word": "pelt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pelt"
+                            ],
+                            "us": [
+                                "pelt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to throw a number of things quickly at someone or something: ",
+                            "examples": [
+                                "We saw rioters pelting police with bricks and bottles."
+                            ]
+                        },
+                        {
+                            "explanation": "to run fast: ",
+                            "examples": [
+                                "The children pelted down the bank."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pelt"
+                            ],
+                            "us": [
+                                "pelt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the skin and fur of a dead animal, or the skin with the fur removed",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "running as fast as possible: ",
+                            "examples": [
+                                "We ran at full pelt along a rough track."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "isochronous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "aɪˈsɒk.rə.nəs"
+                            ],
+                            "us": [
+                                "ˌaɪ.səˈkroʊ.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "lasting for the same amount of time, or happening repeatedly after the same amount of time: ",
+                            "examples": [
+                                "Isochronous data transfers are transfers for devices that require continuous, guaranteed bandwidth.",
+                                "There are periodic solutions that are neither isolated nor isochronous."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

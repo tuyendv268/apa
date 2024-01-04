@@ -1,0 +1,37 @@
+{
+    "word": "radioactivity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌreɪ.di.əʊ.ækˈtɪv.ə.ti"
+                            ],
+                            "us": [
+                                "ˌreɪ.di.oʊ.ækˈtɪv.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the quality that some atoms have of producing a type of energy that can be very harmful to health",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the energy produced by atoms in this way: ",
+                            "examples": [
+                                "A dangerous amount of radioactivity was released into the environment last month."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

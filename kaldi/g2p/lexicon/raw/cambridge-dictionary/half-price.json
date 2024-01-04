@@ -1,0 +1,59 @@
+{
+    "word": "half-price",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌhɑːfˈpraɪs"
+                            ],
+                            "us": [
+                                "ˌhæfˈpraɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "costing half the usual price: ",
+                            "examples": [
+                                "I got some half-price pizzas at the supermarket.",
+                                "Children aged 12 and under get in half-price."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌhɑːfˈpraɪs"
+                            ],
+                            "us": [
+                                "ˌhæfˈpraɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "half the usual price: ",
+                            "examples": [
+                                "Children under twelve years of age pay/are charged half-price.",
+                                "They were selling copies of her book at half-price."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "ascertain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌæs.əˈteɪn"
+                            ],
+                            "us": [
+                                "ˌæs.ɚˈteɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to discover something: ",
+                            "examples": [
+                                "The police have so far been unable to ascertain the cause of the explosion.",
+                                "Have you ascertained whether she's coming or not?"
+                            ]
+                        },
+                        {
+                            "explanation": "to make certain of something: ",
+                            "examples": [
+                                "I ascertained that no one could overhear us before I told Otto the news."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

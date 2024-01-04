@@ -1,0 +1,41 @@
+{
+    "word": "aerosol",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeə.rə.sɒl"
+                            ],
+                            "us": [
+                                "ˈer.ə.sɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a metal container in which liquids are kept under pressure and forced out in a spray: ",
+                            "examples": [
+                                "He's seen fires started by aerosols being sprayed on electrical equipment. ",
+                                "Aerosol cans are banned from aircraft cabins."
+                            ]
+                        },
+                        {
+                            "explanation": "a mixture of particles (= extremely small pieces of matter) and the liquid or gas that they are contained in, that can spread through the air: ",
+                            "examples": [
+                                "The virus is spread primarily by aerosols, so that could be by sneezing, coughing, or even talking.",
+                                "Aerosols are one type of air pollution - the tiny particles suspended everywhere in our atmosphere."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

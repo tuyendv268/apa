@@ -1,0 +1,42 @@
+{
+    "word": "rhombus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈrɒm.bəs"
+                            ],
+                            "us": [
+                                "ˈrɑːm.bəs"
+                            ],
+                            "uk_other_tense": [
+                                "ˈrɒm.baɪ"
+                            ],
+                            "us_other_tense": [
+                                "ˈrɑːm.baɪ"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a flat shape that has four sides that are all of equal length",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in ice hockey, the rounded corners of the rink (= playing area) : ",
+                            "examples": [
+                                "They cleared the puck out of the zone and it rattled around the rhombus at the other end of the ice.",
+                                "The two players scrambled for the puck near the rhombus."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

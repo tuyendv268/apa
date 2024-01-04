@@ -1,0 +1,58 @@
+{
+    "word": "published",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npublish ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpʌb.lɪʃ"
+                            ],
+                            "us": [
+                                "ˈpʌb.lɪʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make information available to people, especially in a book, magazine, or newspaper, or to produce and sell a book, magazine, or newspaper: ",
+                            "examples": [
+                                "She's just had an article published in their weekend supplement.",
+                                "The government publishes figures every six months showing how many people are unemployed.",
+                                "The names of the winners of the competition will be published in June.",
+                                "She was only 19 when her first novel was published."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "escrow",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈes.krəʊ"
+                            ],
+                            "us": [
+                                "ˈes.kroʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an agreement between two people or organizations in which money or property is kept by a third person or organization until a particular condition is met : ",
+                            "examples": [
+                                "The money was placed in escrow."
+                            ]
+                        },
+                        {
+                            "explanation": "If a house for sale is in escrow, or if people are in escrow on a house, a price has been agreed and the buyer has paid some money but the sale is not complete until legal checks have been made. : ",
+                            "examples": [
+                                "The property is now in escrow."
+                            ]
+                        },
+                        {
+                            "explanation": "If a house for sale or the contract for the sale falls out of escrow, the sale process fails after a price has been agreed and the buyer has paid some money, but before the process is complete. : ",
+                            "examples": [
+                                "Two multimillion-dollar properties fell out of escrow recently when the buyers learned of the proposed zoning ordinance. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

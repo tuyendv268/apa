@@ -1,0 +1,65 @@
+{
+    "word": "glitch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡlɪtʃ"
+                            ],
+                            "us": [
+                                "ɡlɪtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small problem or fault that prevents something from being successful or working as well as it should: ",
+                            "examples": [
+                                "We'd expected a few glitches, but everything's gone remarkably smoothly.",
+                                "The system has been plagued with glitches ever since its launch."
+                            ]
+                        },
+                        {
+                            "explanation": "a sudden unexpected increase in electrical power, especially one that causes a fault in an electronic system: ",
+                            "examples": [
+                                "The computer failure was due to a glitch caused by lightning."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡlɪtʃ"
+                            ],
+                            "us": [
+                                "ɡlɪtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to experience a small fault or problem, especially one that stops something from working: ",
+                            "examples": [
+                                "The mail system has glitched a couple of times recently.",
+                                "At that moment the videophone glitched."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

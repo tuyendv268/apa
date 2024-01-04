@@ -1,0 +1,39 @@
+{
+    "word": "check box",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʃek ˌbɒks"
+                            ],
+                            "us": [
+                                "ˈtʃek ˌbɑːks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small square on a paper form where you can put a tick to show that you want something or that something is correct or has been dealt with: ",
+                            "examples": [
+                                "A check box on the registration form lets you sign up for the service. "
+                            ]
+                        },
+                        {
+                            "explanation": "a small square on a computer screen that you click on to show a choice, to make the computer perform a particular action, etc. : ",
+                            "examples": [
+                                "To prevent a program from starting up, clear the check box next to it and click OK."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

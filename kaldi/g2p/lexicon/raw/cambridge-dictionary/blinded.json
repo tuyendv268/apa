@@ -1,0 +1,62 @@
+{
+    "word": "blinded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nblind ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "blaɪnd"
+                            ],
+                            "us": [
+                                "blaɪnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone unable to see, permanently or for a short time: ",
+                            "examples": [
+                                "She was blinded in an accident at an early age.",
+                                "As I turned the corner the sun blinded me, so I didn't see the other car."
+                            ]
+                        },
+                        {
+                            "explanation": "to make someone unable to notice or understand something: ",
+                            "examples": [
+                                "We shouldn't let our prejudices blind us to the facts of the situation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

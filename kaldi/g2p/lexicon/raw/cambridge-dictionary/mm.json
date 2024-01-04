@@ -1,0 +1,54 @@
+{
+    "word": "mm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written abbreviation for\nmillimetre UK : ",
+                            "examples": [
+                                "a 6 mm (diameter) drill"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written abbreviation for \nmillimolar : ",
+                            "examples": [
+                                "Healthy volunteers had average sodium and chloride levels of 26.7 and 21.2 mM respectively.",
+                                "The experiment was repeated eight times without and with 5.56 mM of glucose."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

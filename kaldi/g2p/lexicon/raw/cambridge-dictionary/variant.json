@@ -1,0 +1,75 @@
+{
+    "word": "variant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈveə.ri.ənt"
+                            ],
+                            "us": [
+                                "ˈver.i.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is slightly different from other similar things: ",
+                            "examples": [
+                                "Scientists are seeing a growing list of genes in which genetic variants contribute to multiple diseases,",
+                                "There are many colas on the market now, all variants on the original drink.",
+                                "The manufacturers roll out new variants of existing processors every few months."
+                            ]
+                        },
+                        {
+                            "explanation": "a form of a virus or disease that is slightly different from other forms, for example because the virus causing the disease has mutated (= its physical characteristics have changed permanently): ",
+                            "examples": [
+                                "The Delta variant of COVID-19 was spreading across the globe.",
+                                "There are four variants of malaria, all transmitted to humans by a particular family of mosquitoes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈveə.ri.ənt"
+                            ],
+                            "us": [
+                                "ˈver.i.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "slightly different from other similar things: ",
+                            "examples": [
+                                "a variant form",
+                                "The dictionary shows \"neighbour\" with the American variant spelling \"neighbor\".",
+                                "Variant pronunciations of \"banana\" are recognizable across cultures."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a form of a virus or disease) slightly different from other forms, for example because the virus causing the disease has mutated (= its physical characteristics have changed permanently): ",
+                            "examples": [
+                                "Studies are ongoing as to whether the vaccine will be effective against the variant virus.",
+                                "Scrapie is a brain disease of sheep, linked with BSE in cattle and with variant CJD in humans."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

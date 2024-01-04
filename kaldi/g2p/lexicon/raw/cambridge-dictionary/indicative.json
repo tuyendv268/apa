@@ -1,0 +1,57 @@
+{
+    "word": "indicative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈdɪk.ə.tɪv"
+                            ],
+                            "us": [
+                                "ɪnˈdɪk.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "being or relating to a sign that something exists, is true, or is likely to happen: ",
+                            "examples": [
+                                "Resumption of the talks is indicative of an improving relationship between the countries."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈdɪk.ə.tɪv"
+                            ],
+                            "us": [
+                                "ɪnˈdɪk.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the mood (= form) of the verb used in ordinary statements and questions : ",
+                            "examples": [
+                                "In the sentence \"We walked home\" the verb \"walked\" is in the indicative."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

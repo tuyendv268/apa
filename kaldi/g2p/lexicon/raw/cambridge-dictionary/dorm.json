@@ -1,0 +1,40 @@
+{
+    "word": "dorm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɔːm"
+                            ],
+                            "us": [
+                                "dɔːrm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large room containing many beds, for example in a boarding school: ",
+                            "examples": [
+                                "The hostel has single-sex dorms."
+                            ]
+                        },
+                        {
+                            "explanation": "a large building at a college or university where students live: ",
+                            "examples": [
+                                "Smoking is not permitted in college dorms.",
+                                "My mom and I were buying things for my dorm room."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

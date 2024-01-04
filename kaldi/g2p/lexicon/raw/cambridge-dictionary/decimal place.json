@@ -1,0 +1,34 @@
+{
+    "word": "decimal place",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdes.ɪ.məl ˈpleɪs"
+                            ],
+                            "us": [
+                                "ˌdes.ɪ.məl ˈpleɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the position of a number after a decimal point: ",
+                            "examples": [
+                                "The number is accurate to three decimal places.",
+                                "Pi expressed to five decimal places is 3.14159."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "axiom",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.si.əm"
+                            ],
+                            "us": [
+                                "ˈæk.si.əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a statement or principle that is generally accepted to be true, but need not be so: ",
+                            "examples": [
+                                "It is a widely held axiom that governments should not negotiate with terrorists."
+                            ]
+                        },
+                        {
+                            "explanation": "a formal statement or principle in mathematics, science, etc., from which other statements can be obtained: ",
+                            "examples": [
+                                "Euclid's axioms form the foundation of his system of geometry."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

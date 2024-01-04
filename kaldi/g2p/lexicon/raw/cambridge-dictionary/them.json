@@ -1,0 +1,73 @@
+{
+    "word": "them",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "ðem",
+                                "ðəm"
+                            ],
+                            "us": [
+                                "ðem",
+                                "ðəm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used, usually as the object of a verb or preposition, to refer to people, things, animals, situations, or ideas that have already been mentioned: ",
+                            "examples": [
+                                "I've lost my keys. I can't find them anywhere.",
+                                "It's them. They're here."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to one person whose gender is not known or not important in the situation: ",
+                            "examples": [
+                                "When each passenger arrives, we ask them to fill in a form."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to one person whose gender is not simply male or female: ",
+                            "examples": [
+                                "I am non-binary and use they/them pronouns.",
+                                "I interviewed them about their work as an LGBTQ activist."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "ðem"
+                            ],
+                            "us": [
+                                "ðem"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not standard for\nthose : ",
+                            "examples": [
+                                "Who gave you them cookies?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

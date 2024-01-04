@@ -1,0 +1,59 @@
+{
+    "word": "fragment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfræɡ.mənt"
+                            ],
+                            "us": [
+                                "ˈfræɡ.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small piece or a part, especially when broken from something whole: ",
+                            "examples": [
+                                "The road was covered with fragments of glass from the shattered window.",
+                                "Literary scholars are piecing together her last unpublished novel from fragments of a recently discovered manuscript."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fræɡˈment"
+                            ],
+                            "us": [
+                                "fræɡˈment"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to break something into small parts or to be broken up in this way: ",
+                            "examples": [
+                                "The satellite will fragment and burn up as it falls through the earth's atmosphere.",
+                                "His day was fragmented by meetings and phone calls."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

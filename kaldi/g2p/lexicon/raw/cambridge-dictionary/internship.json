@@ -1,0 +1,39 @@
+{
+    "word": "internship",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tɜːn.ʃɪp"
+                            ],
+                            "us": [
+                                "ˈɪn.tɝːn.ʃɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a period of training spent in a hospital by a young doctor in order to finish their medical qualification: ",
+                            "examples": [
+                                "He served his internship at Garfield Hospital."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of time during which someone works for a company or organization in order to get experience of a particular type of work: ",
+                            "examples": [
+                                "Jane has a summer internship at a local TV station."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

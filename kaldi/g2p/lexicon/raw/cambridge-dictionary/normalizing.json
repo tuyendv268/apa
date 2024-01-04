@@ -1,0 +1,62 @@
+{
+    "word": "normalizing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nnormalize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈnɔː.mə.laɪz"
+                            ],
+                            "us": [
+                                "ˈnɔːr.mə.laɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to return to the normal or usual situation: ",
+                            "examples": [
+                                "They claim that the new drug normalizes blood pressure.",
+                                "Relations between the two countries are gradually normalizing."
+                            ]
+                        },
+                        {
+                            "explanation": "If you normalize information, you compare a small set of information with a set that represents normal values: ",
+                            "examples": [
+                                "Research psychologists normalize the results of their studies by comparing their subjects' behaviour with that of the general public."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

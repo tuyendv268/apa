@@ -1,0 +1,34 @@
+{
+    "word": "-stemmed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -stemd"
+                            ],
+                            "us": [
+                                " -stemd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having the stated type of stem: ",
+                            "examples": [
+                                "a thick-stemmed plant",
+                                "a long-stemmed wine glass"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

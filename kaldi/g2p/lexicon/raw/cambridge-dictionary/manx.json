@@ -1,0 +1,59 @@
+{
+    "word": "manx",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "mæŋks"
+                            ],
+                            "us": [
+                                "mæŋks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating or belonging to the Isle of Man, the people who live there, or their language: ",
+                            "examples": [
+                                "The mill makes the distinctive sky-blue Manx tartan.",
+                                "His accounts are shot through with Manx swear words."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mæŋks"
+                            ],
+                            "us": [
+                                "mæŋks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a Celtic language spoken by some people in the Isle of Man, especially in the past: ",
+                            "examples": [
+                                "By that time, Manx and Cornish had both died out. ",
+                                "In Manx, ee is both a pronoun (\"she\" or \"it\") and a verb (\"to eat\")."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

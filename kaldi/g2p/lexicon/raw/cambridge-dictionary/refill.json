@@ -1,0 +1,58 @@
+{
+    "word": "refill",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈriː.fɪl"
+                            ],
+                            "us": [
+                                "ˈriː.fɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(a container holding) an amount of some material needed to fill up again an object that has become empty: ",
+                            "examples": [
+                                "My pen seems to be running out of ink - I need a refill.",
+                                "Chuck, you've nearly finished your drink - do you want a refill?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈfɪl"
+                            ],
+                            "us": [
+                                "ˌriːˈfɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fill something again: ",
+                            "examples": [
+                                "He got up and refilled their glasses."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

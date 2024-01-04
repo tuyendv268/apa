@@ -1,0 +1,64 @@
+{
+    "word": "crisis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkraɪ.sɪs"
+                            ],
+                            "us": [
+                                "ˈkraɪ.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "ˈkraɪ.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˈkraɪ.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a time of great disagreement, confusion, or suffering: ",
+                            "examples": [
+                                "The country's leadership is in crisis.",
+                                "an economic/financial crisis",
+                                "We have a family crisis on my hands - my 16-year-old sister is pregnant."
+                            ]
+                        },
+                        {
+                            "explanation": "an extremely difficult or dangerous point in a situation: ",
+                            "examples": [
+                                "crisis talks",
+                                "A mediator has been called in to resolve the crisis."
+                            ]
+                        },
+                        {
+                            "explanation": "experiencing a time of great difficulty, danger, or suffering: ",
+                            "examples": [
+                                "The series focuses on understanding the political, economic, and social forces shaping parts of the world that are in crisis."
+                            ]
+                        },
+                        {
+                            "explanation": "a moment during a serious illness when there is the possibility of suddenly getting either better or worse: ",
+                            "examples": [
+                                "He's passed the crisis - the fever's started to go down."
+                            ]
+                        },
+                        {
+                            "explanation": "a sudden loss of confidence: ",
+                            "examples": [
+                                "With inflation at 500 percent, the country faces a crisis of confidence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "word": "silo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪ.ləʊ"
+                            ],
+                            "us": [
+                                "ˈsaɪ.loʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large, round tower on a farm for storing grain or winter food for cattle: ",
+                            "examples": [
+                                "The red barn is flanked by grain silos.",
+                                "They built stone silos for corn and beans."
+                            ]
+                        },
+                        {
+                            "explanation": "a large underground place for storing and firing missiles (= flying weapons): ",
+                            "examples": [
+                                "The missiles are held in an underground silo.",
+                                "The missile silos under construction here leave little doubt that the program is well under way."
+                            ]
+                        },
+                        {
+                            "explanation": "a part of a company, organization, or system that does not communicate with, understand, or work well with other parts: ",
+                            "examples": [
+                                "We found that a lot of people work in silos - they don't see the connections between what they do and how another part of the airline operates.",
+                                "the silo mentality that keeps different parts of the healthcare industry from working together"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪ.ləʊ"
+                            ],
+                            "us": [
+                                "ˈsaɪ.loʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to separate something or someone from other things or people: ",
+                            "examples": [
+                                "The goal is to level the barriers created when an organization's data is siloed.",
+                                "The study of the Web has been siloed into certain areas."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

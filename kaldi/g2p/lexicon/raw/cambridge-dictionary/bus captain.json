@@ -1,0 +1,40 @@
+{
+    "word": "bus captain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌs ˌkæp.tɪn"
+                            ],
+                            "us": [
+                                "ˈbʌs ˌkæp.tən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in Singapore and Hong Kong, someone whose job is to drive a bus: ",
+                            "examples": [
+                                "The bus captain must hold a valid licence as administered by the Singapore Land Transport Authority (LTA).",
+                                "Bus captain Koh Yan Aun is retiring after 50 years on the job."
+                            ]
+                        },
+                        {
+                            "explanation": "someone whose job is to help and look after passengers on a bus: ",
+                            "examples": [
+                                "The self-driving bus will have a safety driver in the driver’s seat to monitor the technology, and a bus captain to help passengers with boarding, buying tickets, and queries."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

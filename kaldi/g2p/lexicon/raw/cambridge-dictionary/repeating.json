@@ -1,0 +1,72 @@
+{
+    "word": "repeating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nrepeat ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈpiːt"
+                            ],
+                            "us": [
+                                "rɪˈpiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say or tell people something more than once: ",
+                            "examples": [
+                                "Would you mind repeating what you just said?",
+                                "Please don't repeat what I've just told you to anyone else.",
+                                "She repeated that she had no intention of running for president."
+                            ]
+                        },
+                        {
+                            "explanation": "to happen, or to do something, more than once: ",
+                            "examples": [
+                                "The test must be repeated several times.",
+                                "This is an offer never to be repeated.",
+                                "Johnny had to repeat a year/class at school.",
+                                "Some historians think that history repeats itself."
+                            ]
+                        },
+                        {
+                            "explanation": "to say the same thing again, or the same things again and again: ",
+                            "examples": [
+                                "His speech was dreadful - he just kept repeating himself."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

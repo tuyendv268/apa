@@ -1,0 +1,34 @@
+{
+    "word": "response variable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈspɒns ˌveə.ri.ə.bəl"
+                            ],
+                            "us": [
+                                "rɪˈspɑːns ˌver.i.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in an experiment (= a scientific test done in order to learn something), the variable (= a number, amount, or situation that can change) that is being studied and that changes when another variable is changed: ",
+                            "examples": [
+                                "The response variable is the focus of a question that is being considered in a study or experiment.",
+                                "The response variable can be defined as a variable whose value depends on that of another. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

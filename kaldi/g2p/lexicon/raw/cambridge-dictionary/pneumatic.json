@@ -1,0 +1,39 @@
+{
+    "word": "pneumatic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "njuːˈmæt.ɪk"
+                            ],
+                            "us": [
+                                "nuːˈmæt̬.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "operated by air pressure: ",
+                            "examples": [
+                                "Our car has pneumatic brakes."
+                            ]
+                        },
+                        {
+                            "explanation": "containing air: ",
+                            "examples": [
+                                "pneumatic tyres"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

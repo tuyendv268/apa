@@ -1,0 +1,46 @@
+{
+    "word": "constraint",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈstreɪnt"
+                            ],
+                            "us": [
+                                "kənˈstreɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that controls what you do by keeping you within particular limits: ",
+                            "examples": [
+                                "The constraints of politeness wouldn't allow her to say what she really thought about his cooking.",
+                                "Financial constraints on the company are preventing them from employing new staff."
+                            ]
+                        },
+                        {
+                            "explanation": "unnatural behaviour that is sometimes the result of forcing yourself to act in a particular way: ",
+                            "examples": [
+                                "She tried to appear friendly, but her constraint was obvious."
+                            ]
+                        },
+                        {
+                            "explanation": "If you do something under constraint, you do it only because you have been forced to: ",
+                            "examples": [
+                                "They confessed, but only under severe constraint."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

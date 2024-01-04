@@ -1,0 +1,43 @@
+{
+    "word": "modality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məʊˈdæl.ə.ti"
+                            ],
+                            "us": [
+                                "moʊˈdæl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a particular way of doing or experiencing something: ",
+                            "examples": [
+                                "A variety of modalities of communication can be used to transmit health warnings to the public."
+                            ]
+                        },
+                        {
+                            "explanation": "the meaning expressed by modal verbs",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a type of treatment for a disease or medical condition: ",
+                            "examples": [
+                                "Examples of medical modalities include chemotherapy, radiotherapy, and drug therapy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "mother ship",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmʌð.ə ˌʃɪp"
+                            ],
+                            "us": [
+                                "ˈmʌð.ɚ ˌʃɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large ship or spacecraft from which other smaller ones are launched (= start to travel) or get supplies: ",
+                            "examples": [
+                                "It was a mother ship from which pirates launched smaller attack boats. ",
+                                "They fire a small probe into the comet, then analyze the material from a nearby mothership. "
+                            ]
+                        },
+                        {
+                            "explanation": "a central organization or part of something that controls other parts or organizations, or that supplies what they need: ",
+                            "examples": [
+                                "This sneaky software collects information about your browsing habits and relays it back to the mother ship."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "diffused",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndiffuse ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈfjuːz"
+                            ],
+                            "us": [
+                                "dɪˈfjuːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause something to) spread in many directions: ",
+                            "examples": [
+                                "Television is a powerful means of diffusing knowledge."
+                            ]
+                        },
+                        {
+                            "explanation": "to (cause a gas or liquid to) spread through or into a surrounding substance by mixing with it: ",
+                            "examples": [
+                                "Oxygen diffuses from the lungs into the bloodstream.",
+                                "The drop of red dye diffused slowly in the water."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

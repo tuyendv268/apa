@@ -1,0 +1,42 @@
+{
+    "word": "chunk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tʃʌŋk"
+                            ],
+                            "us": [
+                                "tʃʌŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a roughly cut piece: ",
+                            "examples": [
+                                "a chunk of cheese/meat",
+                                "pineapple/tuna chunks"
+                            ]
+                        },
+                        {
+                            "explanation": "a part of something, especially a large part: ",
+                            "examples": [
+                                "a chunk of text",
+                                "a substantial chunk of our profits",
+                                "Three hours is quite a chunk out of my working day."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

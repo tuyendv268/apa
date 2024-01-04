@@ -1,0 +1,35 @@
+{
+    "word": "yearbook",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈjɪə.bʊk"
+                            ],
+                            "us": [
+                                "ˈjɪr.bʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a book published every year by a school, that gives information about the events and achievements of the previous year, and has pictures of the students",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a book published every year by an organization that gives information about the events and achievements of the previous year ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

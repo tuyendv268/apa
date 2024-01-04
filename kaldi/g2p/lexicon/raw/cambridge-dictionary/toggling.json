@@ -1,0 +1,56 @@
+{
+    "word": "toggling",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ntoggle ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtɒɡ.əl"
+                            ],
+                            "us": [
+                                "ˈtɑː.ɡəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to switch a feature on a computer on and off by pressing the same button or key: ",
+                            "examples": [
+                                "Use this key to toggle between the two typefaces.",
+                                "By toggling this key, you can switch the italics on and off."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

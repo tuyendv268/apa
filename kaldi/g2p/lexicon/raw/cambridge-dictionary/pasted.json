@@ -1,0 +1,65 @@
+{
+    "word": "pasted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npaste ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "peɪst"
+                            ],
+                            "us": [
+                                "peɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stick something to something, especially with paste: ",
+                            "examples": [
+                                "You can make your own distorting mirror by pasting a sheet of kitchen foil to a piece of thin cardboard."
+                            ]
+                        },
+                        {
+                            "explanation": "to move a piece of text to a particular place in a computer document: ",
+                            "examples": [
+                                "Cut that paragraph and then paste it at the end of the page."
+                            ]
+                        },
+                        {
+                            "explanation": "to move words or pictures from one place to another in a computer document",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

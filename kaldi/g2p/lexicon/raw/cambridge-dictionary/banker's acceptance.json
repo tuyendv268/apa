@@ -1,0 +1,29 @@
+{
+    "word": "banker's acceptance",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a bill of exchange (= document ordering payment of a particular amount) which has been accepted and signed by a bank that promises to pay the amount stated: ",
+                            "examples": [
+                                "The requested loan would be completely safe for the company, as it would be guaranteed by banker's acceptance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

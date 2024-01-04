@@ -1,0 +1,76 @@
+{
+    "word": "relative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈrel.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˈrel.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a member of your family: ",
+                            "examples": [
+                                "I don't have many blood relatives (= people related to me by birth rather than by marriage).",
+                                "All her close/distant relatives came to the wedding."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈrel.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˈrel.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "being judged or measured in comparison with something else: ",
+                            "examples": [
+                                "We weighed up the relative advantages of driving there or going by train."
+                            ]
+                        },
+                        {
+                            "explanation": "true to a particular degree when compared with other things: ",
+                            "examples": [
+                                "Since I got a job, I've been living in relative comfort (= more comfort than before)."
+                            ]
+                        },
+                        {
+                            "explanation": "If something is relative to something else, it changes according to the speed or level of the other thing: ",
+                            "examples": [
+                                "The amount of petrol a car uses is relative to its speed."
+                            ]
+                        },
+                        {
+                            "explanation": "If something is relative to a particular subject, it is connected with it: ",
+                            "examples": [
+                                "Are these documents relative to the discussion?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

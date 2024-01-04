@@ -1,0 +1,39 @@
+{
+    "word": "load-bearing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈləʊd ˌbeə.rɪŋ"
+                            ],
+                            "us": [
+                                "ˈloʊd ˌber.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "supporting the weight of the building above it: ",
+                            "examples": [
+                                "We can't knock through there because that's a load-bearing wall."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to how much something can carry: ",
+                            "examples": [
+                                "the load-bearing capacity of a forklift truck "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

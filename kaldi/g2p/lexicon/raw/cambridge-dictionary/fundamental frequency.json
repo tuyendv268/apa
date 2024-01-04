@@ -1,0 +1,34 @@
+{
+    "word": "fundamental frequency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fʌn.dəˌmen.təl ˈfriː.kwən.si"
+                            ],
+                            "us": [
+                                "fʌn.dəˌmen.t̬əl ˈfriː.kwən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the lowest frequency (= the number of times that a sound wave is produced within a particular period of time) that a particular object or instrument produces when it oscillates (= moves repeatedly from one position to another): ",
+                            "examples": [
+                                "The frequency of a harmonic is always a multiple of the fundamental frequency.",
+                                "When struck almost anywhere, a wooden baseball bat vibrates energetically, at a fundamental frequency of 170 cycles per second."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

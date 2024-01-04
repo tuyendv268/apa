@@ -1,0 +1,34 @@
+{
+    "word": "bar graph",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɑː ˌɡrɑːf"
+                            ],
+                            "us": [
+                                "ˈbɑːr ˌɡræf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of graph (= a mathematical picture) in which different amounts are represented by thin vertical or horizontal rectangles that have the same width but different heights or lengths: ",
+                            "examples": [
+                                "The computer grades the summary on a scale of 1 to 5, represented by a bar graph.",
+                                "The bar graph shows the number of drivers killed in motor vehicle accidents by age."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

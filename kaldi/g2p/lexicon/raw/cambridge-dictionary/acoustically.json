@@ -1,0 +1,41 @@
+{
+    "word": "acoustically",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "əˈkuː.stɪ.kəl.i"
+                            ],
+                            "us": [
+                                "əˈkuː.stɪ.kəl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that relates to sound or hearing: ",
+                            "examples": [
+                                "The new building was acoustically designed for album recordings.",
+                                "Words heard in isolation are acoustically different from the same words in running speech."
+                            ]
+                        },
+                        {
+                            "explanation": "on a musical instrument that is not made louder by electrical equipment: ",
+                            "examples": [
+                                "He plays with passion, whether on electric guitar or acoustically.",
+                                "Tonight he will take the stage alone, performing acoustically."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

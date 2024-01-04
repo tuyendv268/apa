@@ -1,0 +1,33 @@
+{
+    "word": "false positive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfɒls ˈpɒz.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˌfɑːls ˈpɑː.zə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a result of a scientific test that appears to show something exists or is present, when this is not correct: ",
+                            "examples": [
+                                "The anthrax test is unreliable because it produces too many false positives."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

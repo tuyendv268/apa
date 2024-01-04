@@ -1,0 +1,65 @@
+{
+    "word": "differed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndiffer ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɪf.ər"
+                            ],
+                            "us": [
+                                "ˈdɪf.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be not like something or someone else, either physically or in another way: ",
+                            "examples": [
+                                "The twins look alike, but they differ in temperament.",
+                                "His views differ considerably from those of his parents.",
+                                "The findings of the various studies differ significantly/markedly/radically.",
+                                "The incidence of the illness differs greatly between men and women."
+                            ]
+                        },
+                        {
+                            "explanation": "to disagree: ",
+                            "examples": [
+                                "Economists differ on the cause of inflation.",
+                                "I beg to differ with you on that point."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

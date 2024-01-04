@@ -1,0 +1,48 @@
+{
+    "word": "instruction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈstrʌk.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˈstrʌk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that someone tells you to do: ",
+                            "examples": [
+                                "The police who broke into the house were only acting on/under instructions.",
+                                "He gave me strict instructions to get there by eight o'clock."
+                            ]
+                        },
+                        {
+                            "explanation": "advice and information about how to do or use something, often written in a book or on the side of a container: ",
+                            "examples": [
+                                "The cooking instructions say to bake it for half an hour."
+                            ]
+                        },
+                        {
+                            "explanation": "the teaching of a particular skill or subject: ",
+                            "examples": [
+                                "The video provides instruction on how to operate the computer.",
+                                "The course gives you basic instruction in car maintenance.",
+                                "Have you seen the instruction manual for the washing machine?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

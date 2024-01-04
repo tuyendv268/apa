@@ -1,0 +1,42 @@
+{
+    "word": "chest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tʃest"
+                            ],
+                            "us": [
+                                "tʃest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the upper front part of the body of humans and some animals, between the stomach and the neck, containing the heart and lungs: ",
+                            "examples": [
+                                "He was shot in the chest at point blank range.",
+                                "He folded his arms across his chest.",
+                                "His shirt was open to the waist revealing a very hairy chest.",
+                                "She went to the doctor complaining of chest pains."
+                            ]
+                        },
+                        {
+                            "explanation": "a large, strong box, usually made of wood, used for storing goods or possessions or for moving possessions from one place to another: ",
+                            "examples": [
+                                "Her books and clothes were packed into chests and shipped across to Canada."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "word": "puffing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npuff ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pʌf"
+                            ],
+                            "us": [
+                                "pʌf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to breathe fast and with difficulty, usually because you have been exercising: ",
+                            "examples": [
+                                "He came puffing up the stairs.",
+                                "\"I ran all the way home,\" she puffed (= said while puffing)."
+                            ]
+                        },
+                        {
+                            "explanation": "to breathe fast and with difficulty, usually because you have been exercising",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to smoke tobacco: ",
+                            "examples": [
+                                "She was puffing on a cigarette at the time.",
+                                "He sat there, puffing away at a cigarette."
+                            ]
+                        },
+                        {
+                            "explanation": "to blow out in clouds, or make steam or smoke do this: ",
+                            "examples": [
+                                "The engine puffed a huge cloud of steam, then rolled down the tracks.",
+                                "The chimney was puffing out clouds of smoke."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

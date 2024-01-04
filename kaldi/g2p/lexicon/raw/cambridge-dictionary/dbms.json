@@ -1,0 +1,31 @@
+{
+    "word": "dbms",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdiː.biː.emˈes"
+                            ],
+                            "us": [
+                                "ˌdiː.biː.emˈes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for database management system: a set of computer programs for allowing large amounts of information to be put into a computer and for organizing it so that it can be searched, examined, or printed easily and quickly",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

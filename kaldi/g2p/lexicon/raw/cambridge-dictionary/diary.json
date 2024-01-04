@@ -1,0 +1,39 @@
+{
+    "word": "diary",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaɪə.ri"
+                            ],
+                            "us": [
+                                "ˈdaɪr.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a book in which you record your thoughts or feelings or what has happened each day: ",
+                            "examples": [
+                                "While in hiding, Anne Frank kept a diary."
+                            ]
+                        },
+                        {
+                            "explanation": "a book with a separate space or page for each day, in which you write down your future arrangements, meetings, etc.: ",
+                            "examples": [
+                                "Don't forget to write/enter the date of the meeting in your diary."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

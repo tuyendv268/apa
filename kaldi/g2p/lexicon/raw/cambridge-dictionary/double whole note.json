@@ -1,0 +1,33 @@
+{
+    "word": "double whole note",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʌb.əl ˈhəʊl ˌnəʊt"
+                            ],
+                            "us": [
+                                "ˌdʌb.əl ˈhoʊl ˌnoʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a musical note with a time value equal to two semibreves or four minims: ",
+                            "examples": [
+                                "The double whole note is fairly rare in modern music."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

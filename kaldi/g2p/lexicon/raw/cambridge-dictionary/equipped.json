@@ -1,0 +1,41 @@
+{
+    "word": "equipped",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈkwɪpt"
+                            ],
+                            "us": [
+                                "ɪˈkwɪpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having the necessary tools, clothes, equipment, etc.: ",
+                            "examples": [
+                                "Their schools are very poorly equipped.",
+                                "We were well equipped for the trip."
+                            ]
+                        },
+                        {
+                            "explanation": "having the skills needed to do something: ",
+                            "examples": [
+                                "Many consider him the leader best equipped to be president.",
+                                "Not being a specialist in the subject I don't feel very well-equipped to answer such questions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

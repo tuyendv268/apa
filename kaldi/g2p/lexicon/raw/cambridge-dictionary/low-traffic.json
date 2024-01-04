@@ -1,0 +1,48 @@
+{
+    "word": "low-traffic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌləʊˈtræf.ɪk"
+                            ],
+                            "us": [
+                                "ˌloʊˈtræf.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a place or area) where few people pass through: ",
+                            "examples": [
+                                "Carpets were installed in low-traffic areas such as the library, with tiled floors in the corridors.",
+                                "It was a mistake to open the museum in a low-traffic location."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a road, etc.) used by only a small number of vehicles: ",
+                            "examples": [
+                                "Many of these bridges are on low-traffic country roads.",
+                                "This is a great cycle ride, mostly on low traffic routes."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a website, etc.) visited or used by only a small number of people: ",
+                            "examples": [
+                                "You don't want to pay for capacity you don't need if your site is a low-traffic URL.",
+                                "These sites are usually small and low-traffic."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

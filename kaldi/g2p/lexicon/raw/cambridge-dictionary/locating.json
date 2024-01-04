@@ -1,0 +1,67 @@
+{
+    "word": "locating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nlocate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ləʊˈkeɪt"
+                            ],
+                            "us": [
+                                "loʊˈkeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be in a particular place: ",
+                            "examples": [
+                                "Our office is located in midtown Manhattan."
+                            ]
+                        },
+                        {
+                            "explanation": "to find or discover the exact position of something: ",
+                            "examples": [
+                                "Police are still trying to locate the suspect."
+                            ]
+                        },
+                        {
+                            "explanation": "to move to a place to do business: ",
+                            "examples": [
+                                "The company hopes to locate in its new offices by June."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

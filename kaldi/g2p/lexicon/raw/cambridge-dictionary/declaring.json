@@ -1,0 +1,75 @@
+{
+    "word": "declaring",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndeclare ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈkleər"
+                            ],
+                            "us": [
+                                "dɪˈkler"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to announce something clearly, firmly, publicly, or officially: ",
+                            "examples": [
+                                "They declared their support for the proposal",
+                                "She declared (that) it was the best chocolate cake she had ever tasted.",
+                                "They declared themselves (to be) bankrupt.",
+                                "\"I won't do it!\" he declared.",
+                                "America declared war on Japan in 1941 (= announced officially that it was at war).",
+                                "The government has declared war on (= announced that they intended to stop) the drug dealers.",
+                                "The country declared independence in 1952 (= announced that it was no longer under the control of another country)."
+                            ]
+                        },
+                        {
+                            "explanation": "to officially tell someone the value of goods you have bought, or the amount of money you have earned because you might have to pay tax: ",
+                            "examples": [
+                                "Nothing to declare.",
+                                "Goods to declare.",
+                                "You have to declare any earnings over a certain amount."
+                            ]
+                        },
+                        {
+                            "explanation": "If a cricket team declares, they stop batting (= hitting the ball) because they think they already have enough runs (= points) to win: ",
+                            "examples": [
+                                "Pakistan declared at 350 for 7."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

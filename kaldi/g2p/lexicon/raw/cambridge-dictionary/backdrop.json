@@ -1,0 +1,43 @@
+{
+    "word": "backdrop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæk.drɒp"
+                            ],
+                            "us": [
+                                "ˈbæk.drɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large piece of cloth with buildings, countryside, etc. painted on it, hung at the back of a stage during a performance",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the view behind something: ",
+                            "examples": [
+                                "The mountains form a dramatic backdrop to the little village."
+                            ]
+                        },
+                        {
+                            "explanation": "the general situation in which particular events happen: ",
+                            "examples": [
+                                "Their love affair began against a backdrop of war."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

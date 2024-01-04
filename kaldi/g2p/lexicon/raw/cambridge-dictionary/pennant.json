@@ -1,0 +1,37 @@
+{
+    "word": "pennant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpen.ənt"
+                            ],
+                            "us": [
+                                "ˈpen.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a flag in the shape of a triangle",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a flag that shows that a particular baseball team is the winner in its league: ",
+                            "examples": [
+                                "Divisional winners meet in the final to decide the pennant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

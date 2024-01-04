@@ -1,0 +1,39 @@
+{
+    "word": "vax",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "væks"
+                            ],
+                            "us": [
+                                "væks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for vaccine: a substance put into a person's body to prevent them getting a disease: ",
+                            "examples": [
+                                "The three-year trial of the AIDS vax is intended to test whether it can protect people from infection from the H. I. V. virus."
+                            ]
+                        },
+                        {
+                            "explanation": "short for vaccination: the process or an act of giving someone a vaccine (= a substance put into a person's body to prevent them getting a disease): ",
+                            "examples": [
+                                "Patient reported right-sided pain and feeling ill since vax."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

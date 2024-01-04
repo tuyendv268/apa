@@ -1,0 +1,39 @@
+{
+    "word": "lumen",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈluː.mən"
+                            ],
+                            "us": [
+                                "ˈluː.mən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit for measuring the amount of light something produces: ",
+                            "examples": [
+                                "a light bulb rated at 750 lumens "
+                            ]
+                        },
+                        {
+                            "explanation": "the inside space of a tube-shaped organ in the body, for example a blood vessel or intestine: ",
+                            "examples": [
+                                "intestinal/vascular lumen"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

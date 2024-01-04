@@ -1,0 +1,35 @@
+{
+    "word": "fowl",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "faʊl"
+                            ],
+                            "us": [
+                                "faʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a bird of a type that is used to produce meat or eggs",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "any bird",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

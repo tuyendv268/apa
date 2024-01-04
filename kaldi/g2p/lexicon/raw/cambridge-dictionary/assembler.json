@@ -1,0 +1,35 @@
+{
+    "word": "assembler",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈsem.blər"
+                            ],
+                            "us": [
+                                "əˈsem.blɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a program that changes computer instructions into machine code (= a set of numbers that gives instructions to a computer) ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "assembly language (= the language used to write a computer program before it is turned into machine code) ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

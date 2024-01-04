@@ -1,0 +1,62 @@
+{
+    "word": "justifying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \njustify ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒʌs.tɪ.faɪ"
+                            ],
+                            "us": [
+                                "ˈdʒʌs.tə.faɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give or to be a good reason for: ",
+                            "examples": [
+                                "I can't really justify taking another day off work.",
+                                "Are you sure that these measures are justified?"
+                            ]
+                        },
+                        {
+                            "explanation": "If you justify yourself, you give a good reason for what you have done: ",
+                            "examples": [
+                                "It was the only thing that I could do - I don't have to justify myself to anyone."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

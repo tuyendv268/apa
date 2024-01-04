@@ -1,0 +1,40 @@
+{
+    "word": "feedstock",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfiːd.stɒk"
+                            ],
+                            "us": [
+                                "ˈfiːd.stɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "material that is used to produce something in an industrial process: ",
+                            "examples": [
+                                "The plants may need massive amounts of feedstock to make relatively small amounts of fuel.",
+                                "Coal tar was the feedstock for all kinds of chemicals until it was replaced by oil in the 1940s."
+                            ]
+                        },
+                        {
+                            "explanation": "material that is used as a food for animals: ",
+                            "examples": [
+                                "Corn is used in most food - from high fructose corn syrup to feedstock for beef and other animals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

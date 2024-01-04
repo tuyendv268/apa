@@ -1,0 +1,44 @@
+{
+    "word": "sac",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sæk"
+                            ],
+                            "us": [
+                                "sæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a part of a plant or animal that is like a bag and often contains liquid, or a similar artificially made structure: ",
+                            "examples": [
+                                "Bursa are fluid-filled sacs throughout the body whose function is to reduce friction between muscles and tendons as they move over bones.",
+                                "A sac of saline solution is then inserted into the cavity."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of abscess (= swollen area containing a thick yellow liquid) under the skin: ",
+                            "examples": [
+                                "Sacs of pus, called abscesses, may form in the pelvis."
+                            ]
+                        },
+                        {
+                            "explanation": "a covering that surrounds a tumour",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

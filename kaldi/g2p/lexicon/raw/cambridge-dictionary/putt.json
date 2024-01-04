@@ -1,0 +1,58 @@
+{
+    "word": "putt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pʌt"
+                            ],
+                            "us": [
+                                "pʌt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to hit a golf ball gently across an area of short and even grass towards or into a hole: ",
+                            "examples": [
+                                "Palmer putted the ball straight into the hole.",
+                                "You need to use a special club for putting."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pʌt"
+                            ],
+                            "us": [
+                                "pʌt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a gentle hit across short grass that sends a ball towards or into a hole: ",
+                            "examples": [
+                                "She won the competition with an impressive six-metre putt."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

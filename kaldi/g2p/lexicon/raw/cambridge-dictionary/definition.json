@@ -1,0 +1,52 @@
+{
+    "word": "definition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdef.ɪˈnɪʃ.ən"
+                            ],
+                            "us": [
+                                "ˌdef.ɪˈnɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a statement that explains the meaning of a word or phrase: ",
+                            "examples": [
+                                "a dictionary definition",
+                                "What is the definition of \"mood\"?"
+                            ]
+                        },
+                        {
+                            "explanation": "a description of the features and limits of something: ",
+                            "examples": [
+                                "The legal definition of what is and what is not pornography is very unsatisfactory."
+                            ]
+                        },
+                        {
+                            "explanation": "because of its own features: ",
+                            "examples": [
+                                "Psychology is by definition an inexact science."
+                            ]
+                        },
+                        {
+                            "explanation": "how clear an image or sound is: ",
+                            "examples": [
+                                "The photograph lacks definition."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "appetizer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæp.ə.taɪ.zər"
+                            ],
+                            "us": [
+                                "ˈæp.ə.taɪ.zɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small amount of food eaten before a meal: ",
+                            "examples": [
+                                "At 6.30 everyone gathered for drinks and appetizers in the lounge."
+                            ]
+                        },
+                        {
+                            "explanation": "the first part of a meal: ",
+                            "examples": [
+                                "The average cost of a full three-course meal - appetizer, main course, and dessert - is about $45."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

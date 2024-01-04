@@ -1,0 +1,40 @@
+{
+    "word": "sadly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsæd.li"
+                            ],
+                            "us": [
+                                "ˈsæd.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in an unhappy way: ",
+                            "examples": [
+                                "\"He's gone away for six months,\" she said sadly."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that is not satisfactory: ",
+                            "examples": [
+                                "Sadly, the treatment doesn't work for all patients.",
+                                "If you think she'll let you do that, you're sadly (= completely) mistaken."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "aggregation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæɡ.rɪˈɡeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌæɡ.rəˈɡeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of combining things or amounts into a single group or total: ",
+                            "examples": [
+                                "Installation art - the aggregation of objects in a space - has long dominated the visual arts. ",
+                                "Some animals avoid being eaten by aggregation in groups, such as schools of fish. "
+                            ]
+                        },
+                        {
+                            "explanation": "the process of collecting information from several different websites, newspapers, databases (= large amounts of information stored in a computer system ), etc. and combining it in one place, or the result of this process: ",
+                            "examples": [
+                                "This news aggregation site grabs headlines from over 30 daily news sources and provides a link to the host site.",
+                                "You can view aggregations of polling data at the site."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

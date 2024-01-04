@@ -1,0 +1,71 @@
+{
+    "word": "bathed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbathe ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "beɪð"
+                            ],
+                            "us": [
+                                "beɪð"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to swim, especially in the sea, a river, or a lake: ",
+                            "examples": [
+                                "Children suffering from the illness had bathed in sea water contaminated by sewage."
+                            ]
+                        },
+                        {
+                            "explanation": "to cover something with a liquid, especially in order to make part of the body feel better: ",
+                            "examples": [
+                                "I bathed my feet in salt water."
+                            ]
+                        },
+                        {
+                            "explanation": "to cover something in a way that causes a pleasant feeling or appearance: ",
+                            "examples": [
+                                "In the afternoon the sun bathes the city in shades of pink and gold."
+                            ]
+                        },
+                        {
+                            "explanation": "to wash in a bath or to wash someone in a bath",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

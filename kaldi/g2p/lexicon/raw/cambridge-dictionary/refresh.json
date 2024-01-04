@@ -1,0 +1,78 @@
+{
+    "word": "refresh",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈfreʃ"
+                            ],
+                            "us": [
+                                "rɪˈfreʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone less hot or tired: ",
+                            "examples": [
+                                "It was such a hot night that I had a cold shower to refresh myself."
+                            ]
+                        },
+                        {
+                            "explanation": "to make the most recent information on an internet page appear, usually by clicking a button on the computer screen",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈfreʃ",
+                                "ˈriː.freʃ"
+                            ],
+                            "us": [
+                                "rɪˈfreʃ",
+                                "ˈriː.freʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of changing something to make it look newer and better, or the thing that is changed: ",
+                            "examples": [
+                                "Here are some tips for a complete living-room refresh.",
+                                "A refresh of the exisisting phone will be unveiled next month. "
+                            ]
+                        },
+                        {
+                            "explanation": "the act of filling a container again, especially with food or drink: ",
+                            "examples": [
+                                "Can I get you a refresh of your coffee?",
+                                "We'll need more crackers, and a refresh of the dips."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of making the most recent information on an internet page appear, usually by clicking a button on the computer screen: ",
+                            "examples": [
+                                "The refresh function key reloads the page.",
+                                "A refresh of the mobile boarding pass will reflect any changes to seat assignments or gate changes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

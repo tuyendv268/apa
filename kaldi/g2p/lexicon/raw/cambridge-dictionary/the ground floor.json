@@ -1,0 +1,62 @@
+{
+    "word": "the ground floor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɡraʊnd ˈflɔːr"
+                            ],
+                            "us": [
+                                "ˌɡraʊnd ˈflɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the floor of a building that is at the same level as the ground outside: ",
+                            "examples": [
+                                "My office is on the ground floor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɡraʊndˈflɔːr"
+                            ],
+                            "us": [
+                                "ˌɡraʊndˈflɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "on or relating to the floor of a building that is at the same level as the ground outside: ",
+                            "examples": [
+                                "a ground-floor office",
+                                "She lived in the ground-floor flat, with direct access to the garden."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

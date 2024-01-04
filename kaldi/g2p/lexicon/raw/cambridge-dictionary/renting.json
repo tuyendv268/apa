@@ -1,0 +1,61 @@
+{
+    "word": "renting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nrent ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rent"
+                            ],
+                            "us": [
+                                "rent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pay or receive a fixed amount of money for the use of a room, house, car, television, etc.: ",
+                            "examples": [
+                                "I rented a car from a garage so that I could get about.",
+                                "The old lady rented me her spare bedroom for £200 a week.",
+                                "My Dad has a villa that he rents (out) to tourists."
+                            ]
+                        },
+                        {
+                            "explanation": "past simple and past participle of\nrend old use or literary ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "word": "sequence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsiː.kwəns"
+                            ],
+                            "us": [
+                                "ˈsiː.kwəns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a series of related things or events, or the order in which they follow each other: ",
+                            "examples": [
+                                "The first chapter describes the strange sequence of events that led to his death.",
+                                "Is there a particular sequence in which you have to perform these tasks?",
+                                "For the sake of convenience the photographs are shown in chronological sequence (= in the order in which they were taken)."
+                            ]
+                        },
+                        {
+                            "explanation": "a part of a film that shows a particular event or a related series of events: ",
+                            "examples": [
+                                "The movie's opening sequence is of a very unpleasant murder."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsiː.kwəns"
+                            ],
+                            "us": [
+                                "ˈsiː.kwəns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to combine things in a particular order, or discover the order in which they are combined: ",
+                            "examples": [
+                                "They discussed how to sequence the steps in the plan.",
+                                "reading books sequenced in order of difficulty"
+                            ]
+                        },
+                        {
+                            "explanation": "to discover the order in which nucleotides (= chemical substances) are combined within DNA: ",
+                            "examples": [
+                                "Researchers sequenced the full genome of a rat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

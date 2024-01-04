@@ -1,0 +1,38 @@
+{
+    "word": "stalemate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsteɪl.meɪt"
+                            ],
+                            "us": [
+                                "ˈsteɪl.meɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which neither group involved in an argument can win or get an advantage and no action can be taken: ",
+                            "examples": [
+                                "Tomorrow's meeting between the two leaders is expected to break a diplomatic stalemate that has lasted for ten years.",
+                                "Despite long discussions, the workers and the management remain locked in stalemate."
+                            ]
+                        },
+                        {
+                            "explanation": "in chess, a position in which one player is unable to move, but their king is not being attacked, which means that neither of the two players wins",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

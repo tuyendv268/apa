@@ -1,0 +1,39 @@
+{
+    "word": "say-so",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈseɪ.səʊ"
+                            ],
+                            "us": [
+                                "ˈseɪ.soʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an instruction to do something, or permission given by someone to do something: ",
+                            "examples": [
+                                "She's not allowed to do anything without her father's say-so."
+                            ]
+                        },
+                        {
+                            "explanation": "a statement made by someone without proof: ",
+                            "examples": [
+                                "Don't just believe it on my say-so - find out for yourself."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "we'd",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "wiːd",
+                                "wid"
+                            ],
+                            "us": [
+                                "wiːd",
+                                "wid"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short form of we had: ",
+                            "examples": [
+                                "We'd better be more careful in the future."
+                            ]
+                        },
+                        {
+                            "explanation": "short form of we would: ",
+                            "examples": [
+                                "We'd be grateful for an answer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

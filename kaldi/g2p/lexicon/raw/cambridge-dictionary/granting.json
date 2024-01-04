@@ -1,0 +1,76 @@
+{
+    "word": "granting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ngrant ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡrɑːnt"
+                            ],
+                            "us": [
+                                "ɡrænt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give or allow someone something, usually in an official way: ",
+                            "examples": [
+                                "They granted her an entry visa.",
+                                "He was granted asylum.",
+                                "She granted their request/wish."
+                            ]
+                        },
+                        {
+                            "explanation": "to accept that something is true, often before expressing an opposite opinion: ",
+                            "examples": [
+                                "I grant that it must have been upsetting but even so I think she overreacted.",
+                                "I grant you (= it is true that), it's a difficult situation but I feel sure he could have handled it more sensitively."
+                            ]
+                        },
+                        {
+                            "explanation": "to believe something to be the truth without even thinking about it: ",
+                            "examples": [
+                                "I didn't realize that Melanie hadn't been to college - I suppose I just took it for granted."
+                            ]
+                        },
+                        {
+                            "explanation": "If you take situations or people for granted, you do not realize or show that you are grateful for how much you get from them: ",
+                            "examples": [
+                                "One of the problems with relationships is that after a while you just take each other for granted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

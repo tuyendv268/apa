@@ -1,0 +1,34 @@
+{
+    "word": "flight mode",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈflaɪt ˌməʊd"
+                            ],
+                            "us": [
+                                "ˈflaɪt ˌmoʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a function on a mobile phone or other electronic device that prevents it from connecting to the internet, used for safety when travelling in a plane: ",
+                            "examples": [
+                                "You can use your laptop on the plane in flight mode.",
+                                "If your phone has flight mode then reading on planes is fine."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

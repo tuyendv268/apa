@@ -1,0 +1,44 @@
+{
+    "word": "gambit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡæm.bɪt"
+                            ],
+                            "us": [
+                                "ˈɡæm.bɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a clever action in a game or other situation that is intended to achieve an advantage and usually involves taking a risk: ",
+                            "examples": [
+                                "Her clever opening gambit gave her an early advantage.",
+                                "Their promise to lower taxes is clearly an election-year gambit."
+                            ]
+                        },
+                        {
+                            "explanation": "a way of beginning a game of chess, in which you intentionally lose a pawn (= game piece) in order to win some other form of advantage later",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a remark that you make to someone in order to start a conversation: ",
+                            "examples": [
+                                "\"I hear you're a friend of Jamie's\" was her opening gambit."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

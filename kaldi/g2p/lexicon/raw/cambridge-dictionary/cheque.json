@@ -1,0 +1,36 @@
+{
+    "word": "cheque",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tʃek"
+                            ],
+                            "us": [
+                                "tʃek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a printed form, used instead of money, to make payments from your bank account: ",
+                            "examples": [
+                                "I wrote him a cheque for £50.",
+                                "I don't have any cash on me, so could I pay with a/by cheque?",
+                                "Who should I make out this cheque to? (= Whose name should I write on it?)",
+                                "Please make your cheques payable to The Brighter Toyshop Ltd (= write this name on them)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

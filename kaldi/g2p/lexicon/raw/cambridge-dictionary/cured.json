@@ -1,0 +1,67 @@
+{
+    "word": "cured",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncure ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kjʊər"
+                            ],
+                            "us": [
+                                "kjʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone with an illness healthy again: ",
+                            "examples": [
+                                "At one time doctors couldn't cure TB/cure people of TB."
+                            ]
+                        },
+                        {
+                            "explanation": "to solve a problem: ",
+                            "examples": [
+                                "The president and his advisors meet this week to discuss how to cure inflation."
+                            ]
+                        },
+                        {
+                            "explanation": "to treat food, tobacco, etc. with smoke, salt, etc. in order to preserve it: ",
+                            "examples": [
+                                "cured meats"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

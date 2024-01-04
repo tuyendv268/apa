@@ -1,0 +1,49 @@
+{
+    "word": "expense",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspens"
+                            ],
+                            "us": [
+                                "ɪkˈspens"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use of money, time, or effort: ",
+                            "examples": [
+                                "Buying a bigger car has proved to be well worth the expense.",
+                                "We've just had a new garage built at great expense.",
+                                "We went on holiday at my father's expense (= he paid for it).",
+                                "It's silly to go to the expense of (= spend money on) buying new clothes when you don't really need them."
+                            ]
+                        },
+                        {
+                            "explanation": "something that makes you spend money: ",
+                            "examples": [
+                                "Our biggest expense this year was our summer holiday.",
+                                "We need to cut down on our expenses."
+                            ]
+                        },
+                        {
+                            "explanation": "money that you spend when you are doing your job, that your employer will pay back to you: ",
+                            "examples": [
+                                "I need to get my expenses approved."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "word": "conceding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nconcede ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈsiːd"
+                            ],
+                            "us": [
+                                "kənˈsiːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to admit, often unwillingly, that something is true: ",
+                            "examples": [
+                                "The government has conceded (that) the new tax policy has been a disaster.",
+                                "\"Well okay, perhaps I was a little hard on her,\" he conceded."
+                            ]
+                        },
+                        {
+                            "explanation": "to admit that you have lost in a competition: ",
+                            "examples": [
+                                "He kept on arguing and wouldn't concede defeat.",
+                                "She conceded even before all the votes had been counted."
+                            ]
+                        },
+                        {
+                            "explanation": "to allow someone to have something, even if you do not want to: ",
+                            "examples": [
+                                "The president is not expected to concede these reforms.",
+                                "He is not willing to concede any of his power/authority.",
+                                "Britain conceded (= allowed) independence to India in 1947."
+                            ]
+                        },
+                        {
+                            "explanation": "to fail to stop an opposing team or person from winning a point or game: ",
+                            "examples": [
+                                "The team conceded two goals (to the other side) in the first five minutes of the game."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

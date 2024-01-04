@@ -1,0 +1,65 @@
+{
+    "word": "-ly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -li"
+                            ],
+                            "us": [
+                                " -li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the stated way: ",
+                            "examples": [
+                                "quickly",
+                                "carefully",
+                                "angrily",
+                                "loudly"
+                            ]
+                        },
+                        {
+                            "explanation": "when considered in the stated way: ",
+                            "examples": [
+                                "Personally (= in my opinion), I don't think animals should be killed for their fur.",
+                                "This is an environmentally (= in relation to the environment) disastrous proposal."
+                            ]
+                        },
+                        {
+                            "explanation": "regularly after the stated period of time: ",
+                            "examples": [
+                                "a weekly/monthly meeting"
+                            ]
+                        },
+                        {
+                            "explanation": "like the stated person or thing: ",
+                            "examples": [
+                                "fatherly advice",
+                                "priestly duties",
+                                "cowardly behaviour"
+                            ]
+                        },
+                        {
+                            "explanation": "used for indicating one of a series of events that happen with the stated regular period of time between each: ",
+                            "examples": [
+                                "a daily shower",
+                                "a weekly meeting",
+                                "a yearly check-up"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

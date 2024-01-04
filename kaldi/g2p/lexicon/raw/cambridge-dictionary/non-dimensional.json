@@ -1,0 +1,43 @@
+{
+    "word": "non-dimensional",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.daɪˈmen.ʃən.əl",
+                                "ˌnɒn.dɪ.men.ʃən.əl"
+                            ],
+                            "us": [
+                                "ˌnɑːn.dɪ.men.ʃən.əl",
+                                "ˌnɑːn.daɪˈmen.ʃən.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not expressed in or representing measurements of any particular unit, for example of length, or time: ",
+                            "examples": [
+                                "In complex value measurement systems, native performance scales are collapsed onto a non-dimensional value scale, which is normalized between zero and one.",
+                                "Multiplying a selection gradient by the corresponding phenotypic standard deviation gives the selection intensity, a non-dimensional quantity that is widely used by breeders."
+                            ]
+                        },
+                        {
+                            "explanation": "not having or appearing not to have height, length, depth, or width: ",
+                            "examples": [
+                                "In the end, circumference and centre are reduced to a nearly non-dimensional point.",
+                                "The two worst enemies of dark hair are flat, non-dimensional colour and lack of condition."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

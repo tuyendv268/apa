@@ -1,0 +1,39 @@
+{
+    "word": "unsecured",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.sɪˈkjʊəd"
+                            ],
+                            "us": [
+                                "ˌʌn.sɪˈkjʊrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a loan (= an amount of money that is lent) for which the person who has lent the money has no right to take property from the person who has borrowed it, if the money is not paid back: ",
+                            "examples": [
+                                "With an unsecured loan you do not offer your home as security and it is therefore a popular form of borrowing among consumers."
+                            ]
+                        },
+                        {
+                            "explanation": "not made safe; not protected from danger or risk: ",
+                            "examples": [
+                                "According to the insurance company's report, the garage door had been left unsecured."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

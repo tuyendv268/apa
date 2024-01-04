@@ -1,0 +1,39 @@
+{
+    "word": "cereal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪə.ri.əl"
+                            ],
+                            "us": [
+                                "ˈsɪr.i.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a plant that is grown to produce grain: ",
+                            "examples": [
+                                "cereal crops"
+                            ]
+                        },
+                        {
+                            "explanation": "a food that is made from grain and eaten with milk, especially in the morning: ",
+                            "examples": [
+                                "breakfast cereals"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

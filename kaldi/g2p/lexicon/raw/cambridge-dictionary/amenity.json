@@ -1,0 +1,39 @@
+{
+    "word": "amenity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈmiː.nə.ti"
+                            ],
+                            "us": [
+                                "əˈmen.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something, such as a swimming pool or shopping centre, that is intended to make life more pleasant or comfortable for the people in a town, hotel, or other place: ",
+                            "examples": [
+                                "The council has some spare cash, which it proposes to spend on public amenities."
+                            ]
+                        },
+                        {
+                            "explanation": "things considered to be necessary to live comfortably, such as hot water: ",
+                            "examples": [
+                                "The 200-year-old jail is overcrowded, understaffed, and lacking in basic amenities."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

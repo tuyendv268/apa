@@ -1,0 +1,66 @@
+{
+    "word": "hail",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "heɪl"
+                            ],
+                            "us": [
+                                "heɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "small, hard balls of ice that fall from the sky like rain",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a lot of similar things or remarks, thrown or shouted at someone at the same time: ",
+                            "examples": [
+                                "a hail of bullets"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "heɪl"
+                            ],
+                            "us": [
+                                "heɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to call someone in order to attract their attention: ",
+                            "examples": [
+                                "Shall we hail a taxi?",
+                                "I tried to hail her from across the room."
+                            ]
+                        },
+                        {
+                            "explanation": "If it hails, small, hard balls of ice fall from the sky like rain.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

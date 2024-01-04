@@ -1,0 +1,81 @@
+{
+    "word": "folded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nfold ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fəʊld"
+                            ],
+                            "us": [
+                                "foʊld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to bend something, especially paper or cloth, so that one part of it lies on the other part, or to be able to be bent in this way: ",
+                            "examples": [
+                                "I folded the letter (in half) and put it in an envelope.",
+                                "He had a neatly folded handkerchief in his jacket pocket.",
+                                "Will you help me to fold (up) the sheets?",
+                                "The table folds up when not in use."
+                            ]
+                        },
+                        {
+                            "explanation": "to wrap: ",
+                            "examples": [
+                                "She folded her baby in a blanket.",
+                                "He folded his arms around her."
+                            ]
+                        },
+                        {
+                            "explanation": "to bring your arms close to your chest and hold them together",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to move a part of your body into a position where it is close to your body: ",
+                            "examples": [
+                                "She sat with her legs folded under her."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a business) to close because of failure: ",
+                            "examples": [
+                                "Many small businesses fold within the first year."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

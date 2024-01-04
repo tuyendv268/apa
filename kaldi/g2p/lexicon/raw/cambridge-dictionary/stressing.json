@@ -1,0 +1,68 @@
+{
+    "word": "stressing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nstress ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stres"
+                            ],
+                            "us": [
+                                "stres"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give emphasis or special importance to something: ",
+                            "examples": [
+                                "He is careful to stress (that) the laboratory's safety standards are the best in the country.",
+                                "I'd just like to stress the importance of neatness and politeness in this job."
+                            ]
+                        },
+                        {
+                            "explanation": "to pronounce a word or syllable with greater force than other words in the same sentence or other syllables in the same word, or to play a musical note with greater force than others in a group: ",
+                            "examples": [
+                                "In the word \"engine\" you should stress the first syllable."
+                            ]
+                        },
+                        {
+                            "explanation": "to feel worried and nervous: ",
+                            "examples": [
+                                "Don't stress over it - we'll soon get it sorted out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

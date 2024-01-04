@@ -1,0 +1,39 @@
+{
+    "word": "geology",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dʒiˈɒl.ə.dʒi"
+                            ],
+                            "us": [
+                                "dʒiˈɑː.lə.dʒi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the study of the rocks and similar substances that make up the earth's surface: ",
+                            "examples": [
+                                "a geology professor/student/class/department"
+                            ]
+                        },
+                        {
+                            "explanation": "the particular rocks and similar substances that form an area of the earth, and their arrangement: ",
+                            "examples": [
+                                "At the time, she was writing a book on the geology of Australia."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

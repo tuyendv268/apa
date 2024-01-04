@@ -1,0 +1,56 @@
+{
+    "word": "cloned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nclone ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kləʊn"
+                            ],
+                            "us": [
+                                "kloʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to create a clone of a plant or animal: ",
+                            "examples": [
+                                "Scientists have already cloned a sheep.",
+                                "Experiments to try to clone human embryos have met with hostility from some sections of the public."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

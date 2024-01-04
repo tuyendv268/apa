@@ -1,0 +1,46 @@
+{
+    "word": "deduction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈdʌk.ʃən"
+                            ],
+                            "us": [
+                                "dɪˈdʌk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of reaching a decision or answer by thinking about the known facts, or the decision that is reached: ",
+                            "examples": [
+                                "Through a process of deduction, the detectives discovered the identity of the killer.",
+                                "All we can do is make deductions from the available facts."
+                            ]
+                        },
+                        {
+                            "explanation": "the calculation of taking an amount or a part of something away from a total or the amount that is taken away: ",
+                            "examples": [
+                                "The interest I receive on my savings account is paid after the deduction of tax."
+                            ]
+                        },
+                        {
+                            "explanation": "an amount that is taken away from the money you are paid before you officially receive it: ",
+                            "examples": [
+                                "After deductions, his taxable income is $30,000."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

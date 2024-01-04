@@ -1,0 +1,34 @@
+{
+    "word": "post-editing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpəʊstˈed.ɪ.tɪŋ"
+                            ],
+                            "us": [
+                                "ˌpoʊstˈed.ɪ.t̬ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of making more changes to a text or file after it has already been through a process, usually an automatic one, in which it has been checked and changes made: ",
+                            "examples": [
+                                "Manual post-editing was conducted to eliminate wrongly-assigned tags.",
+                                "The postediting annotator did not modify this aspect of the output. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

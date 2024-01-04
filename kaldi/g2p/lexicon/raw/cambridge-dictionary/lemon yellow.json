@@ -1,0 +1,63 @@
+{
+    "word": "lemon yellow",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌlem.ən ˈjel.əʊ"
+                            ],
+                            "us": [
+                                "ˌlem.ən ˈjel.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a light yellow colour: ",
+                            "examples": [
+                                "The dancers wore tall feathered headdresses in lemon yellow.",
+                                "The walls are a lemon yellow."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌlem.ənˈjel.əʊ"
+                            ],
+                            "us": [
+                                "ˌlem.ənˈjel.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of a light yellow colour: ",
+                            "examples": [
+                                "a lemon-yellow blouse",
+                                "The dark green foliage offsets the scented, lemon-yellow flowers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

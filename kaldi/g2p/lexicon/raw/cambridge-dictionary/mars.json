@@ -1,0 +1,40 @@
+{
+    "word": "mars",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mɑːz"
+                            ],
+                            "us": [
+                                "mɑːrz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the planet fourth in order of distance from the sun, after Earth and before Jupiter: ",
+                            "examples": [
+                                "Mars is sometimes called the Red Planet because of its distinctive colour.",
+                                "So is there life on Mars?"
+                            ]
+                        },
+                        {
+                            "explanation": "in Roman mythology (= ancient stories), the god of war: ",
+                            "examples": [
+                                "The work depicts Mars, the god of war, choosing between Minerva and Venus."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

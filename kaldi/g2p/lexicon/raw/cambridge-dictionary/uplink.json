@@ -1,0 +1,73 @@
+{
+    "word": "uplink",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʌp.lɪŋk"
+                            ],
+                            "us": [
+                                "ˈʌp.lɪŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a communications link for signals to be sent to a satellite, spacecraft, or aircraft: ",
+                            "examples": [
+                                "Most existing stations are not equipped with the satellite uplinks that allow credit card billing. ",
+                                "A video image was beamed via satellite uplink to four television stations on the other side of the world.",
+                                "The reporters had to drive to an uplink facility to transmit their video."
+                            ]
+                        },
+                        {
+                            "explanation": "a link to a different, or different part of a, communications or computer network: ",
+                            "examples": [
+                                "You will probably need one port to act as an uplink to your router.",
+                                "This special port - the uplink port - is made for the purpose of connecting to another DCE device."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈʌp.lɪŋk"
+                            ],
+                            "us": [
+                                "ˈʌp.lɪŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send signals using a communications link to a satellite, spacecraft, or aircraft: ",
+                            "examples": [
+                                "The radio transmission was uplinked to the world by satellite TV. ",
+                                "You see them uplinking everywhere: bloggers, techies and assorted Internet enthusiasts. "
+                            ]
+                        },
+                        {
+                            "explanation": "to send or connect something using a link to a different, or different part of a, communications or computer network: ",
+                            "examples": [
+                                "This is a fast-paced age when information is digitized, faxed, uplinked, and downloaded."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

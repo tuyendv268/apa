@@ -1,0 +1,72 @@
+{
+    "word": "accessing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \naccess ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.ses"
+                            ],
+                            "us": [
+                                "ˈæk.ses"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be able to get to or get inside a place: ",
+                            "examples": [
+                                "It is too difficult for anyone using a wheelchair to access the building.",
+                                "Students need a card to access restricted areas such as residences and labs.",
+                                "The basement room is accessed from outside."
+                            ]
+                        },
+                        {
+                            "explanation": "to be able to use or obtain something such as a service: ",
+                            "examples": [
+                                "Older people may have difficulty accessing medical services.",
+                                "It needs to be easier for small businesses to access government resources and advice."
+                            ]
+                        },
+                        {
+                            "explanation": "to open a computer file (= a collection of stored information), a website, etc. in order to look at or change information in it: ",
+                            "examples": [
+                                "Most people use their phones to access the internet.",
+                                "You have to enter a password to access the database.",
+                                "A hacker remotely accessed the company's servers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

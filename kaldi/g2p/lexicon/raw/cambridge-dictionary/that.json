@@ -1,0 +1,144 @@
+{
+    "word": "that",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "ðæt"
+                            ],
+                            "us": [
+                                "ðæt"
+                            ],
+                            "uk_other_tense": [
+                                "ðəʊz"
+                            ],
+                            "us_other_tense": [
+                                "ðoʊz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to refer to a person, object, idea, etc. that is separated from the speaker by space or time: ",
+                            "examples": [
+                                "I've never liked that cousin of hers.",
+                                "Who's that? Is that the girl you told me about?",
+                                "How much are those shoes?",
+                                "His handwriting is like that (= the writing) of a much younger child."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to something that has been mentioned or was involved earlier, or to something that is already known about: ",
+                            "examples": [
+                                "Where's that pen (= the one I was using earlier) gone?",
+                                "She lives in that house at the end of Jeremy's street (= you know which one I mean)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "ðæt",
+                                "ðət"
+                            ],
+                            "us": [
+                                "ðæt",
+                                "ðət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to introduce a clause that reports something or gives further information, although it can often be left out: ",
+                            "examples": [
+                                "She said (that) she'd pick it up for me after work.",
+                                "Is it true (that) she's gone back to teaching?",
+                                "We'll be there at about 7.30, provided/providing (that) there's not too much traffic.",
+                                "It was so dark (that) I couldn't see anything."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "ðæt",
+                                "ðət"
+                            ],
+                            "us": [
+                                "ðæt",
+                                "ðət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used as the subject or object of a verb to show which person or thing you are referring to, or to add information about a person or thing just mentioned. It is used for both people and things. It can often be left out: ",
+                            "examples": [
+                                "I can't find the books (that) I got from the library.",
+                                "Is this the train that goes to Braintree?",
+                                "Have you been to the restaurant that's just opened in town?"
+                            ]
+                        },
+                        {
+                            "explanation": "used to make a connection with an earlier statement: ",
+                            "examples": [
+                                "My car broke down. That's why I'm so late.",
+                                "Lucy worked out how to fix it. That's Lucy for you (= She can fix anything)."
+                            ]
+                        },
+                        {
+                            "explanation": "used to express a reaction to something: ",
+                            "examples": [
+                                "I didn't know she'd been so ill. That's terrible.",
+                                "Turn the engine on, then put the car in gear. That's right (= you are doing it correctly).",
+                                "Smile for the camera. That's more like it (= that smile is better than before)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ðæt"
+                            ],
+                            "us": [
+                                "ðæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "as much as suggested: ",
+                            "examples": [
+                                "She's too young to walk that far.",
+                                "It wasn't (all) that (= very) good."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "vertex",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɜː.teks"
+                            ],
+                            "us": [
+                                "ˈvɝː.t̬eks"
+                            ],
+                            "uk_other_tense": [
+                                "ˈvɜː.te.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˈvɝː.t̬e.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(in mathematics) the point where two lines meet to form an angle, or the point that is opposite the base of a shape: ",
+                            "examples": [
+                                "the vertex of a triangle/cone/pyramid"
+                            ]
+                        },
+                        {
+                            "explanation": "the highest point of something",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

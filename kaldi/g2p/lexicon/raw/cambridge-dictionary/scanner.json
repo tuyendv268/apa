@@ -1,0 +1,34 @@
+{
+    "word": "scanner",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈskæn.ər"
+                            ],
+                            "us": [
+                                "ˈskæn.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device for making images of the inside of the body or for reading information into a computer system: ",
+                            "examples": [
+                                "an ultrasound scanner",
+                                "bar code scanners"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

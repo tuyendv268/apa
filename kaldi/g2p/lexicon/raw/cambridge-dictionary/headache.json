@@ -1,0 +1,39 @@
+{
+    "word": "headache",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhed.eɪk"
+                            ],
+                            "us": [
+                                "ˈhed.eɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pain you feel inside your head: ",
+                            "examples": [
+                                "I've got a splitting (= severe) headache."
+                            ]
+                        },
+                        {
+                            "explanation": "something that causes you great difficulty and worry: ",
+                            "examples": [
+                                "Finding a babysitter for Saturday evening will be a major headache."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "elective",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "iˈlek.tɪv"
+                            ],
+                            "us": [
+                                "iˈlek.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a medical treatment) done at a time chosen by the patient, rather than needed urgently: ",
+                            "examples": [
+                                "Medication should be stopped two days before elective surgery.",
+                                "This procedure was elective and non-urgent.",
+                                "She had her first child by an elective Caesarean section."
+                            ]
+                        },
+                        {
+                            "explanation": "An elective position or system is one that involves people voting: ",
+                            "examples": [
+                                "I am considering seeking elective office as a way to bring about change.",
+                                "At the beginning of the twelfth century, elective monarchy gradually gave way to hereditary monarchy in Europe."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "iˈlek.tɪv"
+                            ],
+                            "us": [
+                                "iˈlek.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a subject that someone chooses to study, in addition to the subjects that they have to study: ",
+                            "examples": [
+                                "During the MBA you will choose ten to twelve electives from a large and varied portfolio."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "immigration",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪm.ɪˈɡreɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌɪm.əˈɡreɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of someone coming to live in a different country: ",
+                            "examples": [
+                                "There are strict limits on immigration (into the country)."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of examining your passport and other documents to make certain that you can be allowed to enter the country, or the place where this is done: ",
+                            "examples": [
+                                "After you've been through immigration (control), you can go and get your luggage.",
+                                "immigration policy",
+                                "immigration officers"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

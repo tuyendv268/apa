@@ -1,0 +1,34 @@
+{
+    "word": "sdk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌes.diːˈkeɪ"
+                            ],
+                            "us": [
+                                "ˌes.diːˈkeɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for software development kit: a set of tools and programs that allow developers (= people who create computer products) to create software applications (= computer programs designed for a particular purpose) for particular types of computer systems or mobile phones: ",
+                            "examples": [
+                                "Attending this course is a great way to quickly get up to speed on the latest iPhone SDK.",
+                                "The company's products are available as standalone applications and SDKs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

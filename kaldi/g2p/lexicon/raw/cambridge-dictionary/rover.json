@@ -1,0 +1,40 @@
+{
+    "word": "rover",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈrəʊ.vər"
+                            ],
+                            "us": [
+                                "ˈroʊ.vɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who spends their time travelling from place to place: ",
+                            "examples": [
+                                "Their uncle was a rover, never settling for long in any one place."
+                            ]
+                        },
+                        {
+                            "explanation": "a small vehicle that can move over rough ground, often used on the surface of other planets, sometimes controlled from the earth: ",
+                            "examples": [
+                                "the lunar rover that transported astronauts and their equipment",
+                                "See the latest amazing photos from NASA's Mars rover Curiosity currently exploring the Red Planet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

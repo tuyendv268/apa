@@ -1,0 +1,44 @@
+{
+    "word": "dinner",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɪn.ər"
+                            ],
+                            "us": [
+                                "ˈdɪn.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the main meal of the day, usually the meal you eat in the evening but sometimes, in Britain, the meal eaten in the middle of the day: ",
+                            "examples": [
+                                "We were just having (our) dinner.",
+                                "We had some friends over for dinner on Saturday.",
+                                "a romantic candlelit dinner"
+                            ]
+                        },
+                        {
+                            "explanation": "a formal social occasion in the evening at which a meal is served, or the meal itself: ",
+                            "examples": [
+                                "They held a dinner to celebrate his retirement.",
+                                "Many prominent people were on the guest list for the dinner.",
+                                "He organized a dinner consisting of several fish courses.",
+                                "a charity/society/formal dinner"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "interpolated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ninterpolate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈtɜː.pə.leɪt"
+                            ],
+                            "us": [
+                                "ɪnˈtɝː.pə.leɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add something in the middle of a text, piece of music, etc.: ",
+                            "examples": [
+                                "In his adaptation of the script he interpolated the words \"tempus fugit\" and the translation \"time flies\".",
+                                "Coleridge-Taylor was keen on interpolating African-American spirituals into the classical music tradition."
+                            ]
+                        },
+                        {
+                            "explanation": "to add a number or item into the middle of a series, calculated based on the numbers or items before and after it: ",
+                            "examples": [
+                                "They use special software to intelligently interpolate the missing values.",
+                                "Additional jobs are evaluated and their monetary values for each factor interpolated into the scale. "
+                            ]
+                        },
+                        {
+                            "explanation": "to interrupt someone by saying something: ",
+                            "examples": [
+                                "\"How very odd to say all that!\" I interpolated."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

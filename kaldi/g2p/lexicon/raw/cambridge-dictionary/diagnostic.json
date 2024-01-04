@@ -1,0 +1,40 @@
+{
+    "word": "diagnostic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaɪ.əɡˈnɒs.tɪk"
+                            ],
+                            "us": [
+                                "ˌdaɪ.əɡˈnɑː.stɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "identifying a particular illness using a combination of signs and symptoms: ",
+                            "examples": [
+                                "a diagnostic test",
+                                "Jaundice is diagnostic of liver failure."
+                            ]
+                        },
+                        {
+                            "explanation": "used for making a judgment about what a particular problem is: ",
+                            "examples": [
+                                "The model is a useful diagnostic tool to determine what has the most impact on employees' performance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

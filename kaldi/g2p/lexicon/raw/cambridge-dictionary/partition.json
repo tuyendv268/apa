@@ -1,0 +1,69 @@
+{
+    "word": "partition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɑːˈtɪʃ.ən"
+                            ],
+                            "us": [
+                                "pɑːrˈtɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a vertical structure like a thin wall that separates one part of a room or building from another: ",
+                            "examples": [
+                                "The partitions between the toilets were very thin."
+                            ]
+                        },
+                        {
+                            "explanation": "the dividing of a country into separate countries or areas of government: ",
+                            "examples": [
+                                "The partition of India occurred in 1947."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pɑːˈtɪʃ.ən"
+                            ],
+                            "us": [
+                                "pɑːrˈtɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to divide one part of a room from another with a thin wall: ",
+                            "examples": [
+                                "Why don't you partition that large room into a lounge and a dining-room?"
+                            ]
+                        },
+                        {
+                            "explanation": "to divide a country into separate areas of government: ",
+                            "examples": [
+                                "Ireland was partitioned in 1921."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

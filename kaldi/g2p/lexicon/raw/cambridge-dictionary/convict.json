@@ -1,0 +1,57 @@
+{
+    "word": "convict",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈvɪkt"
+                            ],
+                            "us": [
+                                "kənˈvɪkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to decide officially in a law court that someone is guilty of a crime: ",
+                            "examples": [
+                                "He has twice been convicted of robbery/arson."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒn.vɪkt"
+                            ],
+                            "us": [
+                                "ˈkɑːn.vɪkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who is in prison because they are guilty of a crime: ",
+                            "examples": [
+                                "an escaped convict"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

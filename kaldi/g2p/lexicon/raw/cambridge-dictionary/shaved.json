@@ -1,0 +1,58 @@
+{
+    "word": "shaved",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nshave ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʃeɪv"
+                            ],
+                            "us": [
+                                "ʃeɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove hair from the body, especially a man's face, by cutting it close to the skin with a razor, so that the skin feels smooth: ",
+                            "examples": [
+                                "John has to shave twice a day.",
+                                "I always shave my legs in the shower.",
+                                "Do you shave under your arms?",
+                                "When my dad shaved his beard (off), he looked ten years younger."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

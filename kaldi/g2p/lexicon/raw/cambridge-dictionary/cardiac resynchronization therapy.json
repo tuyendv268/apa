@@ -1,0 +1,34 @@
+{
+    "word": "cardiac resynchronization therapy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɑː.di.æk riː.sɪŋ.krə.naɪˈzeɪ.ʃən ˌθer.ə.pi"
+                            ],
+                            "us": [
+                                "ˌkɑːr.di.æk riː.sɪŋ.krə.nəˈzeɪ.ʃən ˌθer.ə.pi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a treatment for heart failure using a pacemaker (= a device put into someone's chest to help the heart beat regularly): ",
+                            "examples": [
+                                "Cardiac resynchronisation therapy can be used when a patient's heart failure is caused by a time delay between the beating of the heart's two lower chambers.",
+                                "This type of treatment is called cardiac resynchronization therapy or CRT."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

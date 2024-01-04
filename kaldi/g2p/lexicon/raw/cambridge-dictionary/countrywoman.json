@@ -1,0 +1,41 @@
+{
+    "word": "countrywoman",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkʌn.triˌwʊm.ən"
+                            ],
+                            "us": [
+                                "ˈkʌn.triˌwʊm.ən"
+                            ],
+                            "uk_other_tense": [
+                                "ˈkʌn.triˌwɪm.ɪn"
+                            ],
+                            "us_other_tense": [
+                                "ˈkʌn.triˌwɪm.ɪn"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a woman from your own country: ",
+                            "examples": [
+                                "On the train I got into conversation with a fellow countrywoman."
+                            ]
+                        },
+                        {
+                            "explanation": "a woman who lives in or who comes from the countryside and not a town",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

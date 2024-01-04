@@ -1,0 +1,40 @@
+{
+    "word": "mizzen",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪz.ən"
+                            ],
+                            "us": [
+                                "ˈmɪz.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the mast (= a tall pole that supports the sails) behind a ship's mainmast (= the tallest and most important mast): ",
+                            "examples": [
+                                "The boat has a square sail on the mainmast and a triangular sail on the mizzen.",
+                                "There was no mistaking the skull and crossbones on the ship's mizzen mast."
+                            ]
+                        },
+                        {
+                            "explanation": "a sail on the mizzen mast of a ship: ",
+                            "examples": [
+                                "Hoist the mizzen!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

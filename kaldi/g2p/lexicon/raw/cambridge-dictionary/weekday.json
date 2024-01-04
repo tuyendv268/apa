@@ -1,0 +1,33 @@
+{
+    "word": "weekday",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwiːk.deɪ"
+                            ],
+                            "us": [
+                                "ˈwiːk.deɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any day of the week except Sunday and Saturday: ",
+                            "examples": [
+                                "On weekdays I'm usually in bed by ten o'clock."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

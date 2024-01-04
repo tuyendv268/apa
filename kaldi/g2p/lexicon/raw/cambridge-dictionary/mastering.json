@@ -1,0 +1,63 @@
+{
+    "word": "mastering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmaster ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɑː.stər"
+                            ],
+                            "us": [
+                                "ˈmæs.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to learn to control an emotion or feeling: ",
+                            "examples": [
+                                "I finally mastered my fear of flying."
+                            ]
+                        },
+                        {
+                            "explanation": "to learn how to do something well: ",
+                            "examples": [
+                                "to master a technique",
+                                "She lived in Italy for several years but never quite mastered the language.",
+                                "He quickly mastered the art of interviewing people."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

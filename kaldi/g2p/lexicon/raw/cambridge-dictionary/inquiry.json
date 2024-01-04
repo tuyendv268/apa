@@ -1,0 +1,41 @@
+{
+    "word": "inquiry",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈkwaɪə.ri"
+                            ],
+                            "us": [
+                                "ˈɪŋ.kwɚ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(the process of asking) a question: ",
+                            "examples": [
+                                "I've been making inquiries about/into the cost of a round-the-world ticket.",
+                                "Inquiry into the matter is pointless - no one will tell you anything."
+                            ]
+                        },
+                        {
+                            "explanation": "an official process to discover the facts about something bad that has happened: ",
+                            "examples": [
+                                "a judicial inquiry",
+                                "Citizens have demanded a full inquiry into the government's handling of the epidemic."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

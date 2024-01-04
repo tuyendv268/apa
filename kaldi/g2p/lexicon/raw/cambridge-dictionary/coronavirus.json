@@ -1,0 +1,41 @@
+{
+    "word": "coronavirus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəˈrəʊ.nəˌvaɪə.rəs"
+                            ],
+                            "us": [
+                                "kəˈroʊ.nəˌvaɪ.rəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of virus that causes diseases in humans and animals. In humans, it usually causes respiratory infections (= in the nose, throat, or chest) that are not serious, but can sometimes cause more serious infections that can kill people: ",
+                            "examples": [
+                                "SARS was a new strain of coronavirus. ",
+                                "Coronaviruses are thought to be the second most likely cause of sore throats, coughs, and sneezing."
+                            ]
+                        },
+                        {
+                            "explanation": "the infectious disease \nCovid-19 , caused by a particular coronavirus: ",
+                            "examples": [
+                                "She caught coronavirus at work.",
+                                "The government introduced travel restrictions in response to the coronavirus outbreak. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

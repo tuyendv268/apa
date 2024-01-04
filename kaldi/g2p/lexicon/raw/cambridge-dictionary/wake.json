@@ -1,0 +1,64 @@
+{
+    "word": "wake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "weɪk"
+                            ],
+                            "us": [
+                                "weɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "past tense"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause someone to) become awake and conscious after sleeping: ",
+                            "examples": [
+                                "Did you wake at all during the night?",
+                                "Please wake me early tomorrow.",
+                                "I woke up with a headache.",
+                                "Jane's hand on my shoulder woke me out of/from a bad dream."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "weɪk"
+                            ],
+                            "us": [
+                                "weɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the waves that a moving ship or object leaves behind: ",
+                            "examples": [
+                                "The wake spread out in a v-shape behind the ship."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when the family and friends of a dead person meet in order to look at the dead body the night before it is buried, or when they meet after a dead person has been buried to drink and talk about the person's life",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "word": "whoever",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "huːˈev.ər"
+                            ],
+                            "us": [
+                                "huːˈev.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the person who: ",
+                            "examples": [
+                                "Whoever uprooted that tree ought to be ashamed of themselves.",
+                                "Could I speak to whoever is in charge of International Sales, please?"
+                            ]
+                        },
+                        {
+                            "explanation": "any person who: ",
+                            "examples": [
+                                "Can whoever leaves last please lock the door?",
+                                "He says he bought the car from Frank, whoever Frank is. (= I do not know who Frank is.)"
+                            ]
+                        },
+                        {
+                            "explanation": "used in questions as a way of expressing surprise: ",
+                            "examples": [
+                                "Whoever told you that?",
+                                "Whoever could that be phoning at this time?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "uppercase",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌp.əˈkeɪs"
+                            ],
+                            "us": [
+                                "ˌʌp.ɚˈkeɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If letters are in uppercase, they are written as capitals: ",
+                            "examples": [
+                                "Typing an entire message in uppercase is considered equivalent to shouting.",
+                                "Your password should consist of a combination of numbers and letters (using both uppercase and lowercase).",
+                                "The terminal was set to use upper-case only.",
+                                "To change to upper case, press ESC + u. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌp.əˈkeɪs "
+                            ],
+                            "us": [
+                                "ˌʌp.ɚˈkeɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written as capital letters: ",
+                            "examples": [
+                                "uppercase letters",
+                                "The spell checker that I use won't catch the occasional upper-case letter that should be lower case.",
+                                "A collection of eight bits is called a byte, abbreviated with an uppercase B.",
+                                "Passwords should be a minimum of eight characters with at least one number, one upper case letter, two lower case letters, and one special character."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

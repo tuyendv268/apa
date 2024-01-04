@@ -1,0 +1,31 @@
+{
+    "word": "pop3",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "pɒpˈθriː"
+                            ],
+                            "us": [
+                                "ˈpɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for Post Office Protocol 3: a way of looking at and collecting emails from an Internet Service Provider",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

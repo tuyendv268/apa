@@ -1,0 +1,45 @@
+{
+    "word": "cheers",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "tʃɪəz"
+                            ],
+                            "us": [
+                                "tʃɪrz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a friendly expression said just before you drink an alcoholic drink: ",
+                            "examples": [
+                                "Cheers! Your good health."
+                            ]
+                        },
+                        {
+                            "explanation": "used to mean \"thank you\": ",
+                            "examples": [
+                                "\"I've saved you a seat.\" \"Cheers, mate.\""
+                            ]
+                        },
+                        {
+                            "explanation": "used to mean \"goodbye\": ",
+                            "examples": [
+                                "\"Bye.\" \"Cheers, see you next week.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "word": "shoo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "ʃuː"
+                            ],
+                            "us": [
+                                "ʃuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "said to animals or children to make them go away: ",
+                            "examples": [
+                                "\"Shoo!\" she shouted at the cat."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʃuː"
+                            ],
+                            "us": [
+                                "ʃuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make sounds and movements in order to send animals or children away: ",
+                            "examples": [
+                                "Go and shoo that cat away before it catches a bird."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

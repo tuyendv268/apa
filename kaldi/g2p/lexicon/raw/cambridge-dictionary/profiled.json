@@ -1,0 +1,63 @@
+{
+    "word": "profiled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nprofile ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈprəʊ.faɪl"
+                            ],
+                            "us": [
+                                "ˈproʊ.faɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to write or publish a short description of someone's life, work, character, etc.: ",
+                            "examples": [
+                                "Every week in the books section of the paper they profile a different author.",
+                                "This week we profile the 20-year-old singer-songwriter."
+                            ]
+                        },
+                        {
+                            "explanation": "to predict the likely behaviour or description of someone such as a customer or criminal, based on what information you have about them: ",
+                            "examples": [
+                                "Sales data can be used to profile customers' behaviour .",
+                                "He claims no officer would ever enforce the law by profiling a so-called \"type\" of person or people."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

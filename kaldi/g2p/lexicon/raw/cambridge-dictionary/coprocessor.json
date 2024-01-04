@@ -1,0 +1,35 @@
+{
+    "word": "coprocessor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkəʊˈprəʊ.ses.ər"
+                            ],
+                            "us": [
+                                "ˌkoʊˈprɑː.ses.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a computer processor (= a part of a computer that performs operations) that can be used together with the main processor, especially to do particular tasks: ",
+                            "examples": [
+                                "A maths coprocessor is highly desirable for large data sets.",
+                                "The machine also includes a graphics coprocessor. ",
+                                "On a device fitted with a co-processor, the calculation time is under 1 second."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

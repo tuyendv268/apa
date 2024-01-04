@@ -1,0 +1,68 @@
+{
+    "word": "vacation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "veɪˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "veɪˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a time when someone does not go to work or school but is free to do what they want, such as travel or relax: ",
+                            "examples": [
+                                "We're taking a vacation in June.",
+                                "They went to Europe on vacation.",
+                                "I've still got some vacation time left before the end of the year."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of the year when schools or colleges are closed, or when law courts do not operate: ",
+                            "examples": [
+                                "the Christmas/Easter/summer vacation",
+                                "the long vacation (= in the summer)"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "veɪˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "veɪˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to travel to a place in order to relax, when you are not at work or school: ",
+                            "examples": [
+                                "Remember that time we were vacationing in Vermont?",
+                                "Earlier this summer, the family vacationed in Austria.",
+                                "The town is popular with vacationing Americans."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

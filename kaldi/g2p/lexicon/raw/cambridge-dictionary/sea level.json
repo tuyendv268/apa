@@ -1,0 +1,33 @@
+{
+    "word": "sea level",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsiː ˌlev.əl"
+                            ],
+                            "us": [
+                                "ˈsiː ˌlev.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the average height of the sea where it meets the land: ",
+                            "examples": [
+                                "The top of Mount Everest is 8,848 m above sea level."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

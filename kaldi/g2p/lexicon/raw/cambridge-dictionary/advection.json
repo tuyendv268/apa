@@ -1,0 +1,33 @@
+{
+    "word": "advection",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ədˈvek.ʃən"
+                            ],
+                            "us": [
+                                "ədˈvek.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the transport of a substance or of heat by the flow of a liquid: ",
+                            "examples": [
+                                "Transport of pollutants in a river by bulk water flow downstream is an example of advection."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "word": "answering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nanswer ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑːn.sər"
+                            ],
+                            "us": [
+                                "ˈæn.sɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say, write, or do something as a reaction to a question, letter, etc.: ",
+                            "examples": [
+                                "I can't answer (you) without more detailed information.",
+                                "You haven't answered my question.",
+                                "I texted asking whether he'd be coming to the party but he hasn't answered yet.",
+                                "\"I'd love to have dinner with you, but I won't be able to get there before nine o'clock,\" she answered.",
+                                "She answered that she wouldn't be able to come before nine o'clock.",
+                                "Does anyone here answer to the name of (= is anyone here called) Wallis?"
+                            ]
+                        },
+                        {
+                            "explanation": "to open the door to someone or pick up the phone: ",
+                            "examples": [
+                                "Someone's at the door - would you answer it, please?",
+                                "I phoned last night but nobody answered."
+                            ]
+                        },
+                        {
+                            "explanation": "to be suitable for and satisfy someone's needs: ",
+                            "examples": [
+                                "He showed me some software that answered my requirements exactly.",
+                                "I've got some furniture in the attic that I think might answer your needs."
+                            ]
+                        },
+                        {
+                            "explanation": "to match a description: ",
+                            "examples": [
+                                "A woman who answers to the suspect's description was seen in the area on the night of the crime."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

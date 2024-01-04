@@ -1,0 +1,39 @@
+{
+    "word": "soothe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "suːð"
+                            ],
+                            "us": [
+                                "suːð"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone feel calm or less worried: ",
+                            "examples": [
+                                "to soothe a crying baby"
+                            ]
+                        },
+                        {
+                            "explanation": "to make a part of the body less painful: ",
+                            "examples": [
+                                "I had a long, hot bath to soothe my aching muscles."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

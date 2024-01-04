@@ -1,0 +1,47 @@
+{
+    "word": "dependency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈpen.dən.si"
+                            ],
+                            "us": [
+                                "dɪˈpen.dən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which you need something or someone and are unable to continue normally without them: ",
+                            "examples": [
+                                "Some parents infantilize young adults and keep them in a permanent state of dependency.",
+                                "We need to reduce our dependency on fossil fuels."
+                            ]
+                        },
+                        {
+                            "explanation": "an inability to stop doing something harmful, or using something harmful, especially a drug: ",
+                            "examples": [
+                                "Many of the people who come to the clinic have drug or alcohol dependencies.",
+                                "He wrote a memoir about his struggles with chemical dependency."
+                            ]
+                        },
+                        {
+                            "explanation": "a country that is supported and governed by another country: ",
+                            "examples": [
+                                "Saint Helena is a British dependency whose inhabitants have full UK citizenship."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

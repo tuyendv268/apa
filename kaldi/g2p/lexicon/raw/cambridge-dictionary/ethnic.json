@@ -1,0 +1,65 @@
+{
+    "word": "ethnic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈeθ.nɪk"
+                            ],
+                            "us": [
+                                "ˈeθ.nɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating or belonging to a group of people who can be seen as distinct (= different) because they have a shared culture, tradition, language, history, etc. : ",
+                            "examples": [
+                                "A question on ethnic origin was included in the census.",
+                                "They are the second largest ethnic group in Kenya.",
+                                "The factory's workforce reflects the ethnic mix from which it draws its labour.",
+                                "They are ethnic Hungarians (= whose families originally come from Hungary) living in Romania."
+                            ]
+                        },
+                        {
+                            "explanation": "seen as different or interesting because of coming from a culture or tradition that is not Western : ",
+                            "examples": [
+                                "ethnic food",
+                                "ethnic costume"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeθ.nɪk"
+                            ],
+                            "us": [
+                                "ˈeθ.nɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an offensive word for a person belonging to an ethnic minority (= a group of people living in a country where most people are from a different group)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

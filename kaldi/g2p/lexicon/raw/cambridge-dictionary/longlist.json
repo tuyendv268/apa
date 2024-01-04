@@ -1,0 +1,59 @@
+{
+    "word": "longlist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒŋ.lɪst"
+                            ],
+                            "us": [
+                                "ˈlɑːŋ.lɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of people, books, etc. being considered for a prize from which a shortlist (= a shorter list of those judged the most suitable) will be chosen: ",
+                            "examples": [
+                                "Only two small publishers are on the longlist this year.",
+                                "The longlist will be whittled down to four. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒŋ.lɪst"
+                            ],
+                            "us": [
+                                "ˈlɑːŋ.lɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to include a person, book, piece of music, etc. on a longlist: ",
+                            "examples": [
+                                "His first novel was longlisted for the Man Booker Prize.",
+                                "Longlisted charities will be contacted and asked to submit supplementary material."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

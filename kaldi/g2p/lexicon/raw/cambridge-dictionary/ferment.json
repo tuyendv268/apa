@@ -1,0 +1,59 @@
+{
+    "word": "ferment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fəˈment"
+                            ],
+                            "us": [
+                                "fɚˈment"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If food or drink ferments or if you ferment it, it goes through a chemical change because of the action of yeast or bacteria, which may cause it to produce bubbles or heat, or turn sugars in it into alcohol. : ",
+                            "examples": [
+                                "You make wine by leaving grape juice to ferment until all the sugar has turned to alcohol.",
+                                "Sauerkraut and kimchi are both essentially fermented cabbage."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɜː.ment"
+                            ],
+                            "us": [
+                                "ˈfɝː.ment"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a state of confusion, change, and lack of order or fighting: ",
+                            "examples": [
+                                "The late 1960s and the early years of the 1970s were a period of ferment in western societies.",
+                                "The resignation of the president has left the country in ferment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

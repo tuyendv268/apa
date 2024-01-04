@@ -1,0 +1,61 @@
+{
+    "word": "sculpting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsculpt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skʌlpt"
+                            ],
+                            "us": [
+                                "skʌlpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to create solid objects that represent a thing, person, idea, etc. out of a material such as wood, clay, metal, or stone: ",
+                            "examples": [
+                                "Johnny sculpted an old man's head out of wood."
+                            ]
+                        },
+                        {
+                            "explanation": "to form into a particular shape: ",
+                            "examples": [
+                                "The dripping water had sculpted strange shapes out of the rocks/sculpted the rocks into strange shapes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

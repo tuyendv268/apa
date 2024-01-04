@@ -1,0 +1,66 @@
+{
+    "word": "stammer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈstæm.ər"
+                            ],
+                            "us": [
+                                "ˈstæm.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak or say something with unusual pauses or repeated sounds, either because of speech problems or because of fear or nervousness : ",
+                            "examples": [
+                                "\"Wh-when can we g-go?\" she stammered.",
+                                "He dialled 999 and stammered (out) his name and address."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstæm.ər"
+                            ],
+                            "us": [
+                                "ˈstæm.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a speech problem in which someone speaks with unusual pauses or repeated sounds : ",
+                            "examples": [
+                                "Robert has a slight stammer.",
+                                "Speech lessons had corrected a childhood stammer."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of saying something with unusual paused or repeated sounds because of fear or nervousness: ",
+                            "examples": [
+                                "Although he said he felt calm, there was a slight stammer in his voice.",
+                                "She was a gangly girl of 15, all stammers and blushes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

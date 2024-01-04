@@ -1,0 +1,33 @@
+{
+    "word": "have to",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "auxiliary verb",
+                        "ipa": {
+                            "uk": [],
+                            "us": [
+                                "ˈhæf·tu"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [
+                                "hæs"
+                            ],
+                            "other_tense": "present tense"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(used with the infinitive form of another verb) to need to or be forced to; must: ",
+                            "examples": [
+                                "I have to go to Vermont tomorrow."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

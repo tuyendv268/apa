@@ -1,0 +1,47 @@
+{
+    "word": "staging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsteɪ.dʒɪŋ"
+                            ],
+                            "us": [
+                                "ˈsteɪ.dʒɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the performance of a play or show: ",
+                            "examples": [
+                                "The production is a modern staging of the fairy tale \"Cinderella\"."
+                            ]
+                        },
+                        {
+                            "explanation": "the activity of organizing an event: ",
+                            "examples": [
+                                "The agreement provides for the staging of three concerts each year for three years.",
+                                "He loves the razzamatazz that surrounds the staging of the US Open."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of finding out what stage of development a cancer is at: ",
+                            "examples": [
+                                "Cancer staging is used to assess the degree of spread of the cancer from its place of origin. ",
+                                "Their research will improve the diagnosis and staging of cancers. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

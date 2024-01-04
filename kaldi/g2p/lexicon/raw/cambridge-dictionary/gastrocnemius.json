@@ -1,0 +1,37 @@
+{
+    "word": "gastrocnemius",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɡæs.trəʊˈkniː.mi.əs"
+                            ],
+                            "us": [
+                                "ˌɡæs.troʊˈkniː.mi.əs"
+                            ],
+                            "uk_other_tense": [
+                                "ˌɡæs.trəʊˈkniː.mi.aɪ"
+                            ],
+                            "us_other_tense": [
+                                "ˌɡæs.troʊˈkniː.mi.aɪ"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the outer calf muscle that goes from the back of the knee to the heel: ",
+                            "examples": [
+                                "Leg cramps cause shortening of the gastrocnemius muscle in the calf."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

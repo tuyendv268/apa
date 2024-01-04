@@ -1,0 +1,51 @@
+{
+    "word": "hamburger",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæmˌbɜː.ɡər"
+                            ],
+                            "us": [
+                                "ˈhæmˌbɝː.ɡɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a round, flat piece of minced beef, fried and usually eaten between two halves of a bread roll",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "beef that is cut into very small pieces, used to make hamburgers",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a symbol consisting of three horizontal lines that you can touch or click on to see a menu, for example on a website or phone app: ",
+                            "examples": [
+                                "Every time I click on the hamburger the page scrolls to the top.",
+                                "The hamburger button is typically found in a top corner of a graphical user interface.",
+                                "If you’re designing a website, it’s usually recommended that you place hamburger icons in the top left corner of a page. ",
+                                "Click on the hamburger menu (three bars) in the top right corner."
+                            ]
+                        },
+                        {
+                            "explanation": "a road junction (= where roads come together) consisting of a main road that goes through the middle of a roundabout (= a junction where traffic must go around a circular area in the middle): ",
+                            "examples": [
+                                "The simplest of these road layouts is the hamburger, which ploughs a two-way road through a central island. ",
+                                "a hamburger junction/island/roundabout"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

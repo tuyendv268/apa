@@ -1,0 +1,40 @@
+{
+    "word": "natal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈneɪ.təl"
+                            ],
+                            "us": [
+                                "ˈneɪ.t̬əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to where a person or animal was born: ",
+                            "examples": [
+                                "her natal village/city/home",
+                                "These fish hardly move from their natal waters."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the birth of babies: ",
+                            "examples": [
+                                "Improvements in natal care have cut infant mortality."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

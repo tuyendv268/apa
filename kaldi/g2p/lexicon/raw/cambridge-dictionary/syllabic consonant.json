@@ -1,0 +1,33 @@
+{
+    "word": "syllabic consonant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɪˌlæb.ɪk ˈkɒn.sə.nənt"
+                            ],
+                            "us": [
+                                "sɪˌlæb.ɪk ˈkɑːn.sə.nənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a consonant that is a whole syllable: ",
+                            "examples": [
+                                "The /l/ at the end of \"bottle\" is a syllabic consonant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

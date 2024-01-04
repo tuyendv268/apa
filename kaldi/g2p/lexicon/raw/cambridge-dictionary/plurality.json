@@ -1,0 +1,49 @@
+{
+    "word": "plurality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "plʊəˈræl.ə.ti"
+                            ],
+                            "us": [
+                                "plʊˈræl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of being plural",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a large number of different types of something: ",
+                            "examples": [
+                                "There was a marked plurality of opinions/views among the people attending the meeting."
+                            ]
+                        },
+                        {
+                            "explanation": "to receive more votes in an election than any other person or party, but not more than the total number of votes that the other people or parties have received: ",
+                            "examples": [
+                                "He won a 48 percent plurality of the vote rather than an outright majority."
+                            ]
+                        },
+                        {
+                            "explanation": "the part of a group of people voting that is the largest part, but not larger than the total number of other people voting: ",
+                            "examples": [
+                                "A plurality of the population voted for change."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

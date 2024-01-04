@@ -1,0 +1,70 @@
+{
+    "word": "police",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəˈliːs"
+                            ],
+                            "us": [
+                                "pəˈliːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the official organization that is responsible for protecting people and property, making people obey the law, finding out about and solving crime, and catching people who have committed a crime: ",
+                            "examples": [
+                                "I think you should call the police.",
+                                "The police are investigating fraud allegations against him."
+                            ]
+                        },
+                        {
+                            "explanation": "members of this organization: ",
+                            "examples": [
+                                "There should be more police patrolling the area on foot."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pəˈliːs"
+                            ],
+                            "us": [
+                                "pəˈliːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to control or guard a public event or area by using members of the police or a similar force: ",
+                            "examples": [
+                                "The march will be heavily policed by an anti-riot unit."
+                            ]
+                        },
+                        {
+                            "explanation": "to control the way in which a possibly dangerous substance is dealt with or a dangerous activity is done: ",
+                            "examples": [
+                                "The use of these chemicals must be carefully policed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "golf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡɒlf"
+                            ],
+                            "us": [
+                                "ɡɑːlf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game played outside on grass in which each player tries to hit a small ball into a series of nine or 18 small holes, using a long, thin stick: ",
+                            "examples": [
+                                "We often play a round (= game) of golf at the weekend."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡɒlf"
+                            ],
+                            "us": [
+                                "ɡɑːlf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to play golf: ",
+                            "examples": [
+                                "He golfs and runs and works out at the gym.",
+                                "I learned to golf in Hilton Head."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

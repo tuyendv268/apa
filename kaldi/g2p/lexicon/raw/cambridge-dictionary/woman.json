@@ -1,0 +1,88 @@
+{
+    "word": "woman",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwʊm.ən"
+                            ],
+                            "us": [
+                                "ˈwʊm.ən"
+                            ],
+                            "uk_other_tense": [
+                                "ˈwɪm.ɪn"
+                            ],
+                            "us_other_tense": [
+                                "ˈwɪm.ɪn"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an adult female human being: ",
+                            "examples": [
+                                "She's a really nice woman.",
+                                "A woman and two men were arrested the day after the explosion.",
+                                "Women first got the vote in Britain in 1918.",
+                                "She is Ireland's first woman (= female) president."
+                            ]
+                        },
+                        {
+                            "explanation": "an adult who lives and identifies as female though they may have been said to have a different sex at birth: ",
+                            "examples": [
+                                "She was the first trans woman elected to a national office.",
+                                "Mary is a woman who was assigned male at birth."
+                            ]
+                        },
+                        {
+                            "explanation": "a wife or female sexual partner: ",
+                            "examples": [
+                                "Apparently, Jeff has a new woman."
+                            ]
+                        },
+                        {
+                            "explanation": "women in general: ",
+                            "examples": [
+                                "He is writing a book on the representation of woman in medieval art."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -wʊm.ən"
+                            ],
+                            "us": [
+                                " -wʊm.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form nouns describing certain types of women or women with certain jobs: ",
+                            "examples": [
+                                "an Englishwoman/Frenchwoman",
+                                "a chairwoman"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

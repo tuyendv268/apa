@@ -1,0 +1,41 @@
+{
+    "word": "social engineer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsəʊ.ʃəl ˌen.dʒɪˈnɪər"
+                            ],
+                            "us": [
+                                "ˌsoʊ.ʃəl ˌen.dʒɪˈnɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person, government, or organization that tries to control or change how a society develops: ",
+                            "examples": [
+                                "He says the government should not play social engineer.",
+                                "The politician was a social engineer who still believed that the state could change people's lives and behaviour for the better. "
+                            ]
+                        },
+                        {
+                            "explanation": "someone who tries to trick people into giving secret or personal information, especially on the internet, and uses it for harmful purposes: ",
+                            "examples": [
+                                "Predators are social engineers who will groom victims over months or years.",
+                                "Social engineers take advantage of human behaviour to pull off scams with the aim of infecting a user with malware, and stealing personal information or money. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

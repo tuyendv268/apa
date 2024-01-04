@@ -1,0 +1,48 @@
+{
+    "word": "front end",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfrʌnt ˌend"
+                            ],
+                            "us": [
+                                "ˈfrʌnt ˌend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of an object, place, or animal that is furthest from the back: ",
+                            "examples": [
+                                "The truck crashed into a wall, damaging its front end.",
+                                "Some people can't tell the front end of a horse from the back."
+                            ]
+                        },
+                        {
+                            "explanation": "the first part of a process, series of events, or period of time: ",
+                            "examples": [
+                                "We need a different kind of decision making at the front end of the process.",
+                                "Poor harvests may be the front end of climate change."
+                            ]
+                        },
+                        {
+                            "explanation": "the parts of a computer, piece of software, or website that are seen and directly used by the user: ",
+                            "examples": [
+                                "It is important to know how the back end and front end of computers interact with each other.",
+                                "Nokia chose Razorfish to design the front end of its first website."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

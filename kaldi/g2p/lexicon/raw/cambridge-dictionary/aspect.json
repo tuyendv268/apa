@@ -1,0 +1,59 @@
+{
+    "word": "aspect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæs.pekt"
+                            ],
+                            "us": [
+                                "ˈæs.pekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one part of a situation, problem, subject, etc.: ",
+                            "examples": [
+                                "Which aspects of the job do you most enjoy?",
+                                "His illness affects almost every aspect of his life.",
+                                "That's the most worrying aspect of the situation.",
+                                "Lighting is a vitally important aspect of filmmaking.",
+                                "Have you thought about the problem from every aspect?"
+                            ]
+                        },
+                        {
+                            "explanation": "the direction in which a building, window, room, or sloping field faces, or the view that can be seen because of this direction: ",
+                            "examples": [
+                                "The dining room has a southern aspect, which allows us to make the most of the sun."
+                            ]
+                        },
+                        {
+                            "explanation": "the appearance of a place, or the expression on a person's face: ",
+                            "examples": [
+                                "The glasses and the beard lend him a rather scholarly aspect."
+                            ]
+                        },
+                        {
+                            "explanation": "the form of a verb that shows how the meaning of that verb is considered in relation to time, typically expressing if an action is complete, repeated, or continuous",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a measurement of the width compared to the height of the picture on a TV or computer screen: ",
+                            "examples": [
+                                "A widescreen picture has an aspect ratio of 16:9."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

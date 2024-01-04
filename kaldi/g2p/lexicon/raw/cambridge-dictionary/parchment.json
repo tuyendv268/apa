@@ -1,0 +1,40 @@
+{
+    "word": "parchment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɑːtʃ.mənt"
+                            ],
+                            "us": [
+                                "ˈpɑːrtʃ.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the thin, dried skin of some animals that was used in the past for writing on, or a high-quality paper made to look like this: ",
+                            "examples": [
+                                "ancient parchment",
+                                "He'd been ill for a long time, and his skin was like parchment."
+                            ]
+                        },
+                        {
+                            "explanation": "a document written on parchment: ",
+                            "examples": [
+                                "A framed parchment hung on the wall."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "polar vortex",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpəoʊ.lə ˈvɔː.teks"
+                            ],
+                            "us": [
+                                "ˌpoʊ.lɚ ˈvɔːr.t̬eks"
+                            ],
+                            "uk_other_tense": [
+                                "ˌpəoʊ.lə ˈvɔː.tɪ.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˌpəoʊ.lɚ ˈvɔːr.t̬e.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area of low pressure and cold air that forms near the North or South Pole and is stronger in winter: ",
+                            "examples": [
+                                "Extremely low temperatures in the polar vortex lead to the formation of polar stratospheric clouds."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

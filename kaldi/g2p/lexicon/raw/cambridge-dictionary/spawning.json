@@ -1,0 +1,62 @@
+{
+    "word": "spawning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nspawn ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "spɔːn"
+                            ],
+                            "us": [
+                                "spɑːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause something new, or many new things, to grow or start suddenly: ",
+                            "examples": [
+                                "The new economic freedom has spawned hundreds of new small businesses.",
+                                "Her death spawned countless films and books."
+                            ]
+                        },
+                        {
+                            "explanation": "to produce eggs: ",
+                            "examples": [
+                                "The frogs haven't spawned yet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

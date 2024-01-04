@@ -1,0 +1,41 @@
+{
+    "word": "analgesia",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.əlˈdʒiː.zi.ə"
+                            ],
+                            "us": [
+                                "ˌæn.əlˈdʒiː.zi.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an inability to feel pain: ",
+                            "examples": [
+                                "Patients were monitored for postoperative analgesia.",
+                                "It could not have been predicted that the substance would produce analgesia."
+                            ]
+                        },
+                        {
+                            "explanation": "drugs that stop you from feeling pain: ",
+                            "examples": [
+                                "Addiction to analgesia is a common problem.",
+                                "We discussed why and how analgesia should be given in childbirth."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

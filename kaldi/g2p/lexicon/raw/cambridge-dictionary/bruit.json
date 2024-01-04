@@ -1,0 +1,58 @@
+{
+    "word": "bruit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bruːt"
+                            ],
+                            "us": [
+                                "bruːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to tell everyone a piece of news: ",
+                            "examples": [
+                                "It's been bruited about/abroad/around that he's going to leave the company."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bruːt"
+                            ],
+                            "us": [
+                                "bruːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a noise inside the body that is not normal, especially one that a doctor can hear using a stethoscope (= a piece of medical equipment for listening): ",
+                            "examples": [
+                                "On physical examination the thyroid gland is normal in size and there are no bruits audible.",
+                                "Listening with a stethoscope over a soft tissue mass can identify a bruit. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

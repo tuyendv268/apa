@@ -1,0 +1,62 @@
+{
+    "word": "yanking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nyank ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "jæŋk"
+                            ],
+                            "us": [
+                                "jæŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pull something forcefully with a quick movement: ",
+                            "examples": [
+                                "He tripped over the cord and yanked the plug out.",
+                                "She yanked open the cupboard door and everything fell out."
+                            ]
+                        },
+                        {
+                            "explanation": "to suddenly remove someone or something: ",
+                            "examples": [
+                                "I was yanked out of school and forced to go to work."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

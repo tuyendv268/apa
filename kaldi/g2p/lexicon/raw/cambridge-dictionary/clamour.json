@@ -1,0 +1,65 @@
+{
+    "word": "clamour",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈklæm.ər"
+                            ],
+                            "us": [
+                                "ˈklæm.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a loud complaint or demand: ",
+                            "examples": [
+                                "The children were all clamouring for attention.",
+                                "She clamours to go home as soon as she gets to school."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈklæm.ər"
+                            ],
+                            "us": [
+                                "ˈklæm.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a loud complaint about something or a demand for something: ",
+                            "examples": [
+                                "After the bombing, there was a public clamour for vengeance."
+                            ]
+                        },
+                        {
+                            "explanation": "loud noise, especially made by people's voices: ",
+                            "examples": [
+                                "the clamour of the city",
+                                "a clamour of voices"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

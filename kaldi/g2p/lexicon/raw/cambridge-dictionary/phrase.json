@@ -1,0 +1,65 @@
+{
+    "word": "phrase",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "freɪz"
+                            ],
+                            "us": [
+                                "freɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of words that is part of, rather than the whole of, a sentence",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a short group of words that are often used together and have a particular meaning: ",
+                            "examples": [
+                                "We are governed, in Lord Hailsham's famous phrase, by an \"elective dictatorship\"."
+                            ]
+                        },
+                        {
+                            "explanation": "a small group of notes forming a unit of a tune",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "freɪz"
+                            ],
+                            "us": [
+                                "freɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to express something with a particular choice of words: ",
+                            "examples": [
+                                "The declaration was carefully/cleverly/tactfully, etc. phrased."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

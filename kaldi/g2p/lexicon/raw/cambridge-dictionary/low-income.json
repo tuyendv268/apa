@@ -1,0 +1,42 @@
+{
+    "word": "low-income",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌləʊˈɪŋ.kʌm"
+                            ],
+                            "us": [
+                                "ˌloʊˈɪŋ.kʌm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "earning less money than most people: ",
+                            "examples": [
+                                "Many of her students come from low-income families.",
+                                "In the US, food stamps help low-income households buy food.",
+                                "Low income parents cannot usually afford childcare."
+                            ]
+                        },
+                        {
+                            "explanation": "for or relating to people who earn less money than most people: ",
+                            "examples": [
+                                "Families that live in low-income housing often cannot afford to pay for renovations.",
+                                "The US system grants several low income tax credits."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

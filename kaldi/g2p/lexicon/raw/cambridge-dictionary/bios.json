@@ -1,0 +1,34 @@
+{
+    "word": "bios",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.ɒs"
+                            ],
+                            "us": [
+                                "ˈbaɪ.oʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation of Basic Input-Output System: a computer's basic firmware (= a set of programs that form part of a computer) that operates every time it starts up: ",
+                            "examples": [
+                                "Computers using Intel processors with an out-of-date BIOS refused to function when turned on.",
+                                "I started the PC and hit the Delete key to go into the BIOS setup."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

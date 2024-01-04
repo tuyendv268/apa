@@ -1,0 +1,66 @@
+{
+    "word": "aimed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \naim ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "eɪm"
+                            ],
+                            "us": [
+                                "eɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to intend: ",
+                            "examples": [
+                                "I aim to be a millionaire by the time I'm 35.",
+                                "We are aiming for (= planning to achieve) a 50 percent share of the German market."
+                            ]
+                        },
+                        {
+                            "explanation": "to point or direct a weapon towards someone or something that you want to hit: ",
+                            "examples": [
+                                "Aim (the arrow) a little above the target.",
+                                "Aim at the yellow circle.",
+                                "There are hundreds of nuclear missiles aimed at the main cities.",
+                                "She aimed (= directed) a kick at my shins.",
+                                "Let's aim for (= go in the direction of) Coventry first, and then we'll have a look at the map."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

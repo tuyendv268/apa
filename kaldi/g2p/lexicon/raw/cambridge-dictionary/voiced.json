@@ -1,0 +1,61 @@
+{
+    "word": "voiced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "vɔɪst"
+                            ],
+                            "us": [
+                                "vɔɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a speech sound) produced by making the vocal cords move very quickly several times: ",
+                            "examples": [
+                                "Most vowels in most languages are voiced."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -vɔɪst"
+                            ],
+                            "us": [
+                                " -vɔɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having the type of voice mentioned: ",
+                            "examples": [
+                                "my loud-voiced friend, Roz"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

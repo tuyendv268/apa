@@ -1,0 +1,62 @@
+{
+    "word": "tensing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ntense ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tens"
+                            ],
+                            "us": [
+                                "tens"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If you or your muscles tense, your muscles become stiff and tight because you are frightened or nervous, or are preparing yourself to do something: ",
+                            "examples": [
+                                "Don't tense your shoulders, just relax.",
+                                "I could feel myself tense up as he touched my neck."
+                            ]
+                        },
+                        {
+                            "explanation": "very nervous and worried and unable to relax because of something that is going to happen: ",
+                            "examples": [
+                                "You seem all tensed up. Are you still waiting for that call?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "word": "pinyin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɪnˈjɪn"
+                            ],
+                            "us": [
+                                "ˈpɪn.jɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system for writing Mandarin Chinese in Roman letters rather than Chinese characters",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

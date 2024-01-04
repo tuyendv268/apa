@@ -1,0 +1,44 @@
+{
+    "word": "compass",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkʌm.pəs"
+                            ],
+                            "us": [
+                                "ˈkʌm.pəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device for finding direction with a needle that can move easily and that always points to magnetic north",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a V-shaped device that is used for drawing circles or measuring distances on maps: ",
+                            "examples": [
+                                "You will need sharp scissors, a ruler, and a pair of compasses for making circles."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular range (of ability, activity, interest, etc.): ",
+                            "examples": [
+                                "It's a musical instrument made of brass, somewhat like a cornet and with a similar compass.",
+                                "The discussion went beyond the compass of my brain."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

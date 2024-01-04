@@ -1,0 +1,42 @@
+{
+    "word": "sentiment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsen.tɪ.mənt"
+                            ],
+                            "us": [
+                                "ˈsen.t̬ə.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a thought, opinion, or idea based on a feeling about a situation, or a way of thinking about something: ",
+                            "examples": [
+                                "Nationalist sentiment has increased in the area since the bombing.",
+                                "I don't think she shares my sentiments.",
+                                "His son was overwhelmed by the sentiments of love and support in the cards and letters he received.",
+                                "\"It's a very bad situation.\" \"My sentiments exactly (= I completely agree).\""
+                            ]
+                        },
+                        {
+                            "explanation": "gentle feelings such as sympathy, love, etc., especially when considered to be silly or not suitable: ",
+                            "examples": [
+                                "The film is flawed by cloying sentiment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

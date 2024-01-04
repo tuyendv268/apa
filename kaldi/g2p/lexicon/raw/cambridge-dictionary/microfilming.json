@@ -1,0 +1,56 @@
+{
+    "word": "microfilming",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmicrofilm ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmaɪ.krəʊ.fɪlm"
+                            ],
+                            "us": [
+                                "ˈmaɪ.kroʊ.fɪlm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to photograph information in a reduced size, using microfilm: ",
+                            "examples": [
+                                "The paper records were microfilmed to save storage space.",
+                                "The collection was microfilmed, so anyone who wanted to see it had to go to the library and look at it on microfilm. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

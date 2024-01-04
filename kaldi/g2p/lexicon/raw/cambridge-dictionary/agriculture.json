@@ -1,0 +1,35 @@
+{
+    "word": "agriculture",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæɡ.rɪ.kʌl.tʃər"
+                            ],
+                            "us": [
+                                "ˈæɡ.rə.kʌl.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "farming: ",
+                            "examples": [
+                                "Agriculture is still largely based on traditional methods in some countries.",
+                                "The area depends on agriculture for most of its income.",
+                                "70 percent of the country's population practises subsistence agriculture."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

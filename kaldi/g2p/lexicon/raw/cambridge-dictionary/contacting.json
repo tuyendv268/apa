@@ -1,0 +1,63 @@
+{
+    "word": "contacting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncontact ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒn.tækt"
+                            ],
+                            "us": [
+                                "ˈkɑːn.tækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to communicate with someone by calling or sending them a letter, email, etc.: ",
+                            "examples": [
+                                "I tried to contact him at his office, but he wasn't in.",
+                                "You can contact me on (US also at) (= speak to me using the phone) 388 9146.",
+                                "Unless the money is paid, we will be contacting our legal department."
+                            ]
+                        },
+                        {
+                            "explanation": "to touch something: ",
+                            "examples": [
+                                "If the solution accidentally contacts the skin, rinse the affected area thoroughly with water."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

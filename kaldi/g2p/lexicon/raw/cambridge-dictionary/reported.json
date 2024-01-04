@@ -1,0 +1,40 @@
+{
+    "word": "reported",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈpɔː.tɪd"
+                            ],
+                            "us": [
+                                "rɪˈpɔːr.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "described by people although there is no proof yet: ",
+                            "examples": [
+                                "There has been a reported hijack in Tel Aviv this morning."
+                            ]
+                        },
+                        {
+                            "explanation": "formally mentioned to someone in authority, for example the police: ",
+                            "examples": [
+                                "The number of reported crimes has increased.",
+                                "There are over 55,000 reported cases of food poisoning every year."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

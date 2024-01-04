@@ -1,0 +1,36 @@
+{
+    "word": "biology",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "baɪˈɒl.ə.dʒi"
+                            ],
+                            "us": [
+                                "baɪˈɑː.lə.dʒi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the scientific study of the natural processes of living things: ",
+                            "examples": [
+                                "human biology",
+                                "marine biology",
+                                "molecular biology",
+                                "The book deals with the reproductive biology of the buffalo."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

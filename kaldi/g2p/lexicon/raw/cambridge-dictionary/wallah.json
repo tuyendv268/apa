@@ -1,0 +1,62 @@
+{
+    "word": "wallah",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɒl.ə"
+                            ],
+                            "us": [
+                                "ˈwɑː.lɑː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(in compounds) a person who has a particular duty: ",
+                            "examples": [
+                                "I made the tea yesterday so it's Mira's turn to be tea-wallah this afternoon.",
+                                "a rickshaw-wallah"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -wɒl.ə"
+                            ],
+                            "us": [
+                                " -wɑː.lɑː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "added to nouns to describe a person who has a particular duty or job, or with a particular appearance: ",
+                            "examples": [
+                                "a rickshawallah"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

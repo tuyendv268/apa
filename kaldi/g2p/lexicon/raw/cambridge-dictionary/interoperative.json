@@ -1,0 +1,41 @@
+{
+    "word": "interoperative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.tərˈɒp.ər.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˈɑː.pɚ.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "allowing two or more things to work at the same time, or consisting of two or more things that work at the same time: ",
+                            "examples": [
+                                "an integrated and interoperative system",
+                                "an interoperative network"
+                            ]
+                        },
+                        {
+                            "explanation": "happening between medical operations: ",
+                            "examples": [
+                                "an interoperative X-ray scan",
+                                "interoparative therapy"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

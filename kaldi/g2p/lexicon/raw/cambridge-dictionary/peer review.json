@@ -1,0 +1,62 @@
+{
+    "word": "peer review",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɪə rɪˈvjuː"
+                            ],
+                            "us": [
+                                "ˌpɪr rɪˈvjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of someone reading, checking, and giving his or her opinion about something that has been written by another scientist or expert working in the same subject area, or a piece of work in which this is done: ",
+                            "examples": [
+                                "All these papers have been published after being subjected to peer review."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɪə.rɪˈvjuː"
+                            ],
+                            "us": [
+                                "ˌpɪr.rɪˈvjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to read, check, and give your opinion about something that has been written by another scientist or expert working in the same subject area as you: ",
+                            "examples": [
+                                "The results had been peer-reviewed by five independent scientists in the same field.",
+                                "They provided six scientists to peer-review my work."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

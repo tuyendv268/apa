@@ -1,0 +1,43 @@
+{
+    "word": "starved",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "stɑːvd"
+                            ],
+                            "us": [
+                                "stɑːrvd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "very hungry",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "dangerously thin: ",
+                            "examples": [
+                                "The horse was found half-starved and suffering from neglect."
+                            ]
+                        },
+                        {
+                            "explanation": "to not have enough of something that is needed: ",
+                            "examples": [
+                                "People who are starved of sleep start to lose their concentration and may hallucinate."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

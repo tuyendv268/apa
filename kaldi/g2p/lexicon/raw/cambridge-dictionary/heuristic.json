@@ -1,0 +1,63 @@
+{
+    "word": "heuristic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "hjʊəˈrɪs.tɪk"
+                            ],
+                            "us": [
+                                "hjuːˈrɪs.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a method of teaching) allowing students to learn by discovering things themselves and learning from their own experiences rather than by telling them things",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "arriving at a solution by trying different actions to see if they produce the result that is wanted, rather than using strict rules: ",
+                            "examples": [
+                                "A genetic algorithm is a heuristic search that simulates the natural environment of biological and genetic evolution.",
+                                "Shaw introduced a heuristic randomized criterion for computing the forgotten set."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hjʊəˈrɪs.tɪk"
+                            ],
+                            "us": [
+                                "hjuːˈrɪs.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a heuristic process or method: ",
+                            "examples": [
+                                "This heuristic worked quite well.",
+                                "Heuristics were identified 659 times in the 24 individual protocols."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

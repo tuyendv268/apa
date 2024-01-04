@@ -1,0 +1,68 @@
+{
+    "word": "org",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɔːɡ"
+                            ],
+                            "us": [
+                                "ɔːrɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used at the end of internet addresses to show that the address belongs to a group or company that is not established to make a profit: ",
+                            "examples": [
+                                "dictionaries@cup.org"
+                            ]
+                        },
+                        {
+                            "explanation": "short for organization: ",
+                            "examples": [
+                                "In big orgs teams possibly use cloud apps when working across divisions. ",
+                                "It's the network structures that make an org work, and not the established hierarchy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "ˌdɒtˈɔːɡ"
+                            ],
+                            "us": [
+                                "ˌdɑːtˈɔːrɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for organization: used to show that an internet address belongs to an organization whose main purpose is not that it should produce a profit: ",
+                            "examples": [
+                                "You can search Cambridge dictionaries online at www.dictionary.cambridge.org."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

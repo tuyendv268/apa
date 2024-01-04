@@ -1,0 +1,40 @@
+{
+    "word": "lake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "leɪk"
+                            ],
+                            "us": [
+                                "leɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large area of water surrounded by land and not connected to the sea except by rivers or streams: ",
+                            "examples": [
+                                "We used to go boating on that lake.",
+                                "Lake Windermere"
+                            ]
+                        },
+                        {
+                            "explanation": "an amount of a liquid produced that is more than is needed, so that it has to be stored or wasted: ",
+                            "examples": [
+                                "Overproduction caused butter mountains and wine lakes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

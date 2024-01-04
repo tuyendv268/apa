@@ -1,0 +1,35 @@
+{
+    "word": "thesaurus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "θɪˈsɔː.rəs"
+                            ],
+                            "us": [
+                                "θɪˈsɔːr.əs"
+                            ],
+                            "uk_other_tense": [
+                                "θɪˈsɔː.raɪ"
+                            ],
+                            "us_other_tense": [
+                                "-ˈsɔːr.aɪ"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of dictionary in which words with similar meanings are arranged in groups",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

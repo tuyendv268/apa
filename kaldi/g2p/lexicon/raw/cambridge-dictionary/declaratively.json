@@ -1,0 +1,41 @@
+{
+    "word": "declaratively",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈklær.ə.tɪv.li"
+                            ],
+                            "us": [
+                                "dɪˈkler.ə.t̬ɪv.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that involves knowledge or facts: ",
+                            "examples": [
+                                "The men were confident, the women unsettled - some vaguely, some declaratively.",
+                                "Neither positive nor negative experiences are necessarily remembered declaratively."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that involves making an announcement about something, often one that is written and official: ",
+                            "examples": [
+                                "This is the moment where we can make that statement declaratively to the world.",
+                                "I'm in a very good position to say declaratively that this would be a huge mistake."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

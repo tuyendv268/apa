@@ -1,0 +1,66 @@
+{
+    "word": "drive-by",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈdraɪv.baɪ"
+                            ],
+                            "us": [
+                                "ˈdraɪv.baɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "done while driving past in a vehicle: ",
+                            "examples": [
+                                "a drive-by shooting",
+                                "In a drive-by valuation, the property is not entered, but observed from outside by a trained appraiser."
+                            ]
+                        },
+                        {
+                            "explanation": "done or said quickly, usually by someone who immediately goes somewhere else or does something else: ",
+                            "examples": [
+                                "We want to keep the comments on our site free of trolls, cranks, and drive-by commenters.",
+                                "A drive-by management style is about coming in and issuing demands, without bothering to provide details or context."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdraɪv.baɪ"
+                            ],
+                            "us": [
+                                "ˈdraɪv.baɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an attack done by someone while driving past the victim in a vehicle: ",
+                            "examples": [
+                                "His brother was gunned down in a drive-by.",
+                                "She had witnessed a driveby on her way to work."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

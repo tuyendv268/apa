@@ -1,0 +1,71 @@
+{
+    "word": "team",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tiːm"
+                            ],
+                            "us": [
+                                "tiːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number of people or animals who do something together as a group: ",
+                            "examples": [
+                                "a basketball/hockey/netball team",
+                                "a team of investigators",
+                                "Team GB (= the athletes representing Great Britain in a sport)"
+                            ]
+                        },
+                        {
+                            "explanation": "used in a number of phrases that refer to people working together as a group in order to achieve something: ",
+                            "examples": [
+                                "It was a real team effort - everyone contributed something to the success of the project."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a group of people who support a particular person or a particular point of view: ",
+                            "examples": [
+                                "In this discussion, we're on Team Marisa."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tiːm"
+                            ],
+                            "us": [
+                                "tiːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to act together to achieve something: ",
+                            "examples": [
+                                "Lang teamed with Draper to develop the vaccine."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

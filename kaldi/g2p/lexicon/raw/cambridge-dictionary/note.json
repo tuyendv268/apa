@@ -1,0 +1,108 @@
+{
+    "word": "note",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "nəʊt"
+                            ],
+                            "us": [
+                                "noʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short piece of writing: ",
+                            "examples": [
+                                "He left a note to say he would be home late.",
+                                "There's a note on the door saying when the shop will open again."
+                            ]
+                        },
+                        {
+                            "explanation": "a short explanation or an extra piece of information that is given at the bottom of a page, at the back of a book, etc.: ",
+                            "examples": [
+                                "For more information see Note 3."
+                            ]
+                        },
+                        {
+                            "explanation": "information written on paper: ",
+                            "examples": [
+                                "The wind blew my notes all over the room."
+                            ]
+                        },
+                        {
+                            "explanation": "a single sound at a particular level, usually in music, or a written symbol that represents this sound: ",
+                            "examples": [
+                                "high/low notes",
+                                "She played three long notes on the piano.",
+                                "The engine noise suddenly changed its note and rose to a whine."
+                            ]
+                        },
+                        {
+                            "explanation": "an emotion or a way of expressing something: ",
+                            "examples": [
+                                "There was a note of caution in her letter.",
+                                "His speech struck just the right note.",
+                                "The meeting ended on an optimistic note."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of paper money: ",
+                            "examples": [
+                                "a €20 note",
+                                "He took a wad of notes from his pocket."
+                            ]
+                        },
+                        {
+                            "explanation": "importance, or the fact that something deserves attention: ",
+                            "examples": [
+                                "There was nothing of note in the latest report."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "nəʊt"
+                            ],
+                            "us": [
+                                "noʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to notice something: ",
+                            "examples": [
+                                "They noted the consumers' growing demand for quicker service.",
+                                "Please note (that) we will be closed on Saturday.",
+                                "Note how easy it is to release the catch quickly."
+                            ]
+                        },
+                        {
+                            "explanation": "to give your attention to something by discussing it or making a written record of it: ",
+                            "examples": [
+                                "He said the weather was beyond our control, noting that last summer was one of the hottest on record.",
+                                "In the article, she notes several cases of medical incompetence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

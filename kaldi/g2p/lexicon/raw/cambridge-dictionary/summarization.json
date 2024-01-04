@@ -1,0 +1,34 @@
+{
+    "word": "summarization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsʌm.ər.aɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌsʌm.ɚ.əˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of expressing the most important facts or ideas about something or someone in a short and clear form, or a text in which these facts or ideas are expressed: ",
+                            "examples": [
+                                "automatic text summarization",
+                                "This summarization might help someone decide which investments best for you and your family."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

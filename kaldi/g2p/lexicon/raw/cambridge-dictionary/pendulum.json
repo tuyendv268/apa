@@ -1,0 +1,40 @@
+{
+    "word": "pendulum",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpen.dʒəl.əm"
+                            ],
+                            "us": [
+                                "ˈpen.dʒəl.əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device consisting of a weight on a stick or thread that moves from one side to the other, especially one that forms a part of some types of clocks: ",
+                            "examples": [
+                                "The pendulum in the grandfather clock swung back and forth.",
+                                "The spaceship's jets were fired periodically to dampen a side-to-side pendulum motion that had developed."
+                            ]
+                        },
+                        {
+                            "explanation": "a change, especially from one opinion to an opposite one: ",
+                            "examples": [
+                                "As so often in education, the pendulum has swung back to the other extreme and testing is popular again."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

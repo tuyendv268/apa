@@ -1,0 +1,62 @@
+{
+    "word": "censoring",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncensor ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsen.sər"
+                            ],
+                            "us": [
+                                "ˈsen.sɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to prevent part or the whole of a book, film, work of art, document, or other kind of communication from being seen or made available to the public, because it is considered to be offensive or harmful, or because it contains information that someone wishes to keep secret, often for political reasons: ",
+                            "examples": [
+                                "The book was heavily censored when first published.",
+                                "Is it possible to censor the internet?"
+                            ]
+                        },
+                        {
+                            "explanation": "to stop yourself from doing or saying things that you want to do or say, but that you know would be unsuitable: ",
+                            "examples": [
+                                "She is brutally frank, and doesn't censor herself in any way."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

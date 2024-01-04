@@ -1,0 +1,61 @@
+{
+    "word": "deprecated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndeprecate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdep.rə.keɪt"
+                            ],
+                            "us": [
+                                "ˈdep.rə.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to not approve of something or say that you do not approve of something: ",
+                            "examples": [
+                                "We deprecate this use of company funds for political purposes."
+                            ]
+                        },
+                        {
+                            "explanation": "to say that you think something is of little value or importance: ",
+                            "examples": [
+                                "He always deprecates my achievements."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

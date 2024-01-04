@@ -1,0 +1,73 @@
+{
+    "word": "founded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nfound ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "faʊnd"
+                            ],
+                            "us": [
+                                "faʊnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of\nfind ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to bring something into existence: ",
+                            "examples": [
+                                "Boston was founded in 1630 by Puritan colonists from England.",
+                                "She left a large sum of money in her will to found a wildlife sanctuary.",
+                                "We are planning a dinner to celebrate the 50th anniversary of the founding of the company."
+                            ]
+                        },
+                        {
+                            "explanation": "to build a support in the ground for a large structure such as a building or road",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to base a belief, claim, idea, etc. on something: ",
+                            "examples": [
+                                "Her lawyer accused the prosecution of founding its case on insufficient evidence.",
+                                "I'd like to see the research that these recommendations are founded on.",
+                                "a society founded on egalitarian principles"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

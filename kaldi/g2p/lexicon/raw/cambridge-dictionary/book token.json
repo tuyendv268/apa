@@ -1,0 +1,33 @@
+{
+    "word": "book token",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʊk ˌtəʊ.kən"
+                            ],
+                            "us": [
+                                "ˈbʊk ˌtoʊ.kən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a card worth a particular amount of money that is given as a present and can only be used to buy a book: ",
+                            "examples": [
+                                "a £10 book token"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

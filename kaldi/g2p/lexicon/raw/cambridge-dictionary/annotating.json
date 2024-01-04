@@ -1,0 +1,65 @@
+{
+    "word": "annotating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nannotate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæn.ə.teɪt"
+                            ],
+                            "us": [
+                                "ˈæn.ə.teɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add a short explanation or opinion to a text or image: ",
+                            "examples": [
+                                "Annotated editions of Shakespeare's plays help readers to understand old words.",
+                                "an annotated bibliography/manuscript/edition",
+                                "His great-granddaughter has painstakingly transcribed and annotated his wartime diaries.",
+                                "The students annotate their photos, saying why they are relevant."
+                            ]
+                        },
+                        {
+                            "explanation": "to add a description or piece of information to data, for example a label saying whether a word is a noun, a verb, etc.: ",
+                            "examples": [
+                                "After the corpus was collected we annotated it.",
+                                "Textual or numerical data can be copied into databases, annotated, and linked to other data."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

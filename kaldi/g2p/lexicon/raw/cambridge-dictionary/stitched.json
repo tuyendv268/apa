@@ -1,0 +1,62 @@
+{
+    "word": "stitched",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nstitch ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stɪtʃ"
+                            ],
+                            "us": [
+                                "stɪtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to sew two things together, or to repair something by sewing: ",
+                            "examples": [
+                                "This button needs to be stitched back onto my shirt.",
+                                "Stitch the pieces together along the fold."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a piece of clothing: ",
+                            "examples": [
+                                "I must discard these old shirts and stitch some before next summer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "synchronizing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsynchronize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪŋ.krə.naɪz"
+                            ],
+                            "us": [
+                                "ˈsɪŋ.krə.naɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause to) happen at the same time: ",
+                            "examples": [
+                                "The show was designed so that the lights synchronized with the music."
+                            ]
+                        },
+                        {
+                            "explanation": "When people synchronize their watches, they make sure that all their watches show the same time: ",
+                            "examples": [
+                                "We'd better synchronize our watches if we all want to be there at the same time."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

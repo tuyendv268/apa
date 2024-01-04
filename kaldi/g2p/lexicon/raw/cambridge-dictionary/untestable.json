@@ -1,0 +1,41 @@
+{
+    "word": "untestable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈtest.ə.bəl"
+                            ],
+                            "us": [
+                                "ʌnˈtest.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An untestable theory cannot be proved by testing: ",
+                            "examples": [
+                                "Astrology remains an untestable belief system.",
+                                "The theory has already drawn criticism from other scientists, who claim that it is untestable."
+                            ]
+                        },
+                        {
+                            "explanation": "not able to be tested: ",
+                            "examples": [
+                                "Researchers can now use partially degraded DNA recovered from previously untestable sources.",
+                                "Some of the children were deemed to be \"untestable\". "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

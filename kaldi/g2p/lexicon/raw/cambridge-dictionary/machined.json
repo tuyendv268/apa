@@ -1,0 +1,61 @@
+{
+    "word": "machined",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmachine ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "məˈʃiːn"
+                            ],
+                            "us": [
+                                "məˈʃiːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to sew cloth with a sewing machine: ",
+                            "examples": [
+                                "I've almost finished making the curtains - I just have to machine the hem."
+                            ]
+                        },
+                        {
+                            "explanation": "to cut or shape metal on a machine: ",
+                            "examples": [
+                                "Tungsten carbide tools are used extensively for machining steel."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

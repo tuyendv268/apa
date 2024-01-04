@@ -1,0 +1,51 @@
+{
+    "word": "shelf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʃelf"
+                            ],
+                            "us": [
+                                "ʃelf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, flat board fixed horizontally, usually against a wall or inside a cupboard so that objects can be stored on it: ",
+                            "examples": [
+                                "a glass shelf",
+                                "Store the remaining mixture on the top/bottom shelf of the refrigerator.",
+                                "One wall had shelves from floor to ceiling, crammed with books."
+                            ]
+                        },
+                        {
+                            "explanation": "a flat area of rock underwater or on a cliff",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If a product can be bought off the shelf, it does not need to be specially made or asked for: ",
+                            "examples": [
+                                "It's often cheaper if you buy wallpaper off the shelf, rather than having to order it."
+                            ]
+                        },
+                        {
+                            "explanation": "When a shop removes something from its shelves, that product stops being available for sale there: ",
+                            "examples": [
+                                "They considered removing tobacco from their shelves to combat high smoking rates among teens. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

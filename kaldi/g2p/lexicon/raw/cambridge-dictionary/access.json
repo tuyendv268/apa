@@ -1,0 +1,84 @@
+{
+    "word": "access",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.ses"
+                            ],
+                            "us": [
+                                "ˈæk.ses"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the method or possibility of getting near to a place or person: ",
+                            "examples": [
+                                "The only access to the village is by boat.",
+                                "The main access to (= entrance to) the building is at the side.",
+                                "The children's father was refused access to them at any time (= refused official permission to see them)."
+                            ]
+                        },
+                        {
+                            "explanation": "the right or opportunity to use or look at something: ",
+                            "examples": [
+                                "The system has been designed to give the user quick and easy access to the required information.",
+                                "We were able to gain access to the safe. ",
+                                "Hackers had complete access to the company files."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.ses"
+                            ],
+                            "us": [
+                                "ˈæk.ses"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be able to get to or get inside a place: ",
+                            "examples": [
+                                "It is too difficult for anyone using a wheelchair to access the building.",
+                                "Students need a card to access restricted areas such as residences and labs.",
+                                "The basement room is accessed from outside."
+                            ]
+                        },
+                        {
+                            "explanation": "to be able to use or obtain something such as a service: ",
+                            "examples": [
+                                "Older people may have difficulty accessing medical services.",
+                                "It needs to be easier for small businesses to access government resources and advice."
+                            ]
+                        },
+                        {
+                            "explanation": "to open a computer file, a website, etc. in order to look at or change information in it: ",
+                            "examples": [
+                                "Most people use their phones to access the internet. ",
+                                "You have to enter a password to access the database.",
+                                "A hacker remotely accessed the company's servers (= was able to look at information stored on the company's servers using a computer located in a different place)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

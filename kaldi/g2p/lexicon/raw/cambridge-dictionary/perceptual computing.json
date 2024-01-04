@@ -1,0 +1,29 @@
+{
+    "word": "perceptual computing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "computer technology in which a computer can recognize the enviroment its user is in, what the user's needs are, what actions to perform, etc. without the user having to provide the information or give detailed instructions : ",
+                            "examples": [
+                                "An example of perceptual computing might be: if I am in my car and need to make a phone call, the car computer will know that the number will have to be retrieved and dialled, and also that the call will have to be hands-free. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

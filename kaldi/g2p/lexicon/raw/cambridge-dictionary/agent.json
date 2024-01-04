@@ -1,0 +1,52 @@
+{
+    "word": "agent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeɪ.dʒənt"
+                            ],
+                            "us": [
+                                "ˈeɪ.dʒənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who acts for or represents another: ",
+                            "examples": [
+                                "Please contact our agent in Spain for further information."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who represents an actor, artist, or writer",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "someone who works secretly for the government or other organization: ",
+                            "examples": [
+                                "a secret/foreign agent"
+                            ]
+                        },
+                        {
+                            "explanation": "a person or thing that produces a particular effect or change: ",
+                            "examples": [
+                                "a powerful cleaning agent",
+                                "a raising agent for cakes",
+                                "a clotting agent",
+                                "He was the agent of their destruction."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

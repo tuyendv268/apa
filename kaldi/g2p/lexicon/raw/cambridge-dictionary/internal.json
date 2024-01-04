@@ -1,0 +1,61 @@
+{
+    "word": "internal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈtɜː.nəl"
+                            ],
+                            "us": [
+                                "ɪnˈtɝː.nəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "inside the body: ",
+                            "examples": [
+                                "He sustained injuries to his arms, legs, and several internal organs."
+                            ]
+                        },
+                        {
+                            "explanation": "inside a person's mind: ",
+                            "examples": [
+                                "The internal struggle with his conscience continued.",
+                                "She didn't want to be left alone with her dark internal thoughts."
+                            ]
+                        },
+                        {
+                            "explanation": "inside an object or building: ",
+                            "examples": [
+                                "Temperature is an indication of an object's internal energy level.",
+                                "An internal wall has been removed."
+                            ]
+                        },
+                        {
+                            "explanation": "within an organization: ",
+                            "examples": [
+                                "The bank conducted its own internal investigation into the robbery.",
+                                "This memo is for internal consumption only."
+                            ]
+                        },
+                        {
+                            "explanation": "within a country: ",
+                            "examples": [
+                                "The government warned its neighbours not to interfere in its internal affairs.",
+                                "Handguns, rifles, and grenades are the primary weapons used in internal conflicts from Asia to Africa."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

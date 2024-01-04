@@ -1,0 +1,34 @@
+{
+    "word": "line break",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlaɪn ˌbreɪk"
+                            ],
+                            "us": [
+                                "ˈlaɪn ˌbreɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the point where a line of text ends and a new line starts: ",
+                            "examples": [
+                                "All line breaks and paragraphs will be generated automatically.",
+                                "It wasn't the end of the paragraph, only a line break."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "cleaner",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkliː.nər"
+                            ],
+                            "us": [
+                                "ˈkliː.nɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person whose job is to clean houses, offices, public places, etc.: ",
+                            "examples": [
+                                "Chris has an evening job as an office cleaner."
+                            ]
+                        },
+                        {
+                            "explanation": "a substance used for cleaning things: ",
+                            "examples": [
+                                "We've run out of floor cleaner."
+                            ]
+                        },
+                        {
+                            "explanation": "a shop where clothes that cannot be washed in an ordinary washing machine are cleaned: ",
+                            "examples": [
+                                "Could you pick up my suit from the cleaner's for me, please?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

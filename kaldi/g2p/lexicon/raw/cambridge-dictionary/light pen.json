@@ -1,0 +1,40 @@
+{
+    "word": "light pen",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlaɪt ˌpen"
+                            ],
+                            "us": [
+                                "ˈlaɪt ˌpen"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pen-shaped device for making lines, writing, etc. appear on a computer screen: ",
+                            "examples": [
+                                "You can draw on the tablet screen using a light pen.",
+                                "The pad uses a lightpen to \"write\" data directly onto the screen."
+                            ]
+                        },
+                        {
+                            "explanation": "a pen-shaped device used for reading bar codes: ",
+                            "examples": [
+                                "You access the system simply by moving a light pen across the bar code."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

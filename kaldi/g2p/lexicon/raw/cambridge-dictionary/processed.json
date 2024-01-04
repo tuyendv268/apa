@@ -1,0 +1,50 @@
+{
+    "word": "processed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈprəʊ.sest"
+                            ],
+                            "us": [
+                                "ˈprɑː.sest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having had some sort of chemical or industrial treatment in order to preserve it, make it safe, or change its taste or appearance: ",
+                            "examples": [
+                                "I eat lots of fresh fruit and vegetables, and no processed food apart from smoked salmon or ham.",
+                                "processed cheese/meat",
+                                "Globally, 180 million pounds of processed uranium are consumed each year by nuclear power plants.",
+                                "The processed yarn is then turned into fabric."
+                            ]
+                        },
+                        {
+                            "explanation": "(of information) having had a series of operations performed on it by computer: ",
+                            "examples": [
+                                "Raw or processed data may be transmitted to a centralized station for full analysis.",
+                                "The processed files are saved to a new, user-specified directory."
+                            ]
+                        },
+                        {
+                            "explanation": "(of documents) having been dealt with in an official way: ",
+                            "examples": [
+                                "Only one percent of the processed claims were approved.",
+                                "Of 80 processed applications, the mean processing time was 46 days."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

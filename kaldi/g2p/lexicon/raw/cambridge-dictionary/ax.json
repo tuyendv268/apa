@@ -1,0 +1,60 @@
+{
+    "word": "ax",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [
+                                "æks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tool consisting of a heavy iron or steel blade at the end of a long wooden handle, used for cutting wood",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "The ax is the order to give up your job or to stop or prevent something from happening: ",
+                            "examples": [
+                                "Three staff members got the ax yesterday.",
+                                "If the budget is cut, educational programs will get the ax.",
+                                "Everyone is scared to death wondering where the ax will fall next."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [],
+                            "us": [
+                                "æks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to order someone suddenly to give up a job, or to stop or reduce something suddenly: ",
+                            "examples": [
+                                "The company has already axed 14 people, and many more may lose their jobs.",
+                                "Yesterday the airline axed three of its daily flights to Chicago."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

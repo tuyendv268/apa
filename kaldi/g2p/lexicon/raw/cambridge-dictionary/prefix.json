@@ -1,0 +1,125 @@
+{
+    "word": "prefix",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpriː.fɪks",
+                                "ˈpref.ɪks"
+                            ],
+                            "us": [
+                                "ˈpriː.fɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a letter or group of letters added to the beginning of a word to make a new word: ",
+                            "examples": [
+                                "In the word \"unimportant\", \"un-\" is a prefix.",
+                                "A suffix is added at the end of a word, and a prefix is added to the beginning.",
+                                "\"Eco-\" is a prefix used to mean 'relating to the environment'"
+                            ]
+                        },
+                        {
+                            "explanation": "a word added to the beginning of a name, for example of a company or an event: ",
+                            "examples": [
+                                "The group will use the Marston's prefix on all three of its trading divisions and will put the name on all pub signs.",
+                                "The festival adopted the Hydro prefix in reference to its partnership with Scottish Hydro Electric, a renewable energy company."
+                            ]
+                        },
+                        {
+                            "explanation": "a number added to the beginning of a phone number, either used when calling someone outside your town or country or as a way of making the caller pay for or not pay for the call : ",
+                            "examples": [
+                                "From the UK, add the prefix 00 33 1 to phone numbers.",
+                                "Every phone number in town begins with the same three-digit prefix: 445.",
+                                "Many people trying to call numbers with 0345, 0845 or 0800 prefixes were unable to get through for several hours"
+                            ]
+                        },
+                        {
+                            "explanation": "a group of numbers, letters, or symbols added to the beginning of an internet address or piece of computer code : ",
+                            "examples": [
+                                "Not all Web server names use the www prefix. ",
+                                "Often, the prefix that you use to install the software affects the contents of the files that actually get installed.",
+                                "Each VPN needs its own set of prefixes."
+                            ]
+                        },
+                        {
+                            "explanation": "a word or phrase that is often said before something, for example to describe it: ",
+                            "examples": [
+                                "The term “beleaguered” seems to be permanently attached as a prefix to the company’s name."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpriː.fɪks",
+                                "ˈpref.ɪks"
+                            ],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add a letter or group of letters to the beginning of a word to make a new word: ",
+                            "examples": [
+                                "Many German participles are prefixed with ge- .",
+                                "This word is usually prefixed to an adjective."
+                            ]
+                        },
+                        {
+                            "explanation": "to add a number to the beginning of a phone number, especially when calling someone outside your town or country: ",
+                            "examples": [
+                                "To phone countries outside the US, you prefix the country code with 011.",
+                                "The subscriber can dial trunk calls direct by prefixing the STD number to the number they wish to call.",
+                                "Numbers prefixed by 020 are all toll-free."
+                            ]
+                        },
+                        {
+                            "explanation": "to add a group numbers, letters, or symbols to the beginning of an internet address or piece of computer code: ",
+                            "examples": [
+                                "Wherever such XML elements appear, they are prefixed with the letters DAV. ",
+                                "Usually drivers are prefixed with V (for version)."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a word) to come before or at the beginning of a name: ",
+                            "examples": [
+                                "\"Wheal\", the Cornish word for workplace, prefixes the names of all the county's mines.",
+                                "The fact that a brand name now prefixes the location shows that it is owned by a very specific corporate body."
+                            ]
+                        },
+                        {
+                            "explanation": "to say a word before the name of someone or something, for example to describe them or it: ",
+                            "examples": [
+                                "At that time, artists were often prefixed by the word \"struggling\".",
+                                "The town is usually prefixed by the word \"sleepy\"."
+                            ]
+                        },
+                        {
+                            "explanation": "to add something before another thing: ",
+                            "examples": [
+                                "I prefixed my preface to the translation.",
+                                "Each document is prefixed by a helpful few lines of context."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

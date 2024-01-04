@@ -1,0 +1,72 @@
+{
+    "word": "cache",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kæʃ"
+                            ],
+                            "us": [
+                                "kæʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a hidden store of things, or the place where they are kept: ",
+                            "examples": [
+                                "an arms cache",
+                                "a cache of explosives/weapons/drugs"
+                            ]
+                        },
+                        {
+                            "explanation": "an area or type of computer memory in which information that is often in use can be stored temporarily and got to especially quickly: ",
+                            "examples": [
+                                "256 Kb secondary cache"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kæʃ"
+                            ],
+                            "us": [
+                                "kæʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put something in a hidden or safe store: ",
+                            "examples": [
+                                "We have supplies cached at sites all over the country.",
+                                "The squirrels pull off the cones and drop them to the ground, then collect and cache them for winter."
+                            ]
+                        },
+                        {
+                            "explanation": "to store information in a cache (= a type of computer memory for storing information temporarily and getting to it quickly): ",
+                            "examples": [
+                                "Links to cached pages are listed as well as links to live web pages. ",
+                                "Most service providers improve customer response times by caching."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

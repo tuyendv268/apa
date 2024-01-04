@@ -1,0 +1,40 @@
+{
+    "word": "grandad",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡræn.dæd"
+                            ],
+                            "us": [
+                                "ˈɡræn.dæd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a grandfather: ",
+                            "examples": [
+                                "My grandad was a coal miner.",
+                                "Do you want a cup of tea, Grandad?"
+                            ]
+                        },
+                        {
+                            "explanation": "used rudely or humorously to address an old man: ",
+                            "examples": [
+                                "Come on, grandad!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

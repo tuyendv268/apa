@@ -1,0 +1,42 @@
+{
+    "word": "drawdown",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdrɔː.daʊn"
+                            ],
+                            "us": [
+                                "ˈdrɑː.daʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which someone takes an amount of money that has been made available: ",
+                            "examples": [
+                                "There was no record of a drawdown of funds from the account.",
+                                "The assembly approved a $400 million drawdown from the state's emergency fund.",
+                                "The income drawdown plan allows you to keep your fund invested in the stock market after retirement while you draw an annual income from it."
+                            ]
+                        },
+                        {
+                            "explanation": "a planned reduction in the number of soldiers in an area: ",
+                            "examples": [
+                                "There is likely to be a phased drawdown of US forces. ",
+                                "Some level of troop drawdown is expected because of the strain on military reserves."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

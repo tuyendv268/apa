@@ -1,0 +1,59 @@
+{
+    "word": "vape",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "veɪp"
+                            ],
+                            "us": [
+                                "veɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to breathe in nicotine (= the drug found in tobacco) or another drug as vapour rather than as smoke, especially using an e-cigarette: ",
+                            "examples": [
+                                "Rather than start vaping, you should give up smoking altogether."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "veɪp"
+                            ],
+                            "us": [
+                                "veɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of breathing in nicotine (= the drug found in tobacco) or another drug as vapour rather than as smoke, especially using an e-cigarette",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a device for breathing in nicotine (= the drug found in tobacco) or another drug as vapour rather than as smoke",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

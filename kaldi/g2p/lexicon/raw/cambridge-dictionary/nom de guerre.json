@@ -1,0 +1,33 @@
+{
+    "word": "nom de guerre",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒm.dəˈɡeər"
+                            ],
+                            "us": [
+                                "ˌnɑːm.dəˈɡer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a name chosen by someone to use when he or she is involved in a particular activity, especially fighting in a war: ",
+                            "examples": [
+                                "Pol Pot was not his real name, but a nom de guerre adopted in the 1970s."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

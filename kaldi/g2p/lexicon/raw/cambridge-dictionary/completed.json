@@ -1,0 +1,71 @@
+{
+    "word": "completed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncomplete ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpliːt"
+                            ],
+                            "us": [
+                                "kəmˈpliːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make whole or perfect: ",
+                            "examples": [
+                                "Complete the sentence with one of the adjectives provided.",
+                                "He only needs two more cards to complete the set.",
+                                "All she needed to complete her happiness was a baby."
+                            ]
+                        },
+                        {
+                            "explanation": "to write all the details asked for on a form or other document: ",
+                            "examples": [
+                                "Have you completed your application form yet?"
+                            ]
+                        },
+                        {
+                            "explanation": "to finish doing something: ",
+                            "examples": [
+                                "He's just completed filming his 17th feature film.",
+                                "The palace took over 20 years to complete.",
+                                "She will complete her studies in France."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

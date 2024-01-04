@@ -1,0 +1,70 @@
+{
+    "word": "tasted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntaste ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "teɪst"
+                            ],
+                            "us": [
+                                "teɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put food or drink in your mouth to find out what flavour it has: ",
+                            "examples": [
+                                "Taste this sauce and tell me if it needs seasoning.",
+                                "What is this? I've never tasted anything like it."
+                            ]
+                        },
+                        {
+                            "explanation": "to have a particular flavour: ",
+                            "examples": [
+                                "This sauce tastes strange.",
+                                "This coffee tastes like dishwater!",
+                                "The bread tastes of onions."
+                            ]
+                        },
+                        {
+                            "explanation": "to experience something for a short time: ",
+                            "examples": [
+                                "Once you've tasted luxury it's very hard to settle for anything else."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

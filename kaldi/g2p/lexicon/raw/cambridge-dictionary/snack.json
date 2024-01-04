@@ -1,0 +1,67 @@
+{
+    "word": "snack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "snæk"
+                            ],
+                            "us": [
+                                "snæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small amount of food that is eaten between meals, or a very small meal: ",
+                            "examples": [
+                                "I had a huge lunch, so I'll only need a snack for dinner.",
+                                "Fresh or dried fruit makes an ideal snack.",
+                                "Many snack foods are high in salt, sugar, and fat."
+                            ]
+                        },
+                        {
+                            "explanation": "an attractive person: ",
+                            "examples": [
+                                "Vinny is such a snack.",
+                                "I'm stuck between wanting to look like a snack and eating a snack."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "snæk"
+                            ],
+                            "us": [
+                                "snæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to eat small amounts of food between meals: ",
+                            "examples": [
+                                "I've been snacking all day.",
+                                "If you eat three good meals a day, you're less likely to snack on biscuits."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

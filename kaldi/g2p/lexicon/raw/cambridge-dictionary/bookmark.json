@@ -1,0 +1,61 @@
+{
+    "word": "bookmark",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʊk.mɑːk"
+                            ],
+                            "us": [
+                                "ˈbʊk.mɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of thick paper, leather, or plastic that you put between the pages of a book so that you can find a page again quickly",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the address of a web page that is kept on your computer so that you can find it again easily: ",
+                            "examples": [
+                                "Keep this site as a bookmark."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʊk.mɑːk"
+                            ],
+                            "us": [
+                                "ˈbʊk.mɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a record of the address of a web page on your computer so that you can find it again easily: ",
+                            "examples": [
+                                "Don't forget to bookmark this page."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

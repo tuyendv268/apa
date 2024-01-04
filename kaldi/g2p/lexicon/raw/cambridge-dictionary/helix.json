@@ -1,0 +1,41 @@
+{
+    "word": "helix",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhiː.lɪks"
+                            ],
+                            "us": [
+                                "ˈhiː.lɪks"
+                            ],
+                            "uk_other_tense": [
+                                "ˈhiː.lɪ.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˈhiː.lɪ.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a curve that goes around a central tube or cone shape in the form of a spiral",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the curved edge around the top of the outer ear : ",
+                            "examples": [
+                                "The helix is a popular site for ear piercings."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

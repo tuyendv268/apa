@@ -1,0 +1,65 @@
+{
+    "word": "transplant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trænˈsplɑːnt"
+                            ],
+                            "us": [
+                                "trænˈsplænt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move something, or to be moved, from one place or person to another: ",
+                            "examples": [
+                                "The plants should be grown indoors until spring, when they can be transplanted outside."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtræn.splɑːnt"
+                            ],
+                            "us": [
+                                "ˈtræn.splænt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a medical operation in which a new organ is put into someone's body: ",
+                            "examples": [
+                                "a liver/kidney transplant",
+                                "transplant surgery",
+                                "He had a heart transplant (= doctors gave him a different, healthier heart instead of his old one)."
+                            ]
+                        },
+                        {
+                            "explanation": "something, especially a new organ, that has been transplanted: ",
+                            "examples": [
+                                "His body accepted/rejected the transplant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

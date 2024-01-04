@@ -1,0 +1,95 @@
+{
+    "word": "address",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈdres"
+                            ],
+                            "us": [
+                                "ˈæd.res"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number of the house, name of the road, and name of the town where a person lives or works, and where letters can be sent: ",
+                            "examples": [
+                                "her business/home address",
+                                "a change of address"
+                            ]
+                        },
+                        {
+                            "explanation": "a place where someone lives: ",
+                            "examples": [
+                                "Police searched an address in North London in connection with a drugs arrest."
+                            ]
+                        },
+                        {
+                            "explanation": "a series of letters and symbols that tell you where to find something on the internet or show where an email is sent to: ",
+                            "examples": [
+                                "What's your email address?",
+                                "Do you have their Web address?"
+                            ]
+                        },
+                        {
+                            "explanation": "the place where a piece of information is stored in a computer's memory",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a formal speech: ",
+                            "examples": [
+                                "She gave an address to the Royal Academy."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈdres"
+                            ],
+                            "us": [
+                                "əˈdres"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak or write to someone: ",
+                            "examples": [
+                                "He addressed a few introductory remarks to the audience.",
+                                "He likes to be addressed as \"Sir\" or \"Mr Partridge\"."
+                            ]
+                        },
+                        {
+                            "explanation": "to give attention to or deal with a matter or problem: ",
+                            "examples": [
+                                "The issue of funding has yet to be addressed."
+                            ]
+                        },
+                        {
+                            "explanation": "to write a name or address on an envelope or parcel: ",
+                            "examples": [
+                                "The parcel was wrongly addressed.",
+                                "So why did you open a letter that was addressed to me?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "cooked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "kʊkt"
+                            ],
+                            "us": [
+                                "kʊkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Cooked food has been prepared by heating: ",
+                            "examples": [
+                                "cooked meat/vegetables",
+                                "I don't think the chicken is completely cooked."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

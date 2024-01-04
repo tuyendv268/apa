@@ -1,0 +1,63 @@
+{
+    "word": "emphasized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nemphasize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈem.fə.saɪz"
+                            ],
+                            "us": [
+                                "ˈem.fə.saɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to show that something is very important or worth giving attention to: ",
+                            "examples": [
+                                "I'd just like to emphasize how important it is for people to learn foreign languages.",
+                                "He emphasized that all the people taking part in the research were volunteers.",
+                                "You can use italics or capitals to emphasize a word in a piece of writing."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something more obvious: ",
+                            "examples": [
+                                "A good way to emphasize your interest in the job is to write a follow-up email after the interview."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

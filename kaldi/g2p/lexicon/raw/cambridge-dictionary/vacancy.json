@@ -1,0 +1,41 @@
+{
+    "word": "vacancy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈveɪ.kən.si"
+                            ],
+                            "us": [
+                                "ˈveɪ.kən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a space or place that is available to be used: ",
+                            "examples": [
+                                "We wanted to book a hotel room in July but there were no vacancies.",
+                                "The dentist can't see you today but she has a vacancy tomorrow morning.",
+                                "There are still some vacancies for students in science and engineering, but the vacancies in humanities have been filled."
+                            ]
+                        },
+                        {
+                            "explanation": "a job that no one is doing and is therefore available for someone new to do: ",
+                            "examples": [
+                                "There is a vacancy for a shop assistant on Saturdays."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "checkout",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʃek.aʊt"
+                            ],
+                            "us": [
+                                "ˈtʃek.aʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the place in a shop, especially a large food shop, where you pay for your goods: ",
+                            "examples": [
+                                "Your fruit and vegetables will be weighed at the checkout.",
+                                "She works on the checkout at the local supermarket."
+                            ]
+                        },
+                        {
+                            "explanation": "the place on a website where you order and pay for goods: ",
+                            "examples": [
+                                "Choose your CD-ROMs and proceed to checkout."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

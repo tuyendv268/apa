@@ -1,0 +1,62 @@
+{
+    "word": "greek",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɡriːk"
+                            ],
+                            "us": [
+                                "ɡriːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or relating to Greece, its people, or its language: ",
+                            "examples": [
+                                "Greek history/culture",
+                                "Greek food"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡriːk"
+                            ],
+                            "us": [
+                                "ɡriːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the language of Greece: ",
+                            "examples": [
+                                "modern/ancient Greek"
+                            ]
+                        },
+                        {
+                            "explanation": "a person from Greece",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

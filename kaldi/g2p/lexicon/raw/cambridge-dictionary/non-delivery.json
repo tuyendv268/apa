@@ -1,0 +1,42 @@
+{
+    "word": "non-delivery",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.dɪˈlɪv.ər.i"
+                            ],
+                            "us": [
+                                "ˌnɑːn.dɪˈlɪv.ɚ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which goods, letters, parcels, etc. that have been ordered or sent are not delivered (= taken to people's houses or places of work): ",
+                            "examples": [
+                                "In the case of non-delivery, the time limit for making a claim is 42 days.",
+                                "If a customer repeatedly claims nondelivery, delete their name from your mailing list.",
+                                "The right of the buyer to recover any payments he has already made clearly applies in the case of a non-delivery."
+                            ]
+                        },
+                        {
+                            "explanation": "a situation in which something that has been promised is not achieved or produced: ",
+                            "examples": [
+                                "The contract has been canceled as a result of a non-delivery by the Department of Health on their contractual obligations.",
+                                "Businesses can sometimes be critical of IT departments over non-delivery, but sometimes delays are unavoidable."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

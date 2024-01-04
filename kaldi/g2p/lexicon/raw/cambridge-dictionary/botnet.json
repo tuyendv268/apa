@@ -1,0 +1,34 @@
+{
+    "word": "botnet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɒt.net"
+                            ],
+                            "us": [
+                                "ˈbɑːt.net"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of computers that are controlled by software containing harmful programs, without their users' knowledge: ",
+                            "examples": [
+                                "Botnets have evolved quickly to make detection more difficult.",
+                                "The hacker gained unauthorized access to the Penn computer server by using a botnet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

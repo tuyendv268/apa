@@ -1,0 +1,34 @@
+{
+    "word": "spear phishing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspɪə ˌfɪʃ.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈspɪr ˌfɪʃ.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an attempt to trick a particular person or group into giving private information over the internet or by email, especially by sending emails that seem to be from someone they know: ",
+                            "examples": [
+                                "People need to be educated about the dangers of spear phishing.",
+                                "The attackers launched a spear-phishing campaign using attachments on the site."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

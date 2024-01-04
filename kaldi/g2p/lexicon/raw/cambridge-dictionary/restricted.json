@@ -1,0 +1,45 @@
+{
+    "word": "restricted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈstrɪk.tɪd"
+                            ],
+                            "us": [
+                                "rɪˈstrɪk.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "limited, especially by official rules, laws, etc.: ",
+                            "examples": [
+                                "Building in this area of town is restricted.",
+                                "Membership is restricted to (= it is only for) chief executive officers.",
+                                "Our view of the stage was restricted (= objects prevented us from seeing the whole stage)."
+                            ]
+                        },
+                        {
+                            "explanation": "A restricted area is one that you need official permission to enter because the police or the armed forces want to keep it secret, or because it is considered dangerous: ",
+                            "examples": [
+                                "Wellington Barracks is a restricted area and anyone who enters should have identification."
+                            ]
+                        },
+                        {
+                            "explanation": "A restricted document is one that you need official permission to read because the government wants to keep it secret.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

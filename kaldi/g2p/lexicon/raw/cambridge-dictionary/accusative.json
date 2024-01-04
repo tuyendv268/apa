@@ -1,0 +1,59 @@
+{
+    "word": "accusative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈkjuː.zə.tɪv"
+                            ],
+                            "us": [
+                                "əˈkjuː.zə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the form of a noun, pronoun, or adjective that is used in some languages to show that the word is the direct object of a verb: ",
+                            "examples": [
+                                "Does \"in\" take the accusative or the ablative?",
+                                "The accusative marks the object, while the genitive marks the possessor of something."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈkjuː.zə.tɪv"
+                            ],
+                            "us": [
+                                "əˈkjuː.zə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the form of a noun, pronoun, or adjective that is used in some languages to show that the word is the direct object of a verb: ",
+                            "examples": [
+                                "They don't know what the accusative case is.",
+                                "He deplored the use of an accusative pronoun in place of a nominative pronoun."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

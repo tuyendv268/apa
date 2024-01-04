@@ -1,0 +1,34 @@
+{
+    "word": "adverb",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæd.vɜːb"
+                            ],
+                            "us": [
+                                "ˈæd.vɝːb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word that describes or gives more information about a verb, adjective, adverb, or phrase: ",
+                            "examples": [
+                                "In the phrase \"she smiled cheerfully\", the word \"cheerfully\" is an adverb.",
+                                "In the phrase \"the house was spotlessly clean\", the word \"spotlessly\" is an adverb."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

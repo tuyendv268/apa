@@ -1,0 +1,41 @@
+{
+    "word": "anatomical",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.əˈtɒm.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˌæn.əˈtɑː.mɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the scientific study and representation of the physical body and how its parts are arranged: ",
+                            "examples": [
+                                "All medical students are required to do an anatomical dissection of a human body.",
+                                "Her drawings contain an astonishing level of anatomical detail.",
+                                "anatomical drawings"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the physical structure of an animal or plant: ",
+                            "examples": [
+                                "It was the first time a complete anatomical reconstruction of a dinosaur had been attempted. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

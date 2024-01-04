@@ -1,0 +1,66 @@
+{
+    "word": "insult",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.sʌlt"
+                            ],
+                            "us": [
+                                "ˈɪn.sʌlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an offensive remark or action: ",
+                            "examples": [
+                                "She made several insults about my appearance.",
+                                "The steelworkers' leader rejected the two percent pay rise saying it was an insult to the profession.",
+                                "The instructions are so easy they are an insult to your intelligence (= they seem to suggest you are not clever if you need to use them)."
+                            ]
+                        },
+                        {
+                            "explanation": "something that causes an injury or damage to the body: ",
+                            "examples": [
+                                "Her cerebral cortex had suffered a massive insult.",
+                                "The virus can cause repeated pulmonary insults."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈsʌlt"
+                            ],
+                            "us": [
+                                "ɪnˈsʌlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say or do something to someone that is rude or offensive: ",
+                            "examples": [
+                                "First he drank all my wine and then he insulted all my friends."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

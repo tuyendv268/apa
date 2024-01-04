@@ -1,0 +1,33 @@
+{
+    "word": "anaphorically",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.əˈfɒr.ɪk.li"
+                            ],
+                            "us": [
+                                "ˌæn.əˈfɔːr .ɪk.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that refers to or replaces a word used earlier in a text: ",
+                            "examples": [
+                                "\"They\" is normally used anaphorically; that is to say, it usually refers to something earlier in the discourse."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

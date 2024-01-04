@@ -1,0 +1,41 @@
+{
+    "word": "batting average",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæt.ɪŋ ˌæv.ər.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈbæt̬.ɪŋ ˌæv.ɚ.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in cricket, the average number of runs scored by a batsman in each innings: ",
+                            "examples": [
+                                "He finishes the one-day series with the highest batting average of his team.",
+                                "In test matches at home, their top batsman has a batting average of 60."
+                            ]
+                        },
+                        {
+                            "explanation": "in baseball, the average number of hits by a batter each time he or she is at bat : ",
+                            "examples": [
+                                "In the past, batting average, home runs, and RBI were the only statistics most fans cared about. ",
+                                "He has a batting average of .305 with 27 home runs this season."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

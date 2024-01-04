@@ -1,0 +1,74 @@
+{
+    "word": "trump",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "trʌmp"
+                            ],
+                            "us": [
+                                "trʌmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a card that belongs to the group of cards that has been chosen to have the highest value in a particular game: ",
+                            "examples": [
+                                "I played a trump.",
+                                "Luckily, I drew a trump."
+                            ]
+                        },
+                        {
+                            "explanation": "one of the four groups in a set of playing cards that has been chosen to have the highest value during a particular game or part of a game: ",
+                            "examples": [
+                                "Diamonds are trumps."
+                            ]
+                        },
+                        {
+                            "explanation": "a situation in which all four groups of cards have equal value in a game of bridge: ",
+                            "examples": [
+                                "The bid is for 2 No trumps."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trʌmp"
+                            ],
+                            "us": [
+                                "trʌmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If you trump another player's card, you beat it with a card that belongs to the group of cards that has been chosen to have the highest value in the game you are playing.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to beat someone or something by doing or producing something better: ",
+                            "examples": [
+                                "Their $60 million bid for the company was trumped at the last moment by an offer for almost twice as much from their main competitor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

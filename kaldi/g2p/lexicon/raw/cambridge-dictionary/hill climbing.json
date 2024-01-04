@@ -1,0 +1,55 @@
+{
+    "word": "hill climbing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɪl ˌklaɪ.mɪŋ"
+                            ],
+                            "us": [
+                                "ˈhɪl ˌklaɪ.mɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of motorsport in which drivers compete to see who is the fastest on a route which goes up a hill: ",
+                            "examples": [
+                                "Cars from 1895 to the present day do a bit of hill climbing in front of 150,000 spectators.",
+                                "This season there's a flurry of new, front-running cars using engines never seen in hillclimbing before."
+                            ]
+                        },
+                        {
+                            "explanation": "a sport in which cyclists (= people riding bicycles) compete to see who is the fastest on a route which goes up a hill: ",
+                            "examples": [
+                                "Altogether, he won nearly 300 cycle racing prizes for road, track and hill climbing.",
+                                "Hill climbing is a uniquely British form of time-trialling."
+                            ]
+                        },
+                        {
+                            "explanation": "the activity of walking for pleasure in areas with a lot of hills: ",
+                            "examples": [
+                                "What followed were many happy years with her beloved husband walking and hill climbing.",
+                                "Even though it was cool with a nice breeze, the hill climbing took its toll on us."
+                            ]
+                        },
+                        {
+                            "explanation": "a mathematical method used for solving difficult problems that have several possible solutions by repeatedly improving previous solutions: ",
+                            "examples": [
+                                "One successful approach makes use of a hill climbing approach by swapping those two entries that make the strongest progress towards minimising the penalty.",
+                                "Optimization approaches include hill climbing, stochastic search, directed stochastic search, and hybrid methods."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

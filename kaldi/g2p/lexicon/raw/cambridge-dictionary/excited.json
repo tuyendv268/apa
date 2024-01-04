@@ -1,0 +1,50 @@
+{
+    "word": "excited",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈsaɪ.tɪd"
+                            ],
+                            "us": [
+                                "ɪkˈsaɪ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "feeling very happy and enthusiastic: ",
+                            "examples": [
+                                "An excited crowd waited for the singer to arrive.",
+                                "Are you getting excited about your holiday?",
+                                "He said he is excited to return to San Diego.",
+                                "I was excited that he was coming to visit.",
+                                "She's excited at the chance to share what she's learned with others.",
+                                "\"Are you excited for your first Oscar nomination?\" she asked."
+                            ]
+                        },
+                        {
+                            "explanation": "to not be especially good: ",
+                            "examples": [
+                                "It's a competent enough first novel but nothing to get excited about."
+                            ]
+                        },
+                        {
+                            "explanation": "(of an atom, etc.) in a higher than normal state of energy: ",
+                            "examples": [
+                                "When an electron reverts from an excited to an unexcited state, it gives out light."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "their",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "ðeər"
+                            ],
+                            "us": [
+                                "ðer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of or belonging to them: ",
+                            "examples": [
+                                "He gave them their coats."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to one person in order to avoid saying \"his or her\": ",
+                            "examples": [
+                                "One of the students has left their book behind."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

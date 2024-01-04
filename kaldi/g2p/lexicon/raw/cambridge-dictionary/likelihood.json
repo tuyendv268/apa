@@ -1,0 +1,41 @@
+{
+    "word": "likelihood",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlaɪ.kli.hʊd"
+                            ],
+                            "us": [
+                                "ˈlaɪ.kli.hʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the chance that something will happen: ",
+                            "examples": [
+                                "This latest dispute greatly increases the likelihood of a strike.",
+                                "There is every likelihood that more jobs will be lost later this year.",
+                                "There is little likelihood now that interest rates will come down further."
+                            ]
+                        },
+                        {
+                            "explanation": "almost certainly: ",
+                            "examples": [
+                                "In all likelihood, everything will go to plan."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

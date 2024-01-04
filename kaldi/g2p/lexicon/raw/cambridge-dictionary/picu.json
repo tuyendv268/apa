@@ -1,0 +1,42 @@
+{
+    "word": "picu",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɪk.juː",
+                                "ˌpiː.aɪ.siːˈjuː"
+                            ],
+                            "us": [
+                                "ˌpiː.aɪ.siːˈjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for paediatric intensive care unit: the part of a hospital that provides continuous treatment for children who are seriously ill, very badly injured, or who have just had a major operation: ",
+                            "examples": [
+                                "There were six beds in the PICU, with no separating curtains. ",
+                                "The study involved 338 critically ill children in 20 UK PICUs."
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for psychiatric intensive care unit: the part of a hospital that provides treatment for people who are experiencing a mental health problem that puts them or other people at risk: ",
+                            "examples": [
+                                "He was returned to the PICU, where the most violent patients are housed. ",
+                                "PICUs provide mental health care and treatment for people in acute distress."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

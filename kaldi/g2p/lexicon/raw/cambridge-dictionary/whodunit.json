@@ -1,0 +1,33 @@
+{
+    "word": "whodunit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌhuːˈdʌn.ɪt"
+                            ],
+                            "us": [
+                                "ˌhuːˈdʌn.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a story about a crime and the attempt to discover who committed it: ",
+                            "examples": [
+                                "It's one of those whodunits where you don't find out who the murderer is till the very end."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

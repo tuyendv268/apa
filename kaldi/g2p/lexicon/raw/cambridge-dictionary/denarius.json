@@ -1,0 +1,38 @@
+{
+    "word": "denarius",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈneə.ri.əs"
+                            ],
+                            "us": [
+                                "dɪˈner.i.əs"
+                            ],
+                            "uk_other_tense": [
+                                "dɪˈneə.ri.aɪ"
+                            ],
+                            "us_other_tense": [
+                                "dɪˈner.i.aɪ"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a silver coin from the ancient Roman empire: ",
+                            "examples": [
+                                "a denarius minted in honour of the Emperor Antoninus Pius",
+                                "The annual cost of a Roman legion was 1.25 million denarii. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

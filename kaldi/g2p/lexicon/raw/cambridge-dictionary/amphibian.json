@@ -1,0 +1,67 @@
+{
+    "word": "amphibian",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "æmˈfɪb.i.ən"
+                            ],
+                            "us": [
+                                "æmˈfɪb.i.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an animal, such as a frog, that lives both on land and in water but must produce its eggs in water",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an aircraft or other vehicle that can be used on land and on water: ",
+                            "examples": [
+                                "He flew an amphibian, which he could set down on water in case of an engine problem."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "æmˈfɪb.i.ən"
+                            ],
+                            "us": [
+                                "æmˈfɪb.i.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An amphibian animal lives both on land and in water but must produce its eggs in water: ",
+                            "examples": [
+                                "Salamanders, frogs, and other amphibian life are particularly sensitive to extreme pH levels."
+                            ]
+                        },
+                        {
+                            "explanation": "An amphibian vehicle can be used both on land or in the air and in water: ",
+                            "examples": [
+                                "Troops were brought in by amphibian vehicles and helicopters."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

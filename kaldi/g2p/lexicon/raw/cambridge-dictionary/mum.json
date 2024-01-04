@@ -1,0 +1,60 @@
+{
+    "word": "mum",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mʌm"
+                            ],
+                            "us": [
+                                "mʌm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mother: ",
+                            "examples": [
+                                "I'll ask my mum if I can go.",
+                                "Happy birthday, Mum .",
+                                "All the mums and dads are invited to the school play at the end of the year.",
+                                "She loves being a mum."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "mʌm"
+                            ],
+                            "us": [
+                                "mʌm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say nothing about a subject: ",
+                            "examples": [
+                                "It's not official yet, so keep mum."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

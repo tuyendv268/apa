@@ -1,0 +1,42 @@
+{
+    "word": "cowman",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkaʊ.mən",
+                                "ˈkaʊ.mæn"
+                            ],
+                            "us": [
+                                "ˈkaʊ.mən",
+                                "ˈkaʊ.mæn"
+                            ],
+                            "uk_other_tense": [
+                                "ˈkaʊ.mən",
+                                "ˈkaʊ.men"
+                            ],
+                            "us_other_tense": [
+                                "ˈkaʊ.men"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a male cowherd",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a man who owns cattle",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

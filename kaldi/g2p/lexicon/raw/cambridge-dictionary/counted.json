@@ -1,0 +1,82 @@
+{
+    "word": "counted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncount ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kaʊnt"
+                            ],
+                            "us": [
+                                "kaʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say numbers one after the other in order, or to calculate the number of people or things in a group: ",
+                            "examples": [
+                                "Let's count out loud (= speak the words) from one to ten.",
+                                "The teachers counted the students as they got on to the bus.",
+                                "Count your money carefully to make sure it's all there.",
+                                "We need to count who's here, so we can make sure that no one's missing.",
+                                "There'll be eight for dinner, counting (= including) ourselves.",
+                                "We're still waiting for the votes to be counted (up)."
+                            ]
+                        },
+                        {
+                            "explanation": "to count the number of people present somewhere: ",
+                            "examples": [
+                                "There look to be about 50 people here - I haven't counted heads yet."
+                            ]
+                        },
+                        {
+                            "explanation": "to have value or importance: ",
+                            "examples": [
+                                "I've always believed that happiness counts more than money.",
+                                "My opinion doesn't count for anything around here (= no one values my opinion)."
+                            ]
+                        },
+                        {
+                            "explanation": "to consider or be considered as: ",
+                            "examples": [
+                                "I count myself fortunate to have had such a good education.",
+                                "I've had three jobs in the last five years, but one of them was unpaid, so it doesn't count (= cannot be considered as a real job).",
+                                "I've always counted Sophia among my closest friends.",
+                                "I didn't think his grudging remarks really counted as an apology."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

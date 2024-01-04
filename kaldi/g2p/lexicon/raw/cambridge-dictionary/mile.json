@@ -1,0 +1,42 @@
+{
+    "word": "mile",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "maɪl"
+                            ],
+                            "us": [
+                                "maɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of distance equal to 1,760 yards or 1.6 kilometres: ",
+                            "examples": [
+                                "a ten-mile drive",
+                                "The nearest town is ten miles away.",
+                                "The speed limit is 30 miles an/per hour."
+                            ]
+                        },
+                        {
+                            "explanation": "a very long way: ",
+                            "examples": [
+                                "From the top, we could see for miles in every direction.",
+                                "He lives miles away on the other side of town."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "woof",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "wʊf"
+                            ],
+                            "us": [
+                                "wʊf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the sound that a dog makes: ",
+                            "examples": [
+                                "\"Miaow, miaow,\" went the cat. \"Woof, woof,\" went the dog.",
+                                "With a loud woof, the dog came bounding towards them."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "wʊf"
+                            ],
+                            "us": [
+                                "wʊf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a dog woofs, it makes a sound with its voice: ",
+                            "examples": [
+                                "Suddenly the dogs all started woofing.",
+                                "If these dogs are woofing at you, it's because they are afraid of you."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

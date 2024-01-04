@@ -1,0 +1,35 @@
+{
+    "word": "lakh",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "lɑːk",
+                                "læk"
+                            ],
+                            "us": [
+                                "lɑːk",
+                                "læk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 100,000: ",
+                            "examples": [
+                                "The total cost of the project is around 50 lakh rupees."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

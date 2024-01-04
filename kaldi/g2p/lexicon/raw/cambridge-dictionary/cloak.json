@@ -1,0 +1,63 @@
+{
+    "word": "cloak",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kləʊk"
+                            ],
+                            "us": [
+                                "kloʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a loose outer piece of clothing without sleeves, that fastens at the neck, and is worn instead of a coat",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "something that hides, covers, or keeps something else secret: ",
+                            "examples": [
+                                "The restaurant he owned was just a cloak for (= hid) his drug-dealing activities.",
+                                "They left the house under cloak of darkness."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kləʊk"
+                            ],
+                            "us": [
+                                "kloʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cover or hide something: ",
+                            "examples": [
+                                "He has always kept his love affairs cloaked in secrecy (= kept them secret).",
+                                "The river is often cloaked in mist in the early morning."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

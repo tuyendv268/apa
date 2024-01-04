@@ -1,0 +1,48 @@
+{
+    "word": "foreign",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɒr.ən"
+                            ],
+                            "us": [
+                                "ˈfɔːr.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging or connected to a country that is not your own: ",
+                            "examples": [
+                                "Spain was the first foreign country she had visited.",
+                                "foreign languages",
+                                "His work provided him with the opportunity for a lot of foreign travel."
+                            ]
+                        },
+                        {
+                            "explanation": "Something can be described as foreign to a particular person if they do not know about it or it is not within their experience: ",
+                            "examples": [
+                                "The whole concept of democracy, she claimed, was utterly foreign to the present government."
+                            ]
+                        },
+                        {
+                            "explanation": "A foreign object or substance has entered something else, possibly by accident, and does not belong there: ",
+                            "examples": [
+                                "a foreign object/substance",
+                                "foreign matter"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

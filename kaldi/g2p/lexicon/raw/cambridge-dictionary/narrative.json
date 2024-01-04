@@ -1,0 +1,68 @@
+{
+    "word": "narrative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnær.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˈner.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a story or a description of a series of events: ",
+                            "examples": [
+                                "It's a moving narrative of wartime adventure.",
+                                "a first-person/third-person narrative",
+                                "a gripping/compelling narrative"
+                            ]
+                        },
+                        {
+                            "explanation": "a particular way of explaining or understanding events: ",
+                            "examples": [
+                                "There was pressure on academics to construct narratives of the period that were positive.",
+                                "Both sides in the conflict have a narrative of victimhood.",
+                                "the grand narratives of nation, race, and faith"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈnær.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˈner.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "telling a story or describing a series of events: ",
+                            "examples": [
+                                "a narrative poem",
+                                "You have to supply a narrative thread that allows the audience to make a connection with one or more characters. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

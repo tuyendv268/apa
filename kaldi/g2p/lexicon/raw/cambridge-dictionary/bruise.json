@@ -1,0 +1,60 @@
+{
+    "word": "bruise",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bruːz"
+                            ],
+                            "us": [
+                                "bruːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an injury or mark where the skin has not been broken but is darker in colour, often as a result of being hit by something: ",
+                            "examples": [
+                                "His arms and back were covered in bruises.",
+                                "She had a few cuts and bruises, but nothing serious.",
+                                "One or two of the peaches had bruises on them."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bruːz"
+                            ],
+                            "us": [
+                                "bruːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to develop a bruise or to cause someone or something to have a bruise: ",
+                            "examples": [
+                                "How did you bruise your arm?",
+                                "Bananas and other soft fruits bruise easily."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

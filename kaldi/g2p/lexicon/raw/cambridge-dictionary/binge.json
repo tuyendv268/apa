@@ -1,0 +1,58 @@
+{
+    "word": "binge",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bɪndʒ"
+                            ],
+                            "us": [
+                                "bɪndʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an occasion when an activity is done in an extreme way, especially eating, drinking, or spending money: ",
+                            "examples": [
+                                "a drinking/eating/spending binge",
+                                "He went on a five day drinking binge."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɪndʒ"
+                            ],
+                            "us": [
+                                "bɪndʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to eat too much of something: ",
+                            "examples": [
+                                "I tend to binge on chocolate when I'm watching TV."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

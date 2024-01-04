@@ -1,0 +1,41 @@
+{
+    "word": "efficacy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈef.ɪ.kə.si"
+                            ],
+                            "us": [
+                                "ˈef.ə.kə.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the ability of something to produce the intended result: ",
+                            "examples": [
+                                "The study is a serious attempt to understand the efficacy of cash incentives as a way of promoting learning."
+                            ]
+                        },
+                        {
+                            "explanation": "how well a particular treatment or drug works under carefully controlled scientific testing conditions: ",
+                            "examples": [
+                                "The clinical report shows results of almost 95% efficacy for the vaccine.",
+                                "Of course, the efficacy of any drug in a study will be different from its actual performance in the population.",
+                                "Efficacy trials determine whether an intervention produces the expected result under ideal circumstances."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

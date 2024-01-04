@@ -1,0 +1,66 @@
+{
+    "word": "examined",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nexamine ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪɡˈzæm.ɪn"
+                            ],
+                            "us": [
+                                "ɪɡˈzæm.ɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to look at or consider a person or thing carefully and in detail in order to discover something about them: ",
+                            "examples": [
+                                "Forensic scientists are examining the wreckage for clues about the cause of the explosion.",
+                                "The council is to examine ways of reducing traffic in the city centre.",
+                                "The research examined the effects of alcohol on long-term memory.",
+                                "We need to examine how an accident like this can be avoided in the future.",
+                                "A psychiatrist was examined (= asked questions) on the mental state of the defendant."
+                            ]
+                        },
+                        {
+                            "explanation": "to test someone's knowledge or skill in a particular subject: ",
+                            "examples": [
+                                "We were examined on European history.",
+                                "You'll be examined in three main areas; speaking, listening, and reading comprehension."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

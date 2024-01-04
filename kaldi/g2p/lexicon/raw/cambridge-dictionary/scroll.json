@@ -1,0 +1,63 @@
+{
+    "word": "scroll",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "skrəʊl"
+                            ],
+                            "us": [
+                                "skroʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long roll of paper or similar material with usually official writing on it: ",
+                            "examples": [
+                                "The ancient Egyptians stored information on scrolls."
+                            ]
+                        },
+                        {
+                            "explanation": "a decoration that looks like a roll of paper: ",
+                            "examples": [
+                                "The tops of the marble pillars were decorated with scrolls."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skrəʊl"
+                            ],
+                            "us": [
+                                "skroʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move text or other information on a computer screen in order to see a different part of it: ",
+                            "examples": [
+                                "Scroll to the end of the document."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

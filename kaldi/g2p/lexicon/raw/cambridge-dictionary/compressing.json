@@ -1,0 +1,69 @@
+{
+    "word": "compressing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncompress ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpres"
+                            ],
+                            "us": [
+                                "kəmˈpres"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to press something into a smaller space: ",
+                            "examples": [
+                                "Firmly compress the soil in the pot so that the plant is secure.",
+                                "compressed air"
+                            ]
+                        },
+                        {
+                            "explanation": "to make information, a piece of writing, etc. shorter: ",
+                            "examples": [
+                                "The course compresses two year's training into six intensive months.",
+                                "I managed to compress ten pages of notes into four paragraphs."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a computer file use less space when it is stored in the memory of a computer or on a disk, by using a special program: ",
+                            "examples": [
+                                "to compress data/files"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

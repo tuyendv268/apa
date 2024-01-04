@@ -1,0 +1,33 @@
+{
+    "word": "john hancock",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒɒn ˈhæŋ.kɒk"
+                            ],
+                            "us": [
+                                "ˌdʒɑːn ˈhæn.kɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person's signature: ",
+                            "examples": [
+                                "Put your John Hancock at the bottom of the page."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

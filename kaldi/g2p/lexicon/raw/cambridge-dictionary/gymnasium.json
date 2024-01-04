@@ -1,0 +1,41 @@
+{
+    "word": "gymnasium",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dʒɪmˈneɪ.zi.əm"
+                            ],
+                            "us": [
+                                "dʒɪmˈneɪ.zi.əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large room with equipment for exercising the body and increasing strength, or space for playing sport, especially in a school: ",
+                            "examples": [
+                                "The dance classes were held in a high school gymnasium .",
+                                "The top floor contains a gymnasium and basketball court."
+                            ]
+                        },
+                        {
+                            "explanation": "a school in Germany, Austria, the Netherlands and some other countries that prepares children for university: ",
+                            "examples": [
+                                "She spent a year at a gymnasium in Heidelburg, Germany.",
+                                "A science teacher at Spanga Gymnasium in Stockholm, Sweden did a collaborative project with a twin school in Madagascar."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

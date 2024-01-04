@@ -1,0 +1,40 @@
+{
+    "word": "normally",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈnɔː.mə.li"
+                            ],
+                            "us": [
+                                "ˈnɔːr.mə.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If something happens normally, it happens in the usual or expected way: ",
+                            "examples": [
+                                "Are the phones working normally again?"
+                            ]
+                        },
+                        {
+                            "explanation": "If you normally do something, you usually or regularly do it: ",
+                            "examples": [
+                                "She doesn't normally arrive until ten.",
+                                "Normally, I plan one or two days ahead."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

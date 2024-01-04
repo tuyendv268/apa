@@ -1,0 +1,40 @@
+{
+    "word": "obligation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒb.lɪˈɡeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌɑː.bləˈɡeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact that you are obliged to do something: ",
+                            "examples": [
+                                "If you have not signed a contract, you are under no obligation to (= it is not necessary to) pay them any money.",
+                                "You have a legal obligation to (= the law says you must) ensure your child receives an education."
+                            ]
+                        },
+                        {
+                            "explanation": "something that you must do: ",
+                            "examples": [
+                                "I don't have time to do his work for him - I have too many obligations as it is."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

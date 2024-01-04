@@ -1,0 +1,42 @@
+{
+    "word": "wood-fired",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈwʊd.faɪəd"
+                            ],
+                            "us": [
+                                "ˈwʊd.faɪrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "using wood as a fuel: ",
+                            "examples": [
+                                "They used a small wood-fired stove to heat water.",
+                                "Their pizzas are cooked in the traditional way, in a wood-fired oven, rather than in an electric one.",
+                                "Vermont forests supply fuel for the wood-fired electricity generating plant."
+                            ]
+                        },
+                        {
+                            "explanation": "cooked in or on a device that uses wood as a fuel: ",
+                            "examples": [
+                                "Choose a steak or a crispy wood-fired pizza.",
+                                "Scrambled eggs are delicious served with toasted bagels or sliced wood-fired bread."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

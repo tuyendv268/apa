@@ -1,0 +1,31 @@
+{
+    "word": "paragraph",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpær.ə.ɡrɑːf"
+                            ],
+                            "us": [
+                                "ˈper.ə.ɡræf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short part of a text, consisting of at least one sentence and beginning on a new line. It usually deals with a single event, description, idea, etc.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

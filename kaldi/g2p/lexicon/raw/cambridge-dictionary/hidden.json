@@ -1,0 +1,41 @@
+{
+    "word": "hidden",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɪd.ən"
+                            ],
+                            "us": [
+                                "ˈhɪd.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not easy to find: ",
+                            "examples": [
+                                "a hidden valley",
+                                "There were hidden microphones in the room to record their conversation."
+                            ]
+                        },
+                        {
+                            "explanation": "that most people do not know about: ",
+                            "examples": [
+                                "hidden costs/taxes",
+                                "Hidden problems may lead to an increase in costs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

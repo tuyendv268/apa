@@ -1,0 +1,69 @@
+{
+    "word": "isolating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nisolate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈaɪ.sə.leɪt"
+                            ],
+                            "us": [
+                                "ˈaɪ.sə.leɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to separate something from other things with which it is connected or mixed: ",
+                            "examples": [
+                                "A high wall isolated the house from the rest of the village.",
+                                "They tried to isolate (= find) the cause of the problem.",
+                                "Virus particles were eventually isolated from the tissue."
+                            ]
+                        },
+                        {
+                            "explanation": "to keep a person or animal separate from other people or animals by putting them in a different place: ",
+                            "examples": [
+                                "He was isolated from all the other prisoners."
+                            ]
+                        },
+                        {
+                            "explanation": "to put a person, country, or organization in a situation where they are seen as being separate : ",
+                            "examples": [
+                                "This policy will isolate minority groups and prevent integration."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

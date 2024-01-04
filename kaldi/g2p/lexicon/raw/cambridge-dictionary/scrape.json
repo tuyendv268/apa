@@ -1,0 +1,87 @@
+{
+    "word": "scrape",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skreɪp"
+                            ],
+                            "us": [
+                                "skreɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove an unwanted covering or a top layer from something, especially using a sharp edge or something rough: ",
+                            "examples": [
+                                "Scrape your boots clean before you come in.",
+                                "We'll have to scrape the snow off the car before we go out in it.",
+                                "Emily scraped away the dead leaves to reveal the tiny shoot of a new plant."
+                            ]
+                        },
+                        {
+                            "explanation": "to (cause to) rub against a surface so that slight damage or an unpleasant noise is produced: ",
+                            "examples": [
+                                "Jackie fell over and scraped her knee (on the pavement).",
+                                "I was woken up by the noise of branches scraping against my bedroom window."
+                            ]
+                        },
+                        {
+                            "explanation": "to succeed in getting or achieving something, but with difficulty or by a very small amount: ",
+                            "examples": [
+                                "Her grades weren't great, but she scraped into university."
+                            ]
+                        },
+                        {
+                            "explanation": "to get data from a website, etc., using a special computer program: ",
+                            "examples": [
+                                "Twitter is a veritable playground for data scientists looking to scrape and analyze public data. ",
+                                "Millions of Flickr photos were scraped to train facial recognition software."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "skreɪp"
+                            ],
+                            "us": [
+                                "skreɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a difficult or slightly dangerous situation that you cause by your own silly behaviour: ",
+                            "examples": [
+                                "She's always getting into silly scrapes - I wish she'd think before she does things.",
+                                "He had a couple of scrapes with the police and ended up in court."
+                            ]
+                        },
+                        {
+                            "explanation": "a slight injury or an unpleasant noise produced by rubbing against a surface: ",
+                            "examples": [
+                                "\"It's just a scrape,\" said the boy looking down at his bleeding knee.",
+                                "I hate the scrape of chalk on a blackboard."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

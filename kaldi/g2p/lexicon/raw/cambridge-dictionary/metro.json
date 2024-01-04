@@ -1,0 +1,66 @@
+{
+    "word": "metro",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmet.rəʊ"
+                            ],
+                            "us": [
+                                "ˈmet.roʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an underground electric railway system in some cities: ",
+                            "examples": [
+                                "Let's go by Metro.",
+                                "Let's use the Metro.",
+                                "a metro station",
+                                "the Paris/Los Angeles metro"
+                            ]
+                        },
+                        {
+                            "explanation": "a large city: ",
+                            "examples": [
+                                "Our company has developed commercial properties across the four metros in India."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmet.rəʊ"
+                            ],
+                            "us": [
+                                "ˈmet.roʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a large city and the area surrounding it: ",
+                            "examples": [
+                                "This guidebook includes a map of the Phoenix metro area."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

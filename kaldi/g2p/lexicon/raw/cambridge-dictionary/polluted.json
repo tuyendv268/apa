@@ -1,0 +1,41 @@
+{
+    "word": "polluted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "pəˈluː.tɪd"
+                            ],
+                            "us": [
+                                "pəˈluː.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "affected by pollution: ",
+                            "examples": [
+                                "The river in Caracas is heavily polluted.",
+                                "New particles are formed in the polluted air of major cities.",
+                                "The largest effect was on the poor population who were drinking polluted water. "
+                            ]
+                        },
+                        {
+                            "explanation": "spoiled by something: ",
+                            "examples": [
+                                "Supply chains become polluted with counterfeit goods. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

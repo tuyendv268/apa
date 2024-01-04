@@ -1,0 +1,47 @@
+{
+    "word": "song",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɒŋ"
+                            ],
+                            "us": [
+                                "sɑːŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a usually short piece of music with words that are sung: ",
+                            "examples": [
+                                "to sing a song",
+                                "a love/folk/pop song"
+                            ]
+                        },
+                        {
+                            "explanation": "the act of singing, or singing when considered generally: ",
+                            "examples": [
+                                "He was so happy he wanted to burst/break into song (= start singing)."
+                            ]
+                        },
+                        {
+                            "explanation": "the musical sound that a bird makes: ",
+                            "examples": [
+                                "bird song",
+                                "A thrush's song was the only sound to break the silence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

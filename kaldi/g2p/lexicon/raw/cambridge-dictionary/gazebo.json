@@ -1,0 +1,40 @@
+{
+    "word": "gazebo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡəˈziː.bəʊ"
+                            ],
+                            "us": [
+                                "ɡəˈziː.boʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small decorated building with a roof and open sides, usually in a garden : ",
+                            "examples": [
+                                "She wanted to build a gazebo in her back garden.",
+                                "Let's have drinks in the gazebo."
+                            ]
+                        },
+                        {
+                            "explanation": "a tent or temporary structure with open sides, used especially for events held outside: ",
+                            "examples": [
+                                "The pub plans to erect a large gazebo where customers can eat and drink outside under shelter."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

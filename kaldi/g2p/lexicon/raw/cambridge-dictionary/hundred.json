@@ -1,0 +1,59 @@
+{
+    "word": "hundred",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "ˈhʌn.drəd"
+                            ],
+                            "us": [
+                                "ˈhʌn.drəd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 100: ",
+                            "examples": [
+                                "We've driven a/one hundred miles in the last two hours.",
+                                "\"How many children are there in the school?\" \"About three hundred.\"",
+                                "That dress costs hundreds of dollars."
+                            ]
+                        },
+                        {
+                            "explanation": "a large number: ",
+                            "examples": [
+                                "There were hundreds of people at the pool today."
+                            ]
+                        },
+                        {
+                            "explanation": "numbers between 100 and 1,000: ",
+                            "examples": [
+                                "He expects the total amount to be in the low hundreds."
+                            ]
+                        },
+                        {
+                            "explanation": "the years of a particular century: ",
+                            "examples": [
+                                "The house was built in the sixteen hundreds."
+                            ]
+                        },
+                        {
+                            "explanation": "used to say the time using the 24-hour system, especially used in the military: ",
+                            "examples": [
+                                "Breakfast is at seven hundred hours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

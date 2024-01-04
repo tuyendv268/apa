@@ -1,0 +1,57 @@
+{
+    "word": "subtweet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌb.twiːt"
+                            ],
+                            "us": [
+                                "ˈsʌb.twiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tweet (= a message on Twitter™ ) in which you mention a person but do not use @ before their name so they do not see what you have written: ",
+                            "examples": [
+                                "Subtweets can come across as bitchy, bitter, or aggressive."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌsʌbˈtwiːt"
+                            ],
+                            "us": [
+                                "ˌsʌbˈtwiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to mention a person on Twitter™ without using @ before their name so they do not see what you have written : ",
+                            "examples": [
+                                "Here's an example of when I subtweeted someone and it backfired."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

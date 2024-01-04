@@ -1,0 +1,62 @@
+{
+    "word": "halved",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nhalve ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "hɑːv"
+                            ],
+                            "us": [
+                                "hæv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to reduce something by half or divide something into two equal pieces: ",
+                            "examples": [
+                                "In the past eight years, the elephant population in Africa has been halved.",
+                                "The potatoes will cook more quickly if you halve them before you put them in the oven."
+                            ]
+                        },
+                        {
+                            "explanation": "If something halves, it is reduced by half: ",
+                            "examples": [
+                                "Their profits have halved in the last six months."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

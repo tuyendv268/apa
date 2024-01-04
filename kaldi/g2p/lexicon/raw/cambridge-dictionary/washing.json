@@ -1,0 +1,68 @@
+{
+    "word": "washing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɒʃ.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈwɑː.ʃɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of washing clothes: ",
+                            "examples": [
+                                "Machines make doing the washing easy."
+                            ]
+                        },
+                        {
+                            "explanation": "clothes, sheets, etc. that need to be or have just been washed: ",
+                            "examples": [
+                                "I hang/peg the washing out on the line."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                "-wɒʃ.ɪŋ"
+                            ],
+                            "us": [
+                                "-wɑː.ʃɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used with adjectives and nouns to form nouns that refer to the behaviour of an organization, etc. that tries to make people believe that it is helping or protecting someone or something, when really it is not doing this or is doing something harmful: ",
+                            "examples": [
+                                "Pinkwashing can describe the actions of companies that manufacture chemicals that may cause breast cancer while at the same time giving money to organizations that support women with breast cancer.",
+                                "Bluewashing is like greenwashing but refers more to social and economic responsibility rather than to protection of the environment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

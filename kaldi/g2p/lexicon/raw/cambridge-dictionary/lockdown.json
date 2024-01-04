@@ -1,0 +1,43 @@
+{
+    "word": "lockdown",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒk.daʊn"
+                            ],
+                            "us": [
+                                "ˈlɑːk.daʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an emergency situation in which people are not allowed to freely enter, leave, or move around in a building or area because of danger: ",
+                            "examples": [
+                                "Police imposed a lockdown in the building until the shooter could be stopped.",
+                                "The entire city was in lockdown."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of time in which people are not allowed to leave their homes or travel freely, because of a dangerous disease: ",
+                            "examples": [
+                                "It’s important for parents to find ways to keep kids active during lockdown.",
+                                "The government has been attempting to eliminate the virus in Auckland by imposing a lockdown.",
+                                "We’ve had weeks and weeks of lockdown with this pandemic, so it’s normal to feel anxious.",
+                                "The prime minister placed the UK on lockdown with drastic new measures to fight the coronavirus outbreak."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

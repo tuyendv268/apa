@@ -1,0 +1,31 @@
+{
+    "word": "average joe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an ordinary, typical person: ",
+                            "examples": [
+                                "He says it takes him longer than the average Joe to get ready for work. ",
+                                "He plays an Average Joe caught up in extreme events.",
+                                "Even your average Joe with no training wouldn’t fail this basic test."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

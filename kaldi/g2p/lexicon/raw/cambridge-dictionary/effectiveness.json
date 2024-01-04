@@ -1,0 +1,42 @@
+{
+    "word": "effectiveness",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈfek.tɪv.nəs"
+                            ],
+                            "us": [
+                                "əˈfek.tɪv.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the degree to which something is effective: ",
+                            "examples": [
+                                "The study will review the effectiveness of reading and mathematics software products.",
+                                "They don't have information yet to evaluate the effectiveness of those programmes ."
+                            ]
+                        },
+                        {
+                            "explanation": "how well a particular treatment or drug works when people are using it, as opposed to how well it works under carefully controlled scientific testing conditions: ",
+                            "examples": [
+                                "There are doubts about the effectiveness of the new drug in treating the disease.",
+                                "Once the vaccine is widely available we will know more about its effectiveness.",
+                                "An effectiveness study asks “Does the treatment approach work in the real world?”"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

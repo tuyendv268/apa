@@ -1,0 +1,33 @@
+{
+    "word": "natural language",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnætʃ.ər.əl ˈlæŋ.ɡwɪdʒ"
+                            ],
+                            "us": [
+                                "ˌnætʃ.ɚ.əl ˈlæŋ.ɡwɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "language that has developed in the usual way as a method of communicating between people, rather than language that has been created, for example for computers: ",
+                            "examples": [
+                                "Computers are increasingly being used for natural language processing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "word": "poached",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npoach ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pəʊtʃ"
+                            ],
+                            "us": [
+                                "poʊtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cook something such as a fish, or an egg with its shell removed, by putting it in gently boiling water or other liquid: ",
+                            "examples": [
+                                "We had poached eggs for breakfast.",
+                                "Do you like pears poached in red wine?"
+                            ]
+                        },
+                        {
+                            "explanation": "to catch and kill animals without permission on someone else's land: ",
+                            "examples": [
+                                "The farmer claimed that he shot the men because they were poaching on his land."
+                            ]
+                        },
+                        {
+                            "explanation": "to take and use for yourself unfairly or dishonestly something, usually an idea, that belongs to someone else: ",
+                            "examples": [
+                                "Jeff always poaches my ideas, and then pretends that they're his own."
+                            ]
+                        },
+                        {
+                            "explanation": "to persuade someone who works for someone else to come and work for you: ",
+                            "examples": [
+                                "They were furious when one of their best managers was poached by another company."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

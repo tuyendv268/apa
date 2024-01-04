@@ -1,0 +1,43 @@
+{
+    "word": "shortcut",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃɔːt.kʌt"
+                            ],
+                            "us": [
+                                "ˈʃɔːrt-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a route that leads from one place to another and is quicker and more direct than the usual route: ",
+                            "examples": [
+                                "I know a shortcut to town."
+                            ]
+                        },
+                        {
+                            "explanation": "a quicker way of doing something in order to save time or effort",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a quick way to start or use a computer program: ",
+                            "examples": [
+                                "a shortcut key"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

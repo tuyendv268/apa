@@ -1,0 +1,33 @@
+{
+    "word": "test-fire",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtest.faɪər"
+                            ],
+                            "us": [
+                                "ˈtest.faɪɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to explode a nuclear weapon in order to see how effective it is: ",
+                            "examples": [
+                                "The country has test-fired a missile capable of hitting the US"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

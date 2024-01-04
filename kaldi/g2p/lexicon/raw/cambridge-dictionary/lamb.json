@@ -1,0 +1,57 @@
+{
+    "word": "lamb",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "læm"
+                            ],
+                            "us": [
+                                "læm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a young sheep, or the flesh of a young sheep eaten as meat: ",
+                            "examples": [
+                                "lambs gambolling about in the fields",
+                                "lamb chops",
+                                "roast lamb"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "læm"
+                            ],
+                            "us": [
+                                "læm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a sheep) to give birth to lambs",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

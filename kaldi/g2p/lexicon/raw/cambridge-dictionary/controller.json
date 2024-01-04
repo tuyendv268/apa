@@ -1,0 +1,42 @@
+{
+    "word": "controller",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈtrəʊ.lər"
+                            ],
+                            "us": [
+                                "kənˈtroʊ.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device used to operate or control a machine, a computer game, etc.: ",
+                            "examples": [
+                                "Moving my body made me feel more immersed in the game than if I had just been pressing buttons on a controller. ",
+                                "The kids answer questions by touching a hand-held controller.",
+                                "The assisted braking controller is integrated into the dash."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who controls something, or someone who is responsible for what a particular organization does: ",
+                            "examples": [
+                                "an air-traffic controller",
+                                "That was the year he became Controller of Radio 4."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

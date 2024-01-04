@@ -1,0 +1,67 @@
+{
+    "word": "replay",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈpleɪ"
+                            ],
+                            "us": [
+                                "ˌriːˈpleɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to play a game again, especially a football game, because neither team won the first time",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to play something again, especially music or video recorded already: ",
+                            "examples": [
+                                "The police replayed the video of the robbery in court."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈriː.pleɪ"
+                            ],
+                            "us": [
+                                "ˈriː.pleɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game, especially a football game, that is played again because neither side won the first time : ",
+                            "examples": [
+                                "The semifinal replay will be on Saturday."
+                            ]
+                        },
+                        {
+                            "explanation": "a part of a game or sporting event that is recorded on video and is shown again, especially to examine what happened more closely: ",
+                            "examples": [
+                                "a slow-motion replay"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

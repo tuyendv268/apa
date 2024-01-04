@@ -1,0 +1,41 @@
+{
+    "word": "postal vote",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊ.stəl ˌvəʊt"
+                            ],
+                            "us": [
+                                "ˈpoʊ.stəl ˌvoʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a vote sent by post, rather than a vote by a person physically attending a polling station, meeting, etc.: ",
+                            "examples": [
+                                "Whether he wins will be decided by counting postal votes in the next few days.",
+                                "Convicts cannot vote, while unconvicted (remand) prisoners can use a postal vote."
+                            ]
+                        },
+                        {
+                            "explanation": "a system of voting in which people send their votes by post , rather than voting in person at a polling station: ",
+                            "examples": [
+                                "The first host, to be selected next year by postal vote, may be a city like 1980 Olympic host Moscow.",
+                                "Following the inquiry there would be a postal vote by individual members for guidance on future policy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

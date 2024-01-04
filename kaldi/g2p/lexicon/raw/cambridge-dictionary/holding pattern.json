@@ -1,0 +1,39 @@
+{
+    "word": "holding pattern",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhəʊl.dɪŋ ˌpæt.ən"
+                            ],
+                            "us": [
+                                "ˈhoʊl.dɪŋ ˌpæt̬.ɚn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a route followed by a plane above an airport while it waits to land: ",
+                            "examples": [
+                                "We were kept in a holding pattern for 45 minutes at Heathrow."
+                            ]
+                        },
+                        {
+                            "explanation": "temporarily unable to act because you are waiting for something to happen or be decided: ",
+                            "examples": [
+                                "We're in a holding pattern while we wait for City Council approval. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

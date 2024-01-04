@@ -1,0 +1,54 @@
+{
+    "word": "strand",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "strænd"
+                            ],
+                            "us": [
+                                "strænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a thin thread of something, often one of a few, twisted around each other to make a string or rope: ",
+                            "examples": [
+                                "She tucked a loose strand of hair behind her ears.",
+                                "a strand of dental floss"
+                            ]
+                        },
+                        {
+                            "explanation": "a part that combines with other parts to form a whole story, subject, or situation: ",
+                            "examples": [
+                                "There are so many different strands to the plot that it's hard to follow.",
+                                "He is trying to bring the disparate strands of the party together."
+                            ]
+                        },
+                        {
+                            "explanation": "a \nshore : ",
+                            "examples": [
+                                "The winds are blowing from the low sea strand."
+                            ]
+                        },
+                        {
+                            "explanation": "a beach: ",
+                            "examples": [
+                                "The alarm was raised when locals walking on the strand spotted the roof of the tractor in the surf.",
+                                "We spent the day relaxing on Portstewart Strand."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

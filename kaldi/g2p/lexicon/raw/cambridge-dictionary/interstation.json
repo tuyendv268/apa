@@ -1,0 +1,41 @@
+{
+    "word": "interstation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈsteɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˈsteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "between a series of fixed points: ",
+                            "examples": [
+                                "an interstation system of radio communication",
+                                "We used an array of sampling stations with a uniform interstation distance."
+                            ]
+                        },
+                        {
+                            "explanation": "between the different places where buses or trains stop: ",
+                            "examples": [
+                                "All of the inter-station transportation systems have now been shut down.",
+                                "The new railway should have a minimum interstation distance of 8 miles."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

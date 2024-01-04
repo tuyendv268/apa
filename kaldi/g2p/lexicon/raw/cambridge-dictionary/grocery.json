@@ -1,0 +1,37 @@
+{
+    "word": "grocery",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡrəʊ.sər.i"
+                            ],
+                            "us": [
+                                "ˈɡroʊ.sɚ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a grocer's",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the food that you buy in a grocer's shop or supermarket: ",
+                            "examples": [
+                                "I was carrying three heavy bags of groceries."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

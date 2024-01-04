@@ -1,0 +1,40 @@
+{
+    "word": "mislocation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.ləʊˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌmɪs.loʊˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of wrongly saying or thinking that something is in a particular place or position: ",
+                            "examples": [
+                                "The book has not been well edited: examples of this include the mislocation of Aubeterre in the map on page 3, and the misidentification of a photograph on page 300.",
+                                "It is possible that later scribes recognized the apparent mislocation of the temporal marker and decided to restore it to its proper position."
+                            ]
+                        },
+                        {
+                            "explanation": "a failure to find the exact position of someone or something: ",
+                            "examples": [
+                                "After a prisoner went missing inside the jail, there was said to be a failure to inform the controller about his \"mislocation\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "word": "noughts and crosses",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɔːts ən ˈkrɒs.ɪz"
+                            ],
+                            "us": [
+                                "ˌnɑːts ən ˈkrɑː.sɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game played on a piece of paper in which two players write either O or X in a pattern of nine squares. It is won by the first player who places three Os or three Xs in a straight line.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

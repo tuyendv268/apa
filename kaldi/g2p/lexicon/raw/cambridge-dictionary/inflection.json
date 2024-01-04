@@ -1,0 +1,39 @@
+{
+    "word": "inflection",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈflek.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˈflek.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a change in or addition to the form of a word that shows a change in the way it is used in sentences: ",
+                            "examples": [
+                                "If you add the plural inflection \"-s\" to \"dog\" you get \"dogs\"."
+                            ]
+                        },
+                        {
+                            "explanation": "the way in which the sound of your voice changes during speech, for example when you emphasize particular words: ",
+                            "examples": [
+                                "His voice was low and flat, with almost no inflection."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

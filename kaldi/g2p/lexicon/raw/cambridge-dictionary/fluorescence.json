@@ -1,0 +1,39 @@
+{
+    "word": "fluorescence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "flɔːˈres.əns"
+                            ],
+                            "us": [
+                                "flɔːˈres.əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "light produced by a substance that has absorbed light or other radiation, which has a longer wavelength than the light that has been absorbed: ",
+                            "examples": [
+                                "The compound emits blue fluorescence. "
+                            ]
+                        },
+                        {
+                            "explanation": "the quality of absorbing light of a short wavelength and producing light of a longer wavelength: ",
+                            "examples": [
+                                "The mechanisms of fluorescence have applications in television, fluorescent lighting, and radiography."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "word": "hosted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nhost ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "həʊst"
+                            ],
+                            "us": [
+                                "hoʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to provide the space and other things necessary for a special event: ",
+                            "examples": [
+                                "Which country is hosting the next Olympic Games?"
+                            ]
+                        },
+                        {
+                            "explanation": "to be the host of a television or radio programme: ",
+                            "examples": [
+                                "to host a show/programme"
+                            ]
+                        },
+                        {
+                            "explanation": "to set up and manage a meeting or call in which people can speak to each other over the internet using their computers: ",
+                            "examples": [
+                                "Do I need to download special software to host a meeting?",
+                                "The person who hosted the call wanted to have another one two hours later."
+                            ]
+                        },
+                        {
+                            "explanation": "to provide the computer hardware and software that allows a website to exist on the internet: ",
+                            "examples": [
+                                "I've written my website, now I just need to find a company to host it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

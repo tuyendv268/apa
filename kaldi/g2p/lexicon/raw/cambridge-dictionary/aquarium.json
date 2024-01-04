@@ -1,0 +1,39 @@
+{
+    "word": "aquarium",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈkweə.ri.əm"
+                            ],
+                            "us": [
+                                "əˈkwer.i.əm"
+                            ],
+                            "uk_other_tense": [
+                                "əˈkweə.ri.ə"
+                            ],
+                            "us_other_tense": [
+                                "əˈkwer.i.ə"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a glass container in which fish and other water creatures can be kept",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a building, usually open to the public, that holds many aquariums",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

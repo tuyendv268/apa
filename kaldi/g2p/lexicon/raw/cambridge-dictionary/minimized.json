@@ -1,0 +1,69 @@
+{
+    "word": "minimized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nminimize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪn.ɪ.maɪz"
+                            ],
+                            "us": [
+                                "ˈmɪn.ə.maɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to reduce something to the least possible level or amount: ",
+                            "examples": [
+                                "We must minimize the risk of infection.",
+                                "Environmentalists are doing everything within their power to minimize the impact of the oil spill."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something seem less important or smaller than it really is: ",
+                            "examples": [
+                                "She accused politicians of minimizing the suffering of thousands of people.",
+                                "It's important to focus on your strengths and to minimize your weaknesses."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something small on a computer screen: ",
+                            "examples": [
+                                "Minimize the window by clicking in the corner. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "malted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmalt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɒlt"
+                            ],
+                            "us": [
+                                "mɑːlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to leave grain in water until it starts to grow, and then dry it to use in flour or in alcoholic drinks such as beer and whisky: ",
+                            "examples": [
+                                "The grain can be malted immediately after crop harvest.",
+                                "Malt whisky is made exclusively from barley that has been malted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

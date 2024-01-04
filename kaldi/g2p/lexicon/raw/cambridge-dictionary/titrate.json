@@ -1,0 +1,43 @@
+{
+    "word": "titrate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "taɪˈtreɪt"
+                            ],
+                            "us": [
+                                "taɪˈtreɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to measure how much of a substance is in a liquid by adding it to measured amounts of another substance that reacts to it, for example, by making it change colour: ",
+                            "examples": [
+                                "The sample is titrated at a pH near 10 with EDTA solution until a colour change occurs.",
+                                "Water samples were taken at many depths and every sample that came back was titrated on board ship.",
+                                "A solution of hydrochloric acid was titrated against a standard sodium hydroxide solution."
+                            ]
+                        },
+                        {
+                            "explanation": "to calculate and, if necessary, change how much of a drug, etc. is given to a patient in order to produce the best result, without causing too many side effects (= unpleasant effects in addition to the main intended effect): ",
+                            "examples": [
+                                "He had started the patient on a new mix of drugs but had to titrate the medications over several days to avoid side effects.",
+                                "The insulin dose needs to be titrated against the results of home monitoring of blood glucose levels.",
+                                "The drug is given intravenously, titrated to age and tolerance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

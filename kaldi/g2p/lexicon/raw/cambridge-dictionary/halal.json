@@ -1,0 +1,43 @@
+{
+    "word": "halal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "hælˈæl"
+                            ],
+                            "us": [
+                                "həˈlɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of food, places where food is sold, etc.) correct according to Islamic law, for example following rules relating to the way animals are killed for meat : ",
+                            "examples": [
+                                "halal meat",
+                                "a halal butcher",
+                                "We buy the ingredients from a halal shop.",
+                                "All our chicken is strictly halal."
+                            ]
+                        },
+                        {
+                            "explanation": "(of an activity, a business, etc.) allowed and correct according to Islamic law: ",
+                            "examples": [
+                                "Muslims can request that their employers invest their pension funds in halal businesses.",
+                                "Is it halal to donate blood?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

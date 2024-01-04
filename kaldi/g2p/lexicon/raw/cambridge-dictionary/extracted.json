@@ -1,0 +1,63 @@
+{
+    "word": "extracted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nextract ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈstrækt"
+                            ],
+                            "us": [
+                                "ɪkˈstrækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove or take out something: ",
+                            "examples": [
+                                "They used to extract iron ore from this site.",
+                                "The oil which is extracted from olives is used for cooking.",
+                                "The tooth was eventually extracted."
+                            ]
+                        },
+                        {
+                            "explanation": "to make someone give you something when they do not want to: ",
+                            "examples": [
+                                "After much persuasion they managed to extract the information from him."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

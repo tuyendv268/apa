@@ -1,0 +1,43 @@
+{
+    "word": "stratum",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstrɑː.təm"
+                            ],
+                            "us": [
+                                "ˈstreɪt̬.əm"
+                            ],
+                            "uk_other_tense": [
+                                "ˈstrɑː.tə"
+                            ],
+                            "us_other_tense": [
+                                "ˈstreɪt̬.ə"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the parts or layers into which something is separated: ",
+                            "examples": [
+                                "The report shows that drugs have penetrated every stratum of American society."
+                            ]
+                        },
+                        {
+                            "explanation": "a layer of rock, soil, or similar material: ",
+                            "examples": [
+                                "The cliffs are characterized by remarkable zigzagging strata of shale and sandstone."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

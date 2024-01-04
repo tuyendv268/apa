@@ -1,0 +1,63 @@
+{
+    "word": "appointing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nappoint ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈpɔɪnt"
+                            ],
+                            "us": [
+                                "əˈpɔɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to choose someone officially for a job or responsibility: ",
+                            "examples": [
+                                "We've appointed three new teachers this year.",
+                                "He's just been appointed (as) director of the publishing division.",
+                                "A commission has just been appointed to investigate fraud claims."
+                            ]
+                        },
+                        {
+                            "explanation": "to arrange a date or time when a meeting or other event will happen: ",
+                            "examples": [
+                                "A date has been appointed for the election."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

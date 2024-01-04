@@ -1,0 +1,41 @@
+{
+    "word": "unused",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈjuːzd",
+                                "ʌnˈjuːst"
+                            ],
+                            "us": [
+                                "ʌnˈjuːzd",
+                                "ʌnˈjuːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not being used at present, or never having been used: ",
+                            "examples": [
+                                "You might as well take your father's car - there's no point in having it sit there unused in the garage."
+                            ]
+                        },
+                        {
+                            "explanation": "to not be familiar with a particular habit or experience: ",
+                            "examples": [
+                                "If you're unused to exercise your muscles may ache the next day."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "stimulus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstɪm.jə.ləs"
+                            ],
+                            "us": [
+                                "ˈstɪm.jə.ləs"
+                            ],
+                            "uk_other_tense": [
+                                "ˈstɪm.jʊ.laɪ"
+                            ],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that causes growth or activity: ",
+                            "examples": [
+                                "Foreign investment has been a stimulus to the industry.",
+                                "The book will provide a stimulus to research in this very important area."
+                            ]
+                        },
+                        {
+                            "explanation": "something that causes part of the body to react: ",
+                            "examples": [
+                                "The tip of the tongue is sensitive to salt and sweet stimuli and the back of the tongue is sensitive to bitter stimuli."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

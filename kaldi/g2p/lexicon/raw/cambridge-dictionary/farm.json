@@ -1,0 +1,74 @@
+{
+    "word": "farm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fɑːm"
+                            ],
+                            "us": [
+                                "fɑːrm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area of land, together with a house and buildings, used for growing crops and/or keeping animals as a business: ",
+                            "examples": [
+                                "a dairy farm",
+                                "farm animals",
+                                "fresh farm produce",
+                                "farm workers",
+                                "She spent the summer working on a farm."
+                            ]
+                        },
+                        {
+                            "explanation": "a place where a particular type of animal is kept in large numbers in order to be sold: ",
+                            "examples": [
+                                "a sheep/fish farm"
+                            ]
+                        },
+                        {
+                            "explanation": "a number of baseball teams that play below the highest level and are used to prepare young players for a team that plays at the highest level: ",
+                            "examples": [
+                                "We don't have any good pitchers down on the farm.",
+                                "He spent three years in the farm system of the Houston Astros."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fɑːm"
+                            ],
+                            "us": [
+                                "fɑːrm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use land for growing crops and/or keeping animals as a business: ",
+                            "examples": [
+                                "The Stamfords have farmed this land for over a hundred years."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "foggy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɒɡ.i"
+                            ],
+                            "us": [
+                                "ˈfɑː.ɡi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "with fog: ",
+                            "examples": [
+                                "a cold, foggy day"
+                            ]
+                        },
+                        {
+                            "explanation": "confused and unable to think clearly: ",
+                            "examples": [
+                                "Side effects include headaches, nausea, weakness, and foggy thinking."
+                            ]
+                        },
+                        {
+                            "explanation": "not remembering something well, or not knowing much about something : ",
+                            "examples": [
+                                "I get foggier on exact dates as I get older.",
+                                "If you're a bit foggy on gardening without chemicals, this book should help."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

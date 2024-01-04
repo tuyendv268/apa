@@ -1,0 +1,47 @@
+{
+    "word": "hacky",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæk.i"
+                            ],
+                            "us": [
+                                "ˈhæk.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of computer programming) not elegant (= simple in a way that shows skill and care), although it may solve a problem effectively: ",
+                            "examples": [
+                                "I just wrote some ugly, hacky code that got the job done. ",
+                                "The programming is kind of hacky, but it works."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a piece of writing or film) not skilful or original: ",
+                            "examples": [
+                                "The sitcom is a hacky, cliché-filled mess.",
+                                "The documentary was ill conceived, badly shot and hacky."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a cough) loud and sounding painful: ",
+                            "examples": [
+                                "The child had a persistent, dry, hacky cough."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

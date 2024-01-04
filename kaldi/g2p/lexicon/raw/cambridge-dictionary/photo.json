@@ -1,0 +1,68 @@
+{
+    "word": "photo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfəʊ.təʊ"
+                            ],
+                            "us": [
+                                "ˈfoʊ.t̬oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a photograph: ",
+                            "examples": [
+                                "She took lots of photos of the kids.",
+                                "holiday/wedding photos"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "fəʊ.təʊ-"
+                            ],
+                            "us": [
+                                "foʊ.t̬oʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to or produced by light: ",
+                            "examples": [
+                                "photosynthesis"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to photography: ",
+                            "examples": [
+                                "photojournalism"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

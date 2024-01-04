@@ -1,0 +1,61 @@
+{
+    "word": "audit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.dɪt"
+                            ],
+                            "us": [
+                                "ˈɑː.dɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make an official examination of the accounts of a business and produce a report",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to go to a class or educational course for pleasure or interest, without being tested or receiving a grade at the end: ",
+                            "examples": [
+                                "As a senior citizen, he is allowed to audit university classes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.dɪt"
+                            ],
+                            "us": [
+                                "ˈɑː.dɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an official examination of the accounts of a business: ",
+                            "examples": [
+                                "The company has an audit at the end of each financial year."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

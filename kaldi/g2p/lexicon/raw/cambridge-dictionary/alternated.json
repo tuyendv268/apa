@@ -1,0 +1,61 @@
+{
+    "word": "alternated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nalternate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒl.tə.neɪt"
+                            ],
+                            "us": [
+                                "ˈɑːl.tɚ.neɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to happen or exist one after the other repeatedly: ",
+                            "examples": [
+                                "She alternated between cheerfulness and deep despair."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something happen or exist one after the other repeatedly: ",
+                            "examples": [
+                                "He alternated working in the office with long tours overseas."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

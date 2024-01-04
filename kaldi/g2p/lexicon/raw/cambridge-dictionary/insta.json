@@ -1,0 +1,100 @@
+{
+    "word": "insta",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.stə"
+                            ],
+                            "us": [
+                                "ˈɪn.stə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \nInstagram : a social media service for sharing photographs and video: ",
+                            "examples": [
+                                "Insta is a fun and playful platform if you follow the right people."
+                            ]
+                        },
+                        {
+                            "explanation": "someone's Instagram account: ",
+                            "examples": [
+                                "She shared her new look on her insta."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.stə"
+                            ],
+                            "us": [
+                                "ˈɪn.stə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to share something such as an image using the social media service Instagram: ",
+                            "examples": [
+                                "We constantly tweet and insta.",
+                                "Everyone was instaing the sunset."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "ɪn.stə-"
+                            ],
+                            "us": [
+                                "ɪn.stə-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "instant (= happening immediately, without any delay): ",
+                            "examples": [
+                                "The two insta-polls gave wins to the Democratic candidate.",
+                                "Everyone feels pressure to compete in the insta-news culture."
+                            ]
+                        },
+                        {
+                            "explanation": "on Instagram or relating to Instagram : ",
+                            "examples": [
+                                "Fashion brands are taking notice of this Insta-phenomenon, too.",
+                                "You can build a bespoke Insta-site on your phone in minutes, and use it to connect your followers to everything you offer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

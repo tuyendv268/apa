@@ -1,0 +1,65 @@
+{
+    "word": "mentioned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmention ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmen.ʃən"
+                            ],
+                            "us": [
+                                "ˈmen.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak about something quickly, giving little detail or using few words: ",
+                            "examples": [
+                                "I'll mention your ideas to Jacinta.",
+                                "He casually mentioned (that) he was leaving his job.",
+                                "My wife mentioned seeing you the other day.",
+                                "Did she happen to mention whether she would be coming?"
+                            ]
+                        },
+                        {
+                            "explanation": "to refer to something or someone: ",
+                            "examples": [
+                                "I promised never to mention the incident again.",
+                                "Did she mention me in her letter?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

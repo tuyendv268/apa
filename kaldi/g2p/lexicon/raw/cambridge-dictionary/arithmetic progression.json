@@ -1,0 +1,34 @@
+{
+    "word": "arithmetic progression",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ær.ɪθˌmet.ɪ.k prəˈɡreʃ.ən"
+                            ],
+                            "us": [
+                                "er.ɪθˌmet̬.ɪ.k prəˈɡreʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sequence (= an ordered series of numbers) in which the numbers get bigger or smaller by the same amount, such as 3, 6, 9..., or 9, 6, 3: ",
+                            "examples": [
+                                "A computer search revealed an arithmetic progression consisting of 23 primes, the longest such sequence yet found.",
+                                "Thus the terms 1, 4, 7, 10 form an arithmetic sequence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

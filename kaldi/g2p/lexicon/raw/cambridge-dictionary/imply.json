@@ -1,0 +1,47 @@
+{
+    "word": "imply",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˈplaɪ"
+                            ],
+                            "us": [
+                                "ɪmˈplaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to communicate an idea or feeling without saying it directly: ",
+                            "examples": [
+                                "Are you implying (that) I'm fat?",
+                                "I'm not implying anything about your cooking, but could we eat out tonight?",
+                                "I detected an implied criticism of the way he was treated."
+                            ]
+                        },
+                        {
+                            "explanation": "used to show that the name, explanation, etc. of something tells you something else about it: ",
+                            "examples": [
+                                "Variable rate loans, as the name implies, have a variable interest rate."
+                            ]
+                        },
+                        {
+                            "explanation": "to involve something or make it necessary: ",
+                            "examples": [
+                                "Socialism implies equality."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

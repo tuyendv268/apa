@@ -9,8 +9,9 @@ import torch
 
 @serve.deployment(
     # num_replicas=2, 
-    num_replicas=1,
-    max_concurrent_queries=64,
+    # max_concurrent_queries=64,
+    num_replicas=1, 
+    max_concurrent_queries=16,
     # autoscaling_config={
     #     "min_replicas": 1,
     #     "initial_replicas": 2,
@@ -22,7 +23,7 @@ import torch
     # graceful_shutdown_timeout_s=20,
     # graceful_shutdown_wait_loop_s=2,
     ray_actor_options={
-        "num_cpus": 0.1, "num_gpus": 0.15
+        "num_cpus": 0.1, "num_gpus": 0.2
         }
     )
 class GOP_Recipe:
@@ -51,7 +52,7 @@ class GOP_Recipe:
             scores_phone_pures.append(_scores_phone_pure)
             lengths.append(_length)
 
-        scores_phone_pures = torch.tensor(scores_phone_pures).cuda()
+        scores_phone_pures = torch.tensor(scores_phone_pures)
         return ids, alignments, scores_phone_pures, lengths
 
 

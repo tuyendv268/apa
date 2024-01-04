@@ -1,0 +1,68 @@
+{
+    "word": "trawl",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trɔːl"
+                            ],
+                            "us": [
+                                "trɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pull a large, cone-shaped net through the sea at a deep level behind a special boat in order to catch fish: ",
+                            "examples": [
+                                "They trawl these waters for cod."
+                            ]
+                        },
+                        {
+                            "explanation": "to search among a large number or many different places in order to find people or information you want: ",
+                            "examples": [
+                                "The software is used to trawl for information on the internet.",
+                                "You need to trawl through a lot of data to get results that are valid."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "trɔːl"
+                            ],
+                            "us": [
+                                "trɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a search among a large number or many different places in order to find people or information you want: ",
+                            "examples": [
+                                "We did a wide trawl to find the right person to play the part."
+                            ]
+                        },
+                        {
+                            "explanation": "a large, cone-shaped net used for trawling the water for fish",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "ham",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hæm"
+                            ],
+                            "us": [
+                                "hæm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "pig's meat from the leg or shoulder, preserved with salt or smoke",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an actor whose style of acting is artificial and old-fashioned, often using movements and emotions that are too obvious: ",
+                            "examples": [
+                                "They had some dreadful old ham in the main part.",
+                                "His critics wrote him off as a ham actor. "
+                            ]
+                        },
+                        {
+                            "explanation": "a person who operates a radio station as a hobby rather than as a job: ",
+                            "examples": [
+                                "A radio ham picked up their signal and called the coastguard."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

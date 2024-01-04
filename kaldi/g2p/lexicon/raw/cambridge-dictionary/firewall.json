@@ -1,0 +1,31 @@
+{
+    "word": "firewall",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfaɪə.wɔːl"
+                            ],
+                            "us": [
+                                "ˈfaɪə.wɔːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device or program that stops people from seeing or using information on a computer without permission while it is connected to the internet",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "warning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɔː.nɪŋ"
+                            ],
+                            "us": [
+                                "ˈwɔːr.nɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that makes you understand there is a possible danger or problem, especially one in the future: ",
+                            "examples": [
+                                "Completely without warning, he turned up at my door with all four children!",
+                                "There's a warning on the cigarette packet that says \"Cigarettes cause cancer\".",
+                                "I'm not surprised you feel sick after eating so much - let it be a warning to you!",
+                                "Just a word of warning - restaurants in this area can be very expensive.",
+                                "The Health Minister issued a warning about the dangers of sunbathing.",
+                                "They can't dismiss you just like that - they have to give you a written warning first.",
+                                "The police fired warning shots but the rioting continued."
+                            ]
+                        },
+                        {
+                            "explanation": "a physical condition that shows someone has a disease: ",
+                            "examples": [
+                                "The warning signs of the illness are respiratory problems and dizziness."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

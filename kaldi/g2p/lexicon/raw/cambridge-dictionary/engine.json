@@ -1,0 +1,45 @@
+{
+    "word": "engine",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈen.dʒɪn"
+                            ],
+                            "us": [
+                                "ˈen.dʒɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a machine that uses the energy from liquid fuel or steam to produce movement: ",
+                            "examples": [
+                                "a jet engine",
+                                "a car engine",
+                                "My car's been having engine trouble recently."
+                            ]
+                        },
+                        {
+                            "explanation": "the part of a railway train that pulls it along",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "something that provides power, often economic power, for other things: ",
+                            "examples": [
+                                "For much of the 19th century Britain was the workshop of the world and the engine of economic growth."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

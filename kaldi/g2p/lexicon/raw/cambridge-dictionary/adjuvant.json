@@ -1,0 +1,55 @@
+{
+    "word": "adjuvant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈædʒ.ə.vənt"
+                            ],
+                            "us": [
+                                "ˈædʒ.ə.vənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance that strengthens the body's immune response (= ability to fight harmful substances, disease, etc.)",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈædʒ.ə.vənt"
+                            ],
+                            "us": [
+                                "ˈædʒ.ə.vənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "given after the main treatment for cancer: ",
+                            "examples": [
+                                "All women in the study received adjuvant therapy with tamoxifen."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

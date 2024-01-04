@@ -1,0 +1,59 @@
+{
+    "word": "winch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "wɪntʃ"
+                            ],
+                            "us": [
+                                "wɪntʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a machine that lifts heavy objects by turning a chain or rope around a tube-shaped device: ",
+                            "examples": [
+                                "Winches powered by electric motors launched the gliders into the air.",
+                                "This old steam winch was used to pull things up on shore in days gone by. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "wɪntʃ"
+                            ],
+                            "us": [
+                                "wɪntʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to lift a heavy object by turning a chain or rope around a tube-shaped device: ",
+                            "examples": [
+                                "Two helicopters winched the passengers to safety from the deck of the ship.",
+                                "The car was slowly winched out of the water."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

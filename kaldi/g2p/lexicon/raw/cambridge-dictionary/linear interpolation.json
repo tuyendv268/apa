@@ -1,0 +1,34 @@
+{
+    "word": "linear interpolation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌlɪn.i.ər ɪnˌtɜː.pəˈleɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌlɪn.i.ɚ ɪnˌtɝː.pəˈleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a method of producing new data points between known data points by drawing a straight line between them, or an example of this: ",
+                            "examples": [
+                                "For other years, estimates were made by linear interpolation.",
+                                "Using this data, up to four linear interpolations can be performed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

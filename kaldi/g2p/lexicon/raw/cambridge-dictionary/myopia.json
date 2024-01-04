@@ -1,0 +1,41 @@
+{
+    "word": "myopia",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "maɪˈəʊ.pi.ə"
+                            ],
+                            "us": [
+                                "maɪˈoʊ.pi.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a condition in which someone cannot clearly see things that are far away: ",
+                            "examples": [
+                                "He suffers from severe myopia and nerve damage in his right eye.",
+                                "Those with myopia can often read without glasses or lenses."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of not thinking enough about how an action will affect the future, or an example of this: ",
+                            "examples": [
+                                "People's myopia often blinded them from seeing the bigger picture.",
+                                "It is another example of disturbing myopia."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "setup wizard",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈset.ʌp ˌwɪz.əd"
+                            ],
+                            "us": [
+                                "ˈset̬.ʌp ˌwɪz.ɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of software that helps you to set up another computer program or system by giving you clear instructions in easy stages: ",
+                            "examples": [
+                                "Click \"Next\" to begin the setup wizard.",
+                                "The setup wizard takes you through the process of configuring the device."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

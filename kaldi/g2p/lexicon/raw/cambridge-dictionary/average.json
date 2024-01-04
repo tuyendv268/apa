@@ -1,0 +1,104 @@
+{
+    "word": "average",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæv.ər.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈæv.ɚ.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the result you get by adding two or more amounts together and dividing the total by the number of amounts: ",
+                            "examples": [
+                                "The average of the three numbers 7, 12, and 20 is 13, because the total of 7, 12, and 20 is 39, and 39 divided by 3 is 13.",
+                                "Prices have risen by an average of four percent over the past year.",
+                                "My income's rather variable, but I earn £175 a day on average."
+                            ]
+                        },
+                        {
+                            "explanation": "a standard or level that is considered to be typical or usual: ",
+                            "examples": [
+                                "The audience figures were lower than average for this sort of film.",
+                                "In western Europe, a seven to eight-hour working day is about the average.",
+                                "On average, people who don't smoke are healthier than people who do.",
+                                "The quality of candidates was (well) below/above average.",
+                                "I expect to spend an average of $50 to $60 on a meal in a restaurant."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæv.ər.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈæv.ɚ.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to reach a particular amount as an average: ",
+                            "examples": [
+                                "Enquiries to our office average 1,000 calls a month.",
+                                "Many doctors average (= work an average of) 70 hours a week.",
+                                "Trainee accountants average (= earn an average of) £32,000 per year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈæv.ər.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈæv.ɚ.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An average number is the number you get by adding two or more amounts together and dividing the total by the number of amounts: ",
+                            "examples": [
+                                "average earnings/income/rainfall",
+                                "The average age of the US soldiers who fought in the Vietnam War was 19."
+                            ]
+                        },
+                        {
+                            "explanation": "typical and usual: ",
+                            "examples": [
+                                "The average person on the street is a lot better off than they were 40 years ago.",
+                                "a student of average ability",
+                                "The food was fairly average (= not excellent, although not bad)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

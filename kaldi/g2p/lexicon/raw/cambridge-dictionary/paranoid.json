@@ -1,0 +1,40 @@
+{
+    "word": "paranoid",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpær.ən.ɔɪd"
+                            ],
+                            "us": [
+                                "ˈper.ə.nɔɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "feeling extremely nervous and worried because you believe that other people do not like you or are trying to harm you: ",
+                            "examples": [
+                                "He started feeling paranoid and was convinced his boss was going to fire him."
+                            ]
+                        },
+                        {
+                            "explanation": "suffering from a mental illness in which you believe that other people are trying to harm you: ",
+                            "examples": [
+                                "He was diagnosed as a paranoid schizophrenic.",
+                                "paranoid delusions"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

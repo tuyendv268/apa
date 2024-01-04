@@ -1,0 +1,31 @@
+{
+    "word": "blind test",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌblaɪnd ˈtest"
+                            ],
+                            "us": [
+                                "ˌblaɪnd ˈtest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a scientific test in which either the people being tested or the person testing them, or both, do not know what is being tested ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

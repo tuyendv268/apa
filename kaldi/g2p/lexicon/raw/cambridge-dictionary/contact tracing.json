@@ -1,0 +1,34 @@
+{
+    "word": "contact tracing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒn.tækt ˌtreɪ.sɪŋ"
+                            ],
+                            "us": [
+                                "ˈkɑːn.tækt ˌtreɪ.sɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of finding any other people that an infected person has met or had close contact with, usually in order to control the spread of an infectious disease: ",
+                            "examples": [
+                                "Contact tracing is an important part of HIV control in the UK. ",
+                                "Contact tracing can identify high-risk contacts of a person testing positive for Covid-19, who may be asked to self-isolate for 14 days."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

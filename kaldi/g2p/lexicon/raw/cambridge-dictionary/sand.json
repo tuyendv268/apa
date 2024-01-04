@@ -1,0 +1,66 @@
+{
+    "word": "sand",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sænd"
+                            ],
+                            "us": [
+                                "sænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance that consists of very small grains of rock, found on beaches and in deserts: ",
+                            "examples": [
+                                "a grain of sand",
+                                "The children played all day in/on the sand.",
+                                "coarse/fine sand",
+                                "Mix one part sand to three parts cement."
+                            ]
+                        },
+                        {
+                            "explanation": "large flat areas of sand near the sea: ",
+                            "examples": [
+                                "miles of golden sands"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sænd"
+                            ],
+                            "us": [
+                                "sænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something smooth by rubbing it with something rough, especially sandpaper (= strong paper with sand attached to it): ",
+                            "examples": [
+                                "Sand the door (down) thoroughly before starting to paint."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

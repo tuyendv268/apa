@@ -1,0 +1,39 @@
+{
+    "word": "radiation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌreɪ.diˈeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌreɪ.diˈeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a form of energy that comes from a nuclear reaction and that can be very dangerous to health: ",
+                            "examples": [
+                                "Many servicemen suffered radiation sickness after the early atomic tests."
+                            ]
+                        },
+                        {
+                            "explanation": "energy from heat or light that you cannot see: ",
+                            "examples": [
+                                "microwave/ultraviolet/electromagnetic radiation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

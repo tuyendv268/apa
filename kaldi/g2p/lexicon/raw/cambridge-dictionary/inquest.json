@@ -1,0 +1,39 @@
+{
+    "word": "inquest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪŋ.kwest"
+                            ],
+                            "us": [
+                                "ˈɪŋ.kwest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an official process to discover the cause of someone's death: ",
+                            "examples": [
+                                "An inquest is always held if murder is suspected."
+                            ]
+                        },
+                        {
+                            "explanation": "an examination of or discussion about the reasons for someone's or something's failure: ",
+                            "examples": [
+                                "an inquest into the department's poor performance"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "amendment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈmend.mənt"
+                            ],
+                            "us": [
+                                "əˈmend.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a change or changes made to the words of a text: ",
+                            "examples": [
+                                "He insisted that the book did not need amendment.",
+                                "I've made a few last-minute amendments to the article.",
+                                "Presidential power was reduced by a constitutional amendment in 1991."
+                            ]
+                        },
+                        {
+                            "explanation": "a change to a law that is not yet in operation and is still being discussed: ",
+                            "examples": [
+                                "An amendment to the bill was agreed without a vote."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

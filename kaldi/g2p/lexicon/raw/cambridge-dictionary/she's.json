@@ -1,0 +1,41 @@
+{
+    "word": "she's",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "ʃiːz",
+                                "ʃiz"
+                            ],
+                            "us": [
+                                "ʃiːz",
+                                "ʃiz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short form of she is: ",
+                            "examples": [
+                                "She's a writer."
+                            ]
+                        },
+                        {
+                            "explanation": "short form of she has: ",
+                            "examples": [
+                                "She's been to Japan twice."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

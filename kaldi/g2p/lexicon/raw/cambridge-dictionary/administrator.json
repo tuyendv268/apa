@@ -1,0 +1,41 @@
+{
+    "word": "administrator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ədˈmɪn.ɪ.streɪ.tər"
+                            ],
+                            "us": [
+                                "ədˈmɪn.ə.streɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone whose job is to control the operation of a business, organization, or plan: ",
+                            "examples": [
+                                "From 1969 to 1971, he was administrator of the Illinois state drug abuse program.",
+                                "She works as a school administrator."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who is in charge of the operation of a network of computers, a website, a group of computer users, etc., and is able to make changes to it: ",
+                            "examples": [
+                                "It is now possible for network administrators to download educational software to specific computers across the school's network.",
+                                "To set up remote access you have to log on as the administrator."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

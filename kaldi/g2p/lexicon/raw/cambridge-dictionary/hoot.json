@@ -1,0 +1,67 @@
+{
+    "word": "hoot",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "huːt"
+                            ],
+                            "us": [
+                                "huːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short, loud, high sound: ",
+                            "examples": [
+                                "She gave three short hoots on the car horn.",
+                                "He gave a hoot of laughter/derision."
+                            ]
+                        },
+                        {
+                            "explanation": "the sound an owl makes",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "huːt"
+                            ],
+                            "us": [
+                                "huːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a short loud high sound: ",
+                            "examples": [
+                                "She hooted her horn at the dog in the road.",
+                                "He hooted with laughter."
+                            ]
+                        },
+                        {
+                            "explanation": "to make the sound that an owl makes",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

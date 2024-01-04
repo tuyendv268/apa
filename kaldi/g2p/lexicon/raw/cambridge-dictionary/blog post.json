@@ -1,0 +1,41 @@
+{
+    "word": "blog post",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈblɒɡ ˌpəʊst"
+                            ],
+                            "us": [
+                                "ˈblɑːɡ ˌpoʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an edition (= one example) of someone's blog (= a regular record of someone's thoughts, opinions, or experiences put on the internet for people to read): ",
+                            "examples": [
+                                "I'm actually working on a blog post about my experiences at the conference.",
+                                "A recent Wall Street Journal blogpost featured a group called \"Smart on Crime.\""
+                            ]
+                        },
+                        {
+                            "explanation": "something such as a message or comment that someone writes on a blog: ",
+                            "examples": [
+                                "In less than a week, more than 500 blog posts had been written about the incident.",
+                                "He says it's hard not to get angry when you read the hundreds of negative blog postings at the community website."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

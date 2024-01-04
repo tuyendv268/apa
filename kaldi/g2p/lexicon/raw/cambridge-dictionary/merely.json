@@ -1,0 +1,40 @@
+{
+    "word": "merely",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪə.li"
+                            ],
+                            "us": [
+                                "ˈmɪr.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to emphasize that you mean exactly what you are saying and nothing more: ",
+                            "examples": [
+                                "I wasn't complaining, I merely said that I was tired.",
+                                "I didn't say that you had to go - I merely suggested that you might want to go."
+                            ]
+                        },
+                        {
+                            "explanation": "used to emphasize that something is not large, important, or effective when compared to something else: ",
+                            "examples": [
+                                "The medicine won't cure her - it merely stops the pain."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

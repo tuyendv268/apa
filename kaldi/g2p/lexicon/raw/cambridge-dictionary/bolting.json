@@ -1,0 +1,74 @@
+{
+    "word": "bolting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nbolt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bəʊlt"
+                            ],
+                            "us": [
+                                "boʊlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move very fast, especially as a result of being frightened: ",
+                            "examples": [
+                                "Frightened by the car horn, the horse bolted."
+                            ]
+                        },
+                        {
+                            "explanation": "to eat food very quickly: ",
+                            "examples": [
+                                "Don't bolt your food like that - you'll get indigestion."
+                            ]
+                        },
+                        {
+                            "explanation": "to lock a door or window by sliding a bolt across: ",
+                            "examples": [
+                                "Have you locked and bolted the door?",
+                                "The door bolts on the inside."
+                            ]
+                        },
+                        {
+                            "explanation": "to fasten something in position with a bolt: ",
+                            "examples": [
+                                "On a ship the furniture is often bolted to the deck."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

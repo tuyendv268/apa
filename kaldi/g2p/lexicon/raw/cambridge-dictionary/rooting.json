@@ -1,0 +1,62 @@
+{
+    "word": "rooting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nroot ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ruːt"
+                            ],
+                            "us": [
+                                "ruːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to look for something by turning things over: ",
+                            "examples": [
+                                "She rooted through/among the papers on her desk.",
+                                "The pigs rooted for acorns in the forest."
+                            ]
+                        },
+                        {
+                            "explanation": "to grow roots: ",
+                            "examples": [
+                                "The trees failed to root and so died."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

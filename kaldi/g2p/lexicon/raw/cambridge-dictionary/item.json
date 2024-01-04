@@ -1,0 +1,53 @@
+{
+    "word": "item",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈaɪ.təm"
+                            ],
+                            "us": [
+                                "ˈaɪ.t̬əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is part of a list or group of things: ",
+                            "examples": [
+                                "the last item on the list",
+                                "The restaurant has a long menu of about 50 items.",
+                                "Several items of clothing (= clothes) lay on the floor."
+                            ]
+                        },
+                        {
+                            "explanation": "one of several subjects to be considered: ",
+                            "examples": [
+                                "There are three items on the agenda."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of news on television or radio, or in a newspaper: ",
+                            "examples": [
+                                "There's an interesting item on the back page."
+                            ]
+                        },
+                        {
+                            "explanation": "one thing at a time: ",
+                            "examples": [
+                                "Buyers from stores are given the opportunity to go through fashion collections item by item and place orders."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

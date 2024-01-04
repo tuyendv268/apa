@@ -1,0 +1,59 @@
+{
+    "word": "recheck",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈtʃek"
+                            ],
+                            "us": [
+                                "ˌriːˈtʃek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to check something again: ",
+                            "examples": [
+                                "Editors should check and re-check reports for accuracy.",
+                                "Nursery employees were being continually observed and periodically rechecked."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈriː.tʃek"
+                            ],
+                            "us": [
+                                "ˈriː.tʃek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a second, third, etc. check: ",
+                            "examples": [
+                                "They perform rechecks at least once every five years.",
+                                "The company faces an August 31 deadline for the re-check."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

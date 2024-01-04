@@ -1,0 +1,41 @@
+{
+    "word": "playbook",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpleɪ.bʊk"
+                            ],
+                            "us": [
+                                "ˈpleɪ.bʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a book containing a team's plans for a game, especially in American football: ",
+                            "examples": [
+                                "That pass wasn't in their playbook.",
+                                "He would study his playbook en route to games."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of rules, suggestions, or methods that are considered to be suitable for a particular activity, industry, job, etc.: ",
+                            "examples": [
+                                "She followed the company's playbook to the letter.",
+                                "Nixon rewrote the political playbook."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

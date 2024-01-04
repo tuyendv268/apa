@@ -1,0 +1,33 @@
+{
+    "word": "parcel post",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɑː.səl ˌpəʊst"
+                            ],
+                            "us": [
+                                "ˈpɑːr.səl ˌpoʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the system in which parcelsare sent by post: ",
+                            "examples": [
+                                "The cheapest way to send it would be by parcel post."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

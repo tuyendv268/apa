@@ -1,0 +1,43 @@
+{
+    "word": "prescription",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈskrɪp.ʃən"
+                            ],
+                            "us": [
+                                "prɪˈskrɪp.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of paper on which a doctor writes the details of the medicine or drugs that someone needs: ",
+                            "examples": [
+                                "a doctor's prescription",
+                                "a prescription for sedatives",
+                                "The doctor should give you a repeat prescription (= another piece of paper allowing more of the same medicine to be given, often without the person seeing the doctor again).",
+                                "These drugs are only available on prescription (= with a prescription from a doctor).",
+                                "Prescription charges (= the standard amount of money you pay for any medicine prescribed by a doctor) are rising in June."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of telling someone else what they must have or do: ",
+                            "examples": [
+                                "So what is his prescription for success?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

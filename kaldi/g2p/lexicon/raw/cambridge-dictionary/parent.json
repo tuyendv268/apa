@@ -1,0 +1,67 @@
+{
+    "word": "parent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeə.rənt"
+                            ],
+                            "us": [
+                                "ˈper.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mother or father of a person or an animal, or someone who looks after a person in the same way that a parent does: ",
+                            "examples": [
+                                "I'm going to meet Richard's parents for the first time this weekend.",
+                                "Colorado is currently experiencing a shortage of foster parents."
+                            ]
+                        },
+                        {
+                            "explanation": "a company that owns one or more other companies: ",
+                            "examples": [
+                                "The subsidiary has issued shares that are guaranteed by its parent.",
+                                "The parent company is expected to spend $50 million in advertising this year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeə.rənt"
+                            ],
+                            "us": [
+                                "ˈper.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to raise a child as their parent: ",
+                            "examples": [
+                                "I think he was parented very well.",
+                                "Graham has parented about 65 foster children and adopted 11 of them.",
+                                "A lot of adoptive families are second-time-around families, people who've parented before and realize they can do it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

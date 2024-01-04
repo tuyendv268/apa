@@ -1,0 +1,101 @@
+{
+    "word": "mail",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "meɪl"
+                            ],
+                            "us": [
+                                "meɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the letters, etc. that are sent to or from people, or the system for sending letters, etc. from place to place: ",
+                            "examples": [
+                                "She spent the morning reading and answering her mail.",
+                                "All of our customers will be contacted by mail.",
+                                "The book came in yesterday's mail.",
+                                "Some strange things get sent through the mail."
+                            ]
+                        },
+                        {
+                            "explanation": "email: ",
+                            "examples": [
+                                "I had almost 50 unread mails in my inbox.",
+                                "You have mail."
+                            ]
+                        },
+                        {
+                            "explanation": "→ \nchain mail ",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "meɪl"
+                            ],
+                            "us": [
+                                "meɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send a letter, etc. or to email something: ",
+                            "examples": [
+                                "She mailed it last week but it still hasn't arrived.",
+                                "I promised to mail him the article/mail the article to him."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "meɪl"
+                            ],
+                            "us": [
+                                "meɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the UK, used in the name of some newspapers: ",
+                            "examples": [
+                                "the Daily Mail",
+                                "the Hull Mail"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

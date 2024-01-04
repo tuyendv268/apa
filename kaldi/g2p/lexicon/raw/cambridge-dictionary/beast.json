@@ -1,0 +1,40 @@
+{
+    "word": "beast",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "biːst"
+                            ],
+                            "us": [
+                                "biːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an animal, especially a large or wild one: ",
+                            "examples": [
+                                "a wild beast",
+                                "The room wasn't fit for man or beast."
+                            ]
+                        },
+                        {
+                            "explanation": "an unpleasant, annoying, or cruel person: ",
+                            "examples": [
+                                "He was a beast to her throughout their marriage."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

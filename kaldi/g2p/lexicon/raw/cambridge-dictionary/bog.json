@@ -1,0 +1,39 @@
+{
+    "word": "bog",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bɒɡ"
+                            ],
+                            "us": [
+                                "bɑːɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "soft, wet ground, or an area of this",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a toilet: ",
+                            "examples": [
+                                "I'm just going to nip to the bog.",
+                                "We've run out of bog paper.",
+                                "We've run out of bog roll."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

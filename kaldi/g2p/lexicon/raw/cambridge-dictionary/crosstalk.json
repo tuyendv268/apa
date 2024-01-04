@@ -1,0 +1,49 @@
+{
+    "word": "crosstalk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkrɒs.tɔːk"
+                            ],
+                            "us": [
+                                "ˈkrɑːs.tɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "interference (= unwanted noise or other effects) in a communications system because it is receiving a wrong signal: ",
+                            "examples": [
+                                "The cables have a copper core surrounded by wire mesh that absorbs noise and crosstalk.",
+                                "The problem was crosstalk between telephone lines inside the house.",
+                                "You may have experienced cross-talk when using a radio or a telephone."
+                            ]
+                        },
+                        {
+                            "explanation": "a process in which signals sent by different pathways (= sets of connected reactions) in the body affect each other: ",
+                            "examples": [
+                                "The research revealed the crosstalk that exists between the antibacterial and anti-viral arms of the immune response.",
+                                "The process requires intense cross-talk between neurons and their surrounding cells."
+                            ]
+                        },
+                        {
+                            "explanation": "a situation in which two or more people in a conversation are talking at the same time: ",
+                            "examples": [
+                                "People complained that there was too much crosstalk on the show, that we were always talking over each other.",
+                                "Cross-talk can be very difficult to interpret for people with hearing loss."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

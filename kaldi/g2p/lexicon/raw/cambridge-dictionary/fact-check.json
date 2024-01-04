@@ -1,0 +1,34 @@
+{
+    "word": "fact-check",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈfæktˌtʃek"
+                            ],
+                            "us": [
+                                "ˈfæktˌtʃek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to check that all the facts in a piece of writing, a news article, a speech, etc. are correct: ",
+                            "examples": [
+                                "Rival journalists fact-check his stories and accuse him of inaccuracies.",
+                                "Why don't people fact-check before they publish this stuff?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

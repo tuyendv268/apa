@@ -1,0 +1,75 @@
+{
+    "word": "downlink",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaʊn.lɪŋk"
+                            ],
+                            "us": [
+                                "ˈdaʊn.lɪŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a communications link for signals coming from a satellite, spacecraft, or aircraft: ",
+                            "examples": [
+                                "The satellite provides a high-speed downlink. ",
+                                "The system would allow a video downlink on the aircraft. ",
+                                "The downlink delay increases by around 20 times in congested conditions."
+                            ]
+                        },
+                        {
+                            "explanation": "a link coming from a different, or different part of a, communications or computer network: ",
+                            "examples": [
+                                "the downlink from ISP to customer",
+                                "It offers downlink data speeds of up to 100Mbps (megabytes per second). "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaʊn.lɪŋk"
+                            ],
+                            "us": [
+                                "ˈdaʊn.lɪŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to receive or send signals using a communications link from a satellite, spacecraft, or aircraft: ",
+                            "examples": [
+                                "The service allows TV channels to downlink or uplink their satellite signals over the region.",
+                                "For two days, the satellite downlinked images as part of its study of solar winds.",
+                                "The aircraft can downlink its position information on a periodic basis to air traffic controllers.",
+                                "This is the most popular type of satellite transmission for uplinking and downlinking. "
+                            ]
+                        },
+                        {
+                            "explanation": "to send data using a link to a different, or different part of a, communications or computer network: ",
+                            "examples": [
+                                "The laptop collects data and transfers it to a central computer to downlink to mission control."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "gateau",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡæt.əʊ"
+                            ],
+                            "us": [
+                                "ɡæt̬ˈoʊ"
+                            ],
+                            "uk_other_tense": [
+                                "ˈɡæt.əʊ"
+                            ],
+                            "us_other_tense": [
+                                "ɡæt̬ˈoʊ"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large, sweet cake, usually with cream or fruit in it: ",
+                            "examples": [
+                                "a chocolate/raspberry gateau"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "word": "kludge",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "klʌdʒ"
+                            ],
+                            "us": [
+                                "klʌdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something, especially computer hardware or software, that has been put together from whatever is available, especially when it does not work very well: ",
+                            "examples": [
+                                "Some view the GeoPort Telecom Adapter as brilliant; others as a bizarre hardware kludge. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "klʌdʒ"
+                            ],
+                            "us": [
+                                "klʌdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put something, especially computer hardware or software, together from whatever is available, especially when it does not work very well: ",
+                            "examples": [
+                                "Instead of kludging a solution together, it's possible to spend a little more time and money and get one that really works."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "designed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndesign ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈzaɪn"
+                            ],
+                            "us": [
+                                "dɪˈzaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make or draw plans for something, for example clothes or buildings: ",
+                            "examples": [
+                                "Who designed this building/dress/furniture?",
+                                "This range of clothing is specially designed for shorter women."
+                            ]
+                        },
+                        {
+                            "explanation": "to intend: ",
+                            "examples": [
+                                "This dictionary is designed for advanced learners of English.",
+                                "These measures are designed to reduce pollution."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

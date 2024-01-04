@@ -1,0 +1,99 @@
+{
+    "word": "report",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈpɔːt"
+                            ],
+                            "us": [
+                                "rɪˈpɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give a description of something or information about it to someone: ",
+                            "examples": [
+                                "We called the insurance company to report the theft.",
+                                "The assassination was reported in all the newspapers.",
+                                "I want you to report (to me) on progress (= on what you have done) every Friday.",
+                                "Spies reported seeing a build-up of soldiers.",
+                                "He was reported missing in action.",
+                                "The inquiry reports (= will officially make its results known) next week."
+                            ]
+                        },
+                        {
+                            "explanation": "to be described by people as being or doing a particular thing although there is no real proof: ",
+                            "examples": [
+                                "The storm is reported to have killed five people."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a complaint to a person in authority about something or someone: ",
+                            "examples": [
+                                "My neighbours reported me to the police for firing my rifle in the garden."
+                            ]
+                        },
+                        {
+                            "explanation": "to go to a place or a person and say that you are there: ",
+                            "examples": [
+                                "I report for (= am ready for and at) work/duty at 8 a.m. every morning."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈpɔːt"
+                            ],
+                            "us": [
+                                "rɪˈpɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a teacher's written statement to parents about a child's ability and performance at school",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a description of an event or situation: ",
+                            "examples": [
+                                "a news/weather report",
+                                "a company's financial/annual report",
+                                "I gave/made/submitted a report of the theft to the insurance company.",
+                                "She sent in weekly reports on the situation."
+                            ]
+                        },
+                        {
+                            "explanation": "stories for which you do not yet have real proof: ",
+                            "examples": [
+                                "We're getting reports of a plane crash in Paris."
+                            ]
+                        },
+                        {
+                            "explanation": "the loud noise of a shot: ",
+                            "examples": [
+                                "We heard the loud/sharp report of a rifle."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "terminus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtɜː.mɪ.nəs"
+                            ],
+                            "us": [
+                                "ˈtɝː.mə.nəs"
+                            ],
+                            "uk_other_tense": [
+                                "ˈtɜː.mɪ.naɪ"
+                            ],
+                            "us_other_tense": [
+                                "ˈtɝː-"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the last stop or the station at the end of a bus or train route",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

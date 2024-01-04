@@ -1,0 +1,81 @@
+{
+    "word": "exact",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪɡˈzækt"
+                            ],
+                            "us": [
+                                "ɪɡˈzækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in great detail, or complete, correct, or true in every way: ",
+                            "examples": [
+                                "The exact distance is 1.838 metres.",
+                                "The exact time of the accident was 2.43 p.m. ",
+                                "\"I still owe you £7, don't I?\" \"Actually, it's £7.30 to be exact.\"",
+                                "The exact location of the factory has yet to be decided."
+                            ]
+                        },
+                        {
+                            "explanation": "producing results that can be described and understood very accurately: ",
+                            "examples": [
+                                "We all like to think that medicine is an exact science, but that isn't always the case.",
+                                "Unlike astronomy, astrology cannot be described as an exact science."
+                            ]
+                        },
+                        {
+                            "explanation": "producing results that can be understood in various ways: ",
+                            "examples": [
+                                "Diagnosis is not an exact science: two doctors can look at the same test results and come up with a different opinion.",
+                                "Predicting hurricane location is not an exact science: even with the best technology, the computer models have a margin of error of 80 miles."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪɡˈzækt"
+                            ],
+                            "us": [
+                                "ɪɡˈzækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to demand and get something, sometimes using force or threats: ",
+                            "examples": [
+                                "to exact revenge on someone",
+                                "The blackmailers exacted a total of $100,000 from their victims."
+                            ]
+                        },
+                        {
+                            "explanation": "to make something necessary: ",
+                            "examples": [
+                                "Heart surgery exacts tremendous skill and concentration."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

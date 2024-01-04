@@ -1,0 +1,41 @@
+{
+    "word": "non-defining",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.dɪˈfaɪ.nɪŋ"
+                            ],
+                            "us": [
+                                "ˌnɑːn.dɪˈfaɪ.nɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a clause) giving extra information about someone or something and not necessary in order to understand who or what is being referred to, or (of a pronoun) used in a clause like this: ",
+                            "examples": [
+                                "In the sentence \"My younger sister, who lives in Boston, is a nurse\", \"who lives in Boston\" is a non-defining relative clause.",
+                                "If the clause is non-defining and the antecedent non-human, you usually use which and put a comma before it, as in \"He screwed the paper into a ball, which he threw in the bin.\" ",
+                                "In the first sentence \"which\" functions as a non-defining pronoun."
+                            ]
+                        },
+                        {
+                            "explanation": "not explaining or describing the meaning and exact limits of something: ",
+                            "examples": [
+                                "There are many women who find other women attractive in a non-defining way (= they may or may not be lesbian)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

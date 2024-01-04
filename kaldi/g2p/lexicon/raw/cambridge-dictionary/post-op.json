@@ -1,0 +1,102 @@
+{
+    "word": "post-op",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌpəʊstˈɒp"
+                            ],
+                            "us": [
+                                "ˌpoʊstˈɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "happening or given after a medical operation: ",
+                            "examples": [
+                                "I had several post-op appointments over the next six months.",
+                                "You will be offered post-op pain relief.",
+                                "In the post-op period there may be a thin bloody discharge from the nose.",
+                                "post-op complications",
+                                "a post-op abscess"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to recovery (= getting better) after a medical operation, or to a place where this happens: ",
+                            "examples": [
+                                "The surgical team and post-op staff monitor the patient closely.",
+                                "The door to the post-op ward opened, and Dr Ramirez walked in.",
+                                "The patient is then taken from the operating room to the post-op area."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a person) having had their operation: ",
+                            "examples": [
+                                "Each order must be re-written if a patient is post-op or has been transferred between levels of care.",
+                                "a post-op cardiac patient "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌpəʊstˈɒp"
+                            ],
+                            "us": [
+                                "ˌpoʊstˈɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "after someone has an operation: ",
+                            "examples": [
+                                "I still have swelling in my knee and leg post-op.",
+                                "She is eleven months post-op and not completely off meds."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊstˌɒp"
+                            ],
+                            "us": [
+                                "ˈpoʊstˌɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a place in a hospital where someone recovers from (= gets better after) an operation: ",
+                            "examples": [
+                                "In post-op I overheard the nurses talking about my scars.",
+                                "It would be easier if we knew the whereabouts of theatre patients as they travelled from pre-op to post-op."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

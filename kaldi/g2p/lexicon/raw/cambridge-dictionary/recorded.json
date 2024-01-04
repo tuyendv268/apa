@@ -1,0 +1,73 @@
+{
+    "word": "recorded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nrecord ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈkɔːd"
+                            ],
+                            "us": [
+                                "rɪˈkɔːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to store sounds or moving pictures using electronic equipment so that they can be heard or seen later: ",
+                            "examples": [
+                                "Cliff Richard has recorded more number one hit songs than any other British pop star.",
+                                "We recorded their wedding on video.",
+                                "I tried to call her, but all I got was a recorded message saying that she was away for the weekend.",
+                                "Was the concert live or was it recorded (= made before being broadcast)?"
+                            ]
+                        },
+                        {
+                            "explanation": "to keep information for the future, by writing it down or storing it on a computer: ",
+                            "examples": [
+                                "She records everything that happens to her in her diary.",
+                                "Unemployment is likely to reach the highest total that has ever been recorded.",
+                                "In his journal, Captain Scott recorded that he and his companions were weakened by lack of food.",
+                                "The coroner recorded (= decided) a verdict of accidental death."
+                            ]
+                        },
+                        {
+                            "explanation": "If a device records a measurement, it shows that measurement: ",
+                            "examples": [
+                                "The thermometer recorded a temperature of 30 degrees Celsius."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

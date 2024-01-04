@@ -1,0 +1,61 @@
+{
+    "word": "static",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈstæt.ɪk"
+                            ],
+                            "us": [
+                                "ˈstæt̬.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "staying in one place without moving, or not changing for a long time: ",
+                            "examples": [
+                                "Oil prices have remained static for the last few months."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstæt.ɪk"
+                            ],
+                            "us": [
+                                "ˈstæt̬.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "noise on a radio or television caused by electricity in the air: ",
+                            "examples": [
+                                "There's so much static on this radio I can't hear what they're saying."
+                            ]
+                        },
+                        {
+                            "explanation": "an electrical charge that collects on the surface of objects made from some types of material when they are rubbed",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

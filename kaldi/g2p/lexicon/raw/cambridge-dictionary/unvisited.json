@@ -1,0 +1,41 @@
+{
+    "word": "unvisited",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈvɪz.ɪ.tɪd"
+                            ],
+                            "us": [
+                                "ʌnˈvɪz.ɪ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a place is unvisited, no one has gone there: ",
+                            "examples": [
+                                "There are still plenty of unvisited places around the world.",
+                                "The field contains neat rows of unvisited graves."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a person) not having had any visitors: ",
+                            "examples": [
+                                "He spent a month lying in a hospital bed, unvisited by his family and friends.",
+                                "She spent her last days alone, unvisited by her children and grandchildren."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

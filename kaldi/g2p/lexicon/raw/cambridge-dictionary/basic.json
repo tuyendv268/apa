@@ -1,0 +1,75 @@
+{
+    "word": "basic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbeɪ.sɪk"
+                            ],
+                            "us": [
+                                "ˈbeɪ.sɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "simple and not complicated, so able to provide the base or starting point from which something can develop: ",
+                            "examples": [
+                                "I really need to get some basic financial advice.",
+                                "He only has a basic command of English (= he only knows the most important and simple words and expressions).",
+                                "The basic (= most important) problem is that they don't talk to each other enough.",
+                                "It's the most basic model (= it only has the most simple features).",
+                                "The crisis has led to price rises in basic foodstuffs, such as meat, cheese, and sugar."
+                            ]
+                        },
+                        {
+                            "explanation": "boring and not unusual or surprising in any way: ",
+                            "examples": [
+                                "All the music they like is so basic."
+                            ]
+                        },
+                        {
+                            "explanation": "what a person earns before other amounts of money, such as payments for working extra hours, are added: ",
+                            "examples": [
+                                "She earns a basic salary of £450K per annum."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbeɪ.sɪk"
+                            ],
+                            "us": [
+                                "ˈbeɪ.sɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a common language for writing computer programs in that uses instructions that are similar to English",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "pcr test",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpiː.siːˈɑː ˌtest"
+                            ],
+                            "us": [
+                                "ˌpiː.siːˈɑːr ˌtest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a test in which a sample is tested in a laboratory (= a place where scientific tests are done) by copying a particular piece of DNA many times so that the DNA can be examined in detail. PCR is an abbreviation for polymerase chain reaction: ",
+                            "examples": [
+                                "If you think you may have COVID-19, you should take a PCR test."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

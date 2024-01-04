@@ -1,0 +1,40 @@
+{
+    "word": "currency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkʌr.ən.si"
+                            ],
+                            "us": [
+                                "ˈkɝː.ən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the money that is used in a particular country at a particular time: ",
+                            "examples": [
+                                "foreign currency"
+                            ]
+                        },
+                        {
+                            "explanation": "the state of being commonly known or accepted, or of being used in many places: ",
+                            "examples": [
+                                "His ideas enjoyed wide currency during the last century.",
+                                "Many informal expressions are gaining currency in serious newspapers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

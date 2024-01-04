@@ -1,0 +1,33 @@
+{
+    "word": "decimal point",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdes.ɪ.məl ˈpɔɪnt"
+                            ],
+                            "us": [
+                                "ˌdes.ɪ.məl ˈpɔɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the dot used between the whole numbers and the tenths of a decimal. In some countries a decimal comma is used instead: ",
+                            "examples": [
+                                "To divide by ten, move the decimal point one place to the left."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

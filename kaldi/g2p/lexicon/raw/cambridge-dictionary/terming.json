@@ -1,0 +1,55 @@
+{
+    "word": "terming",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nterm ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tɜːm"
+                            ],
+                            "us": [
+                                "tɝːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give something a name or to describe it with a particular expression: ",
+                            "examples": [
+                                "Technically, a horse that is smaller than 1.5 metres at the shoulder is termed a pony."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

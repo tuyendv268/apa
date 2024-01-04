@@ -1,0 +1,49 @@
+{
+    "word": "enemy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈen.ə.mi"
+                            ],
+                            "us": [
+                                "ˈen.ə.mi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who hates or opposes another person and tries to harm them or stop them from doing something: ",
+                            "examples": [
+                                "He's made a few enemies in this company.",
+                                "Max stole Lee's girlfriend and they've been enemies ever since.",
+                                "political enemies"
+                            ]
+                        },
+                        {
+                            "explanation": "a country, or the armed forces of a country, that is at war with another country: ",
+                            "examples": [
+                                "The enemy had succeeded in stopping our supplies from getting through.",
+                                "an attack by enemy aircraft",
+                                "enemy forces/territory"
+                            ]
+                        },
+                        {
+                            "explanation": "something that harms something else: ",
+                            "examples": [
+                                "Familiarity is the enemy of desire."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

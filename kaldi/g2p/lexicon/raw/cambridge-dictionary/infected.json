@@ -1,0 +1,48 @@
+{
+    "word": "infected",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈfek.tɪd"
+                            ],
+                            "us": [
+                                ".ɪnˈfek.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a person or animal) affected by an organism that can cause disease: ",
+                            "examples": [
+                                "Scientists believe people died after eating meat from infected cattle.",
+                                "20 million Americans became infected with the influenza and more than 500,000 died."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a substance, object, etc.) containing bacteria or other organisms that can cause disease: ",
+                            "examples": [
+                                "The virus can be spread through sexual contact and infected needles.",
+                                "After the operation the wound became infected."
+                            ]
+                        },
+                        {
+                            "explanation": "An infected computer or file contains a computer virus (= a program that can harm computers and their files): ",
+                            "examples": [
+                                "The virus installs a program that records the keystrokes of a person using an infected computer.",
+                                "The virus scanner notifies the user that a file is infected."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "rocky",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈrɒk.i"
+                            ],
+                            "us": [
+                                "ˈrɑː.ki"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "made of rock and therefore usually rough and difficult to travel along: ",
+                            "examples": [
+                                "She scrambled along the rocky path."
+                            ]
+                        },
+                        {
+                            "explanation": "unable to balance very well: ",
+                            "examples": [
+                                "After two months in a hospital bed, I felt a bit rocky on my feet."
+                            ]
+                        },
+                        {
+                            "explanation": "uncertain and difficult and not likely to last long: ",
+                            "examples": [
+                                "Their relationship got off to a rocky start."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "recto",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈrek.təʊ"
+                            ],
+                            "us": [
+                                "ˈrek.toʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the front of a piece of paper, document, etc.: ",
+                            "examples": [
+                                "The notes are found on a single sheet written on both recto and verso.",
+                                "The front side (recto) of the page features pictographic elements and some Roman letters."
+                            ]
+                        },
+                        {
+                            "explanation": "the page on the right side of an open book, etc.: ",
+                            "examples": [
+                                "The verso always carries the even page number and the recto the odd number.",
+                                "The first recto would be left blank as a cover."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

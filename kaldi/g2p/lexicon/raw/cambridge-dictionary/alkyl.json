@@ -1,0 +1,34 @@
+{
+    "word": "alkyl",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæl.kɪl"
+                            ],
+                            "us": [
+                                "ˈæl.kɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of atoms that consist of an alkane that has had one hydrogen atom removed; often used before another noun in the name of chemical substances: ",
+                            "examples": [
+                                "an alkyl iodide",
+                                "an alkyl ammonium salt"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

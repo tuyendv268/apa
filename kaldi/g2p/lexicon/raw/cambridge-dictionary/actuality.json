@@ -1,0 +1,40 @@
+{
+    "word": "actuality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæk.tʃuˈæl.ə.ti",
+                                "ˌæk.tjuˈæl.ə.ti"
+                            ],
+                            "us": [
+                                "ˌæk.tʃuˈæl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fact: ",
+                            "examples": [
+                                "He's out of touch with the actualities of life in Africa."
+                            ]
+                        },
+                        {
+                            "explanation": "really: ",
+                            "examples": [
+                                "In actuality, there were few job losses last year."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

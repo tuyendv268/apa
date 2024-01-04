@@ -1,0 +1,62 @@
+{
+    "word": "wrecking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nwreck ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rek"
+                            ],
+                            "us": [
+                                "rek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to destroy or badly damage something: ",
+                            "examples": [
+                                "The explosion shattered nearby windows and wrecked two cars.",
+                                "Our greenhouse was wrecked in last night's storm."
+                            ]
+                        },
+                        {
+                            "explanation": "to spoil something completely: ",
+                            "examples": [
+                                "He has been warned that his behaviour might wreck his chances of promotion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

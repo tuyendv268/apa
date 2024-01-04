@@ -1,0 +1,39 @@
+{
+    "word": "community theater",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəˌmjuː.nə.ti ˈθɪə.tər"
+                            ],
+                            "us": [
+                                "kəˌmjuː.nə.t̬i ˈθiː.ə.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "theater performances involving or created for a group of people who live in a particular area: ",
+                            "examples": [
+                                "The play involved many local schoolchildren and was a wonderful piece of community theater."
+                            ]
+                        },
+                        {
+                            "explanation": "a theater where performances are given by or for people who live in the local area: ",
+                            "examples": [
+                                "The Indianapolis Civic Theatre is the oldest continuously operating community theater in the country."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

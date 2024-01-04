@@ -1,0 +1,41 @@
+{
+    "word": "guilt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡɪlt"
+                            ],
+                            "us": [
+                                "ɡɪlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a feeling of worry or unhappiness that you have because you have done something wrong, such as causing harm to another person: ",
+                            "examples": [
+                                "He suffered such feelings of guilt over leaving his children.",
+                                "She remembered with a pang of guilt that she hadn't called her mother."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of having done something wrong or committed a crime: ",
+                            "examples": [
+                                "Both suspects admitted their guilt to the police.",
+                                "The prosecution's task in a case is to establish a person's guilt beyond any reasonable doubt."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

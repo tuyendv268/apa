@@ -1,0 +1,68 @@
+{
+    "word": "domestic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dəˈmes.tɪk"
+                            ],
+                            "us": [
+                                "dəˈmes.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a person's own country: ",
+                            "examples": [
+                                "domestic airlines/flights",
+                                "Domestic opinion had turned against the war."
+                            ]
+                        },
+                        {
+                            "explanation": "belonging or relating to the home, house, or family: ",
+                            "examples": [
+                                "domestic chores/duties/arrangements"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dəˈmes.tɪk"
+                            ],
+                            "us": [
+                                "dəˈmes.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fight or attack that happens in a home between people who know each other: ",
+                            "examples": [
+                                "Police officers should never dismiss a violent incident as \"a domestic\"."
+                            ]
+                        },
+                        {
+                            "explanation": "someone paid to do work, such as cleaning and cooking, in someone else's house",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

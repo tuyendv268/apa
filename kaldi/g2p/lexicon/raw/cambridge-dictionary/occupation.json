@@ -1,0 +1,55 @@
+{
+    "word": "occupation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒk.jəˈpeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌɑː.kjəˈpeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person's job: ",
+                            "examples": [
+                                "In the space marked \"occupation\" she wrote \"police officer\".",
+                                "Occupations experiencing shortages will need an average of 47% more graduates to meet demand."
+                            ]
+                        },
+                        {
+                            "explanation": "a regular activity or hobby: ",
+                            "examples": [
+                                "It seems to me his favourite occupation is eating.",
+                                "Running a house is a full-time occupation."
+                            ]
+                        },
+                        {
+                            "explanation": "a situation in which an army or group of people moves into and takes control of a place: ",
+                            "examples": [
+                                "the Italian occupation of Ethiopia",
+                                "The US had planned to continue the occupation for another year."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of living in or using a building: ",
+                            "examples": [
+                                "All the houses will be fit for occupation next month.",
+                                "The director has not been provided with living accommodation by reason of his office, and any occupation of the property by him is purely incidental."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

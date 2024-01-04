@@ -1,0 +1,40 @@
+{
+    "word": "lager",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɑː.ɡər"
+                            ],
+                            "us": [
+                                "ˈlɑː.ɡɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of beer that is pale in colour and usually contains a lot of bubbles: ",
+                            "examples": [
+                                "Two pints of lager and a packet of crisps, please.",
+                                "The first golden lager beer was created in what is now the Czech Republic."
+                            ]
+                        },
+                        {
+                            "explanation": "a glass or container of this type of beer: ",
+                            "examples": [
+                                "I'll have a lager."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

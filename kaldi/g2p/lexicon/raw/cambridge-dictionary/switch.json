@@ -1,0 +1,79 @@
+{
+    "word": "switch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "swɪtʃ"
+                            ],
+                            "us": [
+                                "swɪtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small device, usually pushed up or down with your finger, that controls and turns on or off an electric current: ",
+                            "examples": [
+                                "a light switch",
+                                "Can you flip the switch?"
+                            ]
+                        },
+                        {
+                            "explanation": "a place on a railway track where the rails (= metal bars on which the trains travel) can be moved to allow a train to change from one track to another: ",
+                            "examples": [
+                                "The train rattled as it went over the switches."
+                            ]
+                        },
+                        {
+                            "explanation": "a sudden or complete change, especially of one person or thing for another: ",
+                            "examples": [
+                                "When did the writer make the switch from fiction to non-fiction?",
+                                "The switch to new accounting software greatly improved the organization's bookkeeping. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "swɪtʃ"
+                            ],
+                            "us": [
+                                "swɪtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use a switch to change a device from one state or type of operation to another: ",
+                            "examples": [
+                                "switch the TV off/on"
+                            ]
+                        },
+                        {
+                            "explanation": "to change suddenly or completely, especially from one thing to another, or to exchange by replacing one person or thing with another: ",
+                            "examples": [
+                                "She started studying English, but switched to History in her second year.",
+                                "In 1971, Britain switched over (= changed completely) to a decimal currency.",
+                                "After the bank robbery, the gang switched cars (= left one car and got into another)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

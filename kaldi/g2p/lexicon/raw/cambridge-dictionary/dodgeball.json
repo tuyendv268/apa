@@ -1,0 +1,41 @@
+{
+    "word": "dodgeball",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɒdʒ.bɔːl"
+                            ],
+                            "us": [
+                                "ˈdɑːdʒ.bːɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game in which two teams of players try to hit their opponents' bodies with a ball that they throw: ",
+                            "examples": [
+                                "We like to play dodgeball.",
+                                "His team won the dodgeball tournament."
+                            ]
+                        },
+                        {
+                            "explanation": "a ball used in the game of dodgeball: ",
+                            "examples": [
+                                "It was the unmistakable sound of a bouncing dodgeball.",
+                                "Dodgeballs were constantly thrown at his enormous frame."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

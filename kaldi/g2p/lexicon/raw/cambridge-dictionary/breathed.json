@@ -1,0 +1,67 @@
+{
+    "word": "breathed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbreathe ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "briːð"
+                            ],
+                            "us": [
+                                "briːð"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move air into and out of the lungs: ",
+                            "examples": [
+                                "It's so airless in here - I can hardly breathe.",
+                                "The instructor told us to breathe in deeply and then breathe out slowly.",
+                                "I'm sorry if I'm breathing (= blowing out air containing) garlic fumes all over you!"
+                            ]
+                        },
+                        {
+                            "explanation": "to say something very quietly: ",
+                            "examples": [
+                                "\"Here they come,\" he breathed."
+                            ]
+                        },
+                        {
+                            "explanation": "If you allow wine to breathe, you open the bottle for a short time before you drink from it, in order to improve the wine's flavour.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

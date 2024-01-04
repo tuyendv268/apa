@@ -1,0 +1,49 @@
+{
+    "word": "conference",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒn.fər.əns"
+                            ],
+                            "us": [
+                                "ˈkɑːn.fɚ.əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an event, sometimes lasting a few days, at which there is a group of talks on a particular subject, or a meeting in which especially business matters are discussed formally: ",
+                            "examples": [
+                                "a conference on women's rights",
+                                "They frequently hold conferences at that hotel.",
+                                "I'm speaking at/attending a conference next week.",
+                                "Should I book the conference room for the meeting?"
+                            ]
+                        },
+                        {
+                            "explanation": "to be in a meeting: ",
+                            "examples": [
+                                "Ms O'Neill isn't available at the moment. She's in conference."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of sports teams that play each other in organized competitions: ",
+                            "examples": [
+                                "They can win because they have the most talent in their conference.",
+                                "He guided the team to the Southern Conference championship."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "word": "traced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntrace ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "treɪs"
+                            ],
+                            "us": [
+                                "treɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to find someone or something that was lost: ",
+                            "examples": [
+                                "The police are trying to trace the mother of a newborn baby found abandoned outside a hospital.",
+                                "Attempts to trace the whereabouts of a man seen leaving the scene of the crime have so far been unsuccessful.",
+                                "Their missing daughter was finally traced to (= found in) Manchester."
+                            ]
+                        },
+                        {
+                            "explanation": "to find the origin of something: ",
+                            "examples": [
+                                "The phone company was unable to trace the call.",
+                                "No one has yet been able to trace the source of the rumour."
+                            ]
+                        },
+                        {
+                            "explanation": "to discover the causes or origins of something by examining the way in which it has developed: ",
+                            "examples": [
+                                "The outbreak of food poisoning was traced to some contaminated shellfish.",
+                                "She has traced her family history back to the seventeenth century.",
+                                "The practice of giving eggs at Easter can be traced back to (= first happened in) festivals in ancient China."
+                            ]
+                        },
+                        {
+                            "explanation": "to describe the way in which something has developed: ",
+                            "examples": [
+                                "The film traces the events leading up to the Russian Revolution in 1917."
+                            ]
+                        },
+                        {
+                            "explanation": "to copy a drawing or pattern, etc. by drawing over its lines through a thin piece of transparent paper: ",
+                            "examples": [
+                                "Did you draw this picture yourself, or did you trace it?",
+                                "She learned to write her name by tracing out the letters."
+                            ]
+                        },
+                        {
+                            "explanation": "to draw a shape by showing the main or outer lines: ",
+                            "examples": [
+                                "The child was tracing patterns in/on the sand with a stick."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "word": "solo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsəʊ.ləʊ"
+                            ],
+                            "us": [
+                                "ˈsoʊ.loʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "alone; without other people: ",
+                            "examples": [
+                                "a solo performance/flight",
+                                "to sail/fly solo",
+                                "He used to play with a group but now he's going solo/pursuing a solo career."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsəʊ.ləʊ"
+                            ],
+                            "us": [
+                                "ˈsoʊ.loʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a musical performance given by one person alone, or a musical performance in which one person is given special attention: ",
+                            "examples": [
+                                "a trumpet solo",
+                                "Parker's solo on \"A Night in Tunisia\" was so amazing that the pianist backing him simply stopped playing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

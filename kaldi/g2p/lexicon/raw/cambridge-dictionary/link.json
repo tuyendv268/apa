@@ -1,0 +1,84 @@
+{
+    "word": "link",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "lɪŋk"
+                            ],
+                            "us": [
+                                "lɪŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a connection between two people, things, or ideas: ",
+                            "examples": [
+                                "There's a direct link between diet and heart disease.",
+                                "Their links with Mexico are still strong.",
+                                "diplomatic links between the two countries"
+                            ]
+                        },
+                        {
+                            "explanation": "a connection between documents on the internet: ",
+                            "examples": [
+                                "Click on this link to visit our online bookshop."
+                            ]
+                        },
+                        {
+                            "explanation": "one of the rings in a chain",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "lɪŋk"
+                            ],
+                            "us": [
+                                "lɪŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a connection between two or more people, things, or ideas: ",
+                            "examples": [
+                                "The explosions are not thought to be linked in any way.",
+                                "The use of CFCs was linked to the depletion of the ozone layer."
+                            ]
+                        },
+                        {
+                            "explanation": "to connect two objects or places physically: ",
+                            "examples": [
+                                "It can play MP3 music files and can be linked to an iPod with an extra lead.",
+                                "Turkey, because of its location linking the European and Asian continents, has become a primary transit point for the efforts."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a connection with a website, social media post, video, etc. on the internet: ",
+                            "examples": [
+                                "We will link to this post from the project website.",
+                                "She linked a video about finding work on social media."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "sky",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "skaɪ"
+                            ],
+                            "us": [
+                                "skaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the area above the earth, in which clouds, the sun, etc. can be seen: ",
+                            "examples": [
+                                "a blue/cloudy/dark sky",
+                                "Can you see those birds high up in the sky?",
+                                "We looked up at/into the sky at the sound of the plane."
+                            ]
+                        },
+                        {
+                            "explanation": "the sky in a particular state or place: ",
+                            "examples": [
+                                "For weeks we had cloudless blue skies.",
+                                "We're off to the sunny skies of Florida."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

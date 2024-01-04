@@ -1,0 +1,35 @@
+{
+    "word": "ergodic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɜːˈɡɒd.ɪk"
+                            ],
+                            "us": [
+                                "ɝːˈɡɑː.dɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to or involving the probability (= how likely it is) that any state will recur (= happen again): ",
+                            "examples": [
+                                "An ergodic approach analyzes dynamic systems using probability.",
+                                "The ergodic theorem cannot be applied simply and directly in all cases.",
+                                "These processes are assumed to be ergodic."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

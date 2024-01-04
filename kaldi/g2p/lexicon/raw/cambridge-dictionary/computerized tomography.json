@@ -1,0 +1,35 @@
+{
+    "word": "computerized tomography",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəmˌpjuː.tər.aɪzd təˈmɒɡ.rə.fi"
+                            ],
+                            "us": [
+                                "kəmˌpjuː.t̬ə.raɪzd təˈmɑː.ɡrə.fi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use of X-rays to make three-dimensional images (= ones that have or appear to have height, depth, and width) of flat sections of the body: ",
+                            "examples": [
+                                "An abnormality was detected by computerized tomography.",
+                                "Computerised tomography of the head may rule out an intracranial tumour.",
+                                "a computerized tomography scan"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

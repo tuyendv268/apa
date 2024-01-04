@@ -1,0 +1,61 @@
+{
+    "word": "snuffled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsnuffle ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsnʌf.əl"
+                            ],
+                            "us": [
+                                "ˈsnʌf.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to breathe in quickly and repeatedly through the nose, usually because you are crying or because you have a cold: ",
+                            "examples": [
+                                "He was snuffling and blowing his nose."
+                            ]
+                        },
+                        {
+                            "explanation": "(of an animal) to breathe in quickly and repeatedly through the nose while smelling something: ",
+                            "examples": [
+                                "The dog snuffled around and began digging at the base of the tree. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "craft beer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkrɑːft ˈbɪər"
+                            ],
+                            "us": [
+                                "ˌkræft ˈbɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "beer made using traditional methods in small, independent breweries: ",
+                            "examples": [
+                                "He usually drinks good wine or craft beer.",
+                                "Craft beers cost more than mass-market beers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "slurped",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nslurp ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "slɜːp"
+                            ],
+                            "us": [
+                                "slɝːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to drink a liquid noisily as a result of sucking air into the mouth at the same time as the liquid: ",
+                            "examples": [
+                                "Try not to slurp.",
+                                "I wish you wouldn't slurp your soup like that.",
+                                "He slurped down his coffee."
+                            ]
+                        },
+                        {
+                            "explanation": "When a thick liquid slurps, it makes loud noises: ",
+                            "examples": [
+                                "The lava slurped and bubbled down the mountainside."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

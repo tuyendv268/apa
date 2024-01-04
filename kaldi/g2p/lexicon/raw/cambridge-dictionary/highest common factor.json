@@ -1,0 +1,33 @@
+{
+    "word": "highest common factor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌhaɪ.ɪst kɒm.ən ˈfæk.tər"
+                            ],
+                            "us": [
+                                "ˌhaɪ.ɪst kɑː.mən ˈfæk.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the highest number that a set of two or more different numbers can be divided by exactly: ",
+                            "examples": [
+                                "4 is the highest common factor of 8 and 12."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

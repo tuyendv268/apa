@@ -1,0 +1,140 @@
+{
+    "word": "prompt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prɒmpt"
+                            ],
+                            "us": [
+                                "prɑːmpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something happen: ",
+                            "examples": [
+                                "The bishop's speech has prompted an angry response from both political parties.",
+                                "Recent worries over the president's health have prompted speculation over his political future."
+                            ]
+                        },
+                        {
+                            "explanation": "to make someone decide to say or do something: ",
+                            "examples": [
+                                "What prompted you to say that?"
+                            ]
+                        },
+                        {
+                            "explanation": "to help someone, especially an actor, to remember what they were going to say or do: ",
+                            "examples": [
+                                "I forgot my line and had to be prompted."
+                            ]
+                        },
+                        {
+                            "explanation": "to give an instruction to an artificial intelligence (= a computer system or machine that has some of the qualities that a human brain has, such as the ability to interpret and produce language in a way that seems human, recognize or create images, solve problems, and learn from data supplied to it) using natural language rather than computer language: ",
+                            "examples": [
+                                "Generative AIs can be prompted to create content that appears entirely novel.",
+                                "Successfully prompting a text-to-image AI model often involves a lot of experimentation in how to add and order words to get the results you want. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "prɒmpt"
+                            ],
+                            "us": [
+                                "prɑːmpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of an action) done quickly and without delay, or (of a person) acting quickly or arriving at the arranged time: ",
+                            "examples": [
+                                "They've written back already - that was a very prompt reply.",
+                                "They're usually fairly prompt in dealing with enquiries.",
+                                "Try to be prompt because we'll be very short of time."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "prɒmpt"
+                            ],
+                            "us": [
+                                "prɑːmpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sign on a computer screen that shows that the computer is ready to receive your instructions",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an instruction given to an artificial intelligence (= a computer system or machine that has some of the qualities that a human brain has, such as the ability to interpret and produce language in a way that seems human, recognize or create images, solve problems, and learn from data supplied to it) by a human using natural language rather than computer language: ",
+                            "examples": [
+                                "As a beginner in prompt engineering, start with simple prompts and gradually move on to more complex ones.",
+                                "AI prompts are essentially commands that the AI model can understand."
+                            ]
+                        },
+                        {
+                            "explanation": "words that are spoken to an actor who has forgotten what he or she is going to say during the performance of a play",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a person whose job is to help actors, during a performance, to remember words that they have forgotten",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "prɒmpt"
+                            ],
+                            "us": [
+                                "prɑːmpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "at the time stated and no later: ",
+                            "examples": [
+                                "We'll be leaving at six o'clock prompt."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

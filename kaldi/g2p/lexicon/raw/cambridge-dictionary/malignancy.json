@@ -1,0 +1,39 @@
+{
+    "word": "malignancy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məˈlɪɡ.nən.si"
+                            ],
+                            "us": [
+                                "məˈlɪɡ.nən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of being malignant: ",
+                            "examples": [
+                                "The malignancy of these tumours makes them difficult to treat."
+                            ]
+                        },
+                        {
+                            "explanation": "a growth that is likely to get worse and lead to death: ",
+                            "examples": [
+                                "Tests revealed a malignancy that had to be removed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

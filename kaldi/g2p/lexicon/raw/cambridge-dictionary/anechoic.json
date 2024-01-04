@@ -1,0 +1,35 @@
+{
+    "word": "anechoic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.ɪˈkəʊ.ɪk"
+                            ],
+                            "us": [
+                                "ˌæn.ɪˈkoʊ.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not able to send back an echo (= a sound that reflects off a surface): ",
+                            "examples": [
+                                "The anechoic chamber is used to test microphone performance.",
+                                "The ultrasound showed an anechoic mass located behind a normal bladder.",
+                                "Those are lightweight building blocks made of some porous, anechoic material."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

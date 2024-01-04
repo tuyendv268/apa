@@ -1,0 +1,76 @@
+{
+    "word": "hovering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nhover ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɒv.ər"
+                            ],
+                            "us": [
+                                "ˈhʌ.vɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stay in one place in the air, usually by moving the wings quickly: ",
+                            "examples": [
+                                "A hawk hovered in the sky, waiting to swoop down on its prey.",
+                                "I heard the noise of a helicopter hovering overhead."
+                            ]
+                        },
+                        {
+                            "explanation": "to stand somewhere, especially near another person, eagerly or nervously waiting for their attention: ",
+                            "examples": [
+                                "A waiter hovered at the table, ready to take our order.",
+                                "I could sense him behind me, hovering and building up the courage to ask me a question."
+                            ]
+                        },
+                        {
+                            "explanation": "to stay at or near a particular level: ",
+                            "examples": [
+                                "Inflation is hovering at three percent."
+                            ]
+                        },
+                        {
+                            "explanation": "to put the cursor on a computer screen in a particular place without clicking on it: ",
+                            "examples": [
+                                "The link changes to green when the mouse hovers over it. ",
+                                "If you hover the mouse pointer over the entry, the full web address will be displayed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

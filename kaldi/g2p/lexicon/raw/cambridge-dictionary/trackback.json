@@ -1,0 +1,34 @@
+{
+    "word": "trackback",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtræk.bæk"
+                            ],
+                            "us": [
+                                "ˈtræk.bæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a message sent to a website, especially a blog, when it has been mentioned or linked to from another blog or website, or a link that sends this message: ",
+                            "examples": [
+                                "Post a comment or leave a trackback.",
+                                "If you have a blog and would like to link to this page you can use this trackback."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

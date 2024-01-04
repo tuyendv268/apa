@@ -1,0 +1,62 @@
+{
+    "word": "inner city",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.ə ˈsɪt.i"
+                            ],
+                            "us": [
+                                "ˌɪn.ɚ ˈsɪt̬.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the central part of a city where people live and where there are often problems because people are poor and there are few jobs and bad houses: ",
+                            "examples": [
+                                "a child from the inner city"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.ə ˈsɪt.i"
+                            ],
+                            "us": [
+                                "ˌɪn.ɚ ˈsɪt̬.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the central part of a city where people live and where there are often problems because people are poor and there are few jobs and bad houses, or relating to areas like this: ",
+                            "examples": [
+                                "Many inner-city areas have struggled with decline and decay.",
+                                "She teaches at an inner-city school."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

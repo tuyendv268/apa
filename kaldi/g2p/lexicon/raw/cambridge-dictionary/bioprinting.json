@@ -1,0 +1,33 @@
+{
+    "word": "bioprinting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.əʊˌprɪn.tɪŋ"
+                            ],
+                            "us": [
+                                "ˈbaɪ.oʊˌprɪn.t̬ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of producing tissue or organs similar to natural body parts and containing living cells, using 3-D printing (= a way of creating a solid object from a digital model by printing many separate layers of the object): ",
+                            "examples": [
+                                "Bioprinting allows researchers to create replacement human tissue."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

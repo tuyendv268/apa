@@ -1,0 +1,33 @@
+{
+    "word": "bloatware",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbləʊt.weər"
+                            ],
+                            "us": [
+                                "ˈbloʊt.wer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "programs that use a lot of space and memory, often programs that are already on a computer or phone when it is bought, and that may not be needed by the user: ",
+                            "examples": [
+                                "Remove the pre-installed bloatware and get the apps you want."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

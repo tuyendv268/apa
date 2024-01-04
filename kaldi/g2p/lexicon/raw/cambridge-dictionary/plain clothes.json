@@ -1,0 +1,62 @@
+{
+    "word": "plain clothes",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpleɪn ˈkləʊðz"
+                            ],
+                            "us": [
+                                "ˌpleɪn ˈkloʊðz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "ordinary clothes when worn by police when they are working: ",
+                            "examples": [
+                                "There were police in plain clothes in the crowd."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌpleɪnˈkləʊðz"
+                            ],
+                            "us": [
+                                "ˌpleɪnˈkloʊðz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "wearing ordinary clothes, rather than a uniform: ",
+                            "examples": [
+                                "plain-clothes police officers/detectives",
+                                "The square is filled with uniformed and plain-clothes security officials."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

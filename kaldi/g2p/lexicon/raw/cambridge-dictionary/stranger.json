@@ -1,0 +1,40 @@
+{
+    "word": "stranger",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstreɪn.dʒər"
+                            ],
+                            "us": [
+                                "ˈstreɪn.dʒɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone you do not know: ",
+                            "examples": [
+                                "My mother always warned me not to talk to strangers.",
+                                "I'd never met anyone at the party before - they were complete strangers."
+                            ]
+                        },
+                        {
+                            "explanation": "A stranger in a particular place is someone who has never been there before: ",
+                            "examples": [
+                                "Do you know the way to the bus station, or are you a stranger here too?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

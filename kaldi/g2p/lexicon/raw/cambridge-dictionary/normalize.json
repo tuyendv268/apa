@@ -1,0 +1,46 @@
+{
+    "word": "normalize",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈnɔː.mə.laɪz"
+                            ],
+                            "us": [
+                                "ˈnɔːr.mə.laɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to return to the normal or usual situation, or to make something do this: ",
+                            "examples": [
+                                "Relations between the two countries are gradually normalizing.",
+                                "They claim that the new drug normalizes blood pressure."
+                            ]
+                        },
+                        {
+                            "explanation": "to start to consider something as normal, or to make something start to be considered as normal: ",
+                            "examples": [
+                                "Once we normalize violence, we get accustomed to it."
+                            ]
+                        },
+                        {
+                            "explanation": "to compare a small set of information with a larger set that represents the usual values: ",
+                            "examples": [
+                                "Research psychologists normalize the results of their studies by comparing their subjects' behaviour with that of the general public."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

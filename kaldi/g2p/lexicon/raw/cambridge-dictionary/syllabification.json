@@ -1,0 +1,41 @@
+{
+    "word": "syllabification",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɪˌlæb.ɪ.fɪˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "sɪˌlæb.ə.fəˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the division of written or spoken words into syllables, or the combination of sounds or letters to form syllables: ",
+                            "examples": [
+                                "The program offers a suite of learning tools, including syllabification, pronunciation, phonetic spelling, and a dictionary.",
+                                "In some dictionaries, syllabication is used to show where a word can be hyphenated at the end of a line of text.",
+                                "One strategy involved syllabification across a word boundary."
+                            ]
+                        },
+                        {
+                            "explanation": "an example of a syllable being formed, or of a word being divided into syllables: ",
+                            "examples": [
+                                "If their reading was accurate but not fluent (e.g., with syllabifications or hesitations), the children received only one mark."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "additive manufacturing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæd.ɪ.tɪv mæn.jəˈfæk.tʃə.rɪŋ"
+                            ],
+                            "us": [
+                                "ˌæd.ə.t̬ɪv ˌmæn.jəˈfæk.tʃɚ.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "technologies such as 3-D printing that use computers and lasers (= narrow, powerful beams of light) to create three-dimensional (= solid) objects by adding layers of material one on top of another: ",
+                            "examples": [
+                                "High-strength metal alloys can be produced by laser additive manufacturing.",
+                                "3D printers are generally faster, more affordable, and easier to use than other additive manufacturing technologies."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

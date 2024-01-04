@@ -1,0 +1,40 @@
+{
+    "word": "deep learning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdiːp ˈlɜː.nɪŋ"
+                            ],
+                            "us": [
+                                "ˌdiːp ˈlɝː.nɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a complete way of learning something that means you fully understand it and will not forget it: ",
+                            "examples": [
+                                "Deep learning is the kind you take with you through the rest of your life."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of machine learning (= the process of computers improving their own ability to perform tasks by analysing new data) that uses many layers of data processing: ",
+                            "examples": [
+                                "Deep learning has been responsible for the most exciting developments in data science in recent years.",
+                                "Face identification tasks can now be solved by deep learning."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

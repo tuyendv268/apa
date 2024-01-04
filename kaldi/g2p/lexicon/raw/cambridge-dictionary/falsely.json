@@ -1,0 +1,45 @@
+{
+    "word": "falsely",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɒls.li"
+                            ],
+                            "us": [
+                                "ˈfɑːls.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that is not true: ",
+                            "examples": [
+                                "He claimed, falsely, that he was married."
+                            ]
+                        },
+                        {
+                            "explanation": "wrongly: ",
+                            "examples": [
+                                "She was falsely accused of shoplifting."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that is not sincere: ",
+                            "examples": [
+                                "She tends to adopt a falsely cheerful tone when she's upset about something."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

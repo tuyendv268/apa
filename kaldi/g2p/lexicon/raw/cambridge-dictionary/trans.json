@@ -1,0 +1,85 @@
+{
+    "word": "trans",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "trænz"
+                            ],
+                            "us": [
+                                "trænz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe an isomer (= one of a group of similar chemical substances) in which the atoms are arranged on opposite sides of the molecule, especially on opposite sides of a carbon bond (= connected carbon atoms): ",
+                            "examples": [
+                                "In the hydrogenization process, trans fatty acids are created.",
+                                "The double bond can re-form as either cis or trans."
+                            ]
+                        },
+                        {
+                            "explanation": "short for\ntransgender : used to describe a person whose gender does not match the body they were born with: ",
+                            "examples": [
+                                "a trans woman/man",
+                                "I want to offer support to anyone who's going through a hard time because they're trans."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "træns-",
+                                "trænz-"
+                            ],
+                            "us": [
+                                "træns-",
+                                "trænz-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "across: ",
+                            "examples": [
+                                "a transatlantic flight",
+                                "the trans-Alaskan pipeline"
+                            ]
+                        },
+                        {
+                            "explanation": "changing or having changed from one thing to another: ",
+                            "examples": [
+                                "Kate has transformed (= completely changed the appearance of) that house since she moved in.",
+                                "I accidently transposed two letters (= put each one in the other letter's place) when I typed my password."
+                            ]
+                        },
+                        {
+                            "explanation": "used to form the names of chemical substances in which the atoms are arranged on opposite sides of the molecule, especially on opposite sides of a carbon bond (= connected carbon atoms): ",
+                            "examples": [
+                                "In some human studies fat loss is accompanied by impairment in insulin sensitivity, especially when using the trans-10, cis-12 isomer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

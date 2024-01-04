@@ -1,0 +1,48 @@
+{
+    "word": "histology",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hɪˈstɒl.ə.dʒi"
+                            ],
+                            "us": [
+                                "hɪˈstɑː.lə.dʒi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the scientific study of the structure of tissue and cells from plants, animals, and other living things using a microscope (= a device that makes very small objects look larger): ",
+                            "examples": [
+                                "The diagnosis was confirmed by both histology and ultrasound. ",
+                                "His work was the foundation for the science of histology. "
+                            ]
+                        },
+                        {
+                            "explanation": "the structure of tissue and cells from living things, seen when they are studied under a microscope: ",
+                            "examples": [
+                                "Subsequent treatment depends on the histology of the polyp.",
+                                "The biopsy showed histology compatible with metastatic cancer."
+                            ]
+                        },
+                        {
+                            "explanation": "a hospital department or laboratory (= a place with equipment for doing scientific tests) where tissue and cells are studied to see what medical conditions exist: ",
+                            "examples": [
+                                "The polyps can be removed and sent to histology.",
+                                "The results from histology seemed to confirm the diagnosis."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

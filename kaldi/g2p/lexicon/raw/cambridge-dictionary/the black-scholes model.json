@@ -1,0 +1,33 @@
+{
+    "word": "the black-scholes model",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌblækˈʃəʊlz ˌmɒd.əl"
+                            ],
+                            "us": [
+                                "ˌblækˈʃoʊlz ˌmɑː.dəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mathematical method of calculating whether an option (= the right to buy shares within a particular period of time) has a fair value, based on the price of similar shares, interest rates, etc.: ",
+                            "examples": [
+                                "Then options are awarded on the basis of the Black-Scholes model, which roughly means the option is worth a third of the underlying share."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "autobiography",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɔː.tə.baɪˈɒɡ.rə.fi"
+                            ],
+                            "us": [
+                                "ˌɑː.t̬ə.baɪˈɑː.ɡrə.fi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a book about a person's life, written by that person: ",
+                            "examples": [
+                                "Tony Blair's autobiography was a bestseller."
+                            ]
+                        },
+                        {
+                            "explanation": "the area of literature relating to such books: ",
+                            "examples": [
+                                "His life story is recounted in two fascinating volumes of autobiography."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

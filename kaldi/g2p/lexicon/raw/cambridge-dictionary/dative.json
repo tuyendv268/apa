@@ -1,0 +1,56 @@
+{
+    "word": "dative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeɪ.tɪv"
+                            ],
+                            "us": [
+                                "ˈdeɪ.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the form of a noun, pronoun, or adjective that in some languages marks the indirect object of a verb that has two objects",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeɪ.tɪv"
+                            ],
+                            "us": [
+                                "ˈdeɪ.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the dative: ",
+                            "examples": [
+                                "the dative case",
+                                "Swedish pronouns have an additional object form, derived from the old dative form."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

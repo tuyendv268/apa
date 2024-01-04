@@ -1,0 +1,42 @@
+{
+    "word": "alfredo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ælˈfreɪ.dəʊ"
+                            ],
+                            "us": [
+                                "ælˈfreɪ.doʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a smooth sauce made from butter, cheese and sometimes cream and other ingredients, which is often eaten with pasta: ",
+                            "examples": [
+                                "I put the pasta into bowls and poured Alfredo sauce over it.",
+                                "We were served salmon with mixed vegetables in alfredo sauce.",
+                                "You can top the penne with alfredo, three-cheese or marinara."
+                            ]
+                        },
+                        {
+                            "explanation": "used in the names of dishes that contain Alfredo sauce: ",
+                            "examples": [
+                                "The dishes include chicken Alfredo and pasta marinara.",
+                                "I ordered fettucine alfredo."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

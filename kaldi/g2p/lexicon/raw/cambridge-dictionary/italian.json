@@ -1,0 +1,63 @@
+{
+    "word": "italian",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈtæl.jən"
+                            ],
+                            "us": [
+                                "ɪˈtæl.jən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or relating to Italy, its people, or its language: ",
+                            "examples": [
+                                "Italian food/art/wine"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈtæl.jən"
+                            ],
+                            "us": [
+                                "ɪˈtæl.jən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person from Italy: ",
+                            "examples": [
+                                "We met three Italians."
+                            ]
+                        },
+                        {
+                            "explanation": "the main language spoken in Italy: ",
+                            "examples": [
+                                "I'm learning Italian."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

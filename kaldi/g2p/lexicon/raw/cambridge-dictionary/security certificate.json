@@ -1,0 +1,33 @@
+{
+    "word": "security certificate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɪˈkjʊə.rə.ti səˌtɪf.ɪ.kət"
+                            ],
+                            "us": [
+                                "səˈkjʊr.ə.t̬i sɚˌtɪf.ɪ.kət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small data file that shows that a website is what it claims to be and allows users to connect to it safely: ",
+                            "examples": [
+                                "Many people fail to check security certificates or Internet addresses."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

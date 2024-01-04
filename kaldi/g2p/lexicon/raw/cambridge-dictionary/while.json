@@ -1,0 +1,81 @@
+{
+    "word": "while",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "waɪl"
+                            ],
+                            "us": [
+                                "waɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "during the time that, or at the same time as: ",
+                            "examples": [
+                                "I read it while you were drying your hair.",
+                                "While I was in Italy I went to see Alessandro.",
+                                "I thought I heard him come in while we were having dinner.",
+                                "\"I'm going to the post office.\" \"While you're there can you get me some stamps?\""
+                            ]
+                        },
+                        {
+                            "explanation": "despite the fact that; although: ",
+                            "examples": [
+                                "While I accept that he's not perfect in many respects, I do actually like the man.",
+                                "While I fully understand your point of view, I also have some sympathy with Michael's."
+                            ]
+                        },
+                        {
+                            "explanation": "compared with the fact that; but: ",
+                            "examples": [
+                                "He gets £50,000 a year while I get a meagre £20,000!",
+                                "Tom is very extrovert and confident while Katy's shy and quiet.",
+                                "I do all the housework while he just does the dishes now and again."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "waɪl"
+                            ],
+                            "us": [
+                                "waɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a length of time: ",
+                            "examples": [
+                                "I only stayed for a short while.",
+                                "You were there quite a while (= a long time), weren't you?",
+                                "\"When did that happen?\" \"Oh, it was a while ago (= a long time ago).",
+                                "I haven't seen him for a while (= for a long time).",
+                                "I'll be fine in a while (= soon).",
+                                "It will take a little while to settle in.",
+                                "It was quite stressful at first but after a while, I started to enjoy the work."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

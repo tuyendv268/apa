@@ -1,0 +1,40 @@
+{
+    "word": "close of play",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkləʊz əv ˈpleɪ"
+                            ],
+                            "us": [
+                                "ˌkloʊz əv ˈpleɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the end of a sports game or the time when it stops for the day, especially a cricket or tennis match: ",
+                            "examples": [
+                                "What was the score at close of play?",
+                                "By five minutes to the close of play at seven o'clock the scores were level."
+                            ]
+                        },
+                        {
+                            "explanation": "the end of the working day or the business day, especially on a financial market: ",
+                            "examples": [
+                                "The ballot papers must be delivered by the close of play on Tuesday."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

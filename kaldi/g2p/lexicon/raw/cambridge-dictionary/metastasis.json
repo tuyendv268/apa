@@ -1,0 +1,37 @@
+{
+    "word": "metastasis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "meˈtæs.tə.sɪs"
+                            ],
+                            "us": [
+                                "məˈtæs.tə.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "meˈtæs.tə.siːz"
+                            ],
+                            "us_other_tense": [
+                                "məˈtæs.tə.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the spread of a disease, especially cancer, from the place where it started in the body to other areas: ",
+                            "examples": [
+                                "Patients with kidney metastasis typically have cancerous cell growth in both kidneys."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

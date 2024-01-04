@@ -1,0 +1,71 @@
+{
+    "word": "perch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pɜːtʃ"
+                            ],
+                            "us": [
+                                "pɝːtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to sit on or near the edge of something: ",
+                            "examples": [
+                                "We perched on bar stools and had a beer."
+                            ]
+                        },
+                        {
+                            "explanation": "to be in a high position or in a position near the edge of something, or to put something in this position: ",
+                            "examples": [
+                                "The village is perched on top of a high hill."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɜːtʃ"
+                            ],
+                            "us": [
+                                "pɝːtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fish that lives in lakes and rivers and is eaten as food",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a place where a bird sits, especially a thin rod in a cage (= wire box)",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a seat or other place high up, often giving a good view of something below: ",
+                            "examples": [
+                                "We watched the parade from our perch on the scaffolding."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

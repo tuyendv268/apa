@@ -1,0 +1,59 @@
+{
+    "word": "government",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡʌv.ən.mənt",
+                                "ˈɡʌv.əm.mənt"
+                            ],
+                            "us": [
+                                "ˈɡʌv.ɚn.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the group of people who officially control a country: ",
+                            "examples": [
+                                "the government of Israel",
+                                "The government is/are expected to announce its/their tax proposals today.",
+                                "The minister has announced that there will be no change in government policy.",
+                                "Senior government officials will be attending a meeting tomorrow.",
+                                "Theatre companies are very concerned about cuts in government grants to the arts.",
+                                "A government enquiry has been launched."
+                            ]
+                        },
+                        {
+                            "explanation": "the system used for controlling a country, city, or group of people: ",
+                            "examples": [
+                                "The 1990s saw a shift to democratic government in Eastern Europe.",
+                                "What this state needs is really strong government."
+                            ]
+                        },
+                        {
+                            "explanation": "the activities involved in controlling a country, city, group of people, etc.: ",
+                            "examples": [
+                                "The party that was elected to power has no experience of government.",
+                                "The party was in government (= controlled the country) for four years in the 1960s."
+                            ]
+                        },
+                        {
+                            "explanation": "the government of the UK: ",
+                            "examples": [
+                                "This is the decision of Her Majesty's Government."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

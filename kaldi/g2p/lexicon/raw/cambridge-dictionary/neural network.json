@@ -1,0 +1,34 @@
+{
+    "word": "neural network",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnjʊə.rəl ˈnet.wɜːk"
+                            ],
+                            "us": [
+                                "ˌnʊr.əl ˈnet.wɝːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mathematical representation of text or other types of media that is designed to operate in a similar way to a group of connected nerve cells in an organism: ",
+                            "examples": [
+                                "Neural networks can learn solutions to difficult problems.",
+                                "The researchers used a huge annotated database to train the neural net."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

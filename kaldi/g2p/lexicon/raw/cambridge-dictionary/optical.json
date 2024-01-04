@@ -1,0 +1,48 @@
+{
+    "word": "optical",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒp.tɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈɑːp.tɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to light or the ability to see: ",
+                            "examples": [
+                                "The glowing cloud was an optical effect.",
+                                "Her eye tests revealed that she has no optical defects."
+                            ]
+                        },
+                        {
+                            "explanation": "used in order to see something better: ",
+                            "examples": [
+                                "There are specialized optical aids which can help visually impaired people.",
+                                "cameras, binoculars and other optical instruments"
+                            ]
+                        },
+                        {
+                            "explanation": "reading or storing information using light: ",
+                            "examples": [
+                                "Optical drives displaced floppy disks and magnetic tape.",
+                                "optical disks"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

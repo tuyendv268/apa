@@ -1,0 +1,35 @@
+{
+    "word": "egg foo yong",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌeɡ ˌfuː ˈjɒŋ"
+                            ],
+                            "us": [
+                                "ˌeɡ ˌfuː ˈjʌŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a dish of beaten eggs cooked with meat or prawns and vegetables: ",
+                            "examples": [
+                                "Our favorite dish was the egg foo yung with tofu and crunchy bean sprouts.",
+                                "Egg foo yong is a great way to use leftover meat and vegetables.",
+                                "Popular dishes on the menu include soup, fried rice and egg foo young."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

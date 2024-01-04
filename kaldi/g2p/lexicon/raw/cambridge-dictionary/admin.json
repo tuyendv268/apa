@@ -1,0 +1,69 @@
+{
+    "word": "admin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæd.mɪn"
+                            ],
+                            "us": [
+                                "ˈæd.mɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \nadministration : arrangements and tasks needed to control the operation of a plan, an organization, a person's activities, etc.: ",
+                            "examples": [
+                                "Let's skip through the boring admin first: we have to fill out this form.",
+                                "Over 100 people are employed by the college as teaching staff or in admin."
+                            ]
+                        },
+                        {
+                            "explanation": "short for \nadministrator : a person who is in charge of the operation of a network of computers, a website, a group of computer users, etc., and is able to make changes to it: ",
+                            "examples": [
+                                "Only admins can add people to the group chat or change the name of the group.",
+                                "a network/server/site/domain admin",
+                                "I have full admin rights on the network. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈæd.mɪn"
+                            ],
+                            "us": [
+                                "ˈæd.mɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \nadministrative : relating to the arrangements and tasks needed to control the operation of a plan, an organization, a person's activities, etc.: ",
+                            "examples": [
+                                "He's an admin assistant at a PR firm.",
+                                "They said the discrepancy in the accounts was simply an admin error.",
+                                "admin staff/jobs/duties/tasks",
+                                "admin costs/expenses/fees"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

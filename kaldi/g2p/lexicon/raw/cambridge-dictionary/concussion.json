@@ -1,0 +1,36 @@
+{
+    "word": "concussion",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈkʌʃ.ən"
+                            ],
+                            "us": [
+                                "kənˈkʌʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "temporary damage to the brain caused by a fall or hit on the head or by violent shaking: ",
+                            "examples": [
+                                "I think he may have had a concussion.",
+                                "Many patients with concussion are not seen by a neuropsychologist.",
+                                "He was taken to hospital suffering from concussion.",
+                                "I would rather injure an arm or leg than get concussion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

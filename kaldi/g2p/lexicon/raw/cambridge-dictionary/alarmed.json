@@ -1,0 +1,41 @@
+{
+    "word": "alarmed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈlɑːmd"
+                            ],
+                            "us": [
+                                "əˈlɑːrmd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "worried or frightened by something: ",
+                            "examples": [
+                                "I was a bit alarmed at/by how much weight she'd lost.",
+                                "I was alarmed to hear that she was coming.",
+                                "I'm rather alarmed that we haven't heard anything."
+                            ]
+                        },
+                        {
+                            "explanation": "An alarmed vehicle or place has an alarm in it that, when active, will make a loud noise if anyone enters or touches it: ",
+                            "examples": [
+                                "Warning: this building is alarmed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

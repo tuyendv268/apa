@@ -1,0 +1,62 @@
+{
+    "word": "breakfast",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbrek.fəst"
+                            ],
+                            "us": [
+                                "ˈbrek.fəst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a meal eaten in the morning as the first meal of the day: ",
+                            "examples": [
+                                "What do you want for breakfast?",
+                                "Jane never eats breakfast.",
+                                "She arrived shortly after breakfast.",
+                                "Breakfast is served in the dining room from 8.30 till 10.00.",
+                                "I love to eat breakfast in bed on Saturdays."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbrek.fəst"
+                            ],
+                            "us": [
+                                "ˈbrek.fəst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to eat breakfast: ",
+                            "examples": [
+                                "She usually breakfasts alone.",
+                                "They breakfasted hurriedly on coffee and toast (= ate coffee and toast for breakfast)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

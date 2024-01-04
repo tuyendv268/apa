@@ -1,0 +1,62 @@
+{
+    "word": "ebay",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈiː.beɪ"
+                            ],
+                            "us": [
+                                "ˈiː.beɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to buy or sell something on the eBay website: ",
+                            "examples": [
+                                "I offered to ebay the computer for him.",
+                                "If you don’t want to keep the camera, you can ebay it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈiːˌbeɪ"
+                            ],
+                            "us": [
+                                "ˈiːˌbeɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the name of a website that allows you to buy and sell things online : ",
+                            "examples": [
+                                "I bought these shoes on eBay."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

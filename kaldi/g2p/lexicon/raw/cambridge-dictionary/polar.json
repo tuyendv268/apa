@@ -1,0 +1,70 @@
+{
+    "word": "polar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊ.lər"
+                            ],
+                            "us": [
+                                "ˈpoʊ.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the North or South Pole or the areas around them: ",
+                            "examples": [
+                                "the polar ice caps",
+                                "polar explorers"
+                            ]
+                        },
+                        {
+                            "explanation": "Polar opposites are complete opposites: ",
+                            "examples": [
+                                "The novel deals with the polar opposites of love and hate."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to poles (= the two points at which a straight line through the centre of a circle cuts the surface of a sphere): ",
+                            "examples": [
+                                "It is best to use polar coordinates to locate points in the plane."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊ.lər"
+                            ],
+                            "us": [
+                                "ˈpoʊ.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a straight line at an angle of 90 degrees to another line that passes through the centre of a circle and another given point: ",
+                            "examples": [
+                                "Given a circle c with center O and a point P, there is a special line called the polar of P."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

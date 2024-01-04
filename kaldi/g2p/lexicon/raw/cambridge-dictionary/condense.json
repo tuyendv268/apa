@@ -1,0 +1,43 @@
+{
+    "word": "condense",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈdens"
+                            ],
+                            "us": [
+                                "kənˈdens"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to reduce something, such as a speech or piece of writing, in length: ",
+                            "examples": [
+                                "I condensed ten pages of comments into/to two."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a liquid thicker by removing some of the water",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to change or make something change from a gas to a liquid or solid state: ",
+                            "examples": [
+                                "Water vapour in the air condenses into fog."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "emphasis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈem.fə.sɪs"
+                            ],
+                            "us": [
+                                "ˈem.fə.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "ˈem.fə.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˈem.fə.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the particular importance or attention that is given to something: ",
+                            "examples": [
+                                "I think we should put as much emphasis on preventing disease as we do on curing it.",
+                                "Schools here put/place/lay great emphasis on written work and grammar."
+                            ]
+                        },
+                        {
+                            "explanation": "the extra force that is given to a word or part of a word when it is spoken: ",
+                            "examples": [
+                                "The emphasis is on the final syllable.",
+                                "Where do you put the emphasis in the word \"controversy\"?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

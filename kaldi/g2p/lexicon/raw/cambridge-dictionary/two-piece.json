@@ -1,0 +1,55 @@
+{
+    "word": "two-piece",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtuːˌpiːs"
+                            ],
+                            "us": [
+                                "ˈtuːˌpiːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a set of clothes that consists of two separate matching parts, especially a woman's clothes for swimming, or a matching jacket and trousers: ",
+                            "examples": [
+                                "We supplied our own bathing suits. Mine was a two-piece.",
+                                "Even if you've bought a two-piece, give it a modern twist by wearing it as separates."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe a set of clothes that consists of two separate matching parts, especially a woman's clothes for swimming, or a matching jacket and trousers: ",
+                            "examples": [
+                                "a two-piece suit",
+                                "She wore a two-piece navy blue outfit."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

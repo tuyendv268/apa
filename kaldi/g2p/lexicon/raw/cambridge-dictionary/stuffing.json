@@ -1,0 +1,40 @@
+{
+    "word": "stuffing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstʌf.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈstʌf.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "material that is pushed inside something to make it firm: ",
+                            "examples": [
+                                "This seat is losing its stuffing."
+                            ]
+                        },
+                        {
+                            "explanation": "a mixture of food, such as bread, onions, and herbs, that is used to fill something that is going to be eaten, such as a chicken or a vegetable, before being cooked: ",
+                            "examples": [
+                                "a stuffing for the turkey",
+                                "sage and onion stuffing"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

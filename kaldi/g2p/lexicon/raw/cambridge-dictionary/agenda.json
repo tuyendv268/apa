@@ -1,0 +1,49 @@
+{
+    "word": "agenda",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈdʒen.də"
+                            ],
+                            "us": [
+                                "əˈdʒen.də"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of matters to be discussed at a meeting: ",
+                            "examples": [
+                                "There were several important items on the agenda.",
+                                "The question of security is high on the agenda for this afternoon's meeting."
+                            ]
+                        },
+                        {
+                            "explanation": "a list of aims or possible future achievements: ",
+                            "examples": [
+                                "Women's rights have been put back on the agenda (= are being discussed publicly again).",
+                                "The subject of safety needs to be placed high on/at the top of the agenda (= must be discussed because it is very important).",
+                                "Education was placed firmly on the political agenda in the prime minister's weekend speech."
+                            ]
+                        },
+                        {
+                            "explanation": "a secret aim or reason for doing something: ",
+                            "examples": [
+                                "She felt that some of the group had an agenda.",
+                                "There's no hidden agenda - I'm just trying to help."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

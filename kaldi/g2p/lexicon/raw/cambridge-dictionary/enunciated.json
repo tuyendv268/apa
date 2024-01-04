@@ -1,0 +1,61 @@
+{
+    "word": "enunciated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nenunciate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈnʌn.si.eɪt"
+                            ],
+                            "us": [
+                                "ɪˈnʌn.si.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pronounce words or parts of words clearly: ",
+                            "examples": [
+                                "He doesn't enunciate (his words) very clearly."
+                            ]
+                        },
+                        {
+                            "explanation": "to express and explain a plan or principle clearly or formally: ",
+                            "examples": [
+                                "In the speech, the leader enunciated his party's proposals for tax reform."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

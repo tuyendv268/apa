@@ -1,0 +1,34 @@
+{
+    "word": "lemmatization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌlem.ə.taɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌlem.ə.t̬əˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of reducing the different forms of a word to one single form, for example, reducing \"builds\", \"building\", or \"built\" to the lemma \"build\": ",
+                            "examples": [
+                                "Lemmatization is the process of grouping inflected forms together as a single base form.",
+                                "In dictionaries, there are fixed lemmatization strategies."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

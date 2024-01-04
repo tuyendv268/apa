@@ -1,0 +1,77 @@
+{
+    "word": "podium",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊ.di.əm"
+                            ],
+                            "us": [
+                                "ˈpoʊ.di.əm"
+                            ],
+                            "uk_other_tense": [
+                                "ˈpəʊ.di.ə"
+                            ],
+                            "us_other_tense": [
+                                "ˈpoʊ.di.ə"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a raised area on which a person stands to speak to a large number of people, to conduct music, or to receive a prize in a sports competition: ",
+                            "examples": [
+                                "Tears ran down her face as she stood on the winner's podium.",
+                                "He looked nervous as he got up on the podium to make his speech."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of furniture with a sloping part on which a book or paper is put to be read from when speaking to an audience: ",
+                            "examples": [
+                                "The candidates must stay behind their respective podiums at all times during the debate.",
+                                "He is a legendary performer at the podium."
+                            ]
+                        },
+                        {
+                            "explanation": "the position of first, second, or third place in a sports competition: ",
+                            "examples": [
+                                "It was his fourth podium of the season.",
+                                "It seems like a long time ago that we were fighting for a podium."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊ.di.əm"
+                            ],
+                            "us": [
+                                "ˈpoʊ.di.əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to come first, second, or third in a sports competition: ",
+                            "examples": [
+                                "Stewart has never podiumed.",
+                                "I believe she has the ability to podium at this event."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "atom",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæt.əm"
+                            ],
+                            "us": [
+                                "ˈæt̬.əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the smallest unit of any chemical element, consisting of a positive nucleus surrounded by negative electrons. Atoms can combine to form a molecule: ",
+                            "examples": [
+                                "A molecule of carbon dioxide (CO2) has one carbon atom and two oxygen atoms.",
+                                "He hasn't an atom of sense (= he has no sense), that boy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

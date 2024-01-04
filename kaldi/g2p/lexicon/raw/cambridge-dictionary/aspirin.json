@@ -1,0 +1,34 @@
+{
+    "word": "aspirin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæs.prɪn"
+                            ],
+                            "us": [
+                                "ˈæs.prɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a common drug that reduces pain, fever, and swelling: ",
+                            "examples": [
+                                "I always take a couple of aspirins when I feel a cold starting.",
+                                "Aspirin should not be given to young children."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "milkshake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪlk.ʃeɪk"
+                            ],
+                            "us": [
+                                "ˈmɪlk.ʃeɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a drink made of milk and ice cream and a flavour such as fruit or chocolate, mixed together until it is smooth : ",
+                            "examples": [
+                                "a chocolate milkshake",
+                                "I grabbed a milk shake."
+                            ]
+                        },
+                        {
+                            "explanation": "a drink made of milk and a flavour such as fruit or chocolate: ",
+                            "examples": [
+                                "The chocolate milkshake was thin, and so sweet that you got toothache just looking at it.",
+                                "We washed down our meal with an old-fashioned milkshake made from skimmed milk and fruit."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "phenomenon",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fəˈnɒm.ɪ.nən"
+                            ],
+                            "us": [
+                                "fəˈnɑː.mə.nɑːn"
+                            ],
+                            "uk_other_tense": [
+                                "fəˈnɒm.ɪ.nə"
+                            ],
+                            "us_other_tense": [
+                                "fəˈnɑː.mə.nə"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that exists and can be seen, felt, tasted, etc., especially something unusual or interesting: ",
+                            "examples": [
+                                "Gravity is a natural phenomenon.",
+                                "Do you believe in the paranormal and other psychic phenomena?",
+                                "There's evidence to suggest that child abuse is not just a recent phenomenon."
+                            ]
+                        },
+                        {
+                            "explanation": "someone or something that is extremely successful, often because of special qualities or abilities: ",
+                            "examples": [
+                                "The Beatles were a phenomenon - nobody had heard anything like them before."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

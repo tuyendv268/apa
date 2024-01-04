@@ -1,0 +1,40 @@
+{
+    "word": "threading",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈθred.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈθred.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a method of removing hair from the face using a long piece of thread: ",
+                            "examples": [
+                                "eyebrow threading",
+                                "Threading, the removal of unwanted facial hair, has been practiced in parts of Los Angeles for decades."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of arranging a series of emails, text messages, or internet posts so that connected messages dealing with the same subject follow each other in a group: ",
+                            "examples": [
+                                "One notable feature of the system is the conversation threading, which groups emails into conversations for easier reading."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "word": "obfuscated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nobfuscate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒb.fʌs.keɪt"
+                            ],
+                            "us": [
+                                "ˈɑːb.fə.skeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something less clear and harder to understand, especially intentionally: ",
+                            "examples": [
+                                "She was criticized for using arguments that obfuscated the main issue.",
+                                "Companies deliberately obfuscate figures in complicated annual reports.",
+                                "Instead of concealing or obfuscating, the doctors involved admitted their fault and launched an investigation."
+                            ]
+                        },
+                        {
+                            "explanation": "to put false or confusing information on the internet, especially using special software, in order to stop search engines being able to collect information about you: ",
+                            "examples": [
+                                "You can confuse web trackers by obfuscating your movements online.",
+                                "The browser extension is designed to obfuscate browsing data and protect users from tracking by advertising networks."
+                            ]
+                        },
+                        {
+                            "explanation": "to create computer code (= instructions used to program computers) that is difficult for humans to understand, in order to reduce the code size and hide it from other people: ",
+                            "examples": [
+                                "Much source code encryption software obfuscates the code.",
+                                "Deliberately obfuscated source code is not allowed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

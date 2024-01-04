@@ -1,0 +1,31 @@
+{
+    "word": "checksum",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʃeksʌm"
+                            ],
+                            "us": [
+                                "ˈtʃeksʌm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number that is obtained by adding all the numbers in a piece of electronic data, used in order to check that the data is correct",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

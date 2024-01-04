@@ -1,0 +1,39 @@
+{
+    "word": "midpoint",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪd.pɔɪnt"
+                            ],
+                            "us": [
+                                "ˈmɪd.pɔɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a point half the distance along something such as a line: ",
+                            "examples": [
+                                "The driveway is 20 metres long, so the midpoint must be at 10 metres."
+                            ]
+                        },
+                        {
+                            "explanation": "a point in the middle of a period of time: ",
+                            "examples": [
+                                "the midpoint of the football season"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

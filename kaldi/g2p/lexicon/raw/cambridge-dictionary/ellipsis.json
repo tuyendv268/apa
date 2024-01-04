@@ -1,0 +1,41 @@
+{
+    "word": "ellipsis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "iˈlɪp.sɪs"
+                            ],
+                            "us": [
+                                "iˈlɪp.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "iˈlɪp.siːz"
+                            ],
+                            "us_other_tense": [
+                                "iˈlɪp.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which words are left out of a sentence but the sentence can still be understood: ",
+                            "examples": [
+                                "An example of ellipsis is \"What percentage was left?\" \"20.\" (= 20 percent)"
+                            ]
+                        },
+                        {
+                            "explanation": "three dots in a printed text that show where one or more words have been intentionally left out",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

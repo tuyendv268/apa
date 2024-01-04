@@ -1,0 +1,47 @@
+{
+    "word": "multi-phase",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.tiˈfeɪz"
+                            ],
+                            "us": [
+                                "ˌmʌl.tiˈfeɪz",
+                                "ˌmʌl.taɪˈfeɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving several stages: ",
+                            "examples": [
+                                "a multi-phase project",
+                                "This is part of a multiphase business plan.",
+                                "The work is part of a multi-phase renovation to the iconic building."
+                            ]
+                        },
+                        {
+                            "explanation": "involving substances in several states, such as liquid, solid, or gas: ",
+                            "examples": [
+                                "multi-phase chemical reactions",
+                                "There are rare occurrences of multiphase solid inclusions which contain liquid, vapour, and a solid."
+                            ]
+                        },
+                        {
+                            "explanation": "A multiphase electrical system uses two or more different currents (= movements of electricity) with a fixed time between each one.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

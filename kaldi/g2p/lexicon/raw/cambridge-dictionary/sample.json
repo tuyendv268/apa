@@ -1,0 +1,88 @@
+{
+    "word": "sample",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɑːm.pəl"
+                            ],
+                            "us": [
+                                "ˈsæm.pəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small amount of something that shows you what the rest is or should be like: ",
+                            "examples": [
+                                "a free sample of shampoo",
+                                "samples of carpet/curtain material",
+                                "Please bring some samples of your work to the interview."
+                            ]
+                        },
+                        {
+                            "explanation": "a small amount of a substance that a doctor or scientist collects in order to examine it: ",
+                            "examples": [
+                                "a blood/urine sample"
+                            ]
+                        },
+                        {
+                            "explanation": "a group of people or things that is chosen out of a larger number and is asked questions or tested in order to get information about the larger group: ",
+                            "examples": [
+                                "a random sample of voters",
+                                "a nationally representative sample of 200 schools"
+                            ]
+                        },
+                        {
+                            "explanation": "a small part of a song that has been recorded and used to make a new piece of music",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɑːm.pəl"
+                            ],
+                            "us": [
+                                "ˈsæm.pəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to taste a small amount of food or drink to decide if you like it: ",
+                            "examples": [
+                                "As the food looked so good, he decided to sample a little from each dish."
+                            ]
+                        },
+                        {
+                            "explanation": "to experience a place or an activity, often for the first time: ",
+                            "examples": [
+                                "So you're going to sample the delights/pleasures of the new restaurant?"
+                            ]
+                        },
+                        {
+                            "explanation": "to record part of a song and use the recording to make a new piece of music: ",
+                            "examples": [
+                                "This song has been heavily sampled."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

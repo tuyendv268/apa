@@ -1,0 +1,74 @@
+{
+    "word": "flamed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nflame ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fleɪm"
+                            ],
+                            "us": [
+                                "fleɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to burn (more) brightly: ",
+                            "examples": [
+                                "The fire flamed cosily in the hearth.",
+                                "The fire suddenly flamed (up)."
+                            ]
+                        },
+                        {
+                            "explanation": "If an emotion flames, you feel it suddenly and strongly: ",
+                            "examples": [
+                                "Seeing the damage made hatred flame within her."
+                            ]
+                        },
+                        {
+                            "explanation": "to suddenly become hot and red with emotion: ",
+                            "examples": [
+                                "His face flamed (red) with anger."
+                            ]
+                        },
+                        {
+                            "explanation": "to send an angry or insulting email: ",
+                            "examples": [
+                                "Please don't flame me if you disagree with this message."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "hut",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hʌt"
+                            ],
+                            "us": [
+                                "hʌt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small, simple building, usually consisting of one room: ",
+                            "examples": [
+                                "a mountain hut",
+                                "a row of beach huts"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "hʌt"
+                            ],
+                            "us": [
+                                "hʌt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used in American football as a signal to start playing: ",
+                            "examples": [
+                                "It could be that \"hike\" evolved into \"hut\" because of football's love of military terminology.",
+                                "On \"hut\" I sprinted to the end zone."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

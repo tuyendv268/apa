@@ -1,0 +1,30 @@
+{
+    "word": "asthma attack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "collocation",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sudden and short illness caused by asthma where someone finds it difficult to breathe because their air passages have become narrow or blocked: ",
+                            "examples": [
+                                "Medics tended to a boy who was having an asthma attack.",
+                                "She has asthma attacks at least once a day. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

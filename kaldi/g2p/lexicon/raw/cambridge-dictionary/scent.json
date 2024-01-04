@@ -1,0 +1,73 @@
+{
+    "word": "scent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sent"
+                            ],
+                            "us": [
+                                "sent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pleasant natural smell: ",
+                            "examples": [
+                                "the scent of roses"
+                            ]
+                        },
+                        {
+                            "explanation": "a smell produced by an animal that acts as a signal to other animals: ",
+                            "examples": [
+                                "The hounds had lost the scent of the fox near the river."
+                            ]
+                        },
+                        {
+                            "explanation": "a pleasant-smelling liquid that people put on their skin: ",
+                            "examples": [
+                                "a bottle of scent"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sent"
+                            ],
+                            "us": [
+                                "sent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If an animal scents something or someone, it knows that person or thing is there because it can smell it, him, or her.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If a person scents something, they have a feeling that they are about to experience it: ",
+                            "examples": [
+                                "Halfway through the game, the team could already scent victory."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

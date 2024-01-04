@@ -1,0 +1,78 @@
+{
+    "word": "likely",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈlaɪ.kli"
+                            ],
+                            "us": [
+                                "ˈlaɪ.kli"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If something is likely, it will probably happen or is expected: ",
+                            "examples": [
+                                "Do remind me because I'm likely to forget.",
+                                "What's the likely outcome of this whole business?",
+                                "I suppose that might happen but it's not very likely.",
+                                "It's quite likely that we'll be in Spain this time next year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈlaɪ.kli"
+                            ],
+                            "us": [
+                                "ˈlaɪ.kli"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "probably: ",
+                            "examples": [
+                                "She will likely need surgery."
+                            ]
+                        },
+                        {
+                            "explanation": "probably: ",
+                            "examples": [
+                                "As likely as not, she'll end up in court over this problem."
+                            ]
+                        },
+                        {
+                            "explanation": "very probably: ",
+                            "examples": [
+                                "Most likely he'll turn up late."
+                            ]
+                        },
+                        {
+                            "explanation": "certainly not!: ",
+                            "examples": [
+                                "\"Do you want to come running with me?\" \"Not likely!\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

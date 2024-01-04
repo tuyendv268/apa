@@ -1,0 +1,41 @@
+{
+    "word": "behalf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bɪˈhɑːf"
+                            ],
+                            "us": [
+                                "bɪˈhæf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "representing: ",
+                            "examples": [
+                                "On behalf of the entire company, I would like to thank you for all your work.",
+                                "Unfortunately, George cannot be with us today so I am pleased to accept this award on his behalf.",
+                                "She wasn't able to be present, so I signed the letter in her behalf."
+                            ]
+                        },
+                        {
+                            "explanation": "for the good of or because of: ",
+                            "examples": [
+                                "Please don't leave on my behalf."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

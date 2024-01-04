@@ -1,0 +1,70 @@
+{
+    "word": "stacking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nstack ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stæk"
+                            ],
+                            "us": [
+                                "stæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to arrange things in an ordered pile: ",
+                            "examples": [
+                                "Once the last few people had left the hall, the caretaker began stacking (up) the chairs."
+                            ]
+                        },
+                        {
+                            "explanation": "to fill something with objects: ",
+                            "examples": [
+                                "I got a job stacking shelves in a supermarket.",
+                                "Will you stack the dishwasher and switch it on, please?"
+                            ]
+                        },
+                        {
+                            "explanation": "to circle over an airport waiting for permission to land, or to make an aircraft do this: ",
+                            "examples": [
+                                "The airline uses thousands of tonnes of fuel a year when its planes are stacking above Heathrow and Gatwick.",
+                                "Planes stacked up at LAX when a radar failure caused problems nationwide. ",
+                                "We were stacked up for hours waiting to land."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

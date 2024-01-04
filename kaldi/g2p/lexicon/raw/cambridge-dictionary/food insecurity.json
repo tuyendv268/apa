@@ -1,0 +1,39 @@
+{
+    "word": "food insecurity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfuːd.ɪn.sɪˈkjʊə.rə.ti"
+                            ],
+                            "us": [
+                                "ˌfuːd.ˌɪn.səˈkjʊr.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact that a person or family is not always able to get enough food: ",
+                            "examples": [
+                                "13 million American children live in households suffering from hunger or food insecurity. "
+                            ]
+                        },
+                        {
+                            "explanation": "the fact that a place may not be able to produce or obtain enough food to feed its population: ",
+                            "examples": [
+                                "The organization recently produced a report on world food insecurity."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

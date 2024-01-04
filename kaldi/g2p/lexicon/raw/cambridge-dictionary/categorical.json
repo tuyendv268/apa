@@ -1,0 +1,42 @@
+{
+    "word": "categorical",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌkæt.əˈɡɒr.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˌkæt̬.əˈɡɔːr.ɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "without any doubt or possibility of being changed: ",
+                            "examples": [
+                                "a categorical denial/assurance/rejection",
+                                "He replied with a categorical assertion that no such offer was made.",
+                                "We want categorical proof."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to a category (= a type or group in a system for dividing things into similar types or groups): ",
+                            "examples": [
+                                "The following categorical variables were used.",
+                                "The categorical distinction is fairly clear."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

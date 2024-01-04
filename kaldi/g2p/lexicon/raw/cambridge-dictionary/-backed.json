@@ -1,0 +1,41 @@
+{
+    "word": "-backed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -bækt"
+                            ],
+                            "us": [
+                                " -bækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form adjectives that describe who is providing support, especially financial support: ",
+                            "examples": [
+                                "government-backed contracts",
+                                "US-backed intervention"
+                            ]
+                        },
+                        {
+                            "explanation": "used to form adjectives that describe what substance or material is at the back of something, or what the back of something is like: ",
+                            "examples": [
+                                "foam-backed carpet",
+                                "high-backed dining chairs"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

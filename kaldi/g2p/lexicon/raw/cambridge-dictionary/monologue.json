@@ -1,0 +1,39 @@
+{
+    "word": "monologue",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɒn.əl.ɒɡ"
+                            ],
+                            "us": [
+                                "ˈmɑː.nə.lɑːɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long speech by one person: ",
+                            "examples": [
+                                "He subjected me to a monologue on his last stay in hospital."
+                            ]
+                        },
+                        {
+                            "explanation": "a short play for one actor: ",
+                            "examples": [
+                                "Alan Bennett wrote a series of monologues called \"Talking Heads\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

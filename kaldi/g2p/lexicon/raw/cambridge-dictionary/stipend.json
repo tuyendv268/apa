@@ -1,0 +1,37 @@
+{
+    "word": "stipend",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstaɪ.pend"
+                            ],
+                            "us": [
+                                "ˈstaɪ.pend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a particular amount of money that is paid regularly to someone: ",
+                            "examples": [
+                                "an annual stipend"
+                            ]
+                        },
+                        {
+                            "explanation": "the income paid to a priest in the UK",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

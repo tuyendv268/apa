@@ -1,0 +1,41 @@
+{
+    "word": "hacker",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæk.ər"
+                            ],
+                            "us": [
+                                "ˈhæk.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who gets into other people's computer systems without permission in order to find out information or to do something illegal : ",
+                            "examples": [
+                                "Problems can occur when a company does not know a hacker has broken into its system.",
+                                "\"Bots\" can even allow hackers to take over systems."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who uses another person's phone system without permission, especially to listen to their spoken messages: ",
+                            "examples": [
+                                "When her voicemail inbox became full, hackers reportedly deleted messages to make room for new ones.",
+                                "There are also suggestions that hackers could make expensive phone calls at the owner's expense."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

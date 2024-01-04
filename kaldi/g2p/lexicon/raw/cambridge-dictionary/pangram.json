@@ -1,0 +1,33 @@
+{
+    "word": "pangram",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpæn.ɡræm"
+                            ],
+                            "us": [
+                                "ˈpæn.ɡræm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sentence that contains every letter of the alphabet, if possible with each letter only being used once: ",
+                            "examples": [
+                                "A familiar example of a pangram, though with duplications, is the typists' test sentence: The quick brown fox jumps over the lazy dog."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

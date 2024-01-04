@@ -1,0 +1,62 @@
+{
+    "word": "governed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ngovern ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡʌv.ən"
+                            ],
+                            "us": [
+                                "ˈɡʌv.ɚn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to control and direct the public business of a country, city, group of people, etc.: ",
+                            "examples": [
+                                "The country has been governed by military regimes.",
+                                "A president needs popular support in order to govern effectively."
+                            ]
+                        },
+                        {
+                            "explanation": "to have a controlling influence on something: ",
+                            "examples": [
+                                "Prices of goods are governed by the cost of the raw materials, as well as by the cost of production and distribution."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

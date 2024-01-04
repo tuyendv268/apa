@@ -1,0 +1,64 @@
+{
+    "word": "severed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsever ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsev.ər"
+                            ],
+                            "us": [
+                                "ˈsev.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to break or separate, especially by cutting: ",
+                            "examples": [
+                                "The knife severed an artery and he bled to death.",
+                                "Her foot was severed from her leg in a car accident.",
+                                "Electricity cables have been severed by the storm."
+                            ]
+                        },
+                        {
+                            "explanation": "to end a connection with someone or something: ",
+                            "examples": [
+                                "The US severed diplomatic relations with Cuba in 1961.",
+                                "The company has severed its connection/links/relationship/ties with its previous partners."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

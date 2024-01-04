@@ -1,0 +1,41 @@
+{
+    "word": "testable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈtest.ə.bəl"
+                            ],
+                            "us": [
+                                "ˈtest.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to be proved by testing: ",
+                            "examples": [
+                                "Any experiment in science needs a testable hypothesis.",
+                                "Some testable theories, when found to be false, are still upheld by their admirers."
+                            ]
+                        },
+                        {
+                            "explanation": "able to be tested: ",
+                            "examples": [
+                                "No testable evidence was provided.",
+                                "The challenge was to get testable samples of the odour from which to measure and interpret data."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

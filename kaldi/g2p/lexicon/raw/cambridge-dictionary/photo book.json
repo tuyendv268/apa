@@ -1,0 +1,41 @@
+{
+    "word": "photo book",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfəʊ.təʊ ˌbʊk"
+                            ],
+                            "us": [
+                                "ˈfoʊ.t̬oʊ ˌbʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a published book of photographs: ",
+                            "examples": [
+                                "He is the author of five well-received photo books.",
+                                "To mark Cruz's birthday, a photo book by New York photographer Alexis Rodriguez-Duarte was released by Random House."
+                            ]
+                        },
+                        {
+                            "explanation": "a book containing pages printed with someone's own digital photographs: ",
+                            "examples": [
+                                "There are many websites for ordering custom-made photo books. ",
+                                "I’m making my dad a photo book filled with all the pictures from his recent trip to Ireland. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "preposition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌprep.əˈzɪʃ.ən"
+                            ],
+                            "us": [
+                                "ˌprep.əˈzɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in grammar, a word that is used before a noun, a noun phrase, or a pronoun, connecting it to another word: ",
+                            "examples": [
+                                "In the sentences \"We jumped in the lake\", and \"She drove slowly down the track\", \"in\" and \"down\" are prepositions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

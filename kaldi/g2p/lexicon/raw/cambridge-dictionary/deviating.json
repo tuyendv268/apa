@@ -1,0 +1,61 @@
+{
+    "word": "deviating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndeviate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdiː.vi.eɪt"
+                            ],
+                            "us": [
+                                "ˈdiː.vi.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to do something that is different from the usual or common way of behaving: ",
+                            "examples": [
+                                "The recent pattern of weather deviates from the norm for this time of year."
+                            ]
+                        },
+                        {
+                            "explanation": "to go in a different direction: ",
+                            "examples": [
+                                "The path follows the river closely, occasionally deviating around a clump of trees."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

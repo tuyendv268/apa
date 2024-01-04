@@ -1,0 +1,40 @@
+{
+    "word": "scholarship",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈskɒl.ə.ʃɪp"
+                            ],
+                            "us": [
+                                "ˈskɑː.lɚ.ʃɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "serious, detailed study: ",
+                            "examples": [
+                                "a work of great scholarship"
+                            ]
+                        },
+                        {
+                            "explanation": "an amount of money given by a school, college, university, or other organization to pay for the studies of a person with great ability but little money: ",
+                            "examples": [
+                                "He got/won a scholarship to Harvard.",
+                                "Paula went to the Royal College of Music on a scholarship."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

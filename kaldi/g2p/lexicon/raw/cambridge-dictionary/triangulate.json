@@ -1,0 +1,35 @@
+{
+    "word": "triangulate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "traɪˈæŋ.ɡjə.leɪt"
+                            ],
+                            "us": [
+                                "traɪˈæŋ.ɡjə.leɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to divide an area into triangles in order to measure it or draw a map of it",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to calculate positions and distances using triangles, where some information about the length of sides and size of angles is known",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

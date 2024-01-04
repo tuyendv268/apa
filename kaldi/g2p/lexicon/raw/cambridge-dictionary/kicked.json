@@ -1,0 +1,68 @@
+{
+    "word": "kicked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nkick ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kɪk"
+                            ],
+                            "us": [
+                                "kɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to hit someone or something with the foot, or to move the feet and legs suddenly and violently: ",
+                            "examples": [
+                                "I kicked the ball as hard as I could.",
+                                "He was accused of kicking a man in the face.",
+                                "She felt the baby kicking inside her."
+                            ]
+                        },
+                        {
+                            "explanation": "If a gun kicks, it jumps back suddenly and with force when the gun is fired.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "used to say that you are very annoyed with yourself because you have done something stupid or missed a chance: ",
+                            "examples": [
+                                "When I realized what I'd done I could have kicked myself.",
+                                "They must be kicking themselves for selling their shares too early."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

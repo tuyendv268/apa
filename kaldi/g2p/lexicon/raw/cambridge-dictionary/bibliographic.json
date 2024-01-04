@@ -1,0 +1,43 @@
+{
+    "word": "bibliographic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌbɪb.li.əˈɡræf.ɪk"
+                            ],
+                            "us": [
+                                "ˌbɪb.li.əˈɡræf.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a bibliography (= a list of the books, etc. that have been used when writing a particular book or article, or a list of the books from a particular writer or publisher or on a particular subject): ",
+                            "examples": [
+                                "Bibliographic references are cited within the text.",
+                                "Further bibliographical references will be given below.",
+                                "The book has been re-edited and now contains important bibliographic notes."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to libraries and the books and information they contain, and how to find them: ",
+                            "examples": [
+                                "She is head of bibliographic services at a large community college library.",
+                                "The librarians built a successful relationship with the faculty through bibliographic instruction.",
+                                "computerized bibliographical information"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

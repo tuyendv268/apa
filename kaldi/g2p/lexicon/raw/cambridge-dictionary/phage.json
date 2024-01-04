@@ -1,0 +1,34 @@
+{
+    "word": "phage",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "feɪdʒ"
+                            ],
+                            "us": [
+                                "feɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for bacteriophage; a virus that grows and divides inside a bacterium, destroying it : ",
+                            "examples": [
+                                "Scientists have known for years that these viruses, known as phages, are able to kill bacteria, but the mechanism was not understood. ",
+                                "Bacteria-killing viruses known as phages offer hope in the problem of antibiotic resistance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

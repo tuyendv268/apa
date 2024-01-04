@@ -1,0 +1,63 @@
+{
+    "word": "reared",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nrear ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪər"
+                            ],
+                            "us": [
+                                "rɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to care for young animals or children until they are able to care for themselves: ",
+                            "examples": [
+                                "Some women make a deliberate choice to rear a child alone.",
+                                "He describes how these birds rear their young."
+                            ]
+                        },
+                        {
+                            "explanation": "to rise up or to lift something up: ",
+                            "examples": [
+                                "The horse reared (up) (= suddenly rose onto its back legs) when it heard the gun shot.",
+                                "The lion slowly reared its head (= lifted it up) and looked around."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

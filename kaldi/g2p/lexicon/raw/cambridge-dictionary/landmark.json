@@ -1,0 +1,40 @@
+{
+    "word": "landmark",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlænd.mɑːk"
+                            ],
+                            "us": [
+                                "ˈlænd.mɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a building or place that is easily recognized, especially one that you can use to judge where you are: ",
+                            "examples": [
+                                "The Rock of Gibraltar is one of Europe's most famous landmarks."
+                            ]
+                        },
+                        {
+                            "explanation": "an important stage in something's development: ",
+                            "examples": [
+                                "The invention of the silicon chip was a landmark in the history of the computer.",
+                                "In a landmark case/decision, the governor pardoned a woman convicted of killing her husband, who had physically abused her."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

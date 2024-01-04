@@ -1,0 +1,33 @@
+{
+    "word": "voice recognition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌvɔɪs rek.əɡˈnɪʃ.ən"
+                            ],
+                            "us": [
+                                "ˌvɔɪs rek.əɡˈnɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the ability of a computer or other machine to understand spoken instructions or to recognize who a human voice belongs to: ",
+                            "examples": [
+                                "voice-recognition software/technology"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

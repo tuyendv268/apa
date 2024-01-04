@@ -1,0 +1,90 @@
+{
+    "word": "dwarf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dwɔːf"
+                            ],
+                            "us": [
+                                "dwɔːrf"
+                            ],
+                            "uk_other_tense": [
+                                "dwɔːvz"
+                            ],
+                            "us_other_tense": [
+                                "dwɔːvz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in stories for children, a creature like a little man with magical powers: ",
+                            "examples": [
+                                "Snow White and the Seven Dwarfs"
+                            ]
+                        },
+                        {
+                            "explanation": "a word, which is often offensive, for a person who has a medical condition that causes their height to be much shorter than average",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dwɔːf"
+                            ],
+                            "us": [
+                                "dwɔːrf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "very small: ",
+                            "examples": [
+                                "You can grow dwarf conifers in pots on the patio."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dwɔːf"
+                            ],
+                            "us": [
+                                "dwɔːrf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If one thing dwarfs another, it makes it seem small by comparison: ",
+                            "examples": [
+                                "The new skyscraper will dwarf all those near it.",
+                                "This new crisis may well dwarf most that have gone before."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

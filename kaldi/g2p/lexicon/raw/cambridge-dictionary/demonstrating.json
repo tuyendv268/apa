@@ -1,0 +1,77 @@
+{
+    "word": "demonstrating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndemonstrate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdem.ən.streɪt"
+                            ],
+                            "us": [
+                                "ˈdem.ən.streɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to show or make something clear: ",
+                            "examples": [
+                                "These numbers clearly demonstrate the size of the economic problem facing the country.",
+                                "Research has demonstrated that babies can recognize their mother's voice very soon after birth.",
+                                "These problems demonstrate the importance of strategic planning."
+                            ]
+                        },
+                        {
+                            "explanation": "to show something and explain how it works: ",
+                            "examples": [
+                                "He got a job demonstrating kitchen equipment in a department store.",
+                                "The teacher demonstrated how to use the equipment."
+                            ]
+                        },
+                        {
+                            "explanation": "to express or show that you have a particular feeling, quality, or ability: ",
+                            "examples": [
+                                "He has demonstrated a genuine interest in the project.",
+                                "His answer demonstrated a complete lack of understanding of the question."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a public expression that you are not satisfied about something, especially by marching or having a meeting: ",
+                            "examples": [
+                                "Thousands of people gathered to demonstrate against the new proposals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

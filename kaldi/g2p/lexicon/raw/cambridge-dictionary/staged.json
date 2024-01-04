@@ -1,0 +1,61 @@
+{
+    "word": "staged",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nstage ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "steɪdʒ"
+                            ],
+                            "us": [
+                                "steɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to arrange and perform a play or show: ",
+                            "examples": [
+                                "The local drama group is staging a production of the musical \"Grease\"."
+                            ]
+                        },
+                        {
+                            "explanation": "to organize an event: ",
+                            "examples": [
+                                "London staged the Olympic Games in 2012."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "spect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspekt"
+                            ],
+                            "us": [
+                                "ˈspekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for single photon emission computed tomography: a method of using gamma rays (= a type of radiation) to produce images of organs in the body in which you can see how they work: ",
+                            "examples": [
+                                "A SPECT scan can show how blood flows in the heart."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

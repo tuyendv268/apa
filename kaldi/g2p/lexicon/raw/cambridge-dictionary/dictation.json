@@ -1,0 +1,39 @@
+{
+    "word": "dictation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪkˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "dɪkˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the activity of dictating something for someone else to write down: ",
+                            "examples": [
+                                "I'll ask my assistant to take dictation (= write down what I say)."
+                            ]
+                        },
+                        {
+                            "explanation": "a test in which a piece of writing is dictated to students learning a foreign language, to test their ability to hear and write the language correctly: ",
+                            "examples": [
+                                "Our French dictation lasted half an hour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "rgb",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɑː.dʒiːˈbiː"
+                            ],
+                            "us": [
+                                "ˌɑːr.dʒiːˈbiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system of describing colour in which red, green, and blue light is combined in various ways to make different colours. RGB is short for red, green, and blue: ",
+                            "examples": [
+                                "RGB uses red, green, and blue, the additive primary colours.",
+                                "RGB is an additive colour model where we are mixing light to create colour."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɑː.dʒiːˈbiː"
+                            ],
+                            "us": [
+                                "ˌɑːr.dʒiːˈbiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "using or relating to the system of describing colour in which red, green, and blue light is combined in various ways to make different colours in order to display images: ",
+                            "examples": [
+                                "RGB monitors typically offer higher resolution than composite monitors.",
+                                "The plug on the back of your computer which connects to the monitor is an analogue RGB output."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

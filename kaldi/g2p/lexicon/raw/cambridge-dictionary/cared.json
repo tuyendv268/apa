@@ -1,0 +1,90 @@
+{
+    "word": "cared",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncare ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "keər"
+                            ],
+                            "us": [
+                                "ker"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to think that something is important and to feel interested in it or upset about it: ",
+                            "examples": [
+                                "She's never cared very much about her appearance.",
+                                "I really don't care whether we go out or not.",
+                                "I don't care how much it costs, just buy it.",
+                                "\"Was Lorna happy about the arrangements?\" \"I don't know and I don't care.\"",
+                                "Your parents are only doing this because they care about (= love) you."
+                            ]
+                        },
+                        {
+                            "explanation": "used to emphasize rudely that you are not interested in or worried about something or someone: ",
+                            "examples": [
+                                "\"Mike's really fed up about it.\" \"I couldn't care less.\""
+                            ]
+                        },
+                        {
+                            "explanation": "used to say that you are not interested in or worried about what someone else is doing: ",
+                            "examples": [
+                                "You can go to the match with Paula, for all I care."
+                            ]
+                        },
+                        {
+                            "explanation": "used to say that you are not interested in or worried about something that has happened or that someone has said: ",
+                            "examples": [
+                                "He said he didn't approve of what I'd done, as if I cared."
+                            ]
+                        },
+                        {
+                            "explanation": "used to emphasize rudely that you do not think something is important: ",
+                            "examples": [
+                                "\"It looks as if we are going to lose.\" \"Who cares?\"."
+                            ]
+                        },
+                        {
+                            "explanation": "used in polite offers and suggestions: ",
+                            "examples": [
+                                "Would you care for a drink?",
+                                "Would you care to join us for dinner?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

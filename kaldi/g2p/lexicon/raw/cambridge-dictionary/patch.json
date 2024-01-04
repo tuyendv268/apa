@@ -1,0 +1,104 @@
+{
+    "word": "patch",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pætʃ"
+                            ],
+                            "us": [
+                                "pætʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small area that is different in some way from the area that surrounds it: ",
+                            "examples": [
+                                "Our dog has a black patch on his back.",
+                                "The hotel walls were covered in damp patches.",
+                                "There were lots of icy patches on the road this morning.",
+                                "This story is good in patches (= some parts are good), but I wouldn't really recommend it."
+                            ]
+                        },
+                        {
+                            "explanation": "a local area within which someone works: ",
+                            "examples": [
+                                "He's been working as a policeman on the same patch for 20 years."
+                            ]
+                        },
+                        {
+                            "explanation": "a small piece of material sewn or stuck over something to cover it: ",
+                            "examples": [
+                                "I'll have to sew a patch onto these jeans - they're ripped at the knee."
+                            ]
+                        },
+                        {
+                            "explanation": "a small piece of cloth with words or a picture on it, that can be sewn onto clothes to show who you are, your rank, that you are a member of a particular group or organization, etc.: ",
+                            "examples": [
+                                "a shirt with a US flag patch sewn onto the right shoulder",
+                                "His black jacket has a black-and-silver patch bearing the school's Latin motto."
+                            ]
+                        },
+                        {
+                            "explanation": "a small piece of material that can be stuck to the skin, from which particular substances can be absorbed into the body: ",
+                            "examples": [
+                                "Some people wear nicotine patches to help them give up smoking."
+                            ]
+                        },
+                        {
+                            "explanation": "an \neyepatch ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a small computer program that can be added to an existing program in order to make the existing program work as it should: ",
+                            "examples": [
+                                "I downloaded a patch from their website."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pætʃ"
+                            ],
+                            "us": [
+                                "pætʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to connect electronic or phone equipment to a system",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to put a patch on something",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to solve a problem that a computer system or program has: ",
+                            "examples": [
+                                "They issued an update to patch the bug.",
+                                "We need to identify and patch vulnerabilities in internet security."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

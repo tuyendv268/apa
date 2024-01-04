@@ -1,0 +1,31 @@
+{
+    "word": "pythagorean theorem",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "paɪˌθæɡ.ə.riː.ən ˈθɪə.rəm"
+                            ],
+                            "us": [
+                                "pɪˌθæɡ.əˈriː.ən ˈθiː.rəm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(= a statement that in a right triangle (= a triangle with a 90° angle) the square of the length of the side opposite the 90° angle is equal to the squares of each of the other two sides added together) ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

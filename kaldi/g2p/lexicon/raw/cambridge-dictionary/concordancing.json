@@ -1,0 +1,55 @@
+{
+    "word": "concordancing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nconcordance ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈkɔː.dəns"
+                            ],
+                            "us": [
+                                "kənˈkɔːr.dəns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to collect all the words used in a book or a writer's work into a book or list in alphabetical order, with information about where the words can be found and in which sentences: ",
+                            "examples": [
+                                "We use a computer program that can concordance newspaper texts."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

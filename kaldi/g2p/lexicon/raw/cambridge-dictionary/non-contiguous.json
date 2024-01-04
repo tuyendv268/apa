@@ -1,0 +1,34 @@
+{
+    "word": "non-contiguous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.kənˈtɪɡ.ju.əs"
+                            ],
+                            "us": [
+                                "ˌnɑːn.kənˈtɪɡ.ju.əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not next to or touching another, usually similar, thing: ",
+                            "examples": [
+                                "The data files are stored on the hard drive in non-contiguous clusters.",
+                                "In the past, schools in the area were noncontiguous -- they were not always close to each other."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

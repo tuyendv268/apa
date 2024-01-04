@@ -1,0 +1,59 @@
+{
+    "word": "clomp",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "klɒmp"
+                            ],
+                            "us": [
+                                "klɑːmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to walk with heavy, loud steps: ",
+                            "examples": [
+                                "Skiers were clomping around in their ski boots.",
+                                "She clomped down the stairs and out into the garden."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "klɒmp"
+                            ],
+                            "us": [
+                                "klɑːmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a heavy, dull sound made by someone walking: ",
+                            "examples": [
+                                "I listened to the clomp of boots on the floor above me.",
+                                "All you could hear was \"clomp, clomp, clomp\" as he paced back and forth."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "word": "portuguese",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɔː.tʃəˈɡiːz"
+                            ],
+                            "us": [
+                                "ˌpɔːr.tʃəˈɡiːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or relating to Portugal, its people, or its language: ",
+                            "examples": [
+                                "Portuguese food/customs"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɔː.tʃəˈɡiːz"
+                            ],
+                            "us": [
+                                "ˌpɔːr.tʃəˈɡiːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the main language spoken in Portugal",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a person from Portugal: ",
+                            "examples": [
+                                "There are six Spaniards and a Portuguese in the class."
+                            ]
+                        },
+                        {
+                            "explanation": "the people of Portugal: ",
+                            "examples": [
+                                "The Portuguese added black beans to the dish.",
+                                "The island was settled by the Portuguese in 1439."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

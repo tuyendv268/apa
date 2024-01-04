@@ -1,0 +1,53 @@
+{
+    "word": "child",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tʃaɪld"
+                            ],
+                            "us": [
+                                "tʃaɪld"
+                            ],
+                            "uk_other_tense": [
+                                "ˈtʃɪl.drən"
+                            ],
+                            "us_other_tense": [
+                                "ˈtʃɪl.drən"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a boy or girl from the time of birth until he or she is an adult, or a son or daughter of any age: ",
+                            "examples": [
+                                "an eight-year-old child",
+                                "As a child I didn't eat vegetables.",
+                                "A small group of children waited outside the door.",
+                                "Both her children are now married with children of their own.",
+                                "Jan is married with three young children."
+                            ]
+                        },
+                        {
+                            "explanation": "an adult who behaves badly, like a badly behaved child: ",
+                            "examples": [
+                                "He's such a child if he doesn't get his own way."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who has been very influenced by a particular period or situation: ",
+                            "examples": [
+                                "Me, I'm a child of the 60s."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

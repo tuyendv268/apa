@@ -1,0 +1,78 @@
+{
+    "word": "treated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntreat ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "triːt"
+                            ],
+                            "us": [
+                                "triːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to behave towards someone or deal with something in a particular way: ",
+                            "examples": [
+                                "My parents treated us all the same when we were kids.",
+                                "He treated his wife very badly.",
+                                "It's wrong to treat animals as if they had no feelings.",
+                                "I treat remarks like that with the contempt that they deserve."
+                            ]
+                        },
+                        {
+                            "explanation": "to use drugs, exercises, etc. to cure a person of a disease or heal an injury: ",
+                            "examples": [
+                                "He is being treated for a rare skin disease.",
+                                "Western medicine tends to treat the symptoms and not the cause."
+                            ]
+                        },
+                        {
+                            "explanation": "to buy or pay for something for another person: ",
+                            "examples": [
+                                "Put your money away - I'm going to treat you (to this).",
+                                "I'm going to treat myself to (= buy for myself) a new pair of sandals."
+                            ]
+                        },
+                        {
+                            "explanation": "to put a special substance on material such as wood, cloth, metal, etc. or put it through a special process, in order to protect it from damage or decay: ",
+                            "examples": [
+                                "The material has been treated with resin to make it waterproof."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

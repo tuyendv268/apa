@@ -1,0 +1,34 @@
+{
+    "word": "neur(o)-",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "njʊə.rəʊ-"
+                            ],
+                            "us": [
+                                "nʊr.oʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to nerves: ",
+                            "examples": [
+                                "neuroscience",
+                                "A neurotransmitter is a chemical that nerve cells use to communicate with each other and with muscles."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

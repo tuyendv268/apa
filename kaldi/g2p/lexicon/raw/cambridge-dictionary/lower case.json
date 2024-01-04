@@ -1,0 +1,59 @@
+{
+    "word": "lower case",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌləʊ.əˈkeɪs"
+                            ],
+                            "us": [
+                                "ˌloʊ.ɚˈkeɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "letters of the alphabet that are not written as capital letters, for example a, b, c: ",
+                            "examples": [
+                                "Type the commands in lower case.",
+                                "Some of these varieties are commonly spelled with lower-case."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌləʊ.əˈkeɪs"
+                            ],
+                            "us": [
+                                "ˌloʊ.ɚˈkeɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of letters of the alphabet) not written as capital letters: ",
+                            "examples": [
+                                "You may use either uppercase or lower-case letters.",
+                                "Capitalize a few letters, while leaving the rest lower case. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

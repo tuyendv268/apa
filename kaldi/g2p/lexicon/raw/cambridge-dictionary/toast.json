@@ -1,0 +1,79 @@
+{
+    "word": "toast",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "təʊst"
+                            ],
+                            "us": [
+                                "toʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "sliced bread made warm, crisp (= hard enough to break), and brown by being put near a high heat: ",
+                            "examples": [
+                                "a slice of toast",
+                                "I have toast and jam for breakfast.",
+                                "I'm having beans on toast for supper."
+                            ]
+                        },
+                        {
+                            "explanation": "an expression of good wishes or respect for someone that involves holding up and then drinking from a glass of alcohol, especially wine, after a short speech: ",
+                            "examples": [
+                                "Now, if you'd all please raise your glasses, I'd like to propose a toast to the bride and groom.",
+                                "Champagne corks popped and the guests drank a toast to the happy couple."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "təʊst"
+                            ],
+                            "us": [
+                                "toʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make bread or other food warm, crisp (= hard enough to break), and brown by putting it near a high heat: ",
+                            "examples": [
+                                "Do you want this bread toasted?",
+                                "The sandwich was served on lightly toasted ciabatta."
+                            ]
+                        },
+                        {
+                            "explanation": "to warm yourself or part of your body: ",
+                            "examples": [
+                                "He's just toasting his feet by the fire."
+                            ]
+                        },
+                        {
+                            "explanation": "to hold up your glass and then drink as an expression of good wishes or respect: ",
+                            "examples": [
+                                "We toasted the happy couple."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

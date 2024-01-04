@@ -1,0 +1,46 @@
+{
+    "word": "beside",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "bɪˈsaɪd"
+                            ],
+                            "us": [
+                                "bɪˈsaɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "at the side of, next to: ",
+                            "examples": [
+                                "Come and sit here beside me.",
+                                "Our school was built right beside a river."
+                            ]
+                        },
+                        {
+                            "explanation": "compared to another person or thing: ",
+                            "examples": [
+                                "Those books seem very dull beside this one."
+                            ]
+                        },
+                        {
+                            "explanation": "to be in no way connected to the subject that is being discussed: ",
+                            "examples": [
+                                "Let's stick to discussing whether the road should be built at all. The exact cost is beside the point."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

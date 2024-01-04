@@ -1,0 +1,70 @@
+{
+    "word": "tick box",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtɪk ˌbɒks"
+                            ],
+                            "us": [
+                                "ˈtɪk ˌbɑːks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small square on a paper form where you can put a tick to show that you want something or that something is correct or has been dealt with: ",
+                            "examples": [
+                                "The form is in plain English and is mainly filled in with tick boxes, with one copy going to each party. "
+                            ]
+                        },
+                        {
+                            "explanation": "a small square on a computer screen that you click on to show a choice, to make the computer perform a particular action, etc.: ",
+                            "examples": [
+                                "The company changed its privacy policy by adding three new tick boxes to user profiles, two of which (\"share my email address\" and \"share my other registration information\") came pre-ticked."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to refer to a way of doing things that involves following rules or instructions that are the same in every case, with no possibility of someone using their own knowledge or ability to make decisions: ",
+                            "examples": [
+                                "This legislation encourages a tick-box mentality.",
+                                "\"Performance management tends to be a bureaucratic, tick box approach,\" she said."
+                            ]
+                        },
+                        {
+                            "explanation": "using tick boxes: ",
+                            "examples": [
+                                "It was an easy exam, with lots of tick-box multiple-choice questions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

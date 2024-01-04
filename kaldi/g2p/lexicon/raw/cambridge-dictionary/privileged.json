@@ -1,0 +1,38 @@
+{
+    "word": "privileged",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɪv.əl.ɪdʒd"
+                            ],
+                            "us": [
+                                "ˈprɪv.əl.ɪdʒd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a privilege: ",
+                            "examples": [
+                                "As an ambassador, she enjoys a very privileged status.",
+                                "I have been privileged to work with the pioneers of silicon technology."
+                            ]
+                        },
+                        {
+                            "explanation": "Priviledged information is secret and does not have to be given even in a law court.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

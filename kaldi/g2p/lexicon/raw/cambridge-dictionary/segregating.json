@@ -1,0 +1,70 @@
+{
+    "word": "segregating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsegregate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈseɡ.rɪ.ɡeɪt"
+                            ],
+                            "us": [
+                                "ˈseɡ.rə.ɡeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to keep one thing separate from another: ",
+                            "examples": [
+                                "The psychiatric section is segregated from the rest of the prison.",
+                                "The systems will have to be able to segregate clients' money from the firm's own cash."
+                            ]
+                        },
+                        {
+                            "explanation": "to keep one group of people apart from another and treat them differently, especially because of race, sex, or religion: ",
+                            "examples": [
+                                "a segregated school/society",
+                                "Black residents were segregated from white residents in the area.",
+                                "an urban culture segregated by sex where boys \"learned\" how to be men"
+                            ]
+                        },
+                        {
+                            "explanation": "(of pairs of alleles (= different forms of the same gene)) to separate during meiosis (= the cell division that happens as part of the process of producing young animals or plants) and pass separately to separate gametes (= reproductive cells): ",
+                            "examples": [
+                                "Disruption of the spindle can cause chromosomes to segregate abnormally at either of the two meiotic divisions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "telerobotics",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌtel.ɪ.rəʊˈbɒt.ɪks"
+                            ],
+                            "us": [
+                                "ˌtel.ə.roʊˈbɑː.t̬ɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the study and use of robots (= machines that can perform complicated actions automatically) that are controlled from a distance: ",
+                            "examples": [
+                                "Telerobotics focuses on the remote control of a robot by a human operator.",
+                                "In telerobotics, virtual reality is being used to allow human intervention in environments that are too dangerous for actual human presence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "aerobic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "eəˈrəʊ.bɪk"
+                            ],
+                            "us": [
+                                "erˈoʊ.bɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving, needing, or relating to oxygen: ",
+                            "examples": [
+                                "Enterococci are aerobic bacteria found in the faeces of warm-blooded birds and mammals.",
+                                "ATP is produced in the cell by both aerobic respiration and anaerobic respiration.",
+                                "The great majority of all living organisms are aerobic, requiring oxygen for respiration."
+                            ]
+                        },
+                        {
+                            "explanation": "(of exercise) improving the body's ability to use oxygen: ",
+                            "examples": [
+                                "Regular aerobic exercise not only helps to burn fat, it helps to prevent heart disease.",
+                                "Try to do 30 minutes of aerobic activities like cycling, running, swimming, or walking at least three times a week."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

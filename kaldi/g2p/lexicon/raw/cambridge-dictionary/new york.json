@@ -1,0 +1,40 @@
+{
+    "word": "new york",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnjuː ˈjɔːk"
+                            ],
+                            "us": [
+                                "ˌnuː ˈjɔːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a city in the northeastern US that is an important centre for finance, culture, and entertainment: ",
+                            "examples": [
+                                "I plan on staying in New York for some time.",
+                                "She started a job in New York City."
+                            ]
+                        },
+                        {
+                            "explanation": "a state in the northeastern US, whose capital city is Albany and whose largest city is New York City: ",
+                            "examples": [
+                                "He died on a small farm in New York."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

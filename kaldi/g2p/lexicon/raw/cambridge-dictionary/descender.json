@@ -1,0 +1,36 @@
+{
+    "word": "descender",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "part of a written or typed letter that reaches lower than the bottom of a letter \"x\", for example the lower part of the letters \"g\", \"p\", or \"y\": ",
+                            "examples": [
+                                "It's important that the height of ascenders and descenders remains constant, or your font will look a mess.",
+                                "The name \"Vermeer\" has no descenders."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who is going down a hill or slope, especially on a bicycle during a race: ",
+                            "examples": [
+                                "The best descenders exhibit almost suicidal bravery."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

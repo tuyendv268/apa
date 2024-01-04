@@ -1,0 +1,34 @@
+{
+    "word": "covalent bond",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəʊˌveɪ.lənt ˈbɒnd"
+                            ],
+                            "us": [
+                                "koʊˌveɪ.lənt ˈbɑːnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a chemical bond in which two atoms share one or more pairs of electrons that hold them together: ",
+                            "examples": [
+                                "These solids have very high melting points because their atoms are linked together with strong covalent bonds.",
+                                "Carbon and silicon exist as giant molecular structures held together by single covalent bonds."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

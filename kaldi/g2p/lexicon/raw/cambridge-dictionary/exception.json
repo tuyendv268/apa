@@ -1,0 +1,49 @@
+{
+    "word": "exception",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈsep.ʃən"
+                            ],
+                            "us": [
+                                "ɪkˈsep.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone or something that is not included in a rule, group, or list or that does not behave in the expected way: ",
+                            "examples": [
+                                "Men are usually quite good at map-reading but Tim is the exception.",
+                                "There are exceptions to every rule.",
+                                "I like all kinds of movies with the exception of (= but not) horror movies.",
+                                "Her books are always entertaining and this one is no exception.",
+                                "You must report here every Tuesday without exception."
+                            ]
+                        },
+                        {
+                            "explanation": "to not treat someone or something according to the usual rules: ",
+                            "examples": [
+                                "We don't usually accept late applications, but in this case we will make an exception."
+                            ]
+                        },
+                        {
+                            "explanation": "to be offended or made angry by something or someone: ",
+                            "examples": [
+                                "Why did you take exception to what he said? He was only joking."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

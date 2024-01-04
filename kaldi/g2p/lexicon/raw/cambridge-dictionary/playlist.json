@@ -1,0 +1,40 @@
+{
+    "word": "playlist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpleɪ.lɪst"
+                            ],
+                            "us": [
+                                "ˈpleɪ.lɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of pieces of music chosen by someone to listen to on their computer, phone, etc.: ",
+                            "examples": [
+                                "The song is on the playlist she listens to while training for half marathons."
+                            ]
+                        },
+                        {
+                            "explanation": "a list of all the pieces of music chosen to be broadcast on a radio show or radio station: ",
+                            "examples": [
+                                "The song was dropped from radio playlists at the singer's request.",
+                                "They are looking at whether record companies are illegally trying to influence radio station's playlists to push their own artists and boost sales."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "transposition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌtræn.spəˈzɪʃ.ən"
+                            ],
+                            "us": [
+                                "ˌtræn.spəˈzɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act or process of changing something from one position to another, or of exchanging the positions of two things: ",
+                            "examples": [
+                                "In accounting, an error in copying a number from one place to another is a transposition error. ",
+                                "Sometimes a simple transposition of letters may make things more complicated."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of playing or writing a piece of music in a different key (= set of musical notes based on a particular note) from the one used originally: ",
+                            "examples": [
+                                "downward transposition from G to F",
+                                "Signs indicate note-lengths, rests, and octave transposition."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

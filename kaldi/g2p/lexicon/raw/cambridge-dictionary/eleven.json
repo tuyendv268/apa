@@ -1,0 +1,59 @@
+{
+    "word": "eleven",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈlev.ən"
+                            ],
+                            "us": [
+                                "əˈlev.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 11: ",
+                            "examples": [
+                                "There are eleven girls in my class and ten boys.",
+                                "My younger brother is eleven."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈlev.ən"
+                            ],
+                            "us": [
+                                "əˈlev.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a team of eleven players, for example in football, hockey, or cricket: ",
+                            "examples": [
+                                "He comes back into the starting eleven after an injury.",
+                                "She's a regular in the first eleven."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

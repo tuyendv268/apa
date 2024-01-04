@@ -1,0 +1,31 @@
+{
+    "word": "the fundamental counting principle",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfʌn.də.men.təl ˈkaʊn.tɪŋ ˌprɪn.sə.pəl"
+                            ],
+                            "us": [
+                                "ˌfʌn.də.men.t̬əl ˈkaʊn.t̬ɪŋ ˌprɪn.sə.pəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the rule that says that if there are x ways in which one thing can be done, and y ways in which another thing can then be done, then there are x × y ways in which the two things can be done one after the other",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "wagon",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwæɡ.ən"
+                            ],
+                            "us": [
+                                "ˈwæɡ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a vehicle with four wheels, usually pulled by horses or oxen, used for transporting heavy goods, especially in the past: ",
+                            "examples": [
+                                "The first white settlers journeyed across America in covered wagons."
+                            ]
+                        },
+                        {
+                            "explanation": "a small vehicle like a box on four wheels, which has a long handle to pull it along, and is used by children as a toy: ",
+                            "examples": [
+                                "He pulled his brother along in his little red wagon."
+                            ]
+                        },
+                        {
+                            "explanation": "a large wheeled container for transporting goods, that is pulled by a train: ",
+                            "examples": [
+                                "a goods wagon"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

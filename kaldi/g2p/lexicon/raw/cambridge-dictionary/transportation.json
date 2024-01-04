@@ -1,0 +1,40 @@
+{
+    "word": "transportation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌtræn.spɔːˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌtræn.spɚˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the movement of people or goods from one place to another: ",
+                            "examples": [
+                                "the safe transportation of used nuclear fuel",
+                                "In the past, British convicts could be sentenced to transportation (to Australia)."
+                            ]
+                        },
+                        {
+                            "explanation": "a vehicle or system of vehicles, such as buses, trains, etc. for getting from one place to another: ",
+                            "examples": [
+                                "Bicycles are a cheap and efficient form/means of transportation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

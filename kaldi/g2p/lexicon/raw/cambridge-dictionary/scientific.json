@@ -1,0 +1,42 @@
+{
+    "word": "scientific",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌsaɪənˈtɪf.ɪk"
+                            ],
+                            "us": [
+                                "ˌsaɪənˈtɪf.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to science, or using the organized methods of science: ",
+                            "examples": [
+                                "a scientific discovery/experiment/theory",
+                                "scientific data/evidence/research",
+                                "The project has attracted considerable criticism from the scientific community (= from scientists)."
+                            ]
+                        },
+                        {
+                            "explanation": "careful and using a system or method: ",
+                            "examples": [
+                                "We will have to adopt a more scientific approach in the future.",
+                                "I try to arrange things in some kind of a system, but I'm not very scientific about it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

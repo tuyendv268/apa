@@ -1,0 +1,47 @@
+{
+    "word": "romanized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈrəʊ.mən.aɪzd"
+                            ],
+                            "us": [
+                                "ˈroʊ.mən.aɪzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "similar to or typical of ancient Roman styles, beliefs, customs, etc.: ",
+                            "examples": [
+                                "The new province of Dacia became one of the most highly romanized of the empire.",
+                                "The \"Bust of a Young Gaul\" shows a Romanized young man in a toga."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a church or church organization) made Roman Catholic or more like the Roman Catholic church: ",
+                            "examples": [
+                                "This particular group of missionaries preached a Romanised version of Christianity that emphasized participation in the sacramental life of the Church. "
+                            ]
+                        },
+                        {
+                            "explanation": "written in Roman script (= a writing system based on the Latin alphabet): ",
+                            "examples": [
+                                "Romanized versions exist for several alphabetic systems, such as Arabic and Hindi.",
+                                "The system automatically converts Chinese characters into their equivalent romanized form."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

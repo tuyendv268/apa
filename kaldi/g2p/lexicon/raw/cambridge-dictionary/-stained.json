@@ -1,0 +1,34 @@
+{
+    "word": "-stained",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -steɪnd"
+                            ],
+                            "us": [
+                                " -steɪnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "marked with the thing mentioned: ",
+                            "examples": [
+                                "tear-stained faces",
+                                "a blood-stained blanket"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

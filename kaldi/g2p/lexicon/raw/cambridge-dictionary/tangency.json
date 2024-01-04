@@ -1,0 +1,34 @@
+{
+    "word": "tangency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæn.dʒən.si"
+                            ],
+                            "us": [
+                                "ˈtæn.dʒən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a line) the state of touching but not crossing a curve at one point : ",
+                            "examples": [
+                                "When a line is tangent to a circle, the point of tangency is where the tangent line is perpendicular to the radius of the circle. ",
+                                "Graphing the equation produces a curve, with tangency occurring at several points along the y-axis. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

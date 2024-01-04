@@ -1,0 +1,80 @@
+{
+    "word": "shifted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nshift ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʃɪft"
+                            ],
+                            "us": [
+                                "ʃɪft"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to (cause something or someone to) move or change from one position or direction to another, especially slightly: ",
+                            "examples": [
+                                "She shifted (her weight) uneasily from one foot to the other.",
+                                "The wind is expected to shift (to the east) tomorrow."
+                            ]
+                        },
+                        {
+                            "explanation": "(of an idea, opinion, etc.) to change: ",
+                            "examples": [
+                                "Society's attitudes towards women have shifted enormously over the last century.",
+                                "Media attention has shifted recently onto environmental issues."
+                            ]
+                        },
+                        {
+                            "explanation": "to move the gears of a vehicle into different positions in order to make it go faster or slower: ",
+                            "examples": [
+                                "In cars that are automatics, you don't have to bother with shifting gears."
+                            ]
+                        },
+                        {
+                            "explanation": "to leave your home in order to live in a new one; move house",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to get rid of something unwanted, or to sell something: ",
+                            "examples": [
+                                "Modern detergents will shift most stains.",
+                                "The people at the toy shop expect to shift a lot of stock in the run-up to Christmas."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

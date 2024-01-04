@@ -1,0 +1,31 @@
+{
+    "word": "spambot",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspæm.bɒt"
+                            ],
+                            "us": [
+                                "ˈspæm.bɑːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a computer program that collects email addresses from the internet in order to send spam (= unwanted emails) to them",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

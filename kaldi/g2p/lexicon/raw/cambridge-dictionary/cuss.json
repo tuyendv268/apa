@@ -1,0 +1,55 @@
+{
+    "word": "cuss",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kʌs"
+                            ],
+                            "us": [
+                                "kʌs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say words that are not polite because you are angry",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kʌs"
+                            ],
+                            "us": [
+                                "kʌs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person of the bad type mentioned: ",
+                            "examples": [
+                                "Tom's an awkward/stupid/irritable (old) cuss!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

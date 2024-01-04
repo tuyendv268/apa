@@ -1,0 +1,55 @@
+{
+    "word": "cubist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkjuː.bɪst"
+                            ],
+                            "us": [
+                                "ˈkjuː.bɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging or relating to a style of modern art in which an object or person is shown as a set of geometric shapes, or typical of this style of painting: ",
+                            "examples": [
+                                "a cubist painter/painting/sculptor",
+                                "She painted a mountainous, almost Cubist landscape."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a member of a group of modern artists using a style in which an object or person is shown as a set of geometric shapes: ",
+                            "examples": [
+                                "the influence of early-20th-century Cubists",
+                                "Cubist Henri le Fauconnier spent time in Brittany."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

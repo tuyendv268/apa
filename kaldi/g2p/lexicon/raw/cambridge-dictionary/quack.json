@@ -1,0 +1,65 @@
+{
+    "word": "quack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kwæk"
+                            ],
+                            "us": [
+                                "kwæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make the usual sound of a duck: ",
+                            "examples": [
+                                "The ducks started quacking loudly when we threw them some bread."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kwæk"
+                            ],
+                            "us": [
+                                "kwæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who dishonestly pretends to have medical skills or knowledge",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a doctor: ",
+                            "examples": [
+                                "Have you seen a quack about that cough?"
+                            ]
+                        },
+                        {
+                            "explanation": "the sound that a duck makes",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

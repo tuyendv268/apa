@@ -1,0 +1,50 @@
+{
+    "word": "football",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfʊt.bɔːl"
+                            ],
+                            "us": [
+                                "ˈfʊt.bɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game played between two teams of eleven people, where each team tries to win by kicking a ball into the other team's goal: ",
+                            "examples": [
+                                "a football player/team",
+                                "He's playing football.",
+                                "Are you coming to the football match?",
+                                "I'm not a big football fan."
+                            ]
+                        },
+                        {
+                            "explanation": "a game for two teams of eleven players in which an oval ball is moved along the field by running with it or throwing it: ",
+                            "examples": [
+                                "a football game"
+                            ]
+                        },
+                        {
+                            "explanation": "a large ball made of leather or plastic and filled with air, used in games of football",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a large ball made of leather or plastic and filled with air, used in games of American football",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

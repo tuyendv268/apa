@@ -1,0 +1,70 @@
+{
+    "word": "singular",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪŋ.ɡjə.lər"
+                            ],
+                            "us": [
+                                "ˈsɪŋ.ɡjə.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of or relating to the form of a word used when talking or writing about one thing: ",
+                            "examples": [
+                                "a singular ending/form/noun/verb",
+                                "The word \"woman\" is singular."
+                            ]
+                        },
+                        {
+                            "explanation": "of an unusual quality or standard; noticeable: ",
+                            "examples": [
+                                "It was a building of singular grace and beauty.",
+                                "He showed a singular lack of skill in painting."
+                            ]
+                        },
+                        {
+                            "explanation": "unusual or strange; not ordinary",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪŋ.ɡjə.lər"
+                            ],
+                            "us": [
+                                "ˈsɪŋ.ɡjə.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the form of a word used when talking or writing about one thing: ",
+                            "examples": [
+                                "The singular of \"children\" is \"child\".",
+                                "The word \"teeth\" is plural - in the singular it's \"tooth\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

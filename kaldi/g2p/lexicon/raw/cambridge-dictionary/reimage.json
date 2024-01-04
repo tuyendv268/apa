@@ -1,0 +1,67 @@
+{
+    "word": "reimage",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈɪm.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˌriːˈɪm.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change the way that an organization, company, or product is seen by the public: ",
+                            "examples": [
+                                "The firm had spent £6 million in an attempt to reimage itself.",
+                                "The company revealed its plans to reimage all of its retail outlets."
+                            ]
+                        },
+                        {
+                            "explanation": "to run a program that deals with any problems on a computer and makes sure that it is using the most suitable programs: ",
+                            "examples": [
+                                "The best solution to the problem is to reimage your hard disk.",
+                                "They reimaged the computers to remove any viruses.",
+                                "If you follow these instructions, there will be no need to reimage."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈriːˌɪm.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈriːˌɪm.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of running a program that deals with any problems on a computer and makes sure that it is using the most suitable programs: ",
+                            "examples": [
+                                "I think I'm the only person in the office who hasn't needed a reimage on their computer.",
+                                "Cleaning malware will usually take longer than a re-image."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

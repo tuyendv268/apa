@@ -1,0 +1,33 @@
+{
+    "word": "square root",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌskweə ˈruːt"
+                            ],
+                            "us": [
+                                "ˌskwer ˈruːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "The square root of a particular number is the number that was multiplied by itself to reach that number: ",
+                            "examples": [
+                                "The square root of 49 is 7."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "palsy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɔːl.zi"
+                            ],
+                            "us": [
+                                "ˈpɑːl.zi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a disease in which there is a loss or reduction of movement in a part of the body as a result of a problem with the brain or nerves: ",
+                            "examples": [
+                                "Facial nerve palsy is usually transient and shows a good response to steroids.",
+                                "Many patients who have had such surgery have suffered strokes and nerve palsies."
+                            ]
+                        },
+                        {
+                            "explanation": "a condition in which the whole body or the legs, hands, arms, etc. shake because of a problem with the muscles: ",
+                            "examples": [
+                                "Parkinson's Disease is the shaking palsy that afflicts many elderly people.",
+                                "Complicated migraines are headaches accompanied by sensory or motor deficits or muscle palsies."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

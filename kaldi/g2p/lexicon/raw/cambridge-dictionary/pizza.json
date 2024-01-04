@@ -1,0 +1,35 @@
+{
+    "word": "pizza",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpiːt.sə"
+                            ],
+                            "us": [
+                                "ˈpiːt.sə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large circle of flat bread baked with cheese, tomatoes, and sometimes meat and vegetables spread on top: ",
+                            "examples": [
+                                "a slice of pizza",
+                                "I like lots of different pizza toppings.",
+                                "a deep-pan (US deep-dish) pizza"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

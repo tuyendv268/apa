@@ -1,0 +1,88 @@
+{
+    "word": "milk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mɪlk"
+                            ],
+                            "us": [
+                                "mɪlk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the white liquid produced by cows, goats, and sheep and used by humans as a drink or for making butter, cheese, etc.: ",
+                            "examples": [
+                                "a glass/carton of milk",
+                                "cow's/goat's milk",
+                                "skimmed/pasteurized milk",
+                                "a milk bottle"
+                            ]
+                        },
+                        {
+                            "explanation": "the white liquid produced by women and other female mammals as food for their young: ",
+                            "examples": [
+                                "Breast/Mother's milk is the best nourishment for a baby."
+                            ]
+                        },
+                        {
+                            "explanation": "the liquid made from some plants and trees or their nuts, etc.: ",
+                            "examples": [
+                                "coconut milk",
+                                "plant-based alternatives to dairy such as almond or hazelnut milk"
+                            ]
+                        },
+                        {
+                            "explanation": "the liquid produced by some plants and trees: ",
+                            "examples": [
+                                "The milk of the rubber tree is known as latex.",
+                                "It usually takes six to seven years from the time a rubber tree is planted to when it can produce milk on a commercial basis."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɪlk"
+                            ],
+                            "us": [
+                                "mɪlk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get milk from an animal: ",
+                            "examples": [
+                                "Milking a cow by hand is a skilled process.",
+                                "Some goats seem to milk (= produce milk) better than others."
+                            ]
+                        },
+                        {
+                            "explanation": "to get as much money or information out of someone or something as possible, often in an unfair or dishonest way: ",
+                            "examples": [
+                                "The newspapers milked the story dry.",
+                                "The directors milked the company of several million dollars."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "locative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒk.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˈlɑː.kə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(in some languages) the form of a noun, pronoun, or adjective that expresses the place where someone or something is",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒk.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˈlɑː.kə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(in some languages) relating to the form of a noun, pronoun, or adjective that expresses the place where someone or something is: ",
+                            "examples": [
+                                "You seem to ignore the object of that locative phrase.",
+                                "Locative adverbs do not behave like locative past participles."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

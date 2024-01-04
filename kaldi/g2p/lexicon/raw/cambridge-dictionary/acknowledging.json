@@ -1,0 +1,68 @@
+{
+    "word": "acknowledging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nacknowledge ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əkˈnɒl.ɪdʒ"
+                            ],
+                            "us": [
+                                "əkˈnɑː.lɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to accept, admit, or recognize something, or the truth or existence of something: ",
+                            "examples": [
+                                "She acknowledged having been at fault.",
+                                "She acknowledged that she had been at fault.",
+                                "You must acknowledge the truth of her argument.",
+                                "Historians generally acknowledge her as a genius in her field.",
+                                "She is usually acknowledged to be one of our best artists.",
+                                "They refused to acknowledge (= to recognize officially) the new government.",
+                                "He didn't even acknowledge my presence (= show that he had seen me).",
+                                "The government won't even acknowledge the existence of the problem."
+                            ]
+                        },
+                        {
+                            "explanation": "to tell someone, usually in a letter or email, that you have received something they sent you: ",
+                            "examples": [
+                                "Please acknowledge receipt of this letter."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

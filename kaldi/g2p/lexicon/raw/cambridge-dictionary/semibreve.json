@@ -1,0 +1,31 @@
+{
+    "word": "semibreve",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsem.i.briːv"
+                            ],
+                            "us": [
+                                "ˈsem.i.briːv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a musical note with a time value equal to two minims or four crotchets",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

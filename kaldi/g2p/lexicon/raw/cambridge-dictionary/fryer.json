@@ -1,0 +1,37 @@
+{
+    "word": "fryer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfraɪ.ər"
+                            ],
+                            "us": [
+                                "ˈfraɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large deep pan in which food is fried: ",
+                            "examples": [
+                                "I've just bought a deep-fat fryer for cooking chips."
+                            ]
+                        },
+                        {
+                            "explanation": "a chicken suitable for frying",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

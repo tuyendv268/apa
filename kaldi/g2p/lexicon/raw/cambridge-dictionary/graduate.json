@@ -1,0 +1,78 @@
+{
+    "word": "graduate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡrædʒ.u.ət"
+                            ],
+                            "us": [
+                                "ˈɡrædʒ.u.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who has a first degree from a university or college: ",
+                            "examples": [
+                                "a Cambridge graduate",
+                                "Chris is a physics graduate."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who has finished their school, college, or university education: ",
+                            "examples": [
+                                "high-school graduates",
+                                "She's a recent graduate of Yale."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡrædʒ.u.eɪt"
+                            ],
+                            "us": [
+                                "ˈɡrædʒ.u.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to complete a first university degree successfully: ",
+                            "examples": [
+                                "Lorna graduated from Freiburg University.",
+                                "Tom has just graduated with first-class honours in psychology."
+                            ]
+                        },
+                        {
+                            "explanation": "to complete school, college, or university successfully: ",
+                            "examples": [
+                                "After he graduated from high school, he joined the Army."
+                            ]
+                        },
+                        {
+                            "explanation": "to move forward or improve: ",
+                            "examples": [
+                                "She graduated from being a secretary to running her own department."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

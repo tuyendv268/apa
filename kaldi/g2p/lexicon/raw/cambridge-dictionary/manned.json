@@ -1,0 +1,66 @@
+{
+    "word": "manned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nman  ",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "mænd"
+                            ],
+                            "us": [
+                                "mænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A manned vehicle has a person or people inside in order to operate it: ",
+                            "examples": [
+                                "China announced plans to launch a manned spacecraft.",
+                                "Drones have largely replaced manned aircraft for reconnaissance purposes."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to travel in a vehicle with a person or people inside in order to operate it: ",
+                            "examples": [
+                                "In strictly practical terms, manned space missions make little sense.",
+                                "We were shown footage of the first manned Moon landing."
+                            ]
+                        },
+                        {
+                            "explanation": "A manned gate, petrol station, etc. has a person or people there to guard it or work in it. : ",
+                            "examples": [
+                                "A high stone fence surrounds the estate, and cars enter through manned gates.",
+                                "Almost all manned petrol stations accept British bank cards."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

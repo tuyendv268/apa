@@ -1,0 +1,66 @@
+{
+    "word": "short circuit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌʃɔːt ˈsɜː.kɪt"
+                            ],
+                            "us": [
+                                "ˌʃɔːrt ˈsɝː.kɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a bad electrical connection that causes the current to flow in the wrong direction, often having the effect of stopping the power supply",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌʃɔːt ˈsɜː.kɪt"
+                            ],
+                            "us": [
+                                "ˌʃɔːrt ˈsɝː.kɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to have or cause a bad electrical connection that makes the current flow in the wrong direction, which often has the effect of stopping the power supply: ",
+                            "examples": [
+                                "If those two wires touch, the appliance will short-circuit and probably go up in flames."
+                            ]
+                        },
+                        {
+                            "explanation": "to do something more quickly than usual, by avoiding some of the parts of the process: ",
+                            "examples": [
+                                "We may be able to short-circuit this litigation before it drags on forever.",
+                                "The agency short-circuited the normal construction process by conducting environmental studies at the same time that preliminary studies were done."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

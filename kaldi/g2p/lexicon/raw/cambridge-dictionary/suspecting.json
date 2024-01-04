@@ -1,0 +1,72 @@
+{
+    "word": "suspecting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsuspect ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səˈspekt"
+                            ],
+                            "us": [
+                                "səˈspekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to think or believe something to be true or probable: ",
+                            "examples": [
+                                "So far, the police do not suspect foul play.",
+                                "We had no reason to suspect (that) he might try to kill himself.",
+                                "\"Do you think she'll have told them?\" \"I suspect not/so.\""
+                            ]
+                        },
+                        {
+                            "explanation": "to think that someone has committed a crime or done something wrong: ",
+                            "examples": [
+                                "No one knows who killed her, but the police suspect her husband.",
+                                "The police suspect him of carrying out two bomb attacks.",
+                                "Three suspected terrorists have been arrested."
+                            ]
+                        },
+                        {
+                            "explanation": "to not trust; to doubt: ",
+                            "examples": [
+                                "I have no reason to suspect her honesty/loyalty.",
+                                "We suspected his motives in making his offer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

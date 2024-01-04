@@ -1,0 +1,59 @@
+{
+    "word": "torpedo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tɔːˈpiː.dəʊ"
+                            ],
+                            "us": [
+                                "tɔːrˈpiː.doʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, thin bomb that travels underwater in order to destroy the ship at which it is aimed",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tɔːˈpiː.dəʊ"
+                            ],
+                            "us": [
+                                "tɔːrˈpiː.doʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use a torpedo to destroy something",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to destroy: ",
+                            "examples": [
+                                "He accused them of trying to torpedo the peace process."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

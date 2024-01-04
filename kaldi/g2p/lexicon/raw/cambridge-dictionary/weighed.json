@@ -1,0 +1,74 @@
+{
+    "word": "weighed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nweigh ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "weɪ"
+                            ],
+                            "us": [
+                                "weɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to have a heaviness of a stated amount, or to measure the heaviness of an object: ",
+                            "examples": [
+                                "Yesterday a satellite weighing 15 tons was successfully placed in orbit.",
+                                "She weighs herself every week on the scales in the bathroom.",
+                                "Your luggage must be weighed before it is put on the aircraft."
+                            ]
+                        },
+                        {
+                            "explanation": "(of something such as a fact or an event) to have an influence or be important: ",
+                            "examples": [
+                                "Easy access to a skilled workforce weighed heavily with us when we chose a site for the new factory."
+                            ]
+                        },
+                        {
+                            "explanation": "to carefully consider, especially by comparing facts or possibilities, in order to make a decision: ",
+                            "examples": [
+                                "Only when we have weighed all the factors involved can we decide when would be the best time to start.",
+                                "Economic benefits must be carefully weighed against the possible dangers of handling radioactive waste."
+                            ]
+                        },
+                        {
+                            "explanation": "to lift the anchor (= a heavy metal object) of a ship from under the water so that it can move freely",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "word": "bleep",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bliːp"
+                            ],
+                            "us": [
+                                "bliːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short, high sound made by a machine, especially if it is repeated: ",
+                            "examples": [
+                                "He wears a wristwatch with an irritating bleep."
+                            ]
+                        },
+                        {
+                            "explanation": "used when someone is speaking, to avoid saying a swear word: ",
+                            "examples": [
+                                "Where the bleep are my keys?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bliːp"
+                            ],
+                            "us": [
+                                "bliːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a machine) to make a short, high sound: ",
+                            "examples": [
+                                "I heard his alarm clock bleeping this morning."
+                            ]
+                        },
+                        {
+                            "explanation": "to call someone, for example a doctor, by sending a signal to a bleeper that they carry: ",
+                            "examples": [
+                                "Bleep me if his condition worsens."
+                            ]
+                        },
+                        {
+                            "explanation": "(on TV, etc.) to replace a swear word with an electronic sound so that people will not hear the swear word and be offended: ",
+                            "examples": [
+                                "Oops! Can you bleep that?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "bliːp"
+                            ],
+                            "us": [
+                                "bliːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to avoid saying a swear word, for example when you are angry or surprised: ",
+                            "examples": [
+                                "Oh, bleep. Why did I do that?",
+                                "She said, \"Holy bleep! That's my mum!\" "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

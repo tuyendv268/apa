@@ -1,0 +1,46 @@
+{
+    "word": "alumnus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈlʌm.nəs"
+                            ],
+                            "us": [
+                                "əˈlʌm.nəs"
+                            ],
+                            "uk_other_tense": [
+                                "əˈlʌm.naɪ"
+                            ],
+                            "us_other_tense": [
+                                "əˈlʌm.naɪ"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who studied at a particular school, college, or university: ",
+                            "examples": [
+                                "She started a business with a fellow Notre Dame alumnus.",
+                                "He was an alumnus of the University of Melbourne. ",
+                                "Several famous alumni have agreed to help raise money for the school's restoration fund."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who worked for a particular organization, was involved in a particular TV show, etc., earlier in their working life: ",
+                            "examples": [
+                                "Alumni of the restaurant include many famous chefs.",
+                                "The singer will be performing with a fellow \"American Idol\" alumnus. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

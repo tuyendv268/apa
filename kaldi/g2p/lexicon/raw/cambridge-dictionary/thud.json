@@ -1,0 +1,59 @@
+{
+    "word": "thud",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "θʌd"
+                            ],
+                            "us": [
+                                "θʌd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the sound that is made when something heavy falls or hits something else: ",
+                            "examples": [
+                                "The boy fell to the ground with a thud.",
+                                "I could hear the thud of horses' hoofs down the dirt road."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "θʌd"
+                            ],
+                            "us": [
+                                "θʌd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fall or hit something with a heavy sound: ",
+                            "examples": [
+                                "A small ball thudded to the ground close by. ",
+                                "The soldiers marched along the street, boots thudding."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

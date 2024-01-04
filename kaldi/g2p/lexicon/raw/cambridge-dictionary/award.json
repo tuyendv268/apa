@@ -1,0 +1,60 @@
+{
+    "word": "award",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈwɔːd"
+                            ],
+                            "us": [
+                                "əˈwɔːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give money or a prize following an official decision: ",
+                            "examples": [
+                                "Carlos was awarded first prize in the essay competition.",
+                                "The jury awarded libel damages of £100,000.",
+                                "The university has awarded her a $500 travel grant."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈwɔːd"
+                            ],
+                            "us": [
+                                "əˈwɔːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a prize or an amount of money that is given to someone following an official decision: ",
+                            "examples": [
+                                "They have authorized awards of £900 to each of the victims.",
+                                "the Academy Award for Best Director"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

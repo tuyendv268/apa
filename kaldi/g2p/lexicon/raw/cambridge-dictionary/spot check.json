@@ -1,0 +1,62 @@
+{
+    "word": "spot check",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌspɒt ˈtʃek"
+                            ],
+                            "us": [
+                                "ˌspɑːt ˈtʃek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a quick examination of a few members of a group instead of the whole group: ",
+                            "examples": [
+                                "The police are doing spot checks on motorists to test alcohol levels."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈspɒt ˌtʃek"
+                            ],
+                            "us": [
+                                "ˈspɑːt ˌtʃek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to quickly examine a few members of a group instead of the whole group: ",
+                            "examples": [
+                                "Inspectors spot-checked stores countywide.",
+                                "At park exits vehicles are spot-checked by an armed ranger."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

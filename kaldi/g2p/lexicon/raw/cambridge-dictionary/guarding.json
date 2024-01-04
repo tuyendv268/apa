@@ -1,0 +1,67 @@
+{
+    "word": "guarding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nguard ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡɑːd"
+                            ],
+                            "us": [
+                                "ɡɑːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to protect someone or something from being attacked or stolen: ",
+                            "examples": [
+                                "Soldiers guard the main doors of the embassy."
+                            ]
+                        },
+                        {
+                            "explanation": "to watch someone and make certain they do not escape from a place: ",
+                            "examples": [
+                                "Five prison officers guarded the prisoners."
+                            ]
+                        },
+                        {
+                            "explanation": "to keep information secret: ",
+                            "examples": [
+                                "Journalists jealously (= carefully) guard their sources of information."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

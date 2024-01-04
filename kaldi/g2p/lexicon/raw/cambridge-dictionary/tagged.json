@@ -1,0 +1,42 @@
+{
+    "word": "tagged",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "tæɡd"
+                            ],
+                            "us": [
+                                "tæɡd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a tag (= a piece of metal or plastic or an electronic device that is fastened to a person, animal, or object, so that people can know where they are or it is, or get other information about them or it): ",
+                            "examples": [
+                                "A group of neatly tagged pieces of evidence lay on the table.",
+                                "He is electronically tagged and not allowed out at night.",
+                                "The receiver will pick up a signal from tagged sharks that pass within about a half-mile radius."
+                            ]
+                        },
+                        {
+                            "explanation": "Tagged computer information has been marked to be dealt with in a particular way: ",
+                            "examples": [
+                                "The architecture uses tagged data types.",
+                                "Relevant data can be lost because of wrongly tagged items."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

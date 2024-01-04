@@ -1,0 +1,57 @@
+{
+    "word": "article",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑː.tɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈɑːr.t̬ɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of writing on a particular subject in a newspaper or magazine, or on the internet: ",
+                            "examples": [
+                                "There was an interesting article on vegetarianism in the paper yesterday."
+                            ]
+                        },
+                        {
+                            "explanation": "any of the English words \"a\", \"an\", and \"the\", or words in other languages that do the same job as these",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a particular thing, especially one that is one of several things of a similar type or in the same place: ",
+                            "examples": [
+                                "An article of clothing was found near the river.",
+                                "Guests are advised not to leave any articles of value in their hotel rooms.",
+                                "articles of furniture"
+                            ]
+                        },
+                        {
+                            "explanation": "a separate part in a written document such as a legal agreement: ",
+                            "examples": [
+                                "East and West Germany united under article 23 of the Bonn constitution."
+                            ]
+                        },
+                        {
+                            "explanation": "work done in a law office while training to be a lawyer: ",
+                            "examples": [
+                                "I'm doing my articles in a small firm in Oxford."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

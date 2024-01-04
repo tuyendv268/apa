@@ -1,0 +1,40 @@
+{
+    "word": "stoke",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "stəʊk"
+                            ],
+                            "us": [
+                                "stoʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add fuel to a large fire and move the fuel around with a stick so that it burns well and produces a lot of heat: ",
+                            "examples": [
+                                "Once the fire had been stoked up, the room began to get warm."
+                            ]
+                        },
+                        {
+                            "explanation": "to encourage bad ideas or feelings in a lot of people: ",
+                            "examples": [
+                                "He's been accused of stoking up racial hatred in the region.",
+                                "Rumours of an emergency meeting of the finance committee stoked the atmosphere of crisis."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

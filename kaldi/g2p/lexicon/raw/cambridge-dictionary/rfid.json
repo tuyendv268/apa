@@ -1,0 +1,35 @@
+{
+    "word": "rfid",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɑːr.ef.aɪˈdiː"
+                            ],
+                            "us": [
+                                "ˌɑːr.ef.aɪˈdiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for Radio Frequency Identification: a system of fixing a small electronic device to something or someone that sends out a radio signal, so that a computer can find out where they are or other information about them: ",
+                            "examples": [
+                                "RFID is widely expected to replace bar codes. ",
+                                "The cat door responds to an RFID tag in the pet's collar.",
+                                "Most new cars have keys with RFID chips embedded in the plastic head of the key."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

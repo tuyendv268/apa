@@ -1,0 +1,41 @@
+{
+    "word": "greet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡriːt"
+                            ],
+                            "us": [
+                                "ɡriːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to welcome someone with particular words or a particular action, or to react to something in the stated way: ",
+                            "examples": [
+                                "He greeted me at the door.",
+                                "The teacher greeted each child with a friendly \"Hello!\"",
+                                "The unions have greeted the decision with delight/anger."
+                            ]
+                        },
+                        {
+                            "explanation": "If you are greeted by a sight, sound, or smell, you notice it immediately when you arrive somewhere: ",
+                            "examples": [
+                                "As we walked into the house, we were greeted by a wonderful smell of baking."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

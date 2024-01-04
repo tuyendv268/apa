@@ -1,0 +1,34 @@
+{
+    "word": "joe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dʒəʊ"
+                            ],
+                            "us": [
+                                "dʒoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "coffee: ",
+                            "examples": [
+                                "You'll just get a regular cup of joe at this diner, nothing fancy with frothy milk.",
+                                "I can't function until I've had my morning cup of joe."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

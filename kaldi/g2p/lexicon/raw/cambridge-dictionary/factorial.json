@@ -1,0 +1,64 @@
+{
+    "word": "factorial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fækˈtɔː.ri.əl"
+                            ],
+                            "us": [
+                                "fækˈtɔːr.i.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the product of (= the result of multiplying) a whole number and all the whole numbers below it: ",
+                            "examples": [
+                                "The factorial of five (5 x 4 x 3 x 2 x 1) is 120. ",
+                                "Four factorial (4 x 3 x 2 x 1) is 24."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "fækˈtɔː.ri.əl"
+                            ],
+                            "us": [
+                                "fækˈtɔːr.i.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a factor (= a fact or situation that influences a result): ",
+                            "examples": [
+                                "an experiment with a factorial design (= with two or more factors)"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to factorials: ",
+                            "examples": [
+                                "The number is calculated as a multiplication 1 x 2 x 3 x 4 x 5 x 6=720, or expressed in factorial mathematics: 6!=720."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

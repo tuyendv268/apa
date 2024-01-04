@@ -1,0 +1,93 @@
+{
+    "word": "prone",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "prəʊn"
+                            ],
+                            "us": [
+                                "proʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "likely to show a particular characteristic, usually a negative one, or to be affected by something bad, such as damage or an illness : ",
+                            "examples": [
+                                "I've always been prone to headaches."
+                            ]
+                        },
+                        {
+                            "explanation": "lying face down: ",
+                            "examples": [
+                                "The photograph showed a man lying prone on the pavement, a puddle of blood around his head."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prəʊn"
+                            ],
+                            "us": [
+                                "proʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put someone into a position in which they are lying face down, especially in order to improve their breathing and oxygen levels: ",
+                            "examples": [
+                                "How many people do you need to prone a patient?",
+                                "In some cases, proning a patient can remove the need for intubation. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -prəʊn"
+                            ],
+                            "us": [
+                                " -proʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "likely to experience a particular problem more often than is usual: ",
+                            "examples": [
+                                "accident-prone",
+                                "injury-prone"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

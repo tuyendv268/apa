@@ -1,0 +1,41 @@
+{
+    "word": "lens",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "lenz"
+                            ],
+                            "us": [
+                                "lenz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a curved piece of glass, plastic, or other transparent material, used in cameras, glasses, and scientific equipment, that makes objects seem closer, larger, smaller, etc.: ",
+                            "examples": [
+                                "a camera with a zoom lens"
+                            ]
+                        },
+                        {
+                            "explanation": "→ \ncontact lens ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the part of the eye behind the pupil (= the black hole at the front of the eye) that helps you to see clearly by focusing (= collecting) light onto the retina",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

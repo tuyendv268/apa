@@ -1,0 +1,40 @@
+{
+    "word": "enabled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈneɪ.bəld"
+                            ],
+                            "us": [
+                                "ɪˈneɪ.bəld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "provided with a particular type of equipment or technology, or having the necessary or correct system, device, or arrangement to use it: ",
+                            "examples": [
+                                "WAP-enabled mobile phones",
+                                "Their aim is to make sure that every home and business becomes internet-enabled in the next ten years."
+                            ]
+                        },
+                        {
+                            "explanation": "operated or made possible by the use of a particular thing: ",
+                            "examples": [
+                                "voice-enabled software"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

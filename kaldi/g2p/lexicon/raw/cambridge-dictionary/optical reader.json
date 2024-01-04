@@ -1,0 +1,35 @@
+{
+    "word": "optical reader",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒp.tɪ.kəl ˈriː.dər"
+                            ],
+                            "us": [
+                                "ˌɑːp.tɪ.kəl ˈriː.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device that takes a picture of visual information and changes it into a form that a computer can store and show on its screen: ",
+                            "examples": [
+                                "The optical reader scans number plates and compares them against stolen vehicles.",
+                                "Optical data readers can be used to scan a document and make sense of the patterns it finds within the document.",
+                                "Some devices, such as optical mark readers, enable data to be entered directly, without human intervention."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

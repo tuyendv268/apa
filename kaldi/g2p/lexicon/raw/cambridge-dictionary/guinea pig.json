@@ -1,0 +1,40 @@
+{
+    "word": "guinea pig",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡɪn.i ˌpɪɡ"
+                            ],
+                            "us": [
+                                "ˈɡɪn.i ˌpɪɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small animal covered in fur with rounded ears, short legs, and no tail, often kept as a pet by children: ",
+                            "examples": [
+                                "Guinea pigs need a covered area with bedding where they can shelter.",
+                                "Many young girls have to make do with a guineapig or a hamster when what they really want is a pony."
+                            ]
+                        },
+                        {
+                            "explanation": "a person used in a scientific test, for example to discover the effect of a drug on humans: ",
+                            "examples": [
+                                "They're asking for students to be guinea pigs in their research into the common cold."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

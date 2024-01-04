@@ -1,0 +1,33 @@
+{
+    "word": "alphabet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæl.fə.bet"
+                            ],
+                            "us": [
+                                "ˈæl.fə.bet"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a set of letters arranged in a fixed order, used for writing a language: ",
+                            "examples": [
+                                "the Roman/Cyrillic alphabet"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "width",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "wɪtθ",
+                                "wɪdθ"
+                            ],
+                            "us": [
+                                "wɪtθ",
+                                "wɪdθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the distance across something from one side to the other: ",
+                            "examples": [
+                                "It is five metres in width.",
+                                "The needle is seven times smaller than the width of a human hair.",
+                                "The material is available in various widths."
+                            ]
+                        },
+                        {
+                            "explanation": "the distance across a swimming pool from one side to the other: ",
+                            "examples": [
+                                "I managed to swim two widths underwater."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

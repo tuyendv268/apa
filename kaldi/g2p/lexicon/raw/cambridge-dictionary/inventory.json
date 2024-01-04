@@ -1,0 +1,43 @@
+{
+    "word": "inventory",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.vən.tər.i"
+                            ],
+                            "us": [
+                                "ˈɪn.vən.tɔːr.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a detailed list of all the things in a place: ",
+                            "examples": [
+                                "A set of 24 gilded chairs appear on the inventory of the house for 1736."
+                            ]
+                        },
+                        {
+                            "explanation": "the amount of goods a shop has, or the value of them: ",
+                            "examples": [
+                                "Our inventory of used cars is the best in town."
+                            ]
+                        },
+                        {
+                            "explanation": "the counting of all the goods, materials, etc. kept in a place such as a shop",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "tunnel",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʌn.əl"
+                            ],
+                            "us": [
+                                "ˈtʌn.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long passage under or through the ground, especially one made by people: ",
+                            "examples": [
+                                "The train went into the tunnel."
+                            ]
+                        },
+                        {
+                            "explanation": "the long passage through which football, rugby etc. players walk to get to the pitch",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʌn.əl"
+                            ],
+                            "us": [
+                                "ˈtʌn.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "US usually"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to dig a tunnel: ",
+                            "examples": [
+                                "The decision has not yet been made whether to tunnel under the river or build a bridge over it.",
+                                "The alternative is to tunnel a route through the mountain.",
+                                "He was trapped in a collapsed building but managed to tunnel his way out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

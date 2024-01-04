@@ -1,0 +1,41 @@
+{
+    "word": "dns",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdiː.enˈes"
+                            ],
+                            "us": [
+                                "ˌdiː.enˈes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for domain name system: the system used for building internet addresses according to fixed rules: ",
+                            "examples": [
+                                "DNS is a service for accessing a networked computer by name rather than by numerical address.",
+                                "The DNS (Domain Name System) name is associated with your IP address and therefore changes."
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for domain name server: the system that translates an internet address into an address consisting of numbers, that a computer can use : ",
+                            "examples": [
+                                "The hackers exploit a flaw in the software of some domain name servers (DNS).",
+                                "The router does a DNS lookup, and stores the IP address in the configuration."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

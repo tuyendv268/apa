@@ -1,0 +1,62 @@
+{
+    "word": "deceiving",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndeceive ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈsiːv"
+                            ],
+                            "us": [
+                                "dɪˈsiːv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to persuade someone that something false is the truth, or to keep the truth hidden from someone for your own advantage: ",
+                            "examples": [
+                                "The company deceived customers by selling old computers as new ones.",
+                                "The sound of the door closing deceived me into thinking they had gone out."
+                            ]
+                        },
+                        {
+                            "explanation": "to refuse to accept the truth: ",
+                            "examples": [
+                                "She thinks he'll come back, but she's deceiving herself."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

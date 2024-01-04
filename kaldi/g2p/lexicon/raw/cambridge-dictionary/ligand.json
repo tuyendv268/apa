@@ -1,0 +1,35 @@
+{
+    "word": "ligand",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɪɡ.ənd"
+                            ],
+                            "us": [
+                                "ˈlɪɡ.ənd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an ion (= an atom or small group of atoms that has an electrical charge) or a molecule (= the simplest unit of a chemical substance) that is attached to a metal atom",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a molecule (= the simplest unit of a chemical substance) that is attached to another molecule",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

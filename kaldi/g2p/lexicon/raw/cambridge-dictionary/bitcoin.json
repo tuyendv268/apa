@@ -1,0 +1,40 @@
+{
+    "word": "bitcoin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɪt.kɔɪn"
+                            ],
+                            "us": [
+                                "ˈbɪt.kɔɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a brand name for a type of cryptocurrency (= a digital currency that is produced by a public network rather than any government and uses special codes to keep it secure): ",
+                            "examples": [
+                                "The health provider was the first to accept bitcoin as a method of payment.",
+                                "He invested heavily in Bitcoin."
+                            ]
+                        },
+                        {
+                            "explanation": "a single unit of this currency: ",
+                            "examples": [
+                                "the global supply of bitcoins"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

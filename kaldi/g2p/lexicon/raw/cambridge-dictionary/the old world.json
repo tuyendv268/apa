@@ -1,0 +1,59 @@
+{
+    "word": "the old world",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌəʊld ˈwɜːld"
+                            ],
+                            "us": [
+                                "ˌoʊld ˈwɝːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Asia, Africa, and Europe",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈəʊldˌwɜːld"
+                            ],
+                            "us": [
+                                "ˈoʊldˌwɝːld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or typical of a period in the past: ",
+                            "examples": [
+                                "Much of the town centre retains its old-world charm, with buildings dating from Shakespeare's day."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

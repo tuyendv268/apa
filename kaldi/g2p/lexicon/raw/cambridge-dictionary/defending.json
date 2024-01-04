@@ -1,0 +1,88 @@
+{
+    "word": "defending",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndefend ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈfend"
+                            ],
+                            "us": [
+                                "dɪˈfend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to protect someone or something against attack or criticism: ",
+                            "examples": [
+                                "How can we defend our homeland if we don't have an army?",
+                                "White blood cells help defend the body against infection.",
+                                "They are fighting to defend their beliefs/interests/rights.",
+                                "I'm going to karate lessons to learn how to defend myself.",
+                                "The Bank of England intervened this morning to defend the pound (= stop it from losing value)."
+                            ]
+                        },
+                        {
+                            "explanation": "to speak or write in support of someone or something: ",
+                            "examples": [
+                                "He vigorously defended his point of view.",
+                                "The president was asked how he could defend a policy that increased unemployment."
+                            ]
+                        },
+                        {
+                            "explanation": "to act as a lawyer for someone who has been accused of something in a court of law and try to prove that they are not guilty: ",
+                            "examples": [
+                                "The lawyer defending the students asked the judge to dismiss the charges. ",
+                                "He has defended many famous clients.",
+                                "Unusually, the accused opted to defend himself in court.",
+                                "The company has spent a lot of money defending the case."
+                            ]
+                        },
+                        {
+                            "explanation": "to compete in a sports competition that you won before and try to win it again: ",
+                            "examples": [
+                                "He will defend his 1,500 metre title this weekend.",
+                                "The defending champion will play her first match of the tournament tomorrow."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to prevent the opposing player or players from scoring points, goals, etc. in a sport: ",
+                            "examples": [
+                                "In the last ten minutes of the game, we needed to defend."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

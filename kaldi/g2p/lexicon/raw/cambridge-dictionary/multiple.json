@@ -1,0 +1,92 @@
+{
+    "word": "multiple",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmʌl.tɪ.pəl"
+                            ],
+                            "us": [
+                                "ˈmʌl.tə.pəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "very many of the same type, or of different types: ",
+                            "examples": [
+                                "The young man died of multiple burns.",
+                                "We made multiple copies of the report.",
+                                "We offer multiple (= many different) payment options."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmʌl.tɪ.pəl"
+                            ],
+                            "us": [
+                                "ˈmʌl.tə.pəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number that can be divided by a smaller number an exact number of times: ",
+                            "examples": [
+                                "18 is a multiple of 3, because 18 = 3 x 6."
+                            ]
+                        },
+                        {
+                            "explanation": "a large company that has shops in many towns",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "mʌl.tɪ.pəl-"
+                            ],
+                            "us": [
+                                "mʌl.tə.pəl-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having more than one and usually several of something: ",
+                            "examples": [
+                                "Most of the multiple-family domestic groups contained two small families living together.",
+                                "They studied the children's vocabularies and early multiple-word utterances."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

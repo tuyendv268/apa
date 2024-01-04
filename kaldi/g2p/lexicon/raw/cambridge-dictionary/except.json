@@ -1,0 +1,36 @@
+{
+    "word": "except",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈsept"
+                            ],
+                            "us": [
+                                "ɪkˈsept"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not including; but not: ",
+                            "examples": [
+                                "The museum is open daily except Monday(s).",
+                                "The government has few options except to keep interest rates high.",
+                                "It's cool and quiet everywhere except in the kitchen.",
+                                "There is nothing to indicate the building's past, except (for) the fireplace."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

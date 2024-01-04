@@ -1,0 +1,42 @@
+{
+    "word": "mouse",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "maʊs"
+                            ],
+                            "us": [
+                                "maʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small mammal with short fur, a pointed face, and a long tail: ",
+                            "examples": [
+                                "a field mouse",
+                                "a pet mouse"
+                            ]
+                        },
+                        {
+                            "explanation": "a small device that you move across a surface in order to move a cursor on your computer screen",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a shy, quiet, nervous person",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

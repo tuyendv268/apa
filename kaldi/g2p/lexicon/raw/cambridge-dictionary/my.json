@@ -1,0 +1,80 @@
+{
+    "word": "my",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "maɪ"
+                            ],
+                            "us": [
+                                "maɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of or belonging to me (= the speaker or writer): ",
+                            "examples": [
+                                "my parents",
+                                "my feet",
+                                "my name",
+                                "my jacket",
+                                "It wasn't my fault.",
+                                "She was somewhat surprised at my asking (= that I asked) for the book to be returned."
+                            ]
+                        },
+                        {
+                            "explanation": "used to emphasize that something belongs to or is connected with me and no one else: ",
+                            "examples": [
+                                "I want my own car."
+                            ]
+                        },
+                        {
+                            "explanation": "used in front of a noun as a way of expressing love or as a polite or humorous form of address: ",
+                            "examples": [
+                                "My darling!",
+                                "Do you want any help, my dear?"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to a part of some websites where you can choose to see only the information that is important to you",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "maɪ"
+                            ],
+                            "us": [
+                                "maɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to express surprise or pleasure: ",
+                            "examples": [
+                                "My, what delicious food!",
+                                "My, oh, my, what a busy day!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

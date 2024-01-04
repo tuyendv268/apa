@@ -1,0 +1,59 @@
+{
+    "word": "miscount",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪsˈkaʊnt"
+                            ],
+                            "us": [
+                                "ˌmɪsˈkaʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to reach a total that is not correct when counting: ",
+                            "examples": [
+                                "I thought we had enough plates for the party, but perhaps I miscounted.",
+                                "A computer glitch had miscounted thousands of absentee votes."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪsˌkaʊnt"
+                            ],
+                            "us": [
+                                "ˈmɪsˌkaʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an occasion when someone reaches a total that is not correct when counting: ",
+                            "examples": [
+                                "The missing revenue from the miscount totals between $8,000 and $12,000.",
+                                "Most of the lost votes and miscounts occurred in counties with modern electronic systems."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

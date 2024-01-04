@@ -1,0 +1,34 @@
+{
+    "word": "puppy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpʌp.i"
+                            ],
+                            "us": [
+                                "ˈpʌp.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a young dog: ",
+                            "examples": [
+                                "Our dog has just had four puppies.",
+                                "a dalmatian puppy"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

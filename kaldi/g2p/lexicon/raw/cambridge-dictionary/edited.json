@@ -1,0 +1,62 @@
+{
+    "word": "edited",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nedit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈed.ɪt"
+                            ],
+                            "us": [
+                                "ˈed.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make changes to a text or film, deciding what will be removed and what will be kept in, in order to prepare it for being printed or shown: ",
+                            "examples": [
+                                "Janet edited books for a variety of publishers.",
+                                "The movie's 129 minutes were edited down from 150 hours of footage."
+                            ]
+                        },
+                        {
+                            "explanation": "to be in charge of the reports in a newspaper or magazine, etc.: ",
+                            "examples": [
+                                "He edits a national newspaper."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

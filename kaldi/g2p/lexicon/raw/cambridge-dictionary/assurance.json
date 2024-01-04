@@ -1,0 +1,44 @@
+{
+    "word": "assurance",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈʃɔː.rəns"
+                            ],
+                            "us": [
+                                "əˈʃʊr.əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a promise: ",
+                            "examples": [
+                                "She gave me her assurance (that) she would sign the contract immediately.",
+                                "Despite the government's repeated assurances to the contrary, taxation has risen over the past decade."
+                            ]
+                        },
+                        {
+                            "explanation": "confidence: ",
+                            "examples": [
+                                "He spoke with calm assurance."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of insurance against events that will certainly happen, such as death, not those that may happen, such as illness, fire, or having your property stolen",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

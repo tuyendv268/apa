@@ -1,0 +1,65 @@
+{
+    "word": "bus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bʌs"
+                            ],
+                            "us": [
+                                "bʌs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large vehicle in which people are driven from one place to another: ",
+                            "examples": [
+                                "You should take the bus/go by bus (= travel by bus) if you want to see the sights."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of wires in a computer along which information can be sent to and from other parts of the computer",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bʌs"
+                            ],
+                            "us": [
+                                "bʌs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "US usually"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take people somewhere by bus: ",
+                            "examples": [
+                                "Demonstrators were bussed in from all parts of the state to attend the protest rally."
+                            ]
+                        },
+                        {
+                            "explanation": "to take children by bus to school in another area every day",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

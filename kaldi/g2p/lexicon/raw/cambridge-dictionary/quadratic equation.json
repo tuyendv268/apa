@@ -1,0 +1,33 @@
+{
+    "word": "quadratic equation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kwɒdˌræt.ɪk ɪˈkweɪ.ʒən"
+                            ],
+                            "us": [
+                                "kwɑːdˌræt̬.ɪk ɪˈkweɪ.ʒən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an equation that includes an unknown value that is multiplied by itself only once, and does not include an unknown value multiplied by itself more than once: ",
+                            "examples": [
+                                "In the quadratic equation, 2y2+3y=14, y=2 or y=-3½."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

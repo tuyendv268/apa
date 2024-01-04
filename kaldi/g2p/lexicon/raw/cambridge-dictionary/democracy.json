@@ -1,0 +1,40 @@
+{
+    "word": "democracy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈmɒk.rə.si"
+                            ],
+                            "us": [
+                                "dɪˈmɑː.krə.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the belief in freedom and equality between people, or a system of government based on this belief, in which power is either held by elected representatives or directly by the people themselves: ",
+                            "examples": [
+                                "The government has promised to uphold the principles of democracy.",
+                                "The early 1990s saw the spread of democracy in Eastern Europe."
+                            ]
+                        },
+                        {
+                            "explanation": "a country in which power is held by elected representatives: ",
+                            "examples": [
+                                "Few of the Western democracies still have a royal family."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

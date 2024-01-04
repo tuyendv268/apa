@@ -1,0 +1,41 @@
+{
+    "word": "non-responder",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.rɪˈspɒn.dər"
+                            ],
+                            "us": [
+                                "ˌnɑːn.rɪˈspɑːn.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who does not answer a request for information: ",
+                            "examples": [
+                                "Sixty of the people we surveyed were non-responders.",
+                                "We sent out a reminder to all the non-responders."
+                            ]
+                        },
+                        {
+                            "explanation": "an ill person who does not begin to get better when they are given treatment: ",
+                            "examples": [
+                                "She is a nonresponder to aspirin.",
+                                "If the patient is a non-responder, the therapy should be stopped."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

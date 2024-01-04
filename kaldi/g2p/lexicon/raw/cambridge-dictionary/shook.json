@@ -1,0 +1,62 @@
+{
+    "word": "shook",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʃʊk"
+                            ],
+                            "us": [
+                                "ʃʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple of shake",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʃʊk"
+                            ],
+                            "us": [
+                                "ʃʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "shocked and upset by an unpleasant experience: ",
+                            "examples": [
+                                "When the earthquake happened, my daughter was really shook.",
+                                "He's still pretty shook up about the whole thing."
+                            ]
+                        },
+                        {
+                            "explanation": "liking or wanting someone or something very much, or very eager to do or have something: ",
+                            "examples": [
+                                "I'm not shook on coffee myself."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "enumerable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈnjuː.mər.ə.bəl"
+                            ],
+                            "us": [
+                                "ɪˈnuː.mɚ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to be counted or named, one by one: ",
+                            "examples": [
+                                "The system provides a user-friendly approach to querying and working with enumerable collections of data.",
+                                "The data analyst needs a finitely enumerable set of elements with which to work."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "wading",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nwade ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "weɪd"
+                            ],
+                            "us": [
+                                "weɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to walk through water or other liquid with some effort, because it is deep enough to come quite high up your legs, or thick : ",
+                            "examples": [
+                                "The river was full but we managed to wade across.",
+                                "We waded a shallow river.",
+                                "They had to wade through a swamp."
+                            ]
+                        },
+                        {
+                            "explanation": "to walk in water that is not very deep: ",
+                            "examples": [
+                                "We rolled up our trousers and waded at the edge of the lake."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

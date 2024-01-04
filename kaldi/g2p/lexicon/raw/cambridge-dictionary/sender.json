@@ -1,0 +1,34 @@
+{
+    "word": "sender",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsen.dər"
+                            ],
+                            "us": [
+                                "ˈsen.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who sends something: ",
+                            "examples": [
+                                "Postage stamps were introduced in Britain in 1840 as a way of showing that the sender had paid for the letter to be delivered.",
+                                "The letter came back with \"return to sender - not known at this address\" written on it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

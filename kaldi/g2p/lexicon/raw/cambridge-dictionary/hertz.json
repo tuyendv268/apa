@@ -1,0 +1,31 @@
+{
+    "word": "hertz",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hɜːts"
+                            ],
+                            "us": [
+                                "hɝːts"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit for measuring the number of cycles that happen every second, used especially in electronics",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

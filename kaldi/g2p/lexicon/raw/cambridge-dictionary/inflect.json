@@ -1,0 +1,41 @@
+{
+    "word": "inflect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈflekt"
+                            ],
+                            "us": [
+                                "ɪnˈflekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a word) to change spelling or ending according to the way it is used in a sentence; to change a spelling or ending in this way: ",
+                            "examples": [
+                                "Almost all word types can inflect in Finnish.",
+                                "a language where verbs are inflected"
+                            ]
+                        },
+                        {
+                            "explanation": "to slightly influence or show the slight influence of something: ",
+                            "examples": [
+                                "The actors inflect their performances with sincere emotion.",
+                                "Deep pain inflected his voice."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "revealed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nreveal ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈviːl"
+                            ],
+                            "us": [
+                                "rɪˈviːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make known or show something that is surprising or that was previously secret: ",
+                            "examples": [
+                                "He was jailed for revealing secrets to the Russians.",
+                                "Her biography revealed that she was not as rich as everyone thought.",
+                                "He would not reveal where he had hidden her chocolate eggs."
+                            ]
+                        },
+                        {
+                            "explanation": "to allow something to be seen that, until then, had been hidden: ",
+                            "examples": [
+                                "A gap in the clouds revealed the Atlantic far below."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

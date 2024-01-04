@@ -1,0 +1,33 @@
+{
+    "word": "pos",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpi.əʊˈes"
+                            ],
+                            "us": [
+                                "ˌpi.oʊˈes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for \npoint of sale : a place where something is sold to the public, or the place where someone pays for something: ",
+                            "examples": [
+                                "It is wise to use the POS computer only for sales transactions, reports, and inventory control."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "finite",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfaɪ.naɪt"
+                            ],
+                            "us": [
+                                "ˈfaɪ.naɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a limit or end: ",
+                            "examples": [
+                                "The funds available for the health service are finite and we cannot afford to waste money.",
+                                "We only have a finite amount of time to complete this task - we can't continue indefinitely."
+                            ]
+                        },
+                        {
+                            "explanation": "in a form that shows the tense and subject of a verb, rather than the infinitive form or a participle: ",
+                            "examples": [
+                                "In the following sentence \"go\" is finite: \"I often go to the cinema.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

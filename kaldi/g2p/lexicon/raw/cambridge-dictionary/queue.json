@@ -1,0 +1,84 @@
+{
+    "word": "queue",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kjuː"
+                            ],
+                            "us": [
+                                "kjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a line of people, usually standing or in cars, waiting for something, or a lot of people who want something: ",
+                            "examples": [
+                                "Are you in the queue for tickets?",
+                                "There was a long queue of traffic stretching down the road.",
+                                "If you want tickets you'll have to join the queue.",
+                                "It makes me mad when someone jumps the queue (= goes straight to the front).",
+                                "There's a queue of companies wanting to sell the product."
+                            ]
+                        },
+                        {
+                            "explanation": "a series of pieces of data, files to be printed, calls, etc. that are waiting to be dealt with by a computer, telephone system, etc.: ",
+                            "examples": [
+                                "I turned the printer off and cleared the print queue.",
+                                "If the printer queue is blocked, a user can clear their own documents from the queue, but not anybody else's.",
+                                "With the new system, the calls will stack up in a queue, rather than callers being forced to call back because they keep getting a busy signal."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kjuː"
+                            ],
+                            "us": [
+                                "kjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to wait in a line of people, often to buy something: ",
+                            "examples": [
+                                "Dozens of people were queueing up to get tickets.",
+                                "We had to queue for three hours to get in."
+                            ]
+                        },
+                        {
+                            "explanation": "to want very much to do something: ",
+                            "examples": [
+                                "There are thousands of young women queueing up to be models.",
+                                "It is one of several big German companies queueing for a listing on the New York Stock Exchange."
+                            ]
+                        },
+                        {
+                            "explanation": "to arrange pieces of data, files to be printed, calls, etc. in a series so they can be dealt with one after the other by a computer, telephone system, etc.: ",
+                            "examples": [
+                                "If more than the maximum number of print jobs are submitted at the same time, the software queues the excess jobs.",
+                                "During peak periods calls can be queued rather than callers hearing a busy tone."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

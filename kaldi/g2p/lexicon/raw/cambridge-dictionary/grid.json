@@ -1,0 +1,50 @@
+{
+    "word": "grid",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡrɪd"
+                            ],
+                            "us": [
+                                "ɡrɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pattern or structure made from horizontal and vertical lines crossing each other to form squares: ",
+                            "examples": [
+                                "A metal grid had been placed over the hole to prevent people from falling in.",
+                                "In Barcelona the streets are laid out in/on a grid system."
+                            ]
+                        },
+                        {
+                            "explanation": "a system of wires through which electricity is connected to different power stations across a region: ",
+                            "examples": [
+                                "the national grid"
+                            ]
+                        },
+                        {
+                            "explanation": "a pattern of squares with numbers or letters used to find places on a map",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a pattern of lines marking the start of the track in motor racing (= a sport of racing very fast and powerful cars around a track): ",
+                            "examples": [
+                                "In all, 26 drivers will be on the starting grid tomorrow."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

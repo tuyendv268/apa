@@ -1,0 +1,48 @@
+{
+    "word": "eavesdropper",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈiːvz.drɒp.ər"
+                            ],
+                            "us": [
+                                "ˈiːvz.drɑː.pɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who listens to someone's private conversation without them knowing: ",
+                            "examples": [
+                                "Doris mouthed the words, looking towards the door for fear of eavesdroppers. ",
+                                "A lot of prison slang was probably invented to confuse eavesdroppers."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who listens to someone without them knowing, using an electronic listening device: ",
+                            "examples": [
+                                "The eavesdroppers, armed with radio scanning equipment, can pick up talk from inside homes.",
+                                "When intercepted conversations are clearly innocent, police eavesdroppers are supposed to switch off after a few minutes."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who steals private information by secretly picking up an electronic signal or entering a computer system: ",
+                            "examples": [
+                                "He suggests manually locking the car in any situation when an eavesdropper might be able to pick up the key fob's signal.",
+                                "The eavesdropper will know exactly which search query you typed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "word": "zero",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "ˈzɪə.rəʊ"
+                            ],
+                            "us": [
+                                "ˈzɪr.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(the number) 0; nothing: ",
+                            "examples": [
+                                "Five, four, three, two, one, zero.",
+                                "The number one million is written with a one and six zeros.",
+                                "Heavy rain has reduced visibility almost to zero (= its lowest point)."
+                            ]
+                        },
+                        {
+                            "explanation": "on a set of numbers for comparing temperature in degrees Celsius, the level of temperature at which water freezes: ",
+                            "examples": [
+                                "The temperature is expected to drop to ten degrees below zero tonight."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈzɪə.rəʊ"
+                            ],
+                            "us": [
+                                "ˈzɪr.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "nothing or 0 in number: ",
+                            "examples": [
+                                "zero growth/inflation"
+                            ]
+                        },
+                        {
+                            "explanation": "no or none; used to emphasize that something does not exist: ",
+                            "examples": [
+                                "There's still zero evidence that she was directly involved in the decision.",
+                                "The plot twist is stupid and obvious and makes zero sense.",
+                                "He said that his chances of getting the job were zero."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

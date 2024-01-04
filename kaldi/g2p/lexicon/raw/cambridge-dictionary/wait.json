@@ -1,0 +1,73 @@
+{
+    "word": "wait",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "weɪt"
+                            ],
+                            "us": [
+                                "weɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to allow time to go by, especially while staying in one place without doing very much, until someone comes, until something that you are expecting happens or until you can do something: ",
+                            "examples": [
+                                "I waited for her outside while she went in to see the doctor.",
+                                "The dentist kept me waiting for ages.",
+                                "There were a lot of people waiting to use the phone."
+                            ]
+                        },
+                        {
+                            "explanation": "to be done or to happen at a later time: ",
+                            "examples": [
+                                "The meeting will have to wait until tomorrow, because I'm too busy now.",
+                                "The paperwork can't wait until tomorrow (= is urgent and must be done now)."
+                            ]
+                        },
+                        {
+                            "explanation": "used on signs to mean vehicles are not allowed to park, even for short periods of time: ",
+                            "examples": [
+                                "The sign by the side of the road said \"no waiting!\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "weɪt"
+                            ],
+                            "us": [
+                                "weɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a period of time when you stay in one place until someone comes, or something happens, or until you can do something: ",
+                            "examples": [
+                                "We had a three-hour wait before we could see the doctor.",
+                                "The long wait for the doctor/to see the doctor really made me anxious."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

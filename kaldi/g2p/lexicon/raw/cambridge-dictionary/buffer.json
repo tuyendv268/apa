@@ -1,0 +1,79 @@
+{
+    "word": "buffer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌf.ər"
+                            ],
+                            "us": [
+                                "ˈbʌf.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something or someone that helps protect from harm: ",
+                            "examples": [
+                                "I bought a house as a buffer against inflation."
+                            ]
+                        },
+                        {
+                            "explanation": "the metal parts at the front and back of a train or at the end of a track, that help protect the train and reduce damage if the train hits something",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a chemical that keeps a liquid from becoming more or less acidic",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an extra supply of materials that a company keeps in order to prevent a situation where none are available: ",
+                            "examples": [
+                                "\"Just-in-time production\" means that no buffer stocks are held in the factory."
+                            ]
+                        },
+                        {
+                            "explanation": "a silly old man: ",
+                            "examples": [
+                                "Silly old buffer!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌf.ər"
+                            ],
+                            "us": [
+                                "ˈbʌf.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to provide protection against harm",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "When a computer buffers information or buffers, it stores information temporarily in its memory while dealing with it or sending it.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

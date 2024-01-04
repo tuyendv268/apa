@@ -1,0 +1,77 @@
+{
+    "word": "judging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \njudge ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dʒʌdʒ"
+                            ],
+                            "us": [
+                                "dʒʌdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to form, give, or have as an opinion, or to decide about something or someone, especially after thinking carefully: ",
+                            "examples": [
+                                "So far, he seems to be handling the job well, but it's really too soon to judge.",
+                                "It's difficult to judge whether the new system really is an improvement.",
+                                "The meeting was judged (to have been) a success.",
+                                "You shouldn't judge by/on appearances alone.",
+                                "I'm hopeless at judging distance(s) (= guessing how far it is between places)."
+                            ]
+                        },
+                        {
+                            "explanation": "to express a bad opinion of someone's behaviour, often because you think you are better than them: ",
+                            "examples": [
+                                "You have no right to judge other people because of what they look like or what they believe."
+                            ]
+                        },
+                        {
+                            "explanation": "to officially decide who will be the winner of a competition: ",
+                            "examples": [
+                                "I've been asked to judge the children's poetry competition."
+                            ]
+                        },
+                        {
+                            "explanation": "used to express the reasons why you have a particular opinion: ",
+                            "examples": [
+                                "Judging by what he said, I think it's very unlikely that he'll be able to support your application."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

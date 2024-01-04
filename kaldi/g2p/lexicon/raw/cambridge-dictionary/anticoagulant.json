@@ -1,0 +1,59 @@
+{
+    "word": "anticoagulant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.ti.kəʊˈæɡ.jə.lənt"
+                            ],
+                            "us": [
+                                "ˌæn.t̬i.koʊˈæɡ.jə.lənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a drug or other substance that prevents or slows down the process of blood forming a clot (= a solid mass): ",
+                            "examples": [
+                                "The patient may receive anticoagulants to reduce blood clotting.",
+                                "Rattlesnake venom contains an anticoagulant."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.ti.kəʊˈæɡ.jə.lənt"
+                            ],
+                            "us": [
+                                "ˌæn.t̬i.koʊˈæɡ.jə.lənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "preventing or slowing down the process of blood forming a clot (= a solid mass), or relating to this process: ",
+                            "examples": [
+                                "Warfarin is an anticoagulant drug.",
+                                "Smoking can significantly reduce the anticoagulant effect of aspirin."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

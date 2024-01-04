@@ -1,0 +1,72 @@
+{
+    "word": "arriving",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \narrive ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈraɪv"
+                            ],
+                            "us": [
+                                "əˈraɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to reach a place, especially at the end of a journey: ",
+                            "examples": [
+                                "What time will your train arrive?",
+                                "It was dark by the time we arrived at the station.",
+                                "We arrived in Prague later that day.",
+                                "I arrived back to find that my room had been burgled.",
+                                "What time does the mail usually arrive (= is it delivered)?",
+                                "I ordered some CDs over a month ago, but they still haven't arrived (= I have not received them)."
+                            ]
+                        },
+                        {
+                            "explanation": "to happen or start to exist: ",
+                            "examples": [
+                                "The leaves starting to turn brown is a sign that autumn has arrived."
+                            ]
+                        },
+                        {
+                            "explanation": "If a baby arrives, it is born: ",
+                            "examples": [
+                                "Their baby Olivia arrived on the date she was expected."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

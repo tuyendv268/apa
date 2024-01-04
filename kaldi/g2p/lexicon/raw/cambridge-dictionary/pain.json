@@ -1,0 +1,69 @@
+{
+    "word": "pain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "peɪn"
+                            ],
+                            "us": [
+                                "peɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a feeling of physical suffering caused by injury or illness: ",
+                            "examples": [
+                                "Her symptoms included abdominal pain and vomiting.",
+                                "Are you in (= suffering from) pain?",
+                                "She was in constant pain.",
+                                "These tablets should help to ease the pain.",
+                                "I felt a sharp pain in my foot.",
+                                "He's been suffering various aches and pains for years."
+                            ]
+                        },
+                        {
+                            "explanation": "emotional or mental suffering: ",
+                            "examples": [
+                                "It's a film about the pains and pleasures of parenthood.",
+                                "The parents are still in great pain over the death of their child."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "peɪn"
+                            ],
+                            "us": [
+                                "peɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If something pains you, it causes you to feel sad and upset: ",
+                            "examples": [
+                                "It pains me to see animals being mistreated."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

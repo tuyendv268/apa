@@ -1,0 +1,85 @@
+{
+    "word": "shooter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃuː.tər"
+                            ],
+                            "us": [
+                                "ˈʃuː.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who uses a gun regularly, for example as a sport: ",
+                            "examples": [
+                                "The area is a paradise for duck shooters."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who uses a gun on a particular occasion: ",
+                            "examples": [
+                                "The accused White House shooter was arrested on Wednesday by Pennsylvania state troopers."
+                            ]
+                        },
+                        {
+                            "explanation": "in sport, a person who shoots the ball (= tries to score points by throwing, hitting or kicking it towards the goal): ",
+                            "examples": [
+                                "He's one of the league's most accurate long-range shooters."
+                            ]
+                        },
+                        {
+                            "explanation": "a character in a video game who uses a weapon",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a gun: ",
+                            "examples": [
+                                "They turned up at my house and one of them pulled out a shooter."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -ʃuː.tər"
+                            ],
+                            "us": [
+                                " -ʃuː.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of gun, etc. or a person that shoots: ",
+                            "examples": [
+                                "a peashooter",
+                                "a sharpshooter",
+                                "a six-shooter"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

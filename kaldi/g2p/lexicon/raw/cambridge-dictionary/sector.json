@@ -1,0 +1,40 @@
+{
+    "word": "sector",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsek.tər"
+                            ],
+                            "us": [
+                                "ˈsek.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the areas into which the economic activity of a country is divided: ",
+                            "examples": [
+                                "In the financial sector, banks and insurance companies have both lost a lot of money.",
+                                "The country has a new policy of transferring state industries from the public sector to the private sector."
+                            ]
+                        },
+                        {
+                            "explanation": "an area of land or sea that has been divided from other areas and is controlled by a particular country: ",
+                            "examples": [
+                                "What is the total oil output from the British sector of the North Sea?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

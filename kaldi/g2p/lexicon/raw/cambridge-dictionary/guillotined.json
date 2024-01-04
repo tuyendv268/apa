@@ -1,0 +1,61 @@
+{
+    "word": "guillotined",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nguillotine ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡɪl.ə.tiːn"
+                            ],
+                            "us": [
+                                "ˈɡɪl.ə.tiːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut someone's head off using a guillotine: ",
+                            "examples": [
+                                "During the French Revolution, thousands of people were guillotined."
+                            ]
+                        },
+                        {
+                            "explanation": "to set a fixed time before a final vote must be taken on a particular law in Parliament: ",
+                            "examples": [
+                                "The bill was guillotined at the committee stage."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

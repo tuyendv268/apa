@@ -1,0 +1,74 @@
+{
+    "word": "price",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "praɪs"
+                            ],
+                            "us": [
+                                "praɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the amount of money for which something is sold: ",
+                            "examples": [
+                                "The price of oil has risen sharply.",
+                                "House prices have been falling.",
+                                "We thought they were asking a very high/low price.",
+                                "The large supermarkets are offering big price cuts."
+                            ]
+                        },
+                        {
+                            "explanation": "the unpleasant results that you must accept or experience for getting or doing something: ",
+                            "examples": [
+                                "Perhaps being unpopular is the price of success.",
+                                "An extra few minutes at the airport is a small price to pay for safe travel."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "praɪs"
+                            ],
+                            "us": [
+                                "praɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say what the price of something is: ",
+                            "examples": [
+                                "The car is priced at £28,000.",
+                                "There is a lack of reasonably priced housing for rent."
+                            ]
+                        },
+                        {
+                            "explanation": "to discover how much something costs: ",
+                            "examples": [
+                                "We went around all the travel agents pricing the different tours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

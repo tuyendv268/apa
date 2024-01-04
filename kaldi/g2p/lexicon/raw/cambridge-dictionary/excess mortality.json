@@ -1,0 +1,34 @@
+{
+    "word": "excess mortality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌek.ses mɔːˈtæl.ə.ti"
+                            ],
+                            "us": [
+                                "ekˌses mɔːrˈtæl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number of deaths during a particular period above the usual, expected number under normal conditions, which can show the effect of something like a disease or harmful event: ",
+                            "examples": [
+                                "We should develop methods to rapidly assess total excess mortality after natural disasters.",
+                                "They analysed excess mortality from the Coronavirus (Covid-19) pandemic."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

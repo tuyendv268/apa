@@ -1,0 +1,41 @@
+{
+    "word": "monotonically",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɒn.əˈtɒn.ɪk.li"
+                            ],
+                            "us": [
+                                "ˌmɑː.nəˈtɑː.nɪk.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "with the sound staying on the same note without going higher or lower when someone is speaking: ",
+                            "examples": [
+                                "Speak with expression, not monotonically.",
+                                "He speaks monotonically, with little intonation."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that only ever increases, or only ever gets less: ",
+                            "examples": [
+                                "The average values of all variables change monotonically.",
+                                "The estimated genetic variance declines monotonically with age. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

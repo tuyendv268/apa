@@ -1,0 +1,90 @@
+{
+    "word": "person",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɜː.sən"
+                            ],
+                            "us": [
+                                "ˈpɝː.sən"
+                            ],
+                            "uk_other_tense": [
+                                "ˈpiː.pəl"
+                            ],
+                            "us_other_tense": [
+                                "ˈpiː.pəl"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a man, woman, or child: ",
+                            "examples": [
+                                "Who was the first person to swim the English Channel?",
+                                "A meal at the restaurant costs about $70 for two people.",
+                                "Four persons have been charged with the murder."
+                            ]
+                        },
+                        {
+                            "explanation": "used when describing someone's character: ",
+                            "examples": [
+                                "She's an extremely kind person.",
+                                "He's nice enough as a person, but he's not the right man for this job.",
+                                "I don't think of him as a book person (= a person who likes books)."
+                            ]
+                        },
+                        {
+                            "explanation": "If you do something or go somewhere in person, you do it or go there yourself: ",
+                            "examples": [
+                                "If you can't be there in person, the next best thing is watching it on TV."
+                            ]
+                        },
+                        {
+                            "explanation": "used in grammar to describe the verbs and pronouns that refer to the different people in a conversation. The first person (\"I\" or \"we\") refers to the person speaking, the second person (\"you\") refers to the person being spoken to and the third person (\"he\", \"she\", \"it\", or \"they\") refers to another person or thing being spoken about or described: ",
+                            "examples": [
+                                "The novel is written in the first person, so that the author and narrator seem to be the same.",
+                                "\"Am\" is the first person singular of the verb \"to be\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -pɜː.sən"
+                            ],
+                            "us": [
+                                " -pɝː.sən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to combine with nouns to form new nouns referring to the particular job or duty that someone has. It is often used instead of -man or -woman to avoid making an unnecessary statement about the gender of the particular person: ",
+                            "examples": [
+                                "spokesperson",
+                                "chairperson",
+                                "business people"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

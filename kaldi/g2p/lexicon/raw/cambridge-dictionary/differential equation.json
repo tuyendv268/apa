@@ -1,0 +1,34 @@
+{
+    "word": "differential equation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪf.əˌren.ʃəl ɪˈkweɪ.ʒən"
+                            ],
+                            "us": [
+                                "dɪf.əˌren.ʃəl ɪˈkweɪ.ʒən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an equation (= a mathematical statement) that expresses a relationship between a function (= a changing mathematical value) and one or more of its derivatives (= measures of the rate at which a function is changing): ",
+                            "examples": [
+                                "They wrote a textbook on differential equations.",
+                                "Solve the following differential equation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

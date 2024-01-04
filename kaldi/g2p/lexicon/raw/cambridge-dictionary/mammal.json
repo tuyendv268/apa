@@ -1,0 +1,33 @@
+{
+    "word": "mammal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæm.əl"
+                            ],
+                            "us": [
+                                "ˈmæm.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any animal of which the female feeds her young on milk from her own body. Most mammals give birth to live young, not eggs: ",
+                            "examples": [
+                                "Humans, dogs, elephants, and dolphins are all mammals, but birds, fish, and crocodiles are not."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

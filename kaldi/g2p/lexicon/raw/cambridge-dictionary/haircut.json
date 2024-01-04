@@ -1,0 +1,40 @@
+{
+    "word": "haircut",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈheə.kʌt"
+                            ],
+                            "us": [
+                                "ˈher.kʌt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the style in which someone's hair is cut, or an occasion of cutting the hair: ",
+                            "examples": [
+                                "She has a really awful haircut.",
+                                "I wish he'd get/have a haircut."
+                            ]
+                        },
+                        {
+                            "explanation": "a reduction in an amount of money, such as the price of a share or bond: ",
+                            "examples": [
+                                "The crisis means that lenders will have to take a haircut (= accept that they have lost money because the value of the investment has gone down)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

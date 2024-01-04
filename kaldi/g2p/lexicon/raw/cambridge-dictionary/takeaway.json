@@ -1,0 +1,41 @@
+{
+    "word": "takeaway",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈteɪk.ə.weɪ"
+                            ],
+                            "us": [
+                                "ˈteɪk.ə.weɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a main message or piece of information that you learn from something you hear or read: ",
+                            "examples": [
+                                "The takeaway from the conference was how competitive the tourism industry has become. ",
+                                "At the end of the class, the teacher gives us the takeaway points."
+                            ]
+                        },
+                        {
+                            "explanation": "a meal cooked and bought at a shop or restaurant but taken somewhere else, often home, to be eaten, or the shop or restaurant itself: ",
+                            "examples": [
+                                "a Chinese takeaway",
+                                "We were too tired to cook so we ordered takeaway."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

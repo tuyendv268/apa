@@ -1,0 +1,29 @@
+{
+    "word": "interrogative sentence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [
+                                "ˌɪn·təˈrɑɡ·ə·t̬ɪv ˈsen·təns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sentence that asks a question or makes a request for information",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

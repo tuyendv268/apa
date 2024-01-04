@@ -1,0 +1,59 @@
+{
+    "word": "hungarian",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "hʌŋˈɡeə.ri.ən"
+                            ],
+                            "us": [
+                                "hʌŋˈɡer.i.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or relating to Hungary, its people, or its language: ",
+                            "examples": [
+                                "Hungarian goulash"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hʌŋˈɡeə.ri.ən"
+                            ],
+                            "us": [
+                                "hʌŋˈɡer.i.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person from Hungary",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the main language spoken in Hungary",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

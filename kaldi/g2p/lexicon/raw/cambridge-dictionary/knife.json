@@ -1,0 +1,59 @@
+{
+    "word": "knife",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "naɪf"
+                            ],
+                            "us": [
+                                "naɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tool, usually with a metal blade and a handle, used for cutting and spreading food or other substances, or as a weapon: ",
+                            "examples": [
+                                "a fish/butter/steak knife",
+                                "I prefer to use a knife and fork.",
+                                "He drew/pulled a knife and stabbed her."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "naɪf"
+                            ],
+                            "us": [
+                                "naɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to attack someone using a knife: ",
+                            "examples": [
+                                "He knifed her in the back."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

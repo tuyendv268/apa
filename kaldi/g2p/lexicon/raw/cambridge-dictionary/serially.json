@@ -1,0 +1,48 @@
+{
+    "word": "serially",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪə.ri.ə.li"
+                            ],
+                            "us": [
+                                "ˈsɪr.i.ə.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in several parts one after another: ",
+                            "examples": [
+                                "The story was originally published serially in a monthly magazine, then as a book the following year. ",
+                                "The drama was broadcast serially on weekly radio throughout the 1930s and 1940s."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that occurs over and over again, especially as a crime or bad act : ",
+                            "examples": [
+                                "The doctor was accused of serially abusing patients. ",
+                                "It was later discovered that he had been serially cheating on his wife of 30 years. "
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that happens or is arranged in a particular order, one after another: ",
+                            "examples": [
+                                "The circuit consists of several serially connected structures. ",
+                                "The data is transmitted serially from one computer to the other."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

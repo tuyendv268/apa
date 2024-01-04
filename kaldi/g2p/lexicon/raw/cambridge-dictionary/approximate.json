@@ -1,0 +1,60 @@
+{
+    "word": "approximate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈprɒk.sɪ.mət"
+                            ],
+                            "us": [
+                                "əˈprɑːk.sə.mət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not completely accurate but close: ",
+                            "examples": [
+                                "The train's approximate time of arrival is 10.30.",
+                                "The approximate cost will be about $600.",
+                                "Can you give me an approximate idea of the numbers involved?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈprɒk.sɪ.meɪt"
+                            ],
+                            "us": [
+                                "əˈprɑːk.sə.meɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be almost the same as: ",
+                            "examples": [
+                                "The newspaper reports of the discussion only roughly approximated to (= were not exactly the same as) what was actually said.",
+                                "Student numbers this year are expected to approximate 5,000 (= to be about 5,000)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

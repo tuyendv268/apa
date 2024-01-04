@@ -1,0 +1,39 @@
+{
+    "word": "tempo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtem.pəʊ"
+                            ],
+                            "us": [
+                                "ˈtem.poʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the speed at which an event happens: ",
+                            "examples": [
+                                "We're going to have to up the tempo (= work faster) if we want to finish on time."
+                            ]
+                        },
+                        {
+                            "explanation": "the speed at which a piece of music is played: ",
+                            "examples": [
+                                "a change in tempo"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

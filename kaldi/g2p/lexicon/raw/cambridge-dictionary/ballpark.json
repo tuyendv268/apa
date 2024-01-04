@@ -1,0 +1,58 @@
+{
+    "word": "ballpark",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɔːl.pɑːk"
+                            ],
+                            "us": [
+                                "ˈbɑːl.pɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a place with a field for playing ball games, especially baseball games, and seats around it for people who are watching: ",
+                            "examples": [
+                                "Some people were selling tickets outside the ballpark.",
+                                "The stadium will be replaced by a new ballpark with better facilities."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɔːl.pɑːk"
+                            ],
+                            "us": [
+                                "ˈbɑːl.pɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A ballpark estimate or figure is a number that is a guess, but one that you believe is near the correct number: ",
+                            "examples": [
+                                "We'll have to go away and cost this carefully, but as a ballpark figure I'd say that it'll be about two million dollars."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

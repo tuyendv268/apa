@@ -1,0 +1,90 @@
+{
+    "word": "believing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nbelieve ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɪˈliːv"
+                            ],
+                            "us": [
+                                "bɪˈliːv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to think that something is true, correct, or real: ",
+                            "examples": [
+                                "Strangely, no one believed us when we told them we'd been visited by a creature from Mars.",
+                                "He believes that all children are born with equal intelligence.",
+                                "She's arriving tomorrow, I believe.",
+                                "\"Is she coming alone?\" \"We believe not/so (= we think she is not/is).\"",
+                                "I believe her to be the finest violinist in the world.",
+                                "All the crew are missing, believed dead."
+                            ]
+                        },
+                        {
+                            "explanation": "to not believe that something is true: ",
+                            "examples": [
+                                "He told me she was just a friend, but I don't believe a word of it!"
+                            ]
+                        },
+                        {
+                            "explanation": "said when telling someone about something that is true, although it seems unlikely: ",
+                            "examples": [
+                                "He's upstairs doing his homework, believe it or not."
+                            ]
+                        },
+                        {
+                            "explanation": "said when emphasizing that something is true: ",
+                            "examples": [
+                                "Believe me, I was scared !"
+                            ]
+                        },
+                        {
+                            "explanation": "something that you say to emphasize that something is obviously not true: ",
+                            "examples": [
+                                "He said the car in front backed into him, and if you believe that, you'll believe anything!"
+                            ]
+                        },
+                        {
+                            "explanation": "to pretend or imagine: ",
+                            "examples": [
+                                "Let's make believe (that) we're pirates."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

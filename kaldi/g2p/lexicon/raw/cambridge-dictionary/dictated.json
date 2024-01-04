@@ -1,0 +1,71 @@
+{
+    "word": "dictated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndictate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪkˈteɪt"
+                            ],
+                            "us": [
+                                "ˈdɪk.teɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give orders, or tell someone exactly what they must do, with total authority: ",
+                            "examples": [
+                                "The UN will dictate the terms of troop withdrawal from the region.",
+                                "He disagrees with the government dictating what children are taught in schools.",
+                                "The rules dictate that only running shoes must be worn on the track."
+                            ]
+                        },
+                        {
+                            "explanation": "to influence something or make it necessary: ",
+                            "examples": [
+                                "The party's change of policy has been dictated by its need to win back younger voters.",
+                                "I wanted to take a year off, but my financial situation dictated that I got a job."
+                            ]
+                        },
+                        {
+                            "explanation": "to speak something aloud for a person or machine to record what is said, so that it can be written down: ",
+                            "examples": [
+                                "I dictated my order over the phone.",
+                                "She spent the morning dictating letters to her secretary."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

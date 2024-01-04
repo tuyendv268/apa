@@ -1,0 +1,66 @@
+{
+    "word": "flower",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "flaʊər"
+                            ],
+                            "us": [
+                                "ˈflaʊ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of a plant that is often brightly coloured and has a pleasant smell, or the type of plant that produces these: ",
+                            "examples": [
+                                "wild flowers",
+                                "to pick flowers",
+                                "a bunch/bouquet of flowers",
+                                "cut/dried flowers"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "flaʊər"
+                            ],
+                            "us": [
+                                "ˈflaʊ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to develop completely and become obvious: ",
+                            "examples": [
+                                "Her talent flowered during her later years."
+                            ]
+                        },
+                        {
+                            "explanation": "to produce flowers: ",
+                            "examples": [
+                                "When does this plant flower?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

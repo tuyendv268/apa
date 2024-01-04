@@ -1,0 +1,40 @@
+{
+    "word": "pint",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "paɪnt"
+                            ],
+                            "us": [
+                                "paɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a measure for liquid equal to about half a litre. There are eight pints in a gallon: ",
+                            "examples": [
+                                "a pint of milk",
+                                "a pint of beer"
+                            ]
+                        },
+                        {
+                            "explanation": "a pint of beer: ",
+                            "examples": [
+                                "He usually goes out for a pint at lunchtime."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

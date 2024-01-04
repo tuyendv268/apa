@@ -1,0 +1,55 @@
+{
+    "word": "pawned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npawn ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pɔːn"
+                            ],
+                            "us": [
+                                "pɑːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to leave a possession with a pawnbroker, who gives you money for it and can sell it if the money is not paid back within a certain time: ",
+                            "examples": [
+                                "Of all items pawned, jewellery is the most common."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

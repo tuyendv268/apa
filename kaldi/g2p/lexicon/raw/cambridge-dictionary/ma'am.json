@@ -1,0 +1,41 @@
+{
+    "word": "ma'am",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mɑːm"
+                            ],
+                            "us": [
+                                "mæm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a polite way of talking to a woman: ",
+                            "examples": [
+                                "How can I help you, ma'am?"
+                            ]
+                        },
+                        {
+                            "explanation": "in Britain, used to address the Queen, or a woman of high rank in particular organizations, such as the army or the police",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in the past, used when talking to a woman of higher social class",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

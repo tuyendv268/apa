@@ -1,0 +1,52 @@
+{
+    "word": "health",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "helθ"
+                            ],
+                            "us": [
+                                "helθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the condition of the body and the degree to which it is free from illness, or the state of being well: ",
+                            "examples": [
+                                "to be in good/poor health",
+                                "Regular exercise is good for your health.",
+                                "I had to give up drinking for health reasons.",
+                                "He gave up work because of ill health."
+                            ]
+                        },
+                        {
+                            "explanation": "services and jobs that exist to take care of people's health: ",
+                            "examples": [
+                                "The public wants more funding for education and health.",
+                                "All families need access to local health services.",
+                                "health professionals/workers",
+                                "a health centre/facility",
+                                "the health minister"
+                            ]
+                        },
+                        {
+                            "explanation": "the condition of something that changes or develops, such as an organization or system: ",
+                            "examples": [
+                                "the financial health of the business"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

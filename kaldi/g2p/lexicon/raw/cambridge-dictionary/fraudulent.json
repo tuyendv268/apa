@@ -1,0 +1,39 @@
+{
+    "word": "fraudulent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfrɔː.dʒə.lənt"
+                            ],
+                            "us": [
+                                "ˈfrɑː.dʒə.lənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "dishonest and illegal: ",
+                            "examples": [
+                                "A worrying trend for insurers has been a rise in fraudulent claims."
+                            ]
+                        },
+                        {
+                            "explanation": "intended to deceive: ",
+                            "examples": [
+                                "They claim that the fall in unemployment is based on a fraudulent manipulation of statistics."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

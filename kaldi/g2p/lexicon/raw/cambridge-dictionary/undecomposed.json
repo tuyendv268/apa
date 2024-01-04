@@ -1,0 +1,40 @@
+{
+    "word": "undecomposed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.diː.kəmˈpəʊzd"
+                            ],
+                            "us": [
+                                "ˌʌn.diː.kəmˈpoʊzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not decayed: ",
+                            "examples": [
+                                "They were expected to make their robes from discarded cloth, but they were not to take cloth from undecomposed bodies.",
+                                "an undecomposed corpse"
+                            ]
+                        },
+                        {
+                            "explanation": "not broken into smaller parts: ",
+                            "examples": [
+                                "Here and there we found pieces of undecomposed limestone."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

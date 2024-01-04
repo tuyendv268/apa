@@ -1,0 +1,89 @@
+{
+    "word": "duplicate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒuː.plɪ.keɪt"
+                            ],
+                            "us": [
+                                "ˈduː.plə.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make an exact copy of something: ",
+                            "examples": [
+                                "The documents had been duplicated.",
+                                "Parenthood is an experience nothing else can duplicate."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒuː.plɪ.kət"
+                            ],
+                            "us": [
+                                "ˈduː.plə.kət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "being an exact copy of something: ",
+                            "examples": [
+                                "The thieves were equipped with duplicate keys to the safe.",
+                                "Keep a set of duplicate keys in a safe place, in case you lose the originals."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒuː.plɪ.kət"
+                            ],
+                            "us": [
+                                "ˈduː.plə.kət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is an exact copy of something else: ",
+                            "examples": [
+                                "I lost the original form so they sent me a duplicate."
+                            ]
+                        },
+                        {
+                            "explanation": "If a form is in duplicate, an exact copy has been made of it: ",
+                            "examples": [
+                                "The application has to be completed in duplicate."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "longa",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒŋ.ə"
+                            ],
+                            "us": [
+                                "ˈlɑːŋ.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a musical note with a time value equal to two or three breves: ",
+                            "examples": [
+                                "In modern notation, a longa is usually represented as semibreves tied across two measures."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

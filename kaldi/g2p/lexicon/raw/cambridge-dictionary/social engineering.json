@@ -1,0 +1,41 @@
+{
+    "word": "social engineering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsəʊ.ʃəl en.dʒɪˈnɪə.rɪŋ"
+                            ],
+                            "us": [
+                                "ˌsoʊ.ʃəl en.dʒɪˈnɪr.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the artificial controlling or changing of how a society develops: ",
+                            "examples": [
+                                "He dismissed the government's plans to give married couples tax breaks as \"social engineering\".",
+                                "The country has a long history of attempting social engineering through laws and regulations that many people would consider intrusive."
+                            ]
+                        },
+                        {
+                            "explanation": "attempts to trick people into giving secret or personal information, especially on the internet, and using it for harmful purposes: ",
+                            "examples": [
+                                "Even PCs protected behind firewalls can fall prey to social engineering.",
+                                "Social engineering allows children to think they're talking to someone they know or are familiar with."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

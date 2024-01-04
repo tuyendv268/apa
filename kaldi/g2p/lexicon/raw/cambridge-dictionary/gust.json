@@ -1,0 +1,58 @@
+{
+    "word": "gust",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡʌst"
+                            ],
+                            "us": [
+                                "ɡʌst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sudden strong wind: ",
+                            "examples": [
+                                "A sudden gust of wind blew his umbrella inside out.",
+                                "She could hear gusts of laughter (= sudden, loud laughter) from within the room."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡʌst"
+                            ],
+                            "us": [
+                                "ɡʌst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to blow strongly: ",
+                            "examples": [
+                                "Winds gusting to 50 mph brought down power lines."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "prob",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "short form",
+                        "ipa": {
+                            "uk": [
+                                "prɒb"
+                            ],
+                            "us": [
+                                "prɑːb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used in informal speech and writing as a short form of \"problem\" : ",
+                            "examples": [
+                                "I'll do it first thing in the morning, no prob!",
+                                "Use the code below, this should not be a prob."
+                            ]
+                        },
+                        {
+                            "explanation": "used in informal writing as a short form of \"probably\": ",
+                            "examples": [
+                                "Not sure how much, prob $30."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

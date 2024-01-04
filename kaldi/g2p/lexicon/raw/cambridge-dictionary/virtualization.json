@@ -1,0 +1,40 @@
+{
+    "word": "virtualization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌvɜː.tʃu.ə.laɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌvɝː.tʃu.ə.lɪˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of changing something that exists in a real form into a virtual version (= one that is created using a computer): ",
+                            "examples": [
+                                "He had published an article on the virtualization of everyday life."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of creating a virtual version or several virtual versions of a piece of computer equipment or software: ",
+                            "examples": [
+                                "server, desktop, and network virtualization",
+                                "Rather than having dozens of servers operating at less than their maximum level of utilization, data centers can use virtualization to consolidate those same machines' functions on just a few computers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

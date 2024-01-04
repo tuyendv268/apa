@@ -1,0 +1,61 @@
+{
+    "word": "breached",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbreach ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "briːtʃ"
+                            ],
+                            "us": [
+                                "briːtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to break a law, promise, agreement, or relationship: ",
+                            "examples": [
+                                "They breached the agreement they had made with their employer."
+                            ]
+                        },
+                        {
+                            "explanation": "to make an opening in a wall or fence, especially in order to attack someone or something behind it: ",
+                            "examples": [
+                                "Their defences were easily breached."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

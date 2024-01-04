@@ -1,0 +1,34 @@
+{
+    "word": "probabilistic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌprɒb.ə.bəlˈɪs.tɪk"
+                            ],
+                            "us": [
+                                "ˌprɑː.bə.bəlˈɪs.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "based on or relating to how likely it is that something will happen : ",
+                            "examples": [
+                                "These examples illustrate the probabilistic rather than causal status of risk factors.",
+                                "Our method is entirely probabilistic, and requires only weak conditions that may readily be verified in practice."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

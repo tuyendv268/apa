@@ -1,0 +1,69 @@
+{
+    "word": "ventilating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nventilate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈven.tɪ.leɪt"
+                            ],
+                            "us": [
+                                "ˈven.t̬əl.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause fresh air to enter and move around a closed space: ",
+                            "examples": [
+                                "Ventilate the room well while applying the paint.",
+                                "I work in a very poorly-ventilated building."
+                            ]
+                        },
+                        {
+                            "explanation": "to force air in and out of the lungs of a person who cannot breathe easily on their own, using a special machine called a ventilator: ",
+                            "examples": [
+                                "If her condition deteriorates, she will need to be ventilated and admitted to intensive care.",
+                                "Coronavirus patients can develop severe pneumonia and can struggle to breathe, often needing to be ventilated in intensive care."
+                            ]
+                        },
+                        {
+                            "explanation": "to express an opinion or mention a subject so that it can be discussed by others: ",
+                            "examples": [
+                                "She used the meeting to ventilate all her grievances."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

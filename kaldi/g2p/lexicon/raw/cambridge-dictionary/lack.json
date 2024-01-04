@@ -1,0 +1,59 @@
+{
+    "word": "lack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "læk"
+                            ],
+                            "us": [
+                                "læk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact that something is not available or that there is not enough of it: ",
+                            "examples": [
+                                "Her only problem is a lack of confidence."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "læk"
+                            ],
+                            "us": [
+                                "læk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to not have or not have enough of something that is needed or wanted: ",
+                            "examples": [
+                                "He just lacks a little confidence.",
+                                "What we lack in this house is space to store things.",
+                                "We are lacking three members of staff due to illness."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

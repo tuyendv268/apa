@@ -1,0 +1,47 @@
+{
+    "word": "instruct",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈstrʌkt"
+                            ],
+                            "us": [
+                                "ɪnˈstrʌkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to order or tell someone to do something, especially in a formal way: ",
+                            "examples": [
+                                "The police have been instructed to patrol the building and surrounding area."
+                            ]
+                        },
+                        {
+                            "explanation": "to employ a lawyer to represent you in court",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "When a judge instructs a jury, he or she tells it what the law means and how to use it.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to teach someone how to do something: ",
+                            "examples": [
+                                "He works in a sports centre instructing people in the use of the gym equipment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

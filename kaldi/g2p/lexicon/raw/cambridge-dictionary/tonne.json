@@ -1,0 +1,34 @@
+{
+    "word": "tonne",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tʌn"
+                            ],
+                            "us": [
+                                "tʌn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of weight in the metric system, equal to 1,000 kilograms: ",
+                            "examples": [
+                                "Oil deliveries will fall 2.5 million tonnes short this year.",
+                                "a 7,554-tonne ocean liner"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

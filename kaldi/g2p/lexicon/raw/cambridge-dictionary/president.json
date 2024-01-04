@@ -1,0 +1,42 @@
+{
+    "word": "president",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprez.ɪ.dənt"
+                            ],
+                            "us": [
+                                "ˈprez.ɪ.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(the title given to) the person who has the highest political position in a country that is a republic and who, in some of these countries, is the leader of the government: ",
+                            "examples": [
+                                "President Kennedy",
+                                "the president of France",
+                                "Thank you, Mr/Madam President."
+                            ]
+                        },
+                        {
+                            "explanation": "the person who has the highest position in an organization or, especially in the US, in a company: ",
+                            "examples": [
+                                "a former president of the Royal Society",
+                                "She's a friend of the president of the bank."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

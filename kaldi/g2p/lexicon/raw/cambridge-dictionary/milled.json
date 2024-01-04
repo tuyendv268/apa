@@ -1,0 +1,59 @@
+{
+    "word": "milled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmill ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɪl"
+                            ],
+                            "us": [
+                                "mɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to crush grain into flour or another substance into powder: ",
+                            "examples": [
+                                "The grain is still milled locally."
+                            ]
+                        },
+                        {
+                            "explanation": "to cut or shape metal, especially coins, using a special machine",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

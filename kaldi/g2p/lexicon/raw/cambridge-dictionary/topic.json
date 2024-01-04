@@ -1,0 +1,51 @@
+{
+    "word": "topic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtɒp.ɪk"
+                            ],
+                            "us": [
+                                "ˈtɑː.pɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a subject that is discussed, written about, or studied: ",
+                            "examples": [
+                                "Our discussion included topics such as acid rain and the melting of polar ice.",
+                                "Your essay can be on any topic you like."
+                            ]
+                        },
+                        {
+                            "explanation": "relating directly to the subject that is being discussed, written about, or studied: ",
+                            "examples": [
+                                "She did not find it easy to keep her essays on topic.",
+                                "Try to stay on topic!",
+                                "In your comments please be on-topic and appropriate. Do not disclose personal information.",
+                                "This blog is intended to encourage polite on-topic discussions ."
+                            ]
+                        },
+                        {
+                            "explanation": "not relating directly to the subject that is being discussed, written about, or studied: ",
+                            "examples": [
+                                "Sorry for going a bit off topic.",
+                                "This may be somewhat off topic but it is worth mentioning.",
+                                "We reserve the right to delete off-topic or inflammatory comments."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

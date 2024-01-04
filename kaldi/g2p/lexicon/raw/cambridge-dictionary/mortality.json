@@ -1,0 +1,40 @@
+{
+    "word": "mortality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mɔːˈtæl.ə.ti"
+                            ],
+                            "us": [
+                                "mɔːrˈtæl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the way that people do not live for ever: ",
+                            "examples": [
+                                "Her death made him more aware of his own mortality."
+                            ]
+                        },
+                        {
+                            "explanation": "the number of deaths within a particular society and within a particular period of time: ",
+                            "examples": [
+                                "the mortality rate",
+                                "Infant mortality is much higher in the poorest areas of the city."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

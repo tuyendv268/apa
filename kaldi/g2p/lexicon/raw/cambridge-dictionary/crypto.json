@@ -1,0 +1,75 @@
+{
+    "word": "crypto",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkrɪp.təʊ"
+                            ],
+                            "us": [
+                                "ˈkrɪp.toʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short form of \ncryptocurrency : ",
+                            "examples": [
+                                "Which are the best performing cryptos?",
+                                "Many people think they can make money from Crypto. "
+                            ]
+                        },
+                        {
+                            "explanation": "short form of \nencryption : ",
+                            "examples": [
+                                "If you're using strong crypto, there's nothing anyone could do to decrypt that data. "
+                            ]
+                        },
+                        {
+                            "explanation": "short form of \ncryptosporidium : ",
+                            "examples": [
+                                "Crypto made 400,000 people sick that year.",
+                                "a crypto outbreak"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "krɪp.təʊ-"
+                            ],
+                            "us": [
+                                "krɪp.toʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "hidden or secret: ",
+                            "examples": [
+                                "The minister accused his opponent of being a crypto-communist."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

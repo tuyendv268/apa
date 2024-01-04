@@ -1,0 +1,40 @@
+{
+    "word": "fallout",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɔːl.aʊt"
+                            ],
+                            "us": [
+                                "ˈfɑːl.aʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the radioactive dust in the air after a nuclear explosion: ",
+                            "examples": [
+                                "cancer deaths caused by fallout from weapons testing"
+                            ]
+                        },
+                        {
+                            "explanation": "the unpleasant results or effects of an action or event: ",
+                            "examples": [
+                                "The political fallout of the revelations has been immense.",
+                                "The fallout from the financial crisis is spreading to the consumer technology sector."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "word": "interquartile range",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪntəˌkwɔː.taɪl ˈreɪndʒ"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˌkwɔːr.taɪl ˈreɪndʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in statistics, the numbers that are above the lowest 25 percent and below the top 25 percent",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

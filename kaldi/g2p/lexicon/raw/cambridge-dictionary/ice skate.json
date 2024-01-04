@@ -1,0 +1,57 @@
+{
+    "word": "ice skate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈaɪs ˌskeɪt"
+                            ],
+                            "us": [
+                                "ˈaɪs ˌskeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a special shoe with a thin metal bar attached to the bottom that you wear to move quickly on ice",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈaɪs.skeɪt"
+                            ],
+                            "us": [
+                                "ˈaɪs.skeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move across ice using ice skates",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "whole step",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhəʊl ˌstep"
+                            ],
+                            "us": [
+                                "ˈhoʊl ˌstep"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the largest difference in pitch between two notes that are next to each other in the western musical scale: ",
+                            "examples": [
+                                "The interval from G to A is a whole step."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

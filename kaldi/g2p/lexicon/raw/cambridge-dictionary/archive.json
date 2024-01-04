@@ -1,0 +1,72 @@
+{
+    "word": "archive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑː.kaɪv"
+                            ],
+                            "us": [
+                                "ˈɑːr.kaɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a collection of historical records relating to a place, organization, or family: ",
+                            "examples": [
+                                "archive film/footage/material",
+                                "These old photographs should go in the family archives."
+                            ]
+                        },
+                        {
+                            "explanation": "a place where historical records are kept: ",
+                            "examples": [
+                                "I've been studying village records in the local archive."
+                            ]
+                        },
+                        {
+                            "explanation": "a computer file used to store electronic information or documents that you no longer need to use regularly",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑː.kaɪv"
+                            ],
+                            "us": [
+                                "ˈɑːr.kaɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to store historical records or documents in an archive",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in computer technology, to store electronic information that you no longer need to use regularly: ",
+                            "examples": [
+                                "This software helps firms archive and retrieve emails."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

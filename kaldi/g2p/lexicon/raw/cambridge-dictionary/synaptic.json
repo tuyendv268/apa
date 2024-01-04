@@ -1,0 +1,34 @@
+{
+    "word": "synaptic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "sɪˈnæp.tɪk"
+                            ],
+                            "us": [
+                                "sɪˈnæp.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the point at which electrical signals move from one nerve cell to another: ",
+                            "examples": [
+                                "synaptic connections between brain cells",
+                                "Nerve signals jump from one nerve cell to another in an area called the synaptic gap."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

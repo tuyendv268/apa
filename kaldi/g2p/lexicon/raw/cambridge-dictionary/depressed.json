@@ -1,0 +1,41 @@
+{
+    "word": "depressed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈprest"
+                            ],
+                            "us": [
+                                "dɪˈprest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "unhappy and without hope: ",
+                            "examples": [
+                                "He seemed a bit depressed about his work situation.",
+                                "She became deeply depressed when her husband died."
+                            ]
+                        },
+                        {
+                            "explanation": "not having enough money, jobs, or business activity: ",
+                            "examples": [
+                                "In a depressed market, it's difficult to sell goods unless you lower your prices.",
+                                "an economically depressed area"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

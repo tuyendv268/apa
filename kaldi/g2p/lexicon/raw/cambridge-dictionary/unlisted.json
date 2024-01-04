@@ -1,0 +1,39 @@
+{
+    "word": "unlisted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈlɪs.tɪd"
+                            ],
+                            "us": [
+                                "ʌnˈlɪs.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not included in a list of stock exchange company prices: ",
+                            "examples": [
+                                "unlisted securities/shares"
+                            ]
+                        },
+                        {
+                            "explanation": "not included in the public list of phone numbers belonging to the customers of a telephone company: ",
+                            "examples": [
+                                "Doctors most often have unlisted home phone numbers to protect their privacy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

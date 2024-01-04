@@ -1,0 +1,33 @@
+{
+    "word": "divisible",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈvɪz.ə.bəl"
+                            ],
+                            "us": [
+                                "dɪˈvɪz.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "that can be divided by another number: ",
+                            "examples": [
+                                "A prime number is a whole number greater than 1 that is exactly divisible by itself and 1 but no other number."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

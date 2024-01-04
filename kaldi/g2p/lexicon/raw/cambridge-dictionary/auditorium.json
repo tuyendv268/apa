@@ -1,0 +1,41 @@
+{
+    "word": "auditorium",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɔː.dɪˈtɔː.ri.əm"
+                            ],
+                            "us": [
+                                "ˌɑː.dəˈtɔːr.i.əm"
+                            ],
+                            "uk_other_tense": [
+                                "ˌɔː.dɪˈtɔː.ri.ə"
+                            ],
+                            "us_other_tense": [
+                                "ˌɑː.dəˈtɔːr.i.ə"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of a theatre, or similar building, where the people who are watching and listening sit: ",
+                            "examples": [
+                                "No smoking in the auditorium."
+                            ]
+                        },
+                        {
+                            "explanation": "a large public building where meetings, concerts, etc. are held",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

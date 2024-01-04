@@ -1,0 +1,58 @@
+{
+    "word": "grease",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡriːs"
+                            ],
+                            "us": [
+                                "ɡriːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "animal or vegetable fat that is soft after melting, or more generally, any thick oil-like substance: ",
+                            "examples": [
+                                "The dinner plates were thick with grease.",
+                                "You'll have to put some grease on those ball bearings."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡriːs"
+                            ],
+                            "us": [
+                                "ɡriːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put fat or oil on something: ",
+                            "examples": [
+                                "Grease the tins well before adding the cake mixture."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "analysis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈnæl.ə.sɪs"
+                            ],
+                            "us": [
+                                "əˈnæl.ə.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "əˈnæl.ə.siːz"
+                            ],
+                            "us_other_tense": [
+                                "əˈnæl.ə.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of studying or examining something in detail, in order to discover or understand more about it, or your opinion and judgment after doing this: ",
+                            "examples": [
+                                "Our financial experts conducted an independent analysis of the investment plan's performance.",
+                                "I was interested in Clare's analysis of the situation.",
+                                "Some of these arguments need further analysis."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of examining a substance, especially by separating it into its parts, in order to discover what it is or contains: ",
+                            "examples": [
+                                "Chemical analysis revealed a high content of copper.",
+                                "The forensic lab carried out a second analysis of the DNA sample."
+                            ]
+                        },
+                        {
+                            "explanation": "a process or treatment in which a person's unconscious mind is examined according to a theory of the human personality, to discover the hidden causes of their emotional or mental problems: ",
+                            "examples": [
+                                "He travelled to Switzerland to undergo analysis with Jung.",
+                                "The poet had spent years in analysis."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

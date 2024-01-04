@@ -1,0 +1,41 @@
+{
+    "word": "calibration",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkæl.ɪˈbreɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌkæl.əˈbreɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the units of measurement marked on an instrument so that it can measure accurately: ",
+                            "examples": [
+                                "A fine catheter with 10-mm calibrations was inserted by the surgeon.",
+                                "At the rear of the heating element is a temperature control dial with calibrations from 1 to 5. "
+                            ]
+                        },
+                        {
+                            "explanation": "the process of checking a measuring instrument to see if it is accurate: ",
+                            "examples": [
+                                "We have a metrology lab for instrument calibration and repair.",
+                                "The terminal display leads the operator through the calibration. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

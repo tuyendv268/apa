@@ -1,0 +1,80 @@
+{
+    "word": "network",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnet.wɜːk"
+                            ],
+                            "us": [
+                                "ˈnet.wɝːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large system consisting of many similar parts that are connected together to allow movement or communication between or along the parts, or between the parts and a control centre: ",
+                            "examples": [
+                                "a television network",
+                                "a road/rail network",
+                                "Massive investment is needed to modernize the country's phone network.",
+                                "We could reduce our costs by developing a more efficient distribution network.",
+                                "a network of spies/a spy network"
+                            ]
+                        },
+                        {
+                            "explanation": "a number of computers that are connected together so that they can share information: ",
+                            "examples": [
+                                "We've just spent £1.9 million on improving our computer network."
+                            ]
+                        },
+                        {
+                            "explanation": "people that you know, considered as a group whose members exchange information with each other: ",
+                            "examples": [
+                                "Use your networks - tell everyone you know that you are looking for a job.",
+                                "I hope that you will participate and share this message with your networks."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈnet.wɜːk"
+                            ],
+                            "us": [
+                                "ˈnet.wɝːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to connect computers together so that they can share information: ",
+                            "examples": [
+                                "Our computer system consists of about 20 personal computers networked to a powerful file-server."
+                            ]
+                        },
+                        {
+                            "explanation": "to meet people who might be useful to know, especially in your job: ",
+                            "examples": [
+                                "I don't really enjoy these conferences, but they're a good opportunity to network."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

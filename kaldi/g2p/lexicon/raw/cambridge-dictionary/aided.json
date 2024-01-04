@@ -1,0 +1,62 @@
+{
+    "word": "aided",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \naid ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "eɪd"
+                            ],
+                            "us": [
+                                "eɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to help: ",
+                            "examples": [
+                                "Huge projects designed to aid poorer countries can sometimes do more harm than good.",
+                                "His excuse for drinking brandy is that it's said to aid digestion."
+                            ]
+                        },
+                        {
+                            "explanation": "to help someone to do something illegal or wrong: ",
+                            "examples": [
+                                "Three auditors were accused of aiding and abetting the men charged with fraud."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

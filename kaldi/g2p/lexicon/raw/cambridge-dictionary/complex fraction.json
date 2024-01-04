@@ -1,0 +1,31 @@
+{
+    "word": "complex fraction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒm.pleks ˈfræk.ʃən"
+                            ],
+                            "us": [
+                                "ˌkɑːm.pleks ˈfræk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fraction in which either the numerator (= the number above the line) or the denominator (= the number below the line) is itself a fraction",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

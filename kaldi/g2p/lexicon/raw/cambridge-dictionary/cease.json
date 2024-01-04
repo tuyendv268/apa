@@ -1,0 +1,59 @@
+{
+    "word": "cease",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "siːs"
+                            ],
+                            "us": [
+                                "siːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stop something: ",
+                            "examples": [
+                                "Whether the protests will cease remains to be seen.",
+                                "The company has decided to cease all UK operations after this year.",
+                                "Workplace nurseries will cease to be liable for tax."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "siːs"
+                            ],
+                            "us": [
+                                "siːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "without stopping: ",
+                            "examples": [
+                                "The bells started ringing at midday and continued, without cease, till sunrise."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

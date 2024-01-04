@@ -1,0 +1,47 @@
+{
+    "word": "abort",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈbɔːt"
+                            ],
+                            "us": [
+                                "əˈbɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause something to stop or fail before it begins or before it is complete: ",
+                            "examples": [
+                                "The mission had to be aborted at the last minute.",
+                                "If something goes wrong during the launch sequence the system will automatically abort."
+                            ]
+                        },
+                        {
+                            "explanation": "to stop the development of a baby that has not been born, usually by having a medical operation: ",
+                            "examples": [
+                                "He declared that women have a right to abort a nonviable fetus.",
+                                "The decision to abort may be based on many factors."
+                            ]
+                        },
+                        {
+                            "explanation": "to have a miscarriage (= an early, unintentional end to a pregnancy): ",
+                            "examples": [
+                                "The bacterial infection can cause animals to abort."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "hyponym",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhaɪ.pə.nɪm"
+                            ],
+                            "us": [
+                                "ˈhaɪ.pə.nɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word whose meaning is included in the meaning of another word: ",
+                            "examples": [
+                                "\"Horse\" is a hyponym of \"animal\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

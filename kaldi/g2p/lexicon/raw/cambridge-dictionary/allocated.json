@@ -1,0 +1,57 @@
+{
+    "word": "allocated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nallocate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæl.ə.keɪt"
+                            ],
+                            "us": [
+                                "ˈæl.ə.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give something to someone as their share of a total amount, to use in a particular way: ",
+                            "examples": [
+                                "The government is allocating £10 million for health education.",
+                                "As project leader, you will have to allocate people jobs/allocate jobs to people.",
+                                "It is not the job of the investigating committee to allocate blame for the disaster/to allocate blame to individuals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "anterograde",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈæn.tə.rəʊ.ɡreɪd"
+                            ],
+                            "us": [
+                                "ˈæn.tə.roʊ.ɡreɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe a forward movement, for example the normal flow of blood in the body, or a movement of nerve signals away from the body of the cell to the synapse (= the point at which the signal moves to another cell): ",
+                            "examples": [
+                                "The right transverse sinus showed slow anterograde flow.",
+                                "In neuroscience, anterograde tracing is used to trace neural connections from their source (the cell body) to their point of termination (the synapse). "
+                            ]
+                        },
+                        {
+                            "explanation": "used to describe the fact that someone is unable to remember things that happen after a particular event: ",
+                            "examples": [
+                                "There is evidence to show that ECT can cause both retrograde (i.e. before treatment) and anterograde (i.e. after treatment) memory loss."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

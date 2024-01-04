@@ -1,0 +1,80 @@
+{
+    "word": "forge",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fɔːdʒ"
+                            ],
+                            "us": [
+                                "fɔːrdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make an illegal copy of something in order to deceive: ",
+                            "examples": [
+                                "a forged passport",
+                                "a forged signature",
+                                "A number of forged works of art have been sold as genuine."
+                            ]
+                        },
+                        {
+                            "explanation": "to make or produce something, especially with some difficulty: ",
+                            "examples": [
+                                "The accident forged a close bond between the two families.",
+                                "She forged a new career for herself as a singer."
+                            ]
+                        },
+                        {
+                            "explanation": "to suddenly and quickly move forward: ",
+                            "examples": [
+                                "Just 100 metres from the finishing line Jackson forged ahead.",
+                                "She forged through the snow."
+                            ]
+                        },
+                        {
+                            "explanation": "to make things out of metal by heating it until it is soft and then bending and hitting it with a hammer to create the right shape: ",
+                            "examples": [
+                                "He taught them to forge iron swords and spears.",
+                                "A spade with a forged blade is best."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fɔːdʒ"
+                            ],
+                            "us": [
+                                "fɔːrdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a working area with a fire for heating metal until it is soft enough to be beaten into different shapes: ",
+                            "examples": [
+                                "a blacksmith's forge"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

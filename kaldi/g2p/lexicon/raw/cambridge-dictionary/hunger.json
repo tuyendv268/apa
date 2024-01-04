@@ -1,0 +1,47 @@
+{
+    "word": "hunger",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhʌŋ.ɡər"
+                            ],
+                            "us": [
+                                "ˈhʌŋ.ɡɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the feeling you have when you need to eat: ",
+                            "examples": [
+                                "I can't believe that that enormous meal wasn't enough to satisfy your hunger.",
+                                "By about nine o'clock she started to feel faint from/with hunger.",
+                                "I often suffer from hunger pangs (= strong feelings of needing something to eat) in the middle of the afternoon."
+                            ]
+                        },
+                        {
+                            "explanation": "a situation in which the body does not have enough food: ",
+                            "examples": [
+                                "All over the world, people die of hunger every day."
+                            ]
+                        },
+                        {
+                            "explanation": "a strong wish or desire: ",
+                            "examples": [
+                                "Despite some difficult times, he never lost his hunger for adventure/knowledge/success."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

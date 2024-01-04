@@ -1,0 +1,41 @@
+{
+    "word": "tremor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtrem.ər"
+                            ],
+                            "us": [
+                                "ˈtrem.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a slight shaking movement in a person's body, especially because of nervousness or excitement: ",
+                            "examples": [
+                                "The disease mostly affects people over 50, causing paralysis and uncontrollable tremors.",
+                                "There was a slight tremor in her voice.",
+                                "A tremor of excitement went through the audience as he came on stage."
+                            ]
+                        },
+                        {
+                            "explanation": "a slight earthquake: ",
+                            "examples": [
+                                "The tremor was felt as far as 200 miles away."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "word": "ward",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "wɔːd"
+                            ],
+                            "us": [
+                                "wɔːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the parts or large rooms into which a hospital is divided, usually with beds for patients: ",
+                            "examples": [
+                                "a geriatric/maternity/psychiatric ward"
+                            ]
+                        },
+                        {
+                            "explanation": "one of the parts into which a prison is divided",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(in many countries) one of the areas into which a city or town is divided, having its own elected political representative or its own organizations for managing services",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a person, especially a child, who is legally put under the protection of a law court or a guardian: ",
+                            "examples": [
+                                "The girl was made a ward of court to stop her father taking her out of the country."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -wəd"
+                            ],
+                            "us": [
+                                " -wɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "towards the stated place or direction: ",
+                            "examples": [
+                                "At least we're homeward bound."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

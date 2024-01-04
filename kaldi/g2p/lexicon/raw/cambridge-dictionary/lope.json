@@ -1,0 +1,58 @@
+{
+    "word": "lope",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ləʊp"
+                            ],
+                            "us": [
+                                "loʊp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a person or animal) to run taking long, relaxed steps: ",
+                            "examples": [
+                                "The lion loped across the grass."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ləʊp"
+                            ],
+                            "us": [
+                                "loʊp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a way of walking or moving using long, relaxed steps: ",
+                            "examples": [
+                                "The trot quickly became a lope, which just as quickly became a gallop. ",
+                                "She crossed the field with the easy lope of a woman half her age."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

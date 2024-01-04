@@ -1,0 +1,82 @@
+{
+    "word": "claiming",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nclaim ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kleɪm"
+                            ],
+                            "us": [
+                                "kleɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say that something is true or is a fact, although you cannot prove it and other people might not believe it: ",
+                            "examples": [
+                                "The company claims (that) it is not responsible for the pollution in the river.",
+                                "He claims to have met the president, but I don't believe him.",
+                                "All parties have claimed success in yesterday's elections.",
+                                "An unknown terrorist group has claimed responsibility for this morning's bomb attack."
+                            ]
+                        },
+                        {
+                            "explanation": "If an organization or group claims a particular number of members, that number of people are believed to belong to it.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to ask for something of value because you think it belongs to you or because you think you have a right to it: ",
+                            "examples": [
+                                "The police said that if no one claims the watch, you can keep it.",
+                                "When King Richard III died, Henry VII claimed the English throne."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a written demand for money from a government or organization because you think you have a right to it: ",
+                            "examples": [
+                                "The number of people claiming unemployment benefits has risen sharply this month.",
+                                "Don't forget to claim (for) your travelling expenses after the interview.",
+                                "When my bike was stolen, I claimed on the insurance and got £150 back.",
+                                "If the shop won't give me a replacement TV, I'll claim my money back."
+                            ]
+                        },
+                        {
+                            "explanation": "to make an official request for money after an accident, from the person who caused your injuries",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "plumbing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈplʌm.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈplʌm.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the water pipes and similar systems in a building: ",
+                            "examples": [
+                                "There's something wrong with the plumbing."
+                            ]
+                        },
+                        {
+                            "explanation": "the work of connecting water and other pipes in a building: ",
+                            "examples": [
+                                "We did all the plumbing (work) in our house ourselves."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "inflected",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈflek.tɪd"
+                            ],
+                            "us": [
+                                "ɪnˈflek.tɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An inflected form of a word has a changed spelling or ending that shows the way it is used in sentences: ",
+                            "examples": [
+                                "\"Finds\" and \"found\" are inflected forms of \"find\"."
+                            ]
+                        },
+                        {
+                            "explanation": "slightly changed by the influence of a particular thing: ",
+                            "examples": [
+                                "music subtly inflected with jazz",
+                                "a politically inflected play"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

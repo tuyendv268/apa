@@ -1,0 +1,63 @@
+{
+    "word": "carved",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncarve ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kɑːv"
+                            ],
+                            "us": [
+                                "kɑːrv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something by cutting into especially wood or stone, or to cut into the surface of stone, wood, etc.: ",
+                            "examples": [
+                                "This totem pole is carved from/out of a single tree trunk.",
+                                "He carved her name on a tree.",
+                                "Some of the tunnels in the cliff are natural, some were carved out (= cut into the rock) by soldiers for defensive purposes."
+                            ]
+                        },
+                        {
+                            "explanation": "to cut thin pieces from a large piece of cooked meat: ",
+                            "examples": [
+                                "Would you like me to carve (the chicken)?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

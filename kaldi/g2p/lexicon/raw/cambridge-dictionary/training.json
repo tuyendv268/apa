@@ -1,0 +1,54 @@
+{
+    "word": "training",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtreɪ.nɪŋ"
+                            ],
+                            "us": [
+                                "ˈtreɪ.nɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of learning the skills you need to do a particular job or activity: ",
+                            "examples": [
+                                "a training course",
+                                "a teacher-training college",
+                                "New staff have/receive a week's training in how to use the system."
+                            ]
+                        },
+                        {
+                            "explanation": "to exercise a lot and eat particular food in order to prepare yourself for a competition: ",
+                            "examples": [
+                                "Earlier this week Dan revealed that he's in training for the London marathon."
+                            ]
+                        },
+                        {
+                            "explanation": "to be a useful experience that will be helpful when doing a particular thing in the future: ",
+                            "examples": [
+                                "His experience as a teacher was good training for parenthood."
+                            ]
+                        },
+                        {
+                            "explanation": "in machine learning (= the study of creating computer systems that can improve their own ability to carry out tasks by analysing new data), the process of creating or improving a computer representation of a system or process by supplying it with data: ",
+                            "examples": [
+                                "The study investigates the impact of biased training data on generative AI performance. ",
+                                "The models performed well when tested on new categories not seen during training."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

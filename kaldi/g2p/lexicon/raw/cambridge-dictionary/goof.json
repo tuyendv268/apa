@@ -1,0 +1,62 @@
+{
+    "word": "goof",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡuːf"
+                            ],
+                            "us": [
+                                "ɡuːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a silly mistake: ",
+                            "examples": [
+                                "If Tom hadn't goofed and missed that shot, we'd have won the game.",
+                                "She goofed her lines (= said the words in the play wrong)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡuːf"
+                            ],
+                            "us": [
+                                "ɡuːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a silly mistake: ",
+                            "examples": [
+                                "I made a real goof by forgetting his name."
+                            ]
+                        },
+                        {
+                            "explanation": "a silly or stupid person",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "bar magnet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɑː ˌmæɡ.nət"
+                            ],
+                            "us": [
+                                "ˈbɑːr ˌmæɡ.nət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a magnet in the shape of a bar whose magnetic force is strongest at its poles (= ends), one end attracting iron and steel objects and the other end pushing them away: ",
+                            "examples": [
+                                "If you hang a bar magnet from a piece of string, its north pole will swing round to point to Earth's North Pole. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

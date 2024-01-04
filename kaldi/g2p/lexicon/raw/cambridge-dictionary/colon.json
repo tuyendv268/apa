@@ -1,0 +1,65 @@
+{
+    "word": "colon",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkəʊ.lɒn"
+                            ],
+                            "us": [
+                                "ˈkoʊ.lən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the lower and bigger half of the bowels in which water is removed from solid waste",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the symbol : used in writing, especially to introduce a list of things or a sentence or phrase taken from somewhere else",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kɒlˈɒn"
+                            ],
+                            "us": [
+                                "kəˈloʊn"
+                            ],
+                            "uk_other_tense": [
+                                "kɒlˈɒn.es"
+                            ],
+                            "us_other_tense": [
+                                "kəˈloʊ.nes"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the standard unit of money used in Costa Rica and El Salvador",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

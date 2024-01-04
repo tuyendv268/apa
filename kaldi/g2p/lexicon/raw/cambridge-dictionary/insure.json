@@ -1,0 +1,42 @@
+{
+    "word": "insure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈʃɔːr"
+                            ],
+                            "us": [
+                                "ɪnˈʃʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to protect yourself against risk by regularly paying a special company that will provide a fixed amount of money if you are killed or injured or if your home or possessions are damaged, destroyed, or stolen: ",
+                            "examples": [
+                                "The house is insured for two million dollars.",
+                                "All our household goods are insured against accidental damage.",
+                                "I'm not insured to drive his car."
+                            ]
+                        },
+                        {
+                            "explanation": "to provide insurance for someone or something: ",
+                            "examples": [
+                                "They refused to insure us because they said we're too old.",
+                                "Many companies won't insure new or young drivers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

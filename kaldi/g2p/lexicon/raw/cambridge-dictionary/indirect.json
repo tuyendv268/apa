@@ -1,0 +1,48 @@
+{
+    "word": "indirect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.daɪˈrekt",
+                                "ˌɪn.dɪˈrekt"
+                            ],
+                            "us": [
+                                "ˌɪn.dɪˈrekt",
+                                "ˌɪn.daɪˈrekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "happening in addition to an intended result, often in a way that is complicated or not obvious: ",
+                            "examples": [
+                                "The benefits from pure research are often indirect.",
+                                "Indirect effects of the fighting include disease and food shortages."
+                            ]
+                        },
+                        {
+                            "explanation": "avoiding clearly mentioning or saying something: ",
+                            "examples": [
+                                "indirect criticism"
+                            ]
+                        },
+                        {
+                            "explanation": "not following a straight line, or not directly or simply connected: ",
+                            "examples": [
+                                "to take an indirect route/flight"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

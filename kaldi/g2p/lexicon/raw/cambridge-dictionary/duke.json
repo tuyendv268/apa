@@ -1,0 +1,61 @@
+{
+    "word": "duke",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dʒuːk"
+                            ],
+                            "us": [
+                                "duːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a man of very high rank in a country, or the ruler of a small independent country",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dʒuːk"
+                            ],
+                            "us": [
+                                "duːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fight with fists (= closed hands): ",
+                            "examples": [
+                                "In the opening scene, Bond and his adversary are duking it out on top of a train."
+                            ]
+                        },
+                        {
+                            "explanation": "to compete or argue against each other: ",
+                            "examples": [
+                                "Smaller universities could lose out if they have to duke it out for funding."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

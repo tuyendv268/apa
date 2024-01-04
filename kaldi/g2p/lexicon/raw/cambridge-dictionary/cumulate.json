@@ -1,0 +1,40 @@
+{
+    "word": "cumulate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkjuː.mjʊ.leɪt"
+                            ],
+                            "us": [
+                                "ˈkjuː.mjʊ.leɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to collect a large amount of something over a period of time by gradually adding more: ",
+                            "examples": [
+                                "The system has the ability to cumulate data over a number of years.",
+                                "They have cumulated debts of over $10 million."
+                            ]
+                        },
+                        {
+                            "explanation": "to gradually increase by combining with other things over a period of time: ",
+                            "examples": [
+                                "These small delays can cumulate and become a problem."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

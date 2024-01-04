@@ -1,0 +1,33 @@
+{
+    "word": "biomarker",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.əʊˌmɑː.kər"
+                            ],
+                            "us": [
+                                "ˈbaɪ.oʊˌmɑːr.kɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something, for example a gene or substance, that shows that a particular biological process or condition is present: ",
+                            "examples": [
+                                "The Johns Hopkins team have identified a genetic change, or biomarker, that can be measured in the blood of colon cancer patients."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

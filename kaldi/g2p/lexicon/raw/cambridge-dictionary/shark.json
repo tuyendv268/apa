@@ -1,0 +1,41 @@
+{
+    "word": "shark",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʃɑːk"
+                            ],
+                            "us": [
+                                "ʃɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large fish that has sharp teeth and a pointed fin on its back: ",
+                            "examples": [
+                                "a great white shark",
+                                "a basking shark",
+                                "The movie \"Jaws\" is about a man-eating shark."
+                            ]
+                        },
+                        {
+                            "explanation": "a dishonest person, especially one who persuades other people to pay too much money for something: ",
+                            "examples": [
+                                "People who need a place to live can often find themselves at the mercy of local property sharks."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

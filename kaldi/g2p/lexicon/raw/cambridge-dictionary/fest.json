@@ -1,0 +1,62 @@
+{
+    "word": "fest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fest"
+                            ],
+                            "us": [
+                                "fest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a special event where people can enjoy a particular activity or thing: ",
+                            "examples": [
+                                "a media-fest"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                "fest "
+                            ],
+                            "us": [
+                                "fest "
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used in combination with other nouns to create a word for a situation in which there is a lot of something: ",
+                            "examples": [
+                                "They met at a recent economic gabfest (= an occasion when there is a lot of talking) in Washington.",
+                                "The documentary is a fascinating clipfest (= a film that includes lots of different clips)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

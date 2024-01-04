@@ -1,0 +1,41 @@
+{
+    "word": "undeliverable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.dɪˈlɪv.ər.ə.bəl"
+                            ],
+                            "us": [
+                                "ˌʌn.dɪˈlɪv.ɚ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A letter, parcel, or message that is undeliverable cannot be delivered: ",
+                            "examples": [
+                                "There were thousands of undeliverable packages piling up in the sorting office.",
+                                "Emails sent to addresses at these domains were returned as undeliverable."
+                            ]
+                        },
+                        {
+                            "explanation": "If something that was promised or planned is undeliverable, it cannot be done: ",
+                            "examples": [
+                                "We are stupid, and elect people who make the most undeliverable promises.",
+                                "Several proposals have been put to customers offering undeliverable discounts on call rates, even though the customer is on the best possible rate."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

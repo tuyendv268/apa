@@ -1,0 +1,39 @@
+{
+    "word": "coaxial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌkəʊˈæk.si.əl"
+                            ],
+                            "us": [
+                                "ˌkoʊˈæk.si.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "sharing an axis (= central point): ",
+                            "examples": [
+                                "coaxial lines"
+                            ]
+                        },
+                        {
+                            "explanation": "a coaxial cable has two concentric wires (= wires that share a central point) to conduct the signal, separated by an insulating layer: ",
+                            "examples": [
+                                "Cable TV channels and internet services are usually transmitted to a home or business via coaxial cable."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

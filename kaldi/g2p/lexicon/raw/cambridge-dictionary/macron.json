@@ -1,0 +1,35 @@
+{
+    "word": "macron",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmæk.rɒn"
+                            ],
+                            "us": [
+                                "ˈmeɪ.krɑːn",
+                                "ˈmæk.rɑːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a symbol (ˉ) written or printed above a vowel to show that it is pronounced with a long sound: ",
+                            "examples": [
+                                "\"Maori\" should be written with a macron on the \"a\".",
+                                "The five vowels come in long and short forms; the long form is sometimes signified in print by a macron (a flat bar) above the letter."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "wince",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "wɪns"
+                            ],
+                            "us": [
+                                "wɪns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to show pain or embarrassment suddenly and for a short time in the face, often moving the head back at the same time: ",
+                            "examples": [
+                                "Did I hurt you? I thought I saw you wince.",
+                                "It makes me wince even thinking about eye operations."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "wɪns"
+                            ],
+                            "us": [
+                                "wɪns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of showing pain or embarrassment suddenly and for a short time in the face, often moving the head back at the same time: ",
+                            "examples": [
+                                "She gave a wince as the nurse put the needle in.",
+                                "It's impossible not to feel a wince of empathy for someone who gets a kick in the face."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

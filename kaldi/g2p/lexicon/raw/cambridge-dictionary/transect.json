@@ -1,0 +1,57 @@
+{
+    "word": "transect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trænˈsekt"
+                            ],
+                            "us": [
+                                "trænˈsekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut across something; to divide something by cutting it: ",
+                            "examples": [
+                                "The surgeon accidentally transected the right renal artery during the procedure, said the family's lawyer."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtræn.sekt"
+                            ],
+                            "us": [
+                                "ˈtræn.sekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a line or narrow area along or within which measurements are taken, and items counted, etc. in scientific studies: ",
+                            "examples": [
+                                "Each transect was walked at a slow pace noting the mammals seen in the vicinity of the path."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

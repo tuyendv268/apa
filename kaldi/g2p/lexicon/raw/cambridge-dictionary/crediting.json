@@ -1,0 +1,62 @@
+{
+    "word": "crediting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncredit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkred.ɪt"
+                            ],
+                            "us": [
+                                "ˈkred.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pay money into a bank account: ",
+                            "examples": [
+                                "They credited my account with $20 after I pointed out the mistake."
+                            ]
+                        },
+                        {
+                            "explanation": "to believe something that seems unlikely to be true: ",
+                            "examples": [
+                                "He even tried to pretend he was my son - can you credit it?",
+                                "It was hard to credit some of the stories we heard about her."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

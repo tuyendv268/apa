@@ -1,0 +1,67 @@
+{
+    "word": "fare",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "feər"
+                            ],
+                            "us": [
+                                "fer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the money that you pay for a journey in a vehicle such as a bus or train: ",
+                            "examples": [
+                                "Train fares are going up again."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who pays to be driven somewhere in a taxi",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the type of food that is served in a restaurant",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "feər"
+                            ],
+                            "us": [
+                                "fer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to succeed or be treated in the stated way: ",
+                            "examples": [
+                                "How did you fare in your exams?",
+                                "Low-paid workers will fare badly under this government.",
+                                "The party has fared well in recent local elections."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

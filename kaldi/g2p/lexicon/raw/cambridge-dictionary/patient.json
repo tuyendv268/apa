@@ -1,0 +1,58 @@
+{
+    "word": "patient",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪ.ʃənt"
+                            ],
+                            "us": [
+                                "ˈpeɪ.ʃənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who is receiving medical care, or who is cared for by a particular doctor or dentist when necessary: ",
+                            "examples": [
+                                "I'm a patient of Dr Stephens; please could I make an appointment to see her?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪ.ʃənt"
+                            ],
+                            "us": [
+                                "ˈpeɪ.ʃənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having patience: ",
+                            "examples": [
+                                "Dinner will be ready in half an hour - just be patient!",
+                                "Be patient with her - she's very young."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

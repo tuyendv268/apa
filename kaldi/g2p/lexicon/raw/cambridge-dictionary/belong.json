@@ -1,0 +1,41 @@
+{
+    "word": "belong",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɪˈlɒŋ"
+                            ],
+                            "us": [
+                                "bɪˈlɑːŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be in the right place or a suitable place: ",
+                            "examples": [
+                                "This table belongs in the sitting room.",
+                                "Where do these spoons belong?",
+                                "These papers belong with the others."
+                            ]
+                        },
+                        {
+                            "explanation": "to feel happy or comfortable in a situation: ",
+                            "examples": [
+                                "After three years in Cambridge, I finally feel as if I belong here."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "dyad",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaɪ.æd"
+                            ],
+                            "us": [
+                                "ˈdaɪ.æd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that consists of two parts",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a group of two people, which is the smallest possible social group: ",
+                            "examples": [
+                                "the marital dyad",
+                                "mother-infant dyads"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

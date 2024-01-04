@@ -1,0 +1,35 @@
+{
+    "word": "fahrenheit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfær.ən.haɪt"
+                            ],
+                            "us": [
+                                "ˈfer.ən.haɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of) a measurement of temperature on a standard in which 32° is the temperature at which water freezes and 212° that at which it boils: ",
+                            "examples": [
+                                "Shall I give you the temperature in Celsius or in Fahrenheit?",
+                                "It was 80°F in the shade.",
+                                "Data are recorded in degrees Fahrenheit."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

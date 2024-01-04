@@ -1,0 +1,48 @@
+{
+    "word": "guy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡaɪ"
+                            ],
+                            "us": [
+                                "ɡaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a man: ",
+                            "examples": [
+                                "He's a really nice guy.",
+                                "Do you mean the guy with the blonde hair and glasses?"
+                            ]
+                        },
+                        {
+                            "explanation": "used to address a group of people of either sex: ",
+                            "examples": [
+                                "Come on, you guys, let's go."
+                            ]
+                        },
+                        {
+                            "explanation": "in the UK, a model of a man that is burned on a large fire on Guy Fawkes Night",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a rope that at one end is connected to a tent or pole and at the other end is fastened to the ground by a peg, keeping the tent or pole in position",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

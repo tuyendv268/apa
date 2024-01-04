@@ -1,0 +1,44 @@
+{
+    "word": "tension",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈten.ʃən"
+                            ],
+                            "us": [
+                                "ˈten.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a feeling of nervousness before an important or difficult event: ",
+                            "examples": [
+                                "You could feel the tension in the room as we waited for our exam results."
+                            ]
+                        },
+                        {
+                            "explanation": "a feeling of fear or anger between two groups of people who do not trust each other: ",
+                            "examples": [
+                                "ethnic/racial tension",
+                                "There are growing tensions between the two countries."
+                            ]
+                        },
+                        {
+                            "explanation": "The tension of a wire or rope is the degree to which it is stretched.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

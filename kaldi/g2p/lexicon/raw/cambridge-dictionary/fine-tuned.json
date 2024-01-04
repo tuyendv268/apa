@@ -1,0 +1,55 @@
+{
+    "word": "fine-tuned",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past participle, past simple of \nfine-tune ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌfaɪnˈtʃuːn"
+                            ],
+                            "us": [
+                                "ˌfaɪnˈtuːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make very small changes to something in order to make it work as well as possible: ",
+                            "examples": [
+                                "She spent hours fine-tuning her speech."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

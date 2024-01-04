@@ -1,0 +1,56 @@
+{
+    "word": "demoed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndemo ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdem.əʊ"
+                            ],
+                            "us": [
+                                "ˈdem.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to show something and explain how it works, or to show or produce a demo: ",
+                            "examples": [
+                                "to demo a new piece of software",
+                                "They've just completed a Christmas single and are also demoing lots of new songs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

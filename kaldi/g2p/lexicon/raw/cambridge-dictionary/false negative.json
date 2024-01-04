@@ -1,0 +1,35 @@
+{
+    "word": "false negative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfɒls ˈneɡ.ə.tɪv"
+                            ],
+                            "us": [
+                                "ˌfɑːls ˈneɡ.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a result of a scientific test that appears to show something does not exist or is not present, when this is not correct: ",
+                            "examples": [
+                                "The scans produce false negatives as well as false positives, because they don't catch some lesions.",
+                                "Health officials said the tests are unreliable because false negatives are possible.",
+                                "The false negative rate may be as high as 30%."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

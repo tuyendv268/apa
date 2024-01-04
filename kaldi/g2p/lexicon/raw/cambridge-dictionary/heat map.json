@@ -1,0 +1,39 @@
+{
+    "word": "heat map",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhiːt ˌmæp"
+                            ],
+                            "us": [
+                                "ˈhiːt ˌmæp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a picture of an area, body, or object that shows the temperature of different parts as different colours: ",
+                            "examples": [
+                                "Detailed heat maps of the lunar surface revealed the south pole is warmer than previously thought."
+                            ]
+                        },
+                        {
+                            "explanation": "a picture or map that uses colours to show different levels of an activity, or values of something in different places: ",
+                            "examples": [
+                                "a simple heat map of the world showing public debt per capita"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

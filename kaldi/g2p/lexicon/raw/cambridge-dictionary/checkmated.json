@@ -1,0 +1,63 @@
+{
+    "word": "checkmated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncheckmate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtʃek.meɪt"
+                            ],
+                            "us": [
+                                "ˈtʃek.meɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to achieve a winning position in chess in which you have put the other player's king under a direct attack from which it cannot escape: ",
+                            "examples": [
+                                "My dad can always checkmate me within 20 moves.",
+                                "The goal is to checkmate an opponent's king."
+                            ]
+                        },
+                        {
+                            "explanation": "to create a situation in which someone is defeated or a plan cannot develop or continue: ",
+                            "examples": [
+                                "The committee discussed the best method to checkmate this move. ",
+                                "They are doing their best to checkmate those conspiring against the State. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

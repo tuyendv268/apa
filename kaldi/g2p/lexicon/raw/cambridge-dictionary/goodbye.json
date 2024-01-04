@@ -1,0 +1,60 @@
+{
+    "word": "goodbye",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "ɡʊdˈbaɪ"
+                            ],
+                            "us": [
+                                "ɡʊdˈbaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used when someone leaves: ",
+                            "examples": [
+                                "Goodbye Bill! See you next week."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡʊdˈbaɪ"
+                            ],
+                            "us": [
+                                "ɡʊdˈbaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the words or actions that are used when someone leaves or is left: ",
+                            "examples": [
+                                "Don't go without saying goodbye to me, will you?",
+                                "She kissed her children goodbye before leaving for work.",
+                                "We said our goodbyes, and left.",
+                                "I hate long drawn-out goodbyes (= acts of leaving)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "embassy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈem.bə.si"
+                            ],
+                            "us": [
+                                "ˈem.bə.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the group of people who represent their country in a foreign country: ",
+                            "examples": [
+                                "We used to be friendly with some people who worked at the Swedish Embassy."
+                            ]
+                        },
+                        {
+                            "explanation": "the building that these people work in: ",
+                            "examples": [
+                                "The Ambassador held a reception at the embassy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

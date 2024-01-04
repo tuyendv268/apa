@@ -1,0 +1,34 @@
+{
+    "word": "subtest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌb.test"
+                            ],
+                            "us": [
+                                "ˈsʌb.test"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a test that forms part of a larger test: ",
+                            "examples": [
+                                "The Reading Comprehension subtest is used as a measure of skill in reading English.",
+                                "The sub-tests are designed to measure various aspects of performance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

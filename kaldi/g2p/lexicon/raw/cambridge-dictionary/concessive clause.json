@@ -1,0 +1,33 @@
+{
+    "word": "concessive clause",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˌses.ɪv ˈklɔːz"
+                            ],
+                            "us": [
+                                "kənˌses.ɪv ˈklɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a clause, often beginning with \"though\" or \"although\", that expresses an idea that suggests the opposite of the main part of the sentence: ",
+                            "examples": [
+                                "The sentence \"Although he's quiet, he's not shy\" begins with a concessive clause."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

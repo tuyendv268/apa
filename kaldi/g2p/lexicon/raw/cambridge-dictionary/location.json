@@ -1,0 +1,46 @@
+{
+    "word": "location",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ləʊˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "loʊˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a place or position: ",
+                            "examples": [
+                                "The hotel is in a beautiful location overlooking the lake.",
+                                "A map showing the location of the property will be sent to you."
+                            ]
+                        },
+                        {
+                            "explanation": "a place away from a studio where all or part of a film or a television show is recorded: ",
+                            "examples": [
+                                "The documentary was made on location in the Gobi desert."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of finding the exact position of something: ",
+                            "examples": [
+                                "The latest navigational aids make the location of the airfield quite easy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

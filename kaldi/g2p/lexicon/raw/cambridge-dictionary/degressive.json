@@ -1,0 +1,40 @@
+{
+    "word": "degressive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈɡres.ɪv"
+                            ],
+                            "us": [
+                                "dɪˈɡres.ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A degressive tax system is one in which the rate of tax is lower on larger amounts of money: ",
+                            "examples": [
+                                "A degressive income tax takes a smaller fraction of higher incomes. ",
+                                "Some believe that the rates should be degressive in relation to the price. "
+                            ]
+                        },
+                        {
+                            "explanation": "gradually reducing by small amounts : ",
+                            "examples": [
+                                "This does not change the degressive tendency of the crater volume. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

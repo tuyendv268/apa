@@ -1,0 +1,56 @@
+{
+    "word": "al",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written abbreivation for the US state of Alabama: used in addresses ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -əl"
+                            ],
+                            "us": [
+                                " -əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to add the meaning \"connected with\" to adjectives, or \"the action of\" to nouns: ",
+                            "examples": [
+                                "medical (= connected with medicine)",
+                                "approval (= the act of approving)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "reconfigure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriː.kənˈfɪɡ.ər"
+                            ],
+                            "us": [
+                                "ˌriː.kənˈfɪɡ.jɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to arrange or put together something in a new or different way: ",
+                            "examples": [
+                                "The architect said they could reconfigure the track to have eight sprint lanes instead of six.",
+                                "One of the boat's engines is actually a reconfigured aircraft engine.",
+                                "Schools may need to be re-configured, with junior schools adding more classrooms."
+                            ]
+                        },
+                        {
+                            "explanation": "to arrange a computer system or a piece of software in a new or different way: ",
+                            "examples": [
+                                "They require users to reconfigure their Web browsing software.",
+                                "I have reconfigured the comments settings on my blog."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

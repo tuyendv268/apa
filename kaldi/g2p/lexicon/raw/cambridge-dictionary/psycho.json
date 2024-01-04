@@ -1,0 +1,86 @@
+{
+    "word": "psycho",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪ.kəʊ"
+                            ],
+                            "us": [
+                                "ˈsaɪ.koʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who is crazy and frightening: ",
+                            "examples": [
+                                "The man's a psycho."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪ.kəʊ"
+                            ],
+                            "us": [
+                                "ˈsaɪ.koʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a person) crazy and frightening: ",
+                            "examples": [
+                                "He suddenly went psycho and started shooting in all directions.",
+                                "He plays a psycho killer who pushes a woman down a flight of stairs to her death."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "saɪ.kəʊ-"
+                            ],
+                            "us": [
+                                "saɪ.koʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of the mind or mental processes: ",
+                            "examples": [
+                                "psychopharmacology (= the study of drugs which affect the mind)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

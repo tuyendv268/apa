@@ -1,0 +1,38 @@
+{
+    "word": "concerto",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈtʃɜː.təʊ"
+                            ],
+                            "us": [
+                                "kənˈtʃer.t̬oʊ"
+                            ],
+                            "uk_other_tense": [
+                                "kənˈtʃɜː.ti"
+                            ],
+                            "us_other_tense": [
+                                "kənˈtʃer.t̬i"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long piece of music for one or more main solo instruments and an orchestra: ",
+                            "examples": [
+                                "a violin/piano concerto",
+                                "Mozart's concerto for flute and harp"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

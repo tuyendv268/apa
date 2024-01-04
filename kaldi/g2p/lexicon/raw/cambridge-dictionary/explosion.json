@@ -1,0 +1,52 @@
+{
+    "word": "explosion",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspləʊ.ʒən"
+                            ],
+                            "us": [
+                                "ɪkˈsploʊ.ʒən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of something such as a bomb exploding: ",
+                            "examples": [
+                                "The fire was thought to have been caused by a gas explosion.",
+                                "The explosion (= the intentional exploding) of nuclear devices in the Bikini Atoll was stopped in 1958."
+                            ]
+                        },
+                        {
+                            "explanation": "a sudden strong expression of emotion: ",
+                            "examples": [
+                                "There was an explosion of applause from the audience at the end of the performance."
+                            ]
+                        },
+                        {
+                            "explanation": "a large increase in the number of something that happens very quickly: ",
+                            "examples": [
+                                "The government has had to take measures to halt the population explosion."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of proving that something is wrong: ",
+                            "examples": [
+                                "the explosion of the conspiracy theories surrounding the death of the star"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

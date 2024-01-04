@@ -1,0 +1,103 @@
+{
+    "word": "less",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "les"
+                            ],
+                            "us": [
+                                "les"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a smaller amount (of), or to a smaller degree: ",
+                            "examples": [
+                                "We must try to spend less money.",
+                                "Exercise more and eat less.",
+                                "I eat less chocolate and fewer biscuits than I used to.",
+                                "Getting out of bed in summer is less difficult than in winter."
+                            ]
+                        },
+                        {
+                            "explanation": "used to say that something does not have the good or attractive characteristic that is stated: ",
+                            "examples": [
+                                "I think he was less than honest with me."
+                            ]
+                        },
+                        {
+                            "explanation": "If something happens less and less, it becomes gradually smaller in amount or happens less often: ",
+                            "examples": [
+                                "He's less and less able to look after himself."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "les"
+                            ],
+                            "us": [
+                                "les"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "→ \nminus : ",
+                            "examples": [
+                                "The total is 30 dollars, less the five dollars deposit that you paid."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -ləs",
+                                "-lɪs"
+                            ],
+                            "us": [
+                                " -ləs",
+                                "-lɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form adjectives meaning \"without (the thing mentioned)\": ",
+                            "examples": [
+                                "meaningless",
+                                "friendless"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

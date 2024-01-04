@@ -1,0 +1,44 @@
+{
+    "word": "steward",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstjuː.əd"
+                            ],
+                            "us": [
+                                "ˈstuː.ɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person whose job it is to organize a particular event, or to provide services to particular people, or to take care of a particular place: ",
+                            "examples": [
+                                "Stewards will be inspecting the race track at 9.00.",
+                                "If you need help at any time during the conference, one of the stewards will be pleased to help you."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who serves passengers on a ship or aircraft",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a person who organizes the supply and serving of food at a club: ",
+                            "examples": [
+                                "He's the steward of the City of Wakefield's Working Men's Club."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

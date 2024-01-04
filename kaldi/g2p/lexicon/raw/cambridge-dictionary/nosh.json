@@ -1,0 +1,63 @@
+{
+    "word": "nosh",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "nɒʃ"
+                            ],
+                            "us": [
+                                "nɑːʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "food or a meal: ",
+                            "examples": [
+                                "They serve good nosh in the cafeteria."
+                            ]
+                        },
+                        {
+                            "explanation": "a small amount of food eaten between meals or as a meal: ",
+                            "examples": [
+                                "I have a little nosh at about 10.30, so I don't overeat at lunch."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "nɒʃ"
+                            ],
+                            "us": [
+                                "nɑːʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to eat: ",
+                            "examples": [
+                                "We asked the waiter for something to nosh on while we waited for a table."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

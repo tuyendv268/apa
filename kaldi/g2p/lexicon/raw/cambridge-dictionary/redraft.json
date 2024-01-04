@@ -1,0 +1,55 @@
+{
+    "word": "redraft",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈdrɑːft"
+                            ],
+                            "us": [
+                                "ˌriːˈdræft"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to draft (= write a version of) a document again, for the second, third, etc. time: ",
+                            "examples": [
+                                "They have to redraft legislation that is no longer compatible with current rules.",
+                                "She drafted and re-drafted this letter carefully."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a second, third, etc. version of a text, a formal document, etc., or the process of producing it: ",
+                            "examples": [
+                                "After around four redrafts, a compromise document was finally revealed.",
+                                "The other side may demand a re-draft before they will even discuss it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

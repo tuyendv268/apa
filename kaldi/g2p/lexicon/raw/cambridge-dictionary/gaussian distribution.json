@@ -1,0 +1,35 @@
+{
+    "word": "gaussian distribution",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡaʊ.si.ən dɪs.trɪˌbjuː.ʃən"
+                            ],
+                            "us": [
+                                "ˈɡaʊ.si.ən dɪs.trɪˌbjuː.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an arrangement of data in which most values are near the centre of the range and gradually become fewer towards each end, shown in a graph as the shape of a bell: ",
+                            "examples": [
+                                "A Gaussian distribution is also called a bell curve.",
+                                "Manipulating Gaussian distributions to fit economic data is just plain wrong.",
+                                "Data with gaussian distribution were compared with independent sample t-tests."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

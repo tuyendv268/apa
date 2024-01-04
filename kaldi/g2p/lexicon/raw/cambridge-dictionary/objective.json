@@ -1,0 +1,59 @@
+{
+    "word": "objective",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əbˈdʒek.tɪv"
+                            ],
+                            "us": [
+                                "əbˈdʒek.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that you plan to do or achieve: ",
+                            "examples": [
+                                "Her main/prime objective now is simply to stay in power.",
+                                "Can the sales team achieve/meet its financial objectives?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əbˈdʒek.tɪv"
+                            ],
+                            "us": [
+                                "əbˈdʒek.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "based on real facts and not influenced by personal beliefs or feelings: ",
+                            "examples": [
+                                "an objective and impartial report",
+                                "I can't really be objective when I'm judging my daughter's work."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

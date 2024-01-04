@@ -1,0 +1,68 @@
+{
+    "word": "populating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npopulate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɒp.jə.leɪt"
+                            ],
+                            "us": [
+                                "ˈpɑː.pjə.leɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If an area is populated by people or animals, they live in that area: ",
+                            "examples": [
+                                "The inner cities are no longer densely populated.",
+                                "The river is populated mainly by smaller species of fish."
+                            ]
+                        },
+                        {
+                            "explanation": "to live in an area or place: ",
+                            "examples": [
+                                "The settlers began to move inland and populate the river valleys."
+                            ]
+                        },
+                        {
+                            "explanation": "to automatically add information to a list or table on a computer: ",
+                            "examples": [
+                                "There are several ways to populate the database."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

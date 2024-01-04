@@ -1,0 +1,41 @@
+{
+    "word": "red meat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌred ˈmiːt"
+                            ],
+                            "us": [
+                                "ˌred ˈmiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "meat from mammals, especially beef and lamb: ",
+                            "examples": [
+                                "My doctor advised me that eating red meat increased the risk of cancer.",
+                                "However, indulging in red meat a few times a week does provide you with essential nutrients."
+                            ]
+                        },
+                        {
+                            "explanation": "especially in politics, a subject, comment, etc. that is used intentionally to excite or please a particular group of people: ",
+                            "examples": [
+                                "That was some red meat for the right wing.",
+                                "They should be bringing us together, but instead, they're race-baiting and throwing red meat to their constituents to score political points."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

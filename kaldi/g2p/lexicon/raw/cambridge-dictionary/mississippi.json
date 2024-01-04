@@ -1,0 +1,41 @@
+{
+    "word": "mississippi",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.ɪˈsɪp.i"
+                            ],
+                            "us": [
+                                "ˌmɪs.ɪˈsɪp.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a very long river in the US that runs through Minneapolis, St. Louis, New Orleans, and some other cities to the Gulf of Mexico: ",
+                            "examples": [
+                                "The bridge goes over the Mississippi river.",
+                                "along the banks of the Mississippi"
+                            ]
+                        },
+                        {
+                            "explanation": "a state in the southern US, whose capital city is Jackson : ",
+                            "examples": [
+                                "They stopped at the cotton fields of Mississippi.",
+                                "The temperature in Mississippi is the same from north to south."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

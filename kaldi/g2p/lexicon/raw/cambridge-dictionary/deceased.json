@@ -1,0 +1,58 @@
+{
+    "word": "deceased",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈsiːst"
+                            ],
+                            "us": [
+                                "dɪˈsiːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "dead: ",
+                            "examples": [
+                                "the recently deceased Member of Parliament"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈsiːst"
+                            ],
+                            "us": [
+                                "dɪˈsiːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who has recently died: ",
+                            "examples": [
+                                "The deceased shot her mother before killing herself.",
+                                "Five of the deceased were employed by the club."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "word": "marrying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmarry ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmær.i"
+                            ],
+                            "us": [
+                                "ˈmer.i",
+                                "ˈmær.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to become the legally accepted husband or wife of someone in an official or religious ceremony: ",
+                            "examples": [
+                                "Men tend to marry later than women.",
+                                "Paul married Lucy four years ago.",
+                                "They don't have any plans to marry at present."
+                            ]
+                        },
+                        {
+                            "explanation": "to perform the ceremony of marriage as a priest or official: ",
+                            "examples": [
+                                "The royal couple were married by the Archbishop of Canterbury ."
+                            ]
+                        },
+                        {
+                            "explanation": "to combine two different qualities: ",
+                            "examples": [
+                                "a design which marries fun with function"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

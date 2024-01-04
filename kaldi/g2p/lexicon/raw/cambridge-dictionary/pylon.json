@@ -1,0 +1,44 @@
+{
+    "word": "pylon",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpaɪ.lɒn"
+                            ],
+                            "us": [
+                                "ˈpaɪ.lɑːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tall metal structure to which wires carrying electricity are fixed so that they are safely held high above the ground: ",
+                            "examples": [
+                                "electricity pylons",
+                                "The roads were littered with downed pylons, power lines and trees."
+                            ]
+                        },
+                        {
+                            "explanation": "a tall tower or post that shows the path of flight for an aircraft",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a cone-shaped object that is usually red and white or yellow, used to keep vehicles away from an area of road temporarily, usually because repairs are being done to it: ",
+                            "examples": [
+                                "Often, the only thing between workers and the highway is a line of orange pylons bordering the closed lanes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

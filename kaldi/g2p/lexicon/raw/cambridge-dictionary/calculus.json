@@ -1,0 +1,54 @@
+{
+    "word": "calculus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæl.kjə.ləs"
+                            ],
+                            "us": [
+                                "ˈkæl.kjə.ləs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area of advanced mathematics in which continuously changing values are studied: ",
+                            "examples": [
+                                "Did you do calculus at A level?",
+                                "It is essential to understand functions and derivatives, key building blocks in calculus."
+                            ]
+                        },
+                        {
+                            "explanation": "a way of calculating, judging, or deciding something in a complicated situation: ",
+                            "examples": [
+                                "There is a very tricky political calculus involved here.",
+                                "The piece about jury screening discusses the decision-making calculus itself. ",
+                                "The new legislation changes the calculus for car manufacturers."
+                            ]
+                        },
+                        {
+                            "explanation": "a mass of a hard mineral substance that is formed in the body, for example in the kidneys or gall bladder: ",
+                            "examples": [
+                                "Stones that form in the kidney or bladder are called urinary calculi."
+                            ]
+                        },
+                        {
+                            "explanation": "a hard substance that forms on the teeth: ",
+                            "examples": [
+                                "The disease process begins when plaque on the tooth hardens to tartar, which hardens further to become calcified tartar, or calculus."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

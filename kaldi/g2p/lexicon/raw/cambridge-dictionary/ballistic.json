@@ -1,0 +1,47 @@
+{
+    "word": "ballistic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "bəˈlɪs.tɪk"
+                            ],
+                            "us": [
+                                "bəˈlɪs.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "connected with ballistics (= the study of the behaviour of objects that are shot or thrown through the air, such as a bullet from a gun): ",
+                            "examples": [
+                                "None of the defendants could be linked to the fatal gunshot because of a lack of ballistic evidence.",
+                                "They established a ballistic \"fingerprinting\" database to help law enforcement officials track guns throughout the state."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a weapon, etc.) moving and falling to earth or onto its target using the force of gravity only: ",
+                            "examples": [
+                                "The country is thought to have ballistic, chemical, and biological weapons capabilities.",
+                                "The space capsule malfunctioned and fell back to Earth in a steep ballistic path that subjected those inside to high G-forces. "
+                            ]
+                        },
+                        {
+                            "explanation": "to become extremely angry: ",
+                            "examples": [
+                                "If your dad finds out you've been skipping school, he'll go ballistic."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

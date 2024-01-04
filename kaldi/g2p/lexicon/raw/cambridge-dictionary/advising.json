@@ -1,0 +1,69 @@
+{
+    "word": "advising",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nadvise ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ədˈvaɪz"
+                            ],
+                            "us": [
+                                "ədˈvaɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give someone advice: ",
+                            "examples": [
+                                "I think I'd advise him to leave the company.",
+                                "His doctor advised him against smoking.",
+                                "I'd strongly advise against making a sudden decision.",
+                                "They're advising that children be kept at home.",
+                                "I'd advise waiting until tomorrow.",
+                                "She advised us when to come.",
+                                "She advises the president (= gives information and suggests types of action) on African policy.",
+                                "You would be well advised to (= it would be wise for you to) have the appropriate vaccinations before you go abroad."
+                            ]
+                        },
+                        {
+                            "explanation": "to give someone official information about something: ",
+                            "examples": [
+                                "They were advised of their rights.",
+                                "Our solicitors have advised that the costs could be enormous."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

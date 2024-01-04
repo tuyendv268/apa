@@ -1,0 +1,41 @@
+{
+    "word": "television broadcast",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtel.ɪ.vɪʒ.ən ˌbrɔːd.kɑːst"
+                            ],
+                            "us": [
+                                "ˌtel.ə.vɪʒ.ən ˈbrɑːd.kæst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a television programme : ",
+                            "examples": [
+                                "The prime minister resigned in a live television broadcast to the nation.",
+                                "Millions of viewers watched the television broadcast of the game. "
+                            ]
+                        },
+                        {
+                            "explanation": "the act of sending out a programme on television: ",
+                            "examples": [
+                                "This film was once considered too violent for television broadcast. ",
+                                "The show was being taped for television broadcast when a fire started."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

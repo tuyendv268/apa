@@ -1,0 +1,103 @@
+{
+    "word": "rage",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "reɪdʒ"
+                            ],
+                            "us": [
+                                "reɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(a period of) extreme or violent anger: ",
+                            "examples": [
+                                "Her sudden towering rages were terrifying.",
+                                "I was frightened because I had never seen him in such a rage before.",
+                                "He flew into a fit of rage over the smallest mistake."
+                            ]
+                        },
+                        {
+                            "explanation": "an exciting or entertaining event involving a lot of activity: ",
+                            "examples": [
+                                "The party was a rage."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "reɪdʒ"
+                            ],
+                            "us": [
+                                "reɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak very angrily to someone: ",
+                            "examples": [
+                                "He raged at (= spoke angrily to) us for forgetting to order a replacement."
+                            ]
+                        },
+                        {
+                            "explanation": "to happen in a strong or violent way: ",
+                            "examples": [
+                                "The storm raged outside.",
+                                "A flu epidemic is raging in/through local schools.",
+                                "The argument rages on (= continues strongly)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -reɪdʒ"
+                            ],
+                            "us": [
+                                " -reɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to refer to situations where people become extremely angry or violent: ",
+                            "examples": [
+                                "road-rage",
+                                "trolley-rage",
+                                "air-rage"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

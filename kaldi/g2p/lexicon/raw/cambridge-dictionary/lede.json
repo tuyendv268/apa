@@ -1,0 +1,34 @@
+{
+    "word": "lede",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "liːd"
+                            ],
+                            "us": [
+                                "liːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the first sentence or paragraph of a news article that gives the main point or points of the story: ",
+                            "examples": [
+                                "The lede reads: “More than four out of every five professors use social media.\"",
+                                "The newspaper put the nominal figure rather than the inflation-adjusted figure in its headline and its lede."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

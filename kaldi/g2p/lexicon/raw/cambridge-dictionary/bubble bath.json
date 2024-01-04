@@ -1,0 +1,41 @@
+{
+    "word": "bubble bath",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌb.əl ˌbɑːθ"
+                            ],
+                            "us": [
+                                "ˈbʌb.əl ˌbæθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a special liquid soap with a pleasant smell, that you put in bath water to make a lot of bubbles: ",
+                            "examples": [
+                                "She bought me some expensive bubble bath.",
+                                "He recommends avoiding perfumed soaps and bubble baths because they can irritate delicate skin."
+                            ]
+                        },
+                        {
+                            "explanation": "a bath that you fill with bubbles made by a special liquid soap with a pleasant smell: ",
+                            "examples": [
+                                "Relax in a lavender-scented bubble bath.",
+                                "I'd like to take a nice hot bubble bath."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

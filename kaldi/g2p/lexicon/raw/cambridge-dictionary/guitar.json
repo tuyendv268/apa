@@ -1,0 +1,35 @@
+{
+    "word": "guitar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡɪˈtɑːr"
+                            ],
+                            "us": [
+                                "ɡɪˈtɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a musical instrument, usually made of wood, with six strings and a long neck, played with the fingers or a plectrum: ",
+                            "examples": [
+                                "He sat on the grass, strumming his guitar.",
+                                "an acoustic guitar",
+                                "an electric guitar"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

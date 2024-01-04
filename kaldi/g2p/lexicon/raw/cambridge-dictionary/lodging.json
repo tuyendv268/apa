@@ -1,0 +1,39 @@
+{
+    "word": "lodging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒdʒ.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈlɑː.dʒɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a temporary place to stay: ",
+                            "examples": [
+                                "The price includes board and lodging (= meals and a room to sleep in)."
+                            ]
+                        },
+                        {
+                            "explanation": "a room in someone's house that you pay money to live in: ",
+                            "examples": [
+                                "He managed to find lodgings close to where he worked."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

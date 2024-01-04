@@ -1,0 +1,41 @@
+{
+    "word": "camera",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæm.rə"
+                            ],
+                            "us": [
+                                "ˈkæm.rə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device for taking photographs or making films or television programmes: ",
+                            "examples": [
+                                "I forgot to take my camera with me to Portugal, so I couldn't take any photos.",
+                                "Television camera crews broadcast the event all round the world.",
+                                "It was said of Marilyn Monroe that the camera loved her (= that she looked very attractive on film and in photographs)."
+                            ]
+                        },
+                        {
+                            "explanation": "appearing on a section of video: ",
+                            "examples": [
+                                "They were caught on camera as they brutally attacked a man."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "word": "stress test",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstres ˌtest"
+                            ],
+                            "us": [
+                                "ˈstres ˌtest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a test designed to show whether someone's heart works well when exercising hard: ",
+                            "examples": [
+                                "He went to the emergency room, where a checkup and stress test were performed."
+                            ]
+                        },
+                        {
+                            "explanation": "a process intended to test whether a building, product, material, etc. is damaged by particular forces: ",
+                            "examples": [
+                                "Building materials are given a rigorous earthquake stress test on a quake simulator."
+                            ]
+                        },
+                        {
+                            "explanation": "a process intended to test whether a bank or similar organization can deal successfully with a financial crisis: ",
+                            "examples": [
+                                "Several banks failed Friday's stress test."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈstres ˌtest"
+                            ],
+                            "us": [
+                                "ˈstres ˌtest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to perform a stress test on something: ",
+                            "examples": [
+                                "The lab is certified to stress-test voting machines.",
+                                "Banks were stress tested and are now overcapitalized to allow for defaults."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

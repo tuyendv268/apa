@@ -1,0 +1,61 @@
+{
+    "word": "self-destructed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past participle, past simple of \nself-destruct ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌself.dɪˈstrʌkt"
+                            ],
+                            "us": [
+                                "ˌself.dɪˈstrʌkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a machine or weapon self-destructs, it destroys itself, especially in a way that is planned: ",
+                            "examples": [
+                                "An investigation is underway after a missile self-destructed shortly after it was launched."
+                            ]
+                        },
+                        {
+                            "explanation": "a characteristic in a person that makes them likely to fail because of their own actions: ",
+                            "examples": [
+                                "At least he reached the semifinal before hitting the self-destruct button."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

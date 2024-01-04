@@ -1,0 +1,34 @@
+{
+    "word": "non-compound",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈkɒm.paʊnd"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈkɑːm.paʊnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "consisting of only one word or part : ",
+                            "examples": [
+                                "Non-compound Spanish tenses include the present and the preterite. ",
+                                "A subjectivity tag was assigned to each non-compound sentence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

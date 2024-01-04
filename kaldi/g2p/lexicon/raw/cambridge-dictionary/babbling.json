@@ -1,0 +1,62 @@
+{
+    "word": "babbling",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nbabble ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæb.əl"
+                            ],
+                            "us": [
+                                "ˈbæb.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to talk or say something in a quick, confused, excited, or silly way: ",
+                            "examples": [
+                                "The children babbled excitedly among themselves.",
+                                "She was babbling something about her ring being stolen."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a stream) to make the low, continuous noise of water flowing over stones: ",
+                            "examples": [
+                                "They rested a while by a babbling brook."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

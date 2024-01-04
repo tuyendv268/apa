@@ -1,0 +1,57 @@
+{
+    "word": "cuboid",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkjuː.bɔɪd"
+                            ],
+                            "us": [
+                                "ˈkjuː.bɔɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a solid object with six rectangular sides",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkjuː.bɔɪd"
+                            ],
+                            "us": [
+                                "ˈkjuː.bɔɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "approximately in the shape of a cube (= a solid object with six square sides of equal size)",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "relating to the cuboid bone of the foot",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

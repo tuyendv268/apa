@@ -1,0 +1,71 @@
+{
+    "word": "integrating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nintegrate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tɪ.ɡreɪt"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ə.ɡreɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to mix with and join society or a group of people, often changing to suit their way of life, habits, and customs: ",
+                            "examples": [
+                                "He seems to find it difficult to integrate socially.",
+                                "It's very difficult to integrate yourself into a society whose culture is so different from your own.",
+                                "Children are often very good at integrating into a new culture."
+                            ]
+                        },
+                        {
+                            "explanation": "to combine two or more things in order to become more effective: ",
+                            "examples": [
+                                "You need to integrate exercise into your normal life.",
+                                "The idea with young children is to integrate learning with play."
+                            ]
+                        },
+                        {
+                            "explanation": "to calculate the integral of a function: ",
+                            "examples": [
+                                "This step-by-step maths tutorial takes you through integrating a function.",
+                                "Try integrating cos(x) with different start and end values."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

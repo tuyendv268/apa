@@ -1,0 +1,61 @@
+{
+    "word": "cuffed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncuff ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kʌf"
+                            ],
+                            "us": [
+                                "kʌf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to hit someone with your hand in a light, joking way: ",
+                            "examples": [
+                                "His brother cuffed him playfully on his ear."
+                            ]
+                        },
+                        {
+                            "explanation": "to put someone's hands in handcuffs: ",
+                            "examples": [
+                                "He was led out of the courtroom with his hands cuffed behind his back."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

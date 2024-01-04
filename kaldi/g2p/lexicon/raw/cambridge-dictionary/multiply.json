@@ -1,0 +1,49 @@
+{
+    "word": "multiply",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmʌl.tɪ.plaɪ"
+                            ],
+                            "us": [
+                                "ˈmʌl.tə.plaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add a number to itself a particular number of times: ",
+                            "examples": [
+                                "If you multiply seven by 15 you get 105.",
+                                "When you multiply two odd numbers, is the answer always odd?",
+                                "I remember learning how to multiply and divide."
+                            ]
+                        },
+                        {
+                            "explanation": "to increase, or to increase something, very much in number: ",
+                            "examples": [
+                                "Alzheimer's Disease affects more than 4 million Americans today, and the number is expected to multiply rapidly as the population ages.",
+                                "Major publishers are multiplying the number of titles offered in digital form."
+                            ]
+                        },
+                        {
+                            "explanation": "of living things, to increase by producing new young animals, bacteria, etc.: ",
+                            "examples": [
+                                "18 birds multiplied to 100 in just three years.",
+                                "In warm weather these germs multiply rapidly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "overdosing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \noverdose ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈəʊ.və.dəʊs"
+                            ],
+                            "us": [
+                                "ˈoʊ.vɚ.doʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take too much of a drug: ",
+                            "examples": [
+                                "She overdosed on aspirin and died."
+                            ]
+                        },
+                        {
+                            "explanation": "to have too much of something: ",
+                            "examples": [
+                                "I think I've just overdosed on cheesecake!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

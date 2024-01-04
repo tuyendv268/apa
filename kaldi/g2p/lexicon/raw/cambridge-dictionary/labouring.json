@@ -1,0 +1,63 @@
+{
+    "word": "labouring",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nlabour ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈleɪ.bər"
+                            ],
+                            "us": [
+                                "ˈleɪ.bɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to do hard physical work: ",
+                            "examples": [
+                                "He travelled around Europe labouring to pay his way.",
+                                "Three hours after the explosion, rescue teams were still labouring to free those trapped."
+                            ]
+                        },
+                        {
+                            "explanation": "to do something slowly with great physical or mental effort: ",
+                            "examples": [
+                                "He laboured up the hill with his heavy load.",
+                                "She's been labouring over the same article for days."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

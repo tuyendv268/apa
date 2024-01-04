@@ -1,0 +1,34 @@
+{
+    "word": "molality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məʊˈlæl.ə.ti"
+                            ],
+                            "us": [
+                                "moʊˈlæl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a measurement of the number of moles of substance in 1000 grams of solvent: ",
+                            "examples": [
+                                "Molality can be expressed as the number of moles of solute in one kilogram of solvent. ",
+                                "The composition of a solution can be expressed in various ways including molality."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

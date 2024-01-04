@@ -1,0 +1,42 @@
+{
+    "word": "calculator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæl.kjə.leɪ.tər"
+                            ],
+                            "us": [
+                                "ˈkæl.kjə.leɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small electronic device that is used for doing calculations: ",
+                            "examples": [
+                                "You may bring a calculator into the exam.",
+                                "a pocket/hand-held/desktop calculator"
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of software, a feature on a website, etc., that helps you to calculate a particular amount that relates to your situation: ",
+                            "examples": [
+                                "There are calculators online that show you how long it will take to pay off credit-card debt. ",
+                                "Click this link to find a flight carbon emission calculator.",
+                                "a loan/mortgage/annuity calculator"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "hazmat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæz.mæt"
+                            ],
+                            "us": [
+                                "ˈhæz.mæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for hazardous material: a dangerous substance: ",
+                            "examples": [
+                                "Each volunteer was given a disposable white hazmat suit (= a suit that protects against dangerous substances)",
+                                "Over the past two weeks, hazmat crews have been flooded with anthrax false alarms."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "word": "park",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɑːk"
+                            ],
+                            "us": [
+                                "pɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large area of land with grass and trees, usually surrounded by fences or walls, and specially arranged so that people can walk in it for pleasure or children can play in it: ",
+                            "examples": [
+                                "Central Park",
+                                "Hyde Park",
+                                "We watched the joggers in the park."
+                            ]
+                        },
+                        {
+                            "explanation": "an area of land that is used for a particular purpose: ",
+                            "examples": [
+                                "an office/a business park"
+                            ]
+                        },
+                        {
+                            "explanation": "an area of land for playing sports on",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an area of land around a large house in the countryside",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pɑːk"
+                            ],
+                            "us": [
+                                "pɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put a vehicle in a place where it can stay for a period of time, usually while you leave it: ",
+                            "examples": [
+                                "Where have you parked?",
+                                "Just park your car in the driveway."
+                            ]
+                        },
+                        {
+                            "explanation": "to put yourself or something in a particular place for a long time, often annoying other people: ",
+                            "examples": [
+                                "He parked himself in front of the TV and stayed there all afternoon.",
+                                "She's parked an enormous pile of papers on my desk and I haven't a clue what to do with them."
+                            ]
+                        },
+                        {
+                            "explanation": "to not deal with something or answer a question immediately but leave it for a later time: ",
+                            "examples": [
+                                "Can we park that question until the end of the session?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

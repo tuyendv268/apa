@@ -1,0 +1,33 @@
+{
+    "word": "transponder",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "trænˈspɒn.dər"
+                            ],
+                            "us": [
+                                "trænˈspɑːn.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an electronic device that gives out a radio signal when it receives a similar signal telling it to: ",
+                            "examples": [
+                                "Aircraft are required by law to carry transponders, so that they can be identified."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

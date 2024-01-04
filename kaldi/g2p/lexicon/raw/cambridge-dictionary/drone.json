@@ -1,0 +1,73 @@
+{
+    "word": "drone",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "drəʊn"
+                            ],
+                            "us": [
+                                "droʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a low continuous noise that does not change its note: ",
+                            "examples": [
+                                "the drone of an engine",
+                                "Outside the tent I could hear the constant drone of insects.",
+                                "The drone of his voice made me feel sleepy."
+                            ]
+                        },
+                        {
+                            "explanation": "an aircraft that does not have a pilot but is controlled by someone on the ground, used especially for dropping bombs or for surveillance (= careful watching of a place): ",
+                            "examples": [
+                                "The U. S. Border Patrol's unmanned drone helped agents track down their smuggling suspect."
+                            ]
+                        },
+                        {
+                            "explanation": "an aircraft without a pilot that is controlled by someone on the ground, used especially as a hobby",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a male bee",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "drəʊn"
+                            ],
+                            "us": [
+                                "droʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a low continuous noise that does not change its note: ",
+                            "examples": [
+                                "An airplane droned in the background."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

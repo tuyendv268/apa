@@ -1,0 +1,39 @@
+{
+    "word": "smoked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "sməʊkt"
+                            ],
+                            "us": [
+                                "smoʊkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Smoked glass or a smoked window has been made darker, as if by smoke: ",
+                            "examples": [
+                                "She works in a modern office with smoked-glass windows."
+                            ]
+                        },
+                        {
+                            "explanation": "preserved using smoke from burning wood: ",
+                            "examples": [
+                                "She had champagne and smoked salmon sandwiches at her birthday party."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

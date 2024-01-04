@@ -1,0 +1,62 @@
+{
+    "word": "slumping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nslump ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "slʌmp"
+                            ],
+                            "us": [
+                                "slʌmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of prices, values, or sales) to fall suddenly: ",
+                            "examples": [
+                                "The value of property has slumped.",
+                                "Car sales have slumped dramatically over the past year."
+                            ]
+                        },
+                        {
+                            "explanation": "to sit or fall heavily and suddenly: ",
+                            "examples": [
+                                "She slumped into the chair, exhausted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

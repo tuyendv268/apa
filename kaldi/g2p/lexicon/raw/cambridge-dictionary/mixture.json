@@ -1,0 +1,44 @@
+{
+    "word": "mixture",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪks.tʃər"
+                            ],
+                            "us": [
+                                "ˈmɪks.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance made from a combination of different substances, or any combination of different things: ",
+                            "examples": [
+                                "The mixture of flour, water, and yeast is then left in a warm place for four hours.",
+                                "Their latest CD is a mixture of new and old songs."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of mixing",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a type of medicine that has to be shaken before being used: ",
+                            "examples": [
+                                "cough mixture"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

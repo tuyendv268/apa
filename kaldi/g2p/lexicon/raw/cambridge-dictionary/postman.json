@@ -1,0 +1,35 @@
+{
+    "word": "postman",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊst.mən"
+                            ],
+                            "us": [
+                                "ˈpoʊst.mən"
+                            ],
+                            "uk_other_tense": [
+                                "pəʊst.mən"
+                            ],
+                            "us_other_tense": [
+                                "ˈpoʊst.mən"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone whose job is to deliver and collect letters, etc. that are sent by post",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

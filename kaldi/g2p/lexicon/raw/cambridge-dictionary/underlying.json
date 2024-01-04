@@ -1,0 +1,45 @@
+{
+    "word": "underlying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.dəˈlaɪ.ɪŋ"
+                            ],
+                            "us": [
+                                "ˌʌn.dɚˈlaɪ.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "real but not immediately obvious: ",
+                            "examples": [
+                                "And what might be the underlying significance of these supposedly random acts?"
+                            ]
+                        },
+                        {
+                            "explanation": "used to describe something on which something else is based: ",
+                            "examples": [
+                                "The price of the investment fell below the value of the underlying assets."
+                            ]
+                        },
+                        {
+                            "explanation": "positioned under the surface of something: ",
+                            "examples": [
+                                "The currents are affected by the shape of the underlying rocks."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

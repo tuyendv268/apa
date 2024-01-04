@@ -1,0 +1,34 @@
+{
+    "word": "petaflop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpet.ə.flɒp"
+                            ],
+                            "us": [
+                                "ˈpet̬.ə.flɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit for measuring a computer’s speed, equal to approximately one thousand million million (=1,000,000,000,000,000), or a quadrillion, operations (= processes) per second: ",
+                            "examples": [
+                                "It was the first machine to exceed 1,000 teraflops (one petaflop).",
+                                "On September 16, 2007, the project surpassed one petaFLOPS, which had never been reached before by a distributed computing network."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

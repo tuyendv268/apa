@@ -1,0 +1,41 @@
+{
+    "word": "volleyball",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɒl.i.bɔːl"
+                            ],
+                            "us": [
+                                "ˈvɑː.li.bɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a game in which two teams use their hands to hit a large ball backwards and forwards over a high net without allowing the ball to touch the ground: ",
+                            "examples": [
+                                "In physical education, we play volleyball or do exercises.",
+                                "She's upset she didn't make the volleyball team."
+                            ]
+                        },
+                        {
+                            "explanation": "the ball used in the game of volleyball: ",
+                            "examples": [
+                                "We have volleyballs - we just don't have a net!",
+                                "He took three steps, then hit the volleyball."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

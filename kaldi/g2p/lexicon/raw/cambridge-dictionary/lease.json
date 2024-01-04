@@ -1,0 +1,60 @@
+{
+    "word": "lease",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "liːs"
+                            ],
+                            "us": [
+                                "liːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a legal agreement by which money is paid in order to use land, a building, a vehicle, or a piece of equipment for an agreed period of time: ",
+                            "examples": [
+                                "The building's 60 units are currently leased to students of the university.",
+                                "It was agreed they would lease the apartment to him/lease him the apartment."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "liːs"
+                            ],
+                            "us": [
+                                "liːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a legal agreement in which you pay money in order to use a building, piece of land, vehicle, etc. for a period: ",
+                            "examples": [
+                                "He has the house on a long lease.",
+                                "The lease runs out/expires in two years' time.",
+                                "We signed a three-year lease when we moved into the house."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

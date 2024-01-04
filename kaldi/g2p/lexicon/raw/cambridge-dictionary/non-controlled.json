@@ -1,0 +1,47 @@
+{
+    "word": "non-controlled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.kənˈtrəʊld"
+                            ],
+                            "us": [
+                                "ˌnɑːn.kənˈtroʊld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "without anything having been done to stop a problem from increasing: ",
+                            "examples": [
+                                "The patients' blood pressure ranged from tightly controlled to non-controlled hypertension.",
+                                "Six people died in a non-controlled fire that started around midnight."
+                            ]
+                        },
+                        {
+                            "explanation": "If a drug is non-controlled, its use or sale is not tightly controlled by law because it is not considered to be dangerous or to cause addiction: ",
+                            "examples": [
+                                "Misrepresenting a noncontrolled substance as a controlled substance is a crime.",
+                                "Medications can be divided into two categories: controlled and non-controlled."
+                            ]
+                        },
+                        {
+                            "explanation": "not using a control (= an object or system that is not changed so that you can compare it with similar objects or systems that are intentionally changed): ",
+                            "examples": [
+                                "In this non-controlled study, subcutaneous catheters were associated with a low incidence of infection."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

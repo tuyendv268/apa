@@ -1,0 +1,59 @@
+{
+    "word": "hush",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hʌʃ"
+                            ],
+                            "us": [
+                                "hʌʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sudden, calm silence: ",
+                            "examples": [
+                                "There was a deathly hush after she made the announcement.",
+                                "A hush fell over the room.",
+                                "Let's have some hush, please! (= Be quiet, please!)"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "hʌʃ"
+                            ],
+                            "us": [
+                                "hʌʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to tell someone to be quiet: ",
+                            "examples": [
+                                "Hush! You'll wake the baby!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

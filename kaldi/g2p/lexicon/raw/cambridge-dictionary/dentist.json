@@ -1,0 +1,39 @@
+{
+    "word": "dentist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈden.tɪst"
+                            ],
+                            "us": [
+                                "ˈden.t̬ɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person whose job is treating people's teeth: ",
+                            "examples": [
+                                "You should have your teeth checked by a dentist at least twice a year."
+                            ]
+                        },
+                        {
+                            "explanation": "the place where a dentist carries out their job: ",
+                            "examples": [
+                                "I've got to go to the dentist's on Friday."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

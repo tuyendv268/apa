@@ -1,0 +1,62 @@
+{
+    "word": "powering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npower ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "paʊər"
+                            ],
+                            "us": [
+                                "ˈpaʊ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to provide a machine with energy and the ability to operate: ",
+                            "examples": [
+                                "Buses and trucks are usually powered by diesel engines.",
+                                "Electricity costs less than petrol, so powering an electric vehicle is cheaper."
+                            ]
+                        },
+                        {
+                            "explanation": "to act with great strength or in a forceful way: ",
+                            "examples": [
+                                "Halfway through, she powered into the lead and went on to win the race."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

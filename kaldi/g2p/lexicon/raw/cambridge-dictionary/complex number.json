@@ -1,0 +1,31 @@
+{
+    "word": "complex number",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒm.pleks ˈnʌm.bər"
+                            ],
+                            "us": [
+                                "ˌkɑːm.pleks ˈnʌm.bɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a value that contains both a real number and an imaginary number",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

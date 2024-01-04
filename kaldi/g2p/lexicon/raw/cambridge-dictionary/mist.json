@@ -1,0 +1,41 @@
+{
+    "word": "mist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mɪst"
+                            ],
+                            "us": [
+                                "mɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "thin fog produced by very small drops of water collecting in the air just above an area of ground or water: ",
+                            "examples": [
+                                "The mountain villages seem to be permanently shrouded in mist.",
+                                "The early-morning mist soon lifted/cleared."
+                            ]
+                        },
+                        {
+                            "explanation": "a thin layer of liquid on the surface of something that makes it difficult to see: ",
+                            "examples": [
+                                "There's always a mist on the bathroom mirror/windows when I've had a shower.",
+                                "Through a mist of tears, I watched his train pull out of the station."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

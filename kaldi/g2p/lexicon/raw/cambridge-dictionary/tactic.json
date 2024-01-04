@@ -1,0 +1,39 @@
+{
+    "word": "tactic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæk.tɪk"
+                            ],
+                            "us": [
+                                "ˈtæk.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a planned way of doing something: ",
+                            "examples": [
+                                "These bomb attacks represent a change of tactics by the terrorists."
+                            ]
+                        },
+                        {
+                            "explanation": "the organization and use of soldiers and equipment in war: ",
+                            "examples": [
+                                "We should leave it to the military men to organize the tactics."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

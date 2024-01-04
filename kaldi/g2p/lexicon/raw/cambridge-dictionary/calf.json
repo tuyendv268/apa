@@ -1,0 +1,47 @@
+{
+    "word": "calf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kɑːf"
+                            ],
+                            "us": [
+                                "kæf"
+                            ],
+                            "uk_other_tense": [
+                                "kɑːvz"
+                            ],
+                            "us_other_tense": [
+                                "kævz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a young cow, or the young of various other large mammals such as elephants and whales",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If a cow is in calf, it is pregnant: ",
+                            "examples": [
+                                "Two of the herd were in calf."
+                            ]
+                        },
+                        {
+                            "explanation": "the thick curved part at the back of the human leg between the knee and the foot: ",
+                            "examples": [
+                                "She's been unable to play since January because of a torn calf muscle."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

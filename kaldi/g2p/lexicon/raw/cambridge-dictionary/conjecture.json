@@ -1,0 +1,58 @@
+{
+    "word": "conjecture",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈdʒek.tʃər"
+                            ],
+                            "us": [
+                                "kənˈdʒek.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a guess about something based on how it seems and not on proof: ",
+                            "examples": [
+                                "There's been a lot of conjecture in the media recently about the marriage."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈdʒek.tʃər"
+                            ],
+                            "us": [
+                                "kənˈdʒek.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to guess, based on the appearance of a situation and not on proof: ",
+                            "examples": [
+                                "We'll never know exactly how she died; we can only conjecture.",
+                                "He conjectured that the company would soon be in financial trouble."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

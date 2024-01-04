@@ -1,0 +1,65 @@
+{
+    "word": "eighth",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "ordinal number",
+                        "ipa": {
+                            "uk": [
+                                "eɪtθ"
+                            ],
+                            "us": [
+                                "eɪtθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "8th written as a word: ",
+                            "examples": [
+                                "He was/came eighth in the race.",
+                                "Bob's birthday is on the eighth (of June)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "eɪtθ"
+                            ],
+                            "us": [
+                                "eɪtθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of eight equal parts of something: ",
+                            "examples": [
+                                "An eighth of 32 is 4."
+                            ]
+                        },
+                        {
+                            "explanation": "a musical note that is half as long as a crotchet: ",
+                            "examples": [
+                                "a dotted eighth",
+                                "He plays straight eighths on the snare with accents on the afterbeat."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

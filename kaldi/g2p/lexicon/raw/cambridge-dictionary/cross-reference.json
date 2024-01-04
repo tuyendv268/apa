@@ -1,0 +1,69 @@
+{
+    "word": "cross-reference",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkrɒsˈref.ər.əns"
+                            ],
+                            "us": [
+                                "ˌkrɑːsˈref.ɚ.əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a note in a book or document that tells you to look somewhere else in the book or document for more information: ",
+                            "examples": [
+                                "I have to correct the page proofs and check the cross-references.",
+                                "There are cross-references to the basic recipes at the beginning of the book.",
+                                "If cross-references from one article to another would be helpful, add them."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌkrɒsˈref.ər.əns"
+                            ],
+                            "us": [
+                                "ˌkrɑːsˈref.ɚ.əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to check one piece of information against another: ",
+                            "examples": [
+                                "By cross-referencing the responses to the statements, the test reveals a person's willingness to lie.",
+                                "The information can be cross referenced with police records, allowing researchers to draw a complete profile of a disappeared person.",
+                                "You spend a lot of time fact checking and cross referencing."
+                            ]
+                        },
+                        {
+                            "explanation": "to add a cross-reference to a book or document: ",
+                            "examples": [
+                                "Individual entries are cross-referenced to many other entries in the encyclopedia.",
+                                "Synonyms are not included in the descriptions, but are cross-referenced from the main listing.",
+                                "Cross-referencing was very difficult because the data was not tagged in any way."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

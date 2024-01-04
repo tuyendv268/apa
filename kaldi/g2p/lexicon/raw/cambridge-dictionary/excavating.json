@@ -1,0 +1,61 @@
+{
+    "word": "excavating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nexcavate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.skə.veɪt"
+                            ],
+                            "us": [
+                                "ˈek.skə.veɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove earth that is covering very old objects buried in the ground in order to discover things about the past: ",
+                            "examples": [
+                                "Ice age bones are being excavated in the caves."
+                            ]
+                        },
+                        {
+                            "explanation": "to dig a hole or channel in the ground, especially with a machine: ",
+                            "examples": [
+                                "In tin mining today, workers excavate tunnels horizontally from a vertical shaft."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

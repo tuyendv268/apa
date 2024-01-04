@@ -1,0 +1,39 @@
+{
+    "word": "petabyte",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpet.ə.baɪt"
+                            ],
+                            "us": [
+                                "ˈpet̬.ə.baɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of computer information consisting of 1,125,899,906,842,624 bytes: ",
+                            "examples": [
+                                "The computer boasts a 1.7 petabyte hard disk."
+                            ]
+                        },
+                        {
+                            "explanation": "a unit of computer information consisting of 1,000,000,000,000,000 bytes: ",
+                            "examples": [
+                                "The enormous database contains more than a petabyte of data."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

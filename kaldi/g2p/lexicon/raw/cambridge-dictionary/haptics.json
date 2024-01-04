@@ -1,0 +1,40 @@
+{
+    "word": "haptics",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæp.tɪks"
+                            ],
+                            "us": [
+                                "ˈhæp.tɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "physical feelings such as pushes or vibrations produced by a device that let you know, for example, when you have pressed or touched something on a screen: ",
+                            "examples": [
+                                "Turn off haptics to save battery.",
+                                "I really like the haptics on this phone."
+                            ]
+                        },
+                        {
+                            "explanation": "ways of communicating using touch rather than words, expressions, signs, etc.: ",
+                            "examples": [
+                                "A handshake or a pat on the back is an example of haptics."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

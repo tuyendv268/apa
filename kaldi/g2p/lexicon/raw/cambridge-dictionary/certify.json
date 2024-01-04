@@ -1,0 +1,42 @@
+{
+    "word": "certify",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɜː.tɪ.faɪ"
+                            ],
+                            "us": [
+                                "ˈsɝː.t̬ə.faɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say in a formal or official way, usually in the form of an official document, that something is true or correct: ",
+                            "examples": [
+                                "I hereby certify (that) the above information is true and accurate.",
+                                "The man was certified (as) dead on arrival at the hospital.",
+                                "The meat has been certified (as) fit for human consumption.",
+                                "The driver holds a commercial license and is certified to transport hazardous materials."
+                            ]
+                        },
+                        {
+                            "explanation": "to say officially that someone is mentally ill: ",
+                            "examples": [
+                                "As a young man, he had been certified and sent to a hospital for the mentally ill."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

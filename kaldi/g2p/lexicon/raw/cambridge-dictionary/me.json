@@ -1,0 +1,90 @@
+{
+    "word": "me",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "miː",
+                                "mi"
+                            ],
+                            "us": [
+                                "miː",
+                                "mi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used, usually as the object of a verb or preposition, to refer to the person speaking or writing: ",
+                            "examples": [
+                                "Is there one for me?",
+                                "She gave me some money.",
+                                "Could you pass me that book?",
+                                "It wasn't me who offered to go, it was Charlotte."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "miː"
+                            ],
+                            "us": [
+                                "miː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the musical note \nmi ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌemˈiː"
+                            ],
+                            "us": [
+                                "ˌemˈiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for myalgic encephalomyelitis: an illness, sometimes lasting for several years, in which a person's muscles and joints (= places where two bones are connected) hurt and they are generally very tired",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "written abbreviation for the US state of Maine: used in addresses",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

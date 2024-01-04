@@ -1,0 +1,57 @@
+{
+    "word": "debited",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndebit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeb.ɪt"
+                            ],
+                            "us": [
+                                "ˈdeb.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take money out of an account or keep a record of this: ",
+                            "examples": [
+                                "The bank debited my account.",
+                                "The bank debited the money from my account.",
+                                "The unauthorized borrowing fee will be debited to your account."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

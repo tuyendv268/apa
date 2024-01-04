@@ -1,0 +1,61 @@
+{
+    "word": "paging",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npage ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "peɪdʒ"
+                            ],
+                            "us": [
+                                "peɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to call a person using a loudspeaker (= an electric device for making sounds louder) in a public place: ",
+                            "examples": [
+                                "He was paged at the airport and told to return home immediately."
+                            ]
+                        },
+                        {
+                            "explanation": "to send a message to someone's pager (= small electronic device that receives signals): ",
+                            "examples": [
+                                "Have you tried to page him?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

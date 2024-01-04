@@ -1,0 +1,39 @@
+{
+    "word": "crescendo",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "krəˈʃen.dəʊ"
+                            ],
+                            "us": [
+                                "krəˈʃen.doʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a gradual increase in loudness, or the moment when a noise or piece of music is at its loudest: ",
+                            "examples": [
+                                "The music reached a crescendo."
+                            ]
+                        },
+                        {
+                            "explanation": "an increase in excitement, danger, or action: ",
+                            "examples": [
+                                "There has been a rising crescendo of violence in the region."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

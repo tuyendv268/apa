@@ -1,0 +1,59 @@
+{
+    "word": "spellcheck",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈspelˌtʃek"
+                            ],
+                            "us": [
+                                "ˈspelˌtʃek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use a computer program that makes certain that the words in a document have the correct letters in the correct order: ",
+                            "examples": [
+                                "I didn't have time to spellcheck the letter.",
+                                "Make sure you spellcheck your essay before you hand it in."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspelˌtʃek"
+                            ],
+                            "us": [
+                                "ˈspelˌtʃek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a check in which a computer program makes certain that the words in a document have the correct letters in the correct order, or the computer program that does this: ",
+                            "examples": [
+                                "It's always a good idea to run a spellcheck once you've finished writing.",
+                                "Could his computer spellcheck possibly have substituted Venus for Uranus?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

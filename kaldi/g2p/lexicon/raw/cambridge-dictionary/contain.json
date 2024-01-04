@@ -1,0 +1,50 @@
+{
+    "word": "contain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈteɪn"
+                            ],
+                            "us": [
+                                "kənˈteɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to have something inside or include something as a part: ",
+                            "examples": [
+                                "How much liquid do you think this bottle contains?",
+                                "I lost a file containing a lot of important documents.",
+                                "Try to avoid foods which contain a lot of fat.",
+                                "The allegations contained in this report are very serious."
+                            ]
+                        },
+                        {
+                            "explanation": "to keep something harmful within limits and not allow it to spread: ",
+                            "examples": [
+                                "Farms in the area have been closed off in an attempt to contain the disease.",
+                                "More police were sent to help contain the violence."
+                            ]
+                        },
+                        {
+                            "explanation": "to control or hide a strong emotion, such as excitement or anger: ",
+                            "examples": [
+                                "She could no longer contain her anger and started yelling at him.",
+                                "Contain yourself! It's not that exciting."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

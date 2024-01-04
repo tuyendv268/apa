@@ -1,0 +1,41 @@
+{
+    "word": "roommate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈruːm.meɪt",
+                                "ˈrʊm.meɪt"
+                            ],
+                            "us": [
+                                "ˈruːm.meɪt",
+                                "ˈrʊm.meɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who you share a room with for a period of time: ",
+                            "examples": [
+                                "Jean was my roommate during our first year at college."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who you share an apartment or house with: ",
+                            "examples": [
+                                "Ethan's moving out next month, so we're looking for another roommate to share our apartment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

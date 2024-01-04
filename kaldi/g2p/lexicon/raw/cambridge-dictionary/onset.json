@@ -1,0 +1,66 @@
+{
+    "word": "onset",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒn.set"
+                            ],
+                            "us": [
+                                "ˈɑːn.set"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the moment at which something begins, and especially something uncomfortable or unpleasant: ",
+                            "examples": [
+                                "the onset of winter"
+                            ]
+                        },
+                        {
+                            "explanation": "the first part of a syllable",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                "-ˈɒn.set"
+                            ],
+                            "us": [
+                                "-ˈɑːn.set"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of an illness or medical condition) starting at the stated time or in the stated way: ",
+                            "examples": [
+                                "early-onset dementia",
+                                "sudden-onset hearing loss"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

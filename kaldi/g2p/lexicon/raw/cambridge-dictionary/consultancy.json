@@ -1,0 +1,39 @@
+{
+    "word": "consultancy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈsʌl.tən.si"
+                            ],
+                            "us": [
+                                "kənˈsʌl.tən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a company that gives advice on a particular subject: ",
+                            "examples": [
+                                "a management/financial/recruitment consultancy"
+                            ]
+                        },
+                        {
+                            "explanation": "the activity of giving advice on a particular subject: ",
+                            "examples": [
+                                "They pay me for IT consultancy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

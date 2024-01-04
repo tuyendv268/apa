@@ -1,0 +1,34 @@
+{
+    "word": "autoreceptor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.təʊ.rɪˌsep.tər"
+                            ],
+                            "us": [
+                                "ˈɑː.t̬oʊ.rɪˌsep.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a receptor (= a nerve ending that reacts to a change in the body by sending a message to the central nervous system) that reacts to a substance produced by the same cell that the receptor is part of: ",
+                            "examples": [
+                                "The H receptor is a presynaptic autoreceptor.",
+                                "Aripiprazole is an antipsychotic drug with high affinity for the dopamine autoreceptor. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

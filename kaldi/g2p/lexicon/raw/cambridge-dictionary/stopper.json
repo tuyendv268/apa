@@ -1,0 +1,61 @@
+{
+    "word": "stopper",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstɒp.ər"
+                            ],
+                            "us": [
+                                "ˈstɑː.pɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an object that fits into the top of a bottle or other container",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -stɒp.ər"
+                            ],
+                            "us": [
+                                " -stɑː.pɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that stops the thing mentioned: ",
+                            "examples": [
+                                "a conversation stopper",
+                                "a crowd-stopper",
+                                "a heart-stopper"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

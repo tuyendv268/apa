@@ -1,0 +1,61 @@
+{
+    "word": "speaking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspiː.kɪŋ"
+                            ],
+                            "us": [
+                                "ˈspiː.kɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act or skill of giving a speech at a public event: ",
+                            "examples": [
+                                "She looks on public speaking as an opportunity to share information."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -spiː.kɪŋ"
+                            ],
+                            "us": [
+                                " -spiː.kɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "using the stated language: ",
+                            "examples": [
+                                "a Spanish-speaking country"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "order of magnitude",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɔː.dər əv ˈmæɡ.nɪ.tjuːd"
+                            ],
+                            "us": [
+                                "ˌɔːr.dɚ əv ˈmæɡ.nɪ.tuːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the approximate size of something, especially a number: ",
+                            "examples": [
+                                "The country's debt this year will be of the same order of magnitude as it was last year."
+                            ]
+                        },
+                        {
+                            "explanation": "a level in a system used for measuring something in which each level is ten times larger than the one before: ",
+                            "examples": [
+                                "These processor speeds have recently increased by two orders of magnitude (= by a hundred times)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

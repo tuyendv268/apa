@@ -1,0 +1,61 @@
+{
+    "word": "courier",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkʊr.i.ər"
+                            ],
+                            "us": [
+                                "ˈkʊr.i.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person or company that takes messages, letters, or parcels from one person or place to another: ",
+                            "examples": [
+                                "I want to have this package delivered by motorcycle courier."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who takes care of a group of people on holiday, especially by giving them advice on what to do, what to see, etc.",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkʊr.i.ər"
+                            ],
+                            "us": [
+                                "ˈkʊr.i.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send something using a courier: ",
+                            "examples": [
+                                "I'll courier the relevant documents to you this afternoon."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

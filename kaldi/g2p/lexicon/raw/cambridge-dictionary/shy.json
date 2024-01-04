@@ -1,0 +1,102 @@
+{
+    "word": "shy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʃaɪ"
+                            ],
+                            "us": [
+                                "ʃaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "nervous and uncomfortable with other people: ",
+                            "examples": [
+                                "He was too shy to ask her to dance with him.",
+                                "She gave a shy smile.",
+                                "Children are often shy of/with people they don't know.",
+                                "The deer were shy (= unwilling to be near people) and hid behind some trees."
+                            ]
+                        },
+                        {
+                            "explanation": "less than: ",
+                            "examples": [
+                                "We're only $100 shy of the total amount."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʃaɪ"
+                            ],
+                            "us": [
+                                "ʃaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a horse) to suddenly move sideways or backwards, especially because of fear: ",
+                            "examples": [
+                                "The horse shied at the fence.",
+                                "There's a lot of traffic on the road - I'm sure my horse is going to shy."
+                            ]
+                        },
+                        {
+                            "explanation": "to throw something suddenly, often in a sideways movement: ",
+                            "examples": [
+                                "Two small boys were shying stones at a tree."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -ʃaɪ"
+                            ],
+                            "us": [
+                                " -ʃaɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "avoiding or not liking the thing mentioned: ",
+                            "examples": [
+                                "camera-shy",
+                                "work-shy"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

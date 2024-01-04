@@ -1,0 +1,56 @@
+{
+    "word": "accenting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \naccent ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əkˈsent"
+                            ],
+                            "us": [
+                                "ˈæk.sent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to emphasize something: ",
+                            "examples": [
+                                "In any advertising campaign, you must accent the areas where your product is better than the competition.",
+                                "Accent the first note of every bar."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "soared",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsoar ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sɔːr"
+                            ],
+                            "us": [
+                                "sɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to rise very quickly to a high level: ",
+                            "examples": [
+                                "All night long fireworks soared into the sky.",
+                                "Temperatures will soar over the weekend, say the weather forecasters.",
+                                "House prices soared a further 20 percent."
+                            ]
+                        },
+                        {
+                            "explanation": "to reach a great height: ",
+                            "examples": [
+                                "The highest peak in the range soars 15,771 feet into the sky."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a bird or aircraft) to rise high in the air while flying without moving the wings or using power: ",
+                            "examples": [
+                                "She watched the gliders soaring effortlessly above her."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

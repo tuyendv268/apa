@@ -1,0 +1,34 @@
+{
+    "word": "callable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɔː.lə.bəl"
+                            ],
+                            "us": [
+                                "ˈkɑː.lə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a bond (= a document showing that money has been borrowed that will be paid back at a particular interest rate) is callable, the organization that lends the money can ask for it to be paid back before the end of a certain time: ",
+                            "examples": [
+                                "The bonds were not callable, meaning the organization could not refinance when interest rates dropped.",
+                                "Callable bonds can be redeemed before maturity at the issuer's discretion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

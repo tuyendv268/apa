@@ -1,0 +1,33 @@
+{
+    "word": "uncapitalized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌnˈkæp.ɪ.təl.aɪzd"
+                            ],
+                            "us": [
+                                "ˌʌnˈkæp.ə.t̬əl.aɪzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An uncapitalized word is not written with capital letters or with the first letter as a capital letter: ",
+                            "examples": [
+                                "People's names are often uncapitalised in logins and email addresses."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "word": "upgrade",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʌpˈɡreɪd"
+                            ],
+                            "us": [
+                                "ʌpˈɡreɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to improve the quality or usefulness of something, or change it for something newer or of a better standard: ",
+                            "examples": [
+                                "It's very simple to upgrade the indexing software.",
+                                "Consider upgrading your buildings insurance policy every five to 10 years.",
+                                "They have not yet upgraded to fully digitial technology."
+                            ]
+                        },
+                        {
+                            "explanation": "to give someone something of a better standard, or newer, for example a better seat on a plane or a better room in a hotel: ",
+                            "examples": [
+                                "If your reserved car isn't available, most rental car companies will upgrade you to the next size car at no additional charge.",
+                                "We were upgraded and flew business class."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʌp.ɡreɪd"
+                            ],
+                            "us": [
+                                "ˈʌp.ɡreɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of software or equipment that improves the quality or usefulness of a computer or machine: ",
+                            "examples": [
+                                "a hardware upgrade",
+                                "The upgrade to version 5.0 costs $395."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when someone is given something of a better standard, or newer, for example a better seat on a plane, a better room in a hotel, or a new phone: ",
+                            "examples": [
+                                "I got an upgrade to first class on the plane on the way back.",
+                                "About six months ago I got an upgrade on my mobile phone and my new model has an excellent camera."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

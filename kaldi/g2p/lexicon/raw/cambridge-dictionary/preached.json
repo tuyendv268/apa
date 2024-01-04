@@ -1,0 +1,69 @@
+{
+    "word": "preached",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npreach ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "priːtʃ"
+                            ],
+                            "us": [
+                                "priːtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(especially of a priest or minister in a church) to give a religious speech: ",
+                            "examples": [
+                                "Father Martin preached to the assembled mourners.",
+                                "During the sermon, he preached about the need for forgiveness."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to persuade other people to believe in a particular belief or follow a particular way of life: ",
+                            "examples": [
+                                "They preach the abolition of established systems but propose nothing to replace them."
+                            ]
+                        },
+                        {
+                            "explanation": "to give unwanted advice, especially about moral matters, in a boring way: ",
+                            "examples": [
+                                "He's such a pain - he's always preaching about the virtues of working hard and getting up early.",
+                                "My mother's always preaching at/to me about keeping my room tidy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

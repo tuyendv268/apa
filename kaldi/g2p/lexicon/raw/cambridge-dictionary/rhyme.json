@@ -1,0 +1,80 @@
+{
+    "word": "rhyme",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "raɪm"
+                            ],
+                            "us": [
+                                "raɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Words that rhyme have the same last sound: ",
+                            "examples": [
+                                "\"Blue\" and \"flew\" rhyme.",
+                                "Can you think of a word that rhymes with \"orange\"?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "raɪm"
+                            ],
+                            "us": [
+                                "raɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word that has the same last sound as another word: ",
+                            "examples": [
+                                "Can you think of a rhyme for \"orange\"?"
+                            ]
+                        },
+                        {
+                            "explanation": "a short poem, especially for young children: ",
+                            "examples": [
+                                "a book of rhymes and songs"
+                            ]
+                        },
+                        {
+                            "explanation": "the use of rhymes in poetry: ",
+                            "examples": [
+                                "This poem is her first attempt at rhyme."
+                            ]
+                        },
+                        {
+                            "explanation": "written or spoken as a poem so that the word at the end of a line has the same last sound as a word at the end of another line: ",
+                            "examples": [
+                                "A lot of modern poetry is not written in rhyme."
+                            ]
+                        },
+                        {
+                            "explanation": "the vowel in the middle of a syllable, and any sounds after it in the syllable",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

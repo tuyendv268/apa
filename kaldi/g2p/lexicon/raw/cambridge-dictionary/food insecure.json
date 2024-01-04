@@ -1,0 +1,43 @@
+{
+    "word": "food insecure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌfuːd ɪn.sɪˈkjʊər"
+                            ],
+                            "us": [
+                                "ˌfuːd ɪn.səˈkjʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a person, family, etc.) not always able to get enough food: ",
+                            "examples": [
+                                "The number of people considered food insecure is increasing.",
+                                "Food-insecure households somtimes have difficulty providing enough food for all their members, due to a lack of resources. ",
+                                "In this state, one out of every 12 people is food-insecure."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a country, region) not always able to produce or obtain enough food to feed its population: ",
+                            "examples": [
+                                "These countries have been identified as the world's most food insecure.",
+                                "The farmers are trying to export surplus crops to food insecure neighbouring countries.",
+                                "An analysis of climate risks for crops in 12 food-insecure regions was conducted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

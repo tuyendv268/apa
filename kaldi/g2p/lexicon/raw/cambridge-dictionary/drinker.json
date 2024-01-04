@@ -1,0 +1,40 @@
+{
+    "word": "drinker",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdrɪŋ.kər"
+                            ],
+                            "us": [
+                                "ˈdrɪŋ.kɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who drinks alcohol: ",
+                            "examples": [
+                                "He's a heavy/light drinker (= drinks/does not drink a lot of alcohol).",
+                                "I'm not much of a drinker (= I don't drink much alcohol)."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who drinks a particular drink: ",
+                            "examples": [
+                                "I'm a tea drinker mostly - I don't like coffee."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

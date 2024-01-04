@@ -1,0 +1,63 @@
+{
+    "word": "hauled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nhaul ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "hɔːl"
+                            ],
+                            "us": [
+                                "hɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pull something heavy slowly and with difficulty: ",
+                            "examples": [
+                                "They hauled the boat out of the water.",
+                                "She hauled herself up into the tree."
+                            ]
+                        },
+                        {
+                            "explanation": "to take something or someone somewhere, especially by force: ",
+                            "examples": [
+                                "FBI agents hauled away boxes of records.",
+                                "The police hauled him off to jail in front of his whole family."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

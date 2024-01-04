@@ -1,0 +1,61 @@
+{
+    "word": "median",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmiː.di.ən"
+                            ],
+                            "us": [
+                                "ˈmiː.di.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "The median value is the middle one in a set of values arranged in order of size: ",
+                            "examples": [
+                                "Median household income fell last year."
+                            ]
+                        },
+                        {
+                            "explanation": "near the centre of the body, rather than the sides: ",
+                            "examples": [
+                                "the median nerve"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmiː.di.ən"
+                            ],
+                            "us": [
+                                "ˈmiː.di.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the value that is the middle one in a set of values arranged in order of size",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

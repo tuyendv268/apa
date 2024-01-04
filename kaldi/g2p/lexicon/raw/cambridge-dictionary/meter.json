@@ -1,0 +1,69 @@
+{
+    "word": "meter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmiː.tər"
+                            ],
+                            "us": [
+                                "ˈmiː.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device that measures the amount of something that is used: ",
+                            "examples": [
+                                "The electricity meter is in the basement.",
+                                "You'll need some change for the parking meter.",
+                                "A man came to read the meter (= see how much gas had been used)."
+                            ]
+                        },
+                        {
+                            "explanation": "the device in a taxi that measures the distance or the amount of time spent travelling and shows how much you have to pay: ",
+                            "examples": [
+                                "The cab driver left the meter running while I helped Mum to her front door."
+                            ]
+                        },
+                        {
+                            "explanation": "US spelling of\nmetre ",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmiː.tər"
+                            ],
+                            "us": [
+                                "ˈmiː.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use meters to measure how much gas, electricity, or water is used: ",
+                            "examples": [
+                                "Britain's water companies are planning to meter water consumption."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

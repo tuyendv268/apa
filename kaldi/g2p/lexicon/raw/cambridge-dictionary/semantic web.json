@@ -1,0 +1,34 @@
+{
+    "word": "semantic web",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɪˌmæn.tɪk ˈweb"
+                            ],
+                            "us": [
+                                "səˌmæn.t̬ɪk ˈweb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system being developed in which the World Wide Web is used to connect data (= information in an electronic form that can be stored and used by a computer) rather than documents: ",
+                            "examples": [
+                                "Academics are trying to build what some call the Semantic Web.",
+                                "Semantic web technology lets everyone link up databases so their customers and partners can integrate the information."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

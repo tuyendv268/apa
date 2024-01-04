@@ -1,0 +1,40 @@
+{
+    "word": "prosodic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "prəˈsɒd.ɪk"
+                            ],
+                            "us": [
+                                "prəˈsɑː.dɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the pattern of rhythm and sound in poetry: ",
+                            "examples": [
+                                "the prosodic structure of the poem"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the rhythm and intonation (= the way a speaker's voice rises and falls) of language: ",
+                            "examples": [
+                                "Prosodic features play an important role in forming the stress patterns within words and phrases.",
+                                "prosodic effects like pitch and intonation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

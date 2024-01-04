@@ -1,0 +1,34 @@
+{
+    "word": "sheep",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʃiːp"
+                            ],
+                            "us": [
+                                "ʃiːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a farm animal with thick wool that eats grass and is kept for its wool, skin, and meat: ",
+                            "examples": [
+                                "The farmer has a large flock (= group) of long-haired sheep.",
+                                "We heard sheep bleating/baaing in the field."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

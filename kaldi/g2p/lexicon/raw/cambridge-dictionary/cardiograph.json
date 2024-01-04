@@ -1,0 +1,36 @@
+{
+    "word": "cardiograph",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɑː.di.ə.ɡrɑːf",
+                                "ˈkɑː.di.ə.ɡræf"
+                            ],
+                            "us": [
+                                "ˈkɑːr.di.ə.ɡræf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a machine for recording the beating of the heart",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a test done using a cardiograph ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

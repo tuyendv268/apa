@@ -1,0 +1,33 @@
+{
+    "word": "data science",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeɪ.tə ˌsaɪ.əns"
+                            ],
+                            "us": [
+                                "ˈdeɪ.t̬ə ˌsaɪ.əns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use of scientific methods to obtain useful information from computer data, especially large amounts of data: ",
+                            "examples": [
+                                "Political parties have started showing an interest in data science."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

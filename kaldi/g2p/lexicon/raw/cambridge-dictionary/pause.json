@@ -1,0 +1,84 @@
+{
+    "word": "pause",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɔːz"
+                            ],
+                            "us": [
+                                "pɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short period in which something such as a sound or an activity is stopped before starting again: ",
+                            "examples": [
+                                "There will be a brief pause in the proceedings while the piano is moved into place.",
+                                "After a long, awkward pause, someone finally asked a question.",
+                                "She spoke for three quarters of an hour without so much as a pause.",
+                                "There followed a pregnant (= filled with meaning) pause in which neither of them knew what to say."
+                            ]
+                        },
+                        {
+                            "explanation": "a button or control that allows you to stop a recording for a short time: ",
+                            "examples": [
+                                "I pressed pause/the pause button so I could go and make a cup of tea."
+                            ]
+                        },
+                        {
+                            "explanation": "a period of silence between musical notes, or a symbol that represents this",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a symbol in music meaning that a note or rest should be held for longer than normal",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pɔːz"
+                            ],
+                            "us": [
+                                "pɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stop doing something for a short time, or to make something stop for a short time: ",
+                            "examples": [
+                                "He paused and thought for a moment.",
+                                "She paused to catch her breath, and then kept on jogging.",
+                                "A judge has paused the litigation to give both sides a chance to settle their differences."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a recording stop for a short time by pressing a button or control: ",
+                            "examples": [
+                                "Can you pause the movie there, please?",
+                                "It is now possible to pause and rewind live television.",
+                                "She paused at key moments in the scene."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

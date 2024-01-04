@@ -1,0 +1,33 @@
+{
+    "word": "prepend",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈpend"
+                            ],
+                            "us": [
+                                "prɪˈpend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add something to the beginning of something else, especially a piece of data (= information) to the beginning of a computer instruction: ",
+                            "examples": [
+                                "If the remote machine is Windows based, prepend the address with smb://."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

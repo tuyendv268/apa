@@ -1,0 +1,41 @@
+{
+    "word": "robotics",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rəʊˈbɒt.ɪks"
+                            ],
+                            "us": [
+                                "roʊˈbɑː.t̬ɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the science of making and using robots (= machines controlled by computers that are used to perform jobs automatically): ",
+                            "examples": [
+                                "The field of robotics has seen many exciting developments in the last decade.",
+                                "Strangely, for the director of a robotics department, he doesn't seem to know what a robot is."
+                            ]
+                        },
+                        {
+                            "explanation": "robots (= machines controlled by computers that are used to perform jobs automatically): ",
+                            "examples": [
+                                "The plant constructs 800,000 skis per year, using computerized robotics.",
+                                "They had to come up with these really sporty robotics to get the crew member up close to the solar array."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

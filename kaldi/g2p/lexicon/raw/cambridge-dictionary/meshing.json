@@ -1,0 +1,62 @@
+{
+    "word": "meshing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmesh ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "meʃ"
+                            ],
+                            "us": [
+                                "meʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When different things or people mesh, they suit each other or work well together: ",
+                            "examples": [
+                                "The members of the team just didn't mesh.",
+                                "I need a job that meshes with my family life, as I have two little kids."
+                            ]
+                        },
+                        {
+                            "explanation": "to join together in the correct position: ",
+                            "examples": [
+                                "The car's gears aren't meshing correctly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

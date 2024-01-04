@@ -1,0 +1,35 @@
+{
+    "word": "shirt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʃɜːt"
+                            ],
+                            "us": [
+                                "ʃɝːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of clothing worn, especially by men, on the upper part of the body, made of light cloth like cotton and usually having a collar and buttons at the front: ",
+                            "examples": [
+                                "a striped/white shirt",
+                                "a short-/long-sleeved shirt",
+                                "You've spilled something down your shirt front."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

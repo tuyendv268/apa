@@ -1,0 +1,39 @@
+{
+    "word": "aisle",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "aɪl"
+                            ],
+                            "us": [
+                                "aɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, narrow space between rows of seats in an aircraft, cinema, or church: ",
+                            "examples": [
+                                "Would you like an aisle seat or would you prefer to be by the window?"
+                            ]
+                        },
+                        {
+                            "explanation": "a long, narrow space between the rows of shelves in a large shop: ",
+                            "examples": [
+                                "You'll find the shampoo and the soap in the fourth aisle from the entrance."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

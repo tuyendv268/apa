@@ -1,0 +1,41 @@
+{
+    "word": "integrable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tɪ.ɡrə.bəl"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ə.ɡrə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a function or equation is integrable, it is possible to calculate its integral: ",
+                            "examples": [
+                                "Each of the distributions is integrable. ",
+                                "The course was concerned with solving integrable differential equations."
+                            ]
+                        },
+                        {
+                            "explanation": "able to be combined with other things in an effective way: ",
+                            "examples": [
+                                "The software package is highly customizable and integrable with many other products. ",
+                                "We have managed to develop a fast, practical, and highly integrable device."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

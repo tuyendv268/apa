@@ -1,0 +1,64 @@
+{
+    "word": "joked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \njoke ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dʒəʊk"
+                            ],
+                            "us": [
+                                "dʒoʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say funny things: ",
+                            "examples": [
+                                "They joked and laughed as they looked at the photos.",
+                                "It's more serious than you think, so please don't joke about it.",
+                                "\"I didn't expect to be out so soon\", he joked, after spending nine months in hospital."
+                            ]
+                        },
+                        {
+                            "explanation": "If you think that someone is joking, you think that they do not really mean what they say: ",
+                            "examples": [
+                                "I thought he was joking when he said Helen was pregnant, but she really is.",
+                                "She wasn't joking (= she was serious) when she said she was going to move out of the house."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

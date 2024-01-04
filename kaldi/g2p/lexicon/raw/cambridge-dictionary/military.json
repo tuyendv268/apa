@@ -1,0 +1,65 @@
+{
+    "word": "military",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪl.ɪ.tər.i"
+                            ],
+                            "us": [
+                                "ˈmɪl.ə.ter.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to or belonging to the armed forces: ",
+                            "examples": [
+                                "foreign military intervention",
+                                "military targets/forces",
+                                "military uniform"
+                            ]
+                        },
+                        {
+                            "explanation": "typical of the armed forces: ",
+                            "examples": [
+                                "military precision"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɪl.ɪ.tər.i"
+                            ],
+                            "us": [
+                                "ˈmɪl.ə.ter.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the armed forces: ",
+                            "examples": [
+                                "The military has opposed any cuts in defence spending."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

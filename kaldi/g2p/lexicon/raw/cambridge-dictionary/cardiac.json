@@ -1,0 +1,60 @@
+{
+    "word": "cardiac",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɑː.di.æk"
+                            ],
+                            "us": [
+                                "ˈkɑːr.di.æk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of the heart or heart disease: ",
+                            "examples": [
+                                "The patient had a history of cardiac disease.",
+                                "cardiac muscle",
+                                "cardiac function"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɑː.di.æk"
+                            ],
+                            "us": [
+                                "ˈkɑːr.di.æk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a cardiac arrest (= a heart attack): ",
+                            "examples": [
+                                "I was massively overweight and in danger of dying from a cardiac.",
+                                "One of these days someone's going to have a cardiac and the ambulance won't be able to get to them."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

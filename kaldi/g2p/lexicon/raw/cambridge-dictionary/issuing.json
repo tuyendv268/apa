@@ -1,0 +1,58 @@
+{
+    "word": "issuing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nissue ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪʃ.uː",
+                                "ˈɪs.juː"
+                            ],
+                            "us": [
+                                "ˈɪʃ.uː",
+                                "ˈɪs.juː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to produce or provide something official: ",
+                            "examples": [
+                                "The office will be issuing permits on Tuesday and Thursday mornings.",
+                                "The school issued a statement about its plans to the press./The school issued the press with a statement about its plans."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

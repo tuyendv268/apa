@@ -1,0 +1,40 @@
+{
+    "word": "federation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfed.ərˈeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌfed.əˈreɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of organizations, countries, regions, etc. that have joined together to form a larger organization or government: ",
+                            "examples": [
+                                "the Russian federation"
+                            ]
+                        },
+                        {
+                            "explanation": "the act of forming a federation: ",
+                            "examples": [
+                                "The federation of the six original Australian states took place in 1901.",
+                                "He's against European federation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

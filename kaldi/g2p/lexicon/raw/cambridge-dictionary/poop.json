@@ -1,0 +1,67 @@
+{
+    "word": "poop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "puːp"
+                            ],
+                            "us": [
+                                "puːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "solid waste from the body",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "information: ",
+                            "examples": [
+                                "Did you get the poop on all the candidates?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "puːp"
+                            ],
+                            "us": [
+                                "puːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be very tired: ",
+                            "examples": [
+                                "I'm pooped! I must get some sleep."
+                            ]
+                        },
+                        {
+                            "explanation": "to pass solid waste from the body: ",
+                            "examples": [
+                                "Your puppy's just pooped right outside my front door."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

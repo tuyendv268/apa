@@ -1,0 +1,34 @@
+{
+    "word": "nondecreasing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.dɪˈkriː.sɪŋ"
+                            ],
+                            "us": [
+                                "ˌnɑːn.dɪˈkriː.sɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "In a nondecreasing list of numbers or amounts, each number or amount is not less than the previous one: ",
+                            "examples": [
+                                "Let us consider a nondecreasing function f.",
+                                "Throughout this article the term \"increasing\" is used instead of \"non-decreasing\" and \"decreasing\" instead of \"non-increasing\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

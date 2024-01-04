@@ -1,0 +1,34 @@
+{
+    "word": "resynchronization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌriː.sɪŋ.krə.naɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌriː.sɪŋ.krə.nəˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of making two things reach the same or a related stage at the same time again, or the act of two things reaching the same or a related stage at the same time again: ",
+                            "examples": [
+                                "This helps maintain resynchronization by forcing the pacemaker to pace the left ventricle whenever there is activity in the right ventricle.",
+                                "Periodic resynchronisation of a bitstream can be achieved by the insertion of explicit synchronization code words."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

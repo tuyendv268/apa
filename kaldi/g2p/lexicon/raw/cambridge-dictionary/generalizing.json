@@ -1,0 +1,57 @@
+{
+    "word": "generalizing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ngeneralize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒen.ər.əl.aɪz"
+                            ],
+                            "us": [
+                                "ˈdʒen.ər.əl.aɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a general statement that something is true in all cases, based on what is true in some cases: ",
+                            "examples": [
+                                "You can't generalize about a continent as varied as Europe.",
+                                "It's difficult to generalize, but most babies can say a few words by the age of 12 months. ",
+                                "Dr Meyer warned against generalizing the results to populations not included in the study. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

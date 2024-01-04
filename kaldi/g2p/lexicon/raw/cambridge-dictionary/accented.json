@@ -1,0 +1,34 @@
+{
+    "word": "accented",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əkˈsen.tɪd"
+                            ],
+                            "us": [
+                                "ˈæk.sen.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "influenced by the pronunciation used in a different language: ",
+                            "examples": [
+                                "He spoke in heavily accented French.",
+                                "Her lightly accented English is almost perfect."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

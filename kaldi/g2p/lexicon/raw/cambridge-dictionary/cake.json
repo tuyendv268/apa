@@ -1,0 +1,70 @@
+{
+    "word": "cake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "keɪk"
+                            ],
+                            "us": [
+                                "keɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sweet food made with a mixture of flour, eggs, fat, and sugar: ",
+                            "examples": [
+                                "Would you like a piece of/a slice of/some cake?",
+                                "chocolate/sponge cake",
+                                "a birthday/Christmas cake",
+                                "cream cakes",
+                                "He made/baked a delicious cake."
+                            ]
+                        },
+                        {
+                            "explanation": "a small flat object made by pressing together a soft substance: ",
+                            "examples": [
+                                "fish/potato cakes",
+                                "a cake of soap"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "keɪk"
+                            ],
+                            "us": [
+                                "keɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cover something or someone thickly with a substance that then dries out: ",
+                            "examples": [
+                                "The men were caked in layers of filth and grime.",
+                                "boots caked with mud",
+                                "She said that if your intestines are caked up with stuff, most of what you eat is not going to get through."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "autodial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.təʊ.daɪ.əl"
+                            ],
+                            "us": [
+                                "ˈɑː.t̬oʊ.daɪ.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "US usually"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to automatically call a telephone number or make a connection with a computer: ",
+                            "examples": [
+                                "The program can autodial emergency instructions to phone numbers in areas affected by terrorist attacks.",
+                                "Constituents were autodialled by a computer.",
+                                "When the user makes an internet request it triggers the proxy to autodial and establish a connection.",
+                                "We may contact you at the mobile phone number that you provide to us by way of direct dial calls or autodialled calls."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.təʊ.daɪ.əl"
+                            ],
+                            "us": [
+                                "ˈɑː.t̬oʊ.daɪ.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a feature of a telephone or computer that makes it able to automatically call a number or connect with a computer: ",
+                            "examples": [
+                                "Additional features include autodial and onscreen help commands. ",
+                                "an autodial service"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

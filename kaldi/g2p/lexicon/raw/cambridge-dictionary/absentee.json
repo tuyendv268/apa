@@ -1,0 +1,57 @@
+{
+    "word": "absentee",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæb.sənˈtiː"
+                            ],
+                            "us": [
+                                "ˌæb.sənˈtiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who is not at school or work when they should be: ",
+                            "examples": [
+                                "There are several absentees from school this week, because a lot of people have flu."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌæb.sənˈtiː"
+                            ],
+                            "us": [
+                                "ˌæb.sənˈtiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send your vote by post or by using the internet when you cannot be present to vote at an election: ",
+                            "examples": [
+                                "We are working to make it easier for military members to vote absentee when they are deployed overseas. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

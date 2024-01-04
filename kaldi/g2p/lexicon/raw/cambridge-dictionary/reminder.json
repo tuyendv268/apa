@@ -1,0 +1,40 @@
+{
+    "word": "reminder",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈmaɪn.dər"
+                            ],
+                            "us": [
+                                "rɪˈmaɪn.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a written or spoken message that reminds someone to do something: ",
+                            "examples": [
+                                "If he forgot to pay his rent, his landlady would send him a reminder.",
+                                "Mum sent me off with a final reminder to be back before 11 p.m."
+                            ]
+                        },
+                        {
+                            "explanation": "a person or thing that makes you remember a particular person, event, or situation: ",
+                            "examples": [
+                                "Patricia's story is a reminder of how vulnerable women can be in what is still essentially a man's world."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

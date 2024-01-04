@@ -1,0 +1,70 @@
+{
+    "word": "update",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʌpˈdeɪt"
+                            ],
+                            "us": [
+                                "ʌpˈdeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something more modern or suitable for use now by adding new information or changing its design: ",
+                            "examples": [
+                                "an updated version of the software"
+                            ]
+                        },
+                        {
+                            "explanation": "to give someone the most recent information: ",
+                            "examples": [
+                                "We'll update you on this news story throughout the day."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʌp.deɪt"
+                            ],
+                            "us": [
+                                "ˈʌp.deɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an act of updating something or someone with new information: ",
+                            "examples": [
+                                "Jo's just doing an update on the mailing list.",
+                                "I'll need regular updates on your progress."
+                            ]
+                        },
+                        {
+                            "explanation": "a new form of something that existed at an earlier time: ",
+                            "examples": [
+                                "It's an update of an old 60s movie."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

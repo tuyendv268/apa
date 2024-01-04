@@ -1,0 +1,39 @@
+{
+    "word": "pond",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɒnd"
+                            ],
+                            "us": [
+                                "pɑːnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area of water smaller than a lake, often artificially made: ",
+                            "examples": [
+                                "a duck pond"
+                            ]
+                        },
+                        {
+                            "explanation": "a humorous way of referring to the Atlantic Ocean, when it is thought of as separating the UK or Europe and the US: ",
+                            "examples": [
+                                "It's good to get a view from the other side of the pond."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

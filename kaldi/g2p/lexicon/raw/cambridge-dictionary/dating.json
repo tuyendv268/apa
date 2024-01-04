@@ -1,0 +1,81 @@
+{
+    "word": "dating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "deɪt"
+                            ],
+                            "us": [
+                                "deɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to write the day's date on something you have written or made: ",
+                            "examples": [
+                                "Thank you for your letter dated 30 August."
+                            ]
+                        },
+                        {
+                            "explanation": "to say how long something has existed or when it was made: ",
+                            "examples": [
+                                "Archaeologists have been unable to date these fossils.",
+                                "An antique dealer had dated the vase at (= said that it was made in) 1734."
+                            ]
+                        },
+                        {
+                            "explanation": "to regularly spend time with someone you have a romantic relationship with: ",
+                            "examples": [
+                                "They dated for five years before they got married.",
+                                "How long have you been dating Nicky?"
+                            ]
+                        },
+                        {
+                            "explanation": "to stop being fashionable or become old-fashioned: ",
+                            "examples": [
+                                "Some James Bond films have dated more than others."
+                            ]
+                        },
+                        {
+                            "explanation": "to show the age of a person or thing: ",
+                            "examples": [
+                                "I can remember watching live TV coverage of the first lunar landing, so that dates me (= shows how old I am)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

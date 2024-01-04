@@ -1,0 +1,35 @@
+{
+    "word": "nonhomologous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.həˈmɒl.ə.ɡəs"
+                            ],
+                            "us": [
+                                "ˌnɑːn.həˈmɑː.lə.ɡəs",
+                                "ˌnɑːn.hoʊˈmɑː.lə.ɡəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a chromosome) not containing similar information to another chromosome that it forms a pair with during meiosis (= a type of cell division), or involving such chromosomes: ",
+                            "examples": [
+                                "Nonhomologous chromosomes, such as XY sex chromosomes, have alleles on different genes.",
+                                "Nonhomologous end joining is a repair mechanism that occurs in DNA."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

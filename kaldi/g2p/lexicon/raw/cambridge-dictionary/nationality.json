@@ -1,0 +1,42 @@
+{
+    "word": "nationality",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnæʃ.ənˈæl.ə.ti",
+                                "ˌnæʃˈnælˈæl.ə.ti"
+                            ],
+                            "us": [
+                                "ˌnæʃ.ənˈæl.ə.t̬i",
+                                "ˌnæʃˈnæl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the official right to belong to a particular country: ",
+                            "examples": [
+                                "She has British nationality.",
+                                "What nationality are you?"
+                            ]
+                        },
+                        {
+                            "explanation": "a group of people of the same race, religion, traditions, etc.: ",
+                            "examples": [
+                                "At the International School they have pupils of 46 different nationalities."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

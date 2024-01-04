@@ -1,0 +1,103 @@
+{
+    "word": "this",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "ðɪs"
+                            ],
+                            "us": [
+                                "ðɪs"
+                            ],
+                            "uk_other_tense": [
+                                "ðiːz"
+                            ],
+                            "us_other_tense": [
+                                "ðiːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used for a person, object, idea, etc. to show which one is referred to: ",
+                            "examples": [
+                                "Can you sign this form here for me?",
+                                "These books are too heavy for me to carry.",
+                                "We met this girl (= the girl I am going to tell you about) in the hotel.",
+                                "This is the one I want.",
+                                "What's this? Is this what you're looking for?",
+                                "What's this I hear about you moving to Scotland?"
+                            ]
+                        },
+                        {
+                            "explanation": "used when you introduce someone to someone else: ",
+                            "examples": [
+                                "Harry, this is Joan."
+                            ]
+                        },
+                        {
+                            "explanation": "already: ",
+                            "examples": [
+                                "I thought you'd be done by this time."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ðɪs"
+                            ],
+                            "us": [
+                                "ðɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "as much as shown or to a particular degree: ",
+                            "examples": [
+                                "It was only about this high off the ground.",
+                                "She has never been this late for school before."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "ðɪs"
+                            ],
+                            "us": [
+                                "ðɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used on social media as a reaction to something such as a picture, news article, or opinion, to make people notice it, or to say that you agree with it, or think it is important, etc.: ",
+                            "examples": [
+                                "She retweeted his words with the simple comment, \"This.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "word": "proxy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɒk.si"
+                            ],
+                            "us": [
+                                "ˈprɑːk.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "authority given to a person to act for someone else, such as by voting for them in an election, or the person who this authority is given to: ",
+                            "examples": [
+                                "a proxy vote",
+                                "My brother's voting for me by proxy in the club elections.",
+                                "Can I nominate someone as a proxy to sign for me?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

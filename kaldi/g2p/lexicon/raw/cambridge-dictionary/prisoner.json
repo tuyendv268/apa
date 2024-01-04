@@ -1,0 +1,39 @@
+{
+    "word": "prisoner",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɪz.ən.ər"
+                            ],
+                            "us": [
+                                "ˈprɪz.ən.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who is kept in prison as a punishment: ",
+                            "examples": [
+                                "Prisoners climbed onto the prison roof to protest the conditions inside the prison."
+                            ]
+                        },
+                        {
+                            "explanation": "to catch and guard someone so that they cannot escape: ",
+                            "examples": [
+                                "Of 10,000 troops, 7,000 were killed, wounded, or taken prisoner."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

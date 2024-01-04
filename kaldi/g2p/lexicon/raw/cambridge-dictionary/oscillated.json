@@ -1,0 +1,65 @@
+{
+    "word": "oscillated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \noscillate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒs.ɪ.leɪt"
+                            ],
+                            "us": [
+                                "ˈɑː.səl.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move repeatedly from one position to another: ",
+                            "examples": [
+                                "The needle on the dial oscillated between full and empty."
+                            ]
+                        },
+                        {
+                            "explanation": "If you oscillate between feelings or opinions, you change repeatedly from one to the other: ",
+                            "examples": [
+                                "My emotions oscillate between desperation and hope."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a wave or electric current) to change regularly in strength or direction",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

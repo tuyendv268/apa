@@ -1,0 +1,42 @@
+{
+    "word": "absence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæb.səns"
+                            ],
+                            "us": [
+                                "ˈæb.səns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of not being where you are usually expected to be: ",
+                            "examples": [
+                                "A new manager was appointed during her absence.",
+                                "I'll be gone for two weeks, with Chris handling the deliveries in my absence. ",
+                                "She has had repeated absences from work this year."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of not existing: ",
+                            "examples": [
+                                "In the absence of (= because there were not) more suitable candidates, we decided to offer the job to Mr Conway.",
+                                "He drew attention to the absence of concrete evidence against the defendant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

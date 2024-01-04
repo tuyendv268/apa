@@ -1,0 +1,38 @@
+{
+    "word": "chord",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kɔːd"
+                            ],
+                            "us": [
+                                "kɔːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "three or more musical notes played at the same time: ",
+                            "examples": [
+                                "She strummed a few chords on her guitar.",
+                                "a C major chord"
+                            ]
+                        },
+                        {
+                            "explanation": "a straight line that joins the ends of an arc (= a curved line that forms part of a circle)",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

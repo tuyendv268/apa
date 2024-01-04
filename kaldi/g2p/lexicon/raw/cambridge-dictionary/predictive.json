@@ -1,0 +1,41 @@
+{
+    "word": "predictive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈdɪk.tɪv"
+                            ],
+                            "us": [
+                                "prɪˈdɪk.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the ability to predict: ",
+                            "examples": [
+                                "The test has a predictive accuracy of 95%.",
+                                "The predictive value of this new method of analysis has still to be proven."
+                            ]
+                        },
+                        {
+                            "explanation": "used to describe a computer system that predicts what is wanted or needed: ",
+                            "examples": [
+                                "Predictive word processors are useful for those who have trouble with typing or spelling.",
+                                "Predictive cruise control uses GPS technology to determine the exact position of the vehicle and to know which driving conditions have to be taken into account. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "apposition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæp.əˈzɪʃ.ən"
+                            ],
+                            "us": [
+                                "ˌæp.əˈzɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in grammar, a situation in which two nouns or noun phrases are used to refer to the same person or thing: ",
+                            "examples": [
+                                "In the expression \"my brother Joe\", \"my brother\" and \"Joe\" are in apposition."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

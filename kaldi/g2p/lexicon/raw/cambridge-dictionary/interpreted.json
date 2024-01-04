@@ -1,0 +1,68 @@
+{
+    "word": "interpreted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ninterpret ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈtɜː.prɪt"
+                            ],
+                            "us": [
+                                "-ˈtɝː-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to decide what the intended meaning of something is: ",
+                            "examples": [
+                                "It's difficult to interpret these statistics without knowing how they were obtained.",
+                                "A jury should not interpret the silence of a defendant as a sign of guilt."
+                            ]
+                        },
+                        {
+                            "explanation": "to express your own ideas about the intended meaning of a play or a piece of music when performing it: ",
+                            "examples": [
+                                "If Shakespeare's plays are to reach a large audience they need to be interpreted in a modern style."
+                            ]
+                        },
+                        {
+                            "explanation": "to change what someone is saying into another language: ",
+                            "examples": [
+                                "We had to ask our guide to interpret for us."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

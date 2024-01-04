@@ -1,0 +1,58 @@
+{
+    "word": "testing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈtes.tɪŋ"
+                            ],
+                            "us": [
+                                "ˈtes.tɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "difficult: ",
+                            "examples": [
+                                "These are very testing times for our family.",
+                                "This testing circuit is a challenge for any racing driver."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtes.tɪŋ"
+                            ],
+                            "us": [
+                                "ˈtes.tɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act or practice of giving tests to measure someone's knowledge or ability: ",
+                            "examples": [
+                                "Statewide testing begins this fall."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

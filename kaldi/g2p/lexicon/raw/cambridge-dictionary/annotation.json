@@ -1,0 +1,41 @@
+{
+    "word": "annotation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.əˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌæn.əˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short explanation or note added to a text or image, or the act of adding short explanations or notes: ",
+                            "examples": [
+                                "The annotation of literary texts makes them more accessible.",
+                                "The revised edition of the book includes many useful annotations."
+                            ]
+                        },
+                        {
+                            "explanation": "a description or piece of information added to data, for example a label saying whether a word is a noun, a verb, etc., or the act of adding this: ",
+                            "examples": [
+                                "Computerized spoken-dialect data with annotations is available.",
+                                "Manual annotation is usually performed in the creation of experimental datasets."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

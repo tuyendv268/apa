@@ -1,0 +1,78 @@
+{
+    "word": "streamed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nstream ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "striːm"
+                            ],
+                            "us": [
+                                "striːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to flow somewhere or produce liquid, quickly and in large amounts without stopping: ",
+                            "examples": [
+                                "There were tears streaming down his face.",
+                                "One woman was carried from the scene of the accident with blood streaming from her head.",
+                                "I've got a terrible cold and my nose has been streaming all week."
+                            ]
+                        },
+                        {
+                            "explanation": "to move continuously in one direction: ",
+                            "examples": [
+                                "We were all very excited as we streamed out of our final exam.",
+                                "Officials estimate that 20,000 refugees streamed into the city last week.",
+                                "His hair streamed out behind him as he rode off."
+                            ]
+                        },
+                        {
+                            "explanation": "to send or receive sound or video directly over the internet as a continuous flow: ",
+                            "examples": [
+                                "On YouTube, millions of videos are streamed every day.",
+                                "To pick up this signal, you will need a high-speed internet connection to stream it to your computer."
+                            ]
+                        },
+                        {
+                            "explanation": "to group and teach together school students with similar abilities who are approximately the same age: ",
+                            "examples": [
+                                "We start to stream the children in the third form."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

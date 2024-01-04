@@ -1,0 +1,48 @@
+{
+    "word": "speller",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspel.ər"
+                            ],
+                            "us": [
+                                "ˈspel.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who spells words in the way that is described: ",
+                            "examples": [
+                                "With these games we hope to make it cool to be a good speller.",
+                                "In school I was always a bad speller.",
+                                "Hemingway, Keats, Virginia Woolf, and Yeats were all said to be appalling spellers.",
+                                "She said that frequent texters tend to be better spellers, because they're much more used to writing."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who takes part in a spelling competition: ",
+                            "examples": [
+                                "She was one of only 12 spellers who made it to the finals broadcast live on ABC."
+                            ]
+                        },
+                        {
+                            "explanation": "a book that teaches spelling: ",
+                            "examples": [
+                                "They publish grammars, usage guides, pronunciation guides, spellers, etc."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "loitered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nloiter ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɔɪ.tər"
+                            ],
+                            "us": [
+                                "ˈlɔɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move slowly around or stand in a public place without an obvious reason: ",
+                            "examples": [
+                                "A gang of youths were loitering outside the cinema."
+                            ]
+                        },
+                        {
+                            "explanation": "to go slowly, stopping often: ",
+                            "examples": [
+                                "Come straight home and don't loiter, Alan."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "patronymic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpæt.rəˈnɪm.ɪk"
+                            ],
+                            "us": [
+                                "ˌpæt.rəˈnɪm.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a name that is based on the given name (= the name given at birth) of someone's father or one of their father's ancestors: ",
+                            "examples": [
+                                "Numerous patronymics of later formation have lasted: Johnson, Jackson, Peterson.",
+                                "The second Cossack addresses the first by his patronymic (\"son of Eremey\")."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌpæt.rəˈnɪm.ɪk"
+                            ],
+                            "us": [
+                                "ˌpæt.rəˈnɪm.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a name) based on the given name (= the name given at birth) of someone's father or one of their father's ancestors: ",
+                            "examples": [
+                                "Patronymic names, such as Robson, Richardson and Jackson, are based on the given name of a person's father.",
+                                "The patronymic form D'Amanti was given to the children of such unions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

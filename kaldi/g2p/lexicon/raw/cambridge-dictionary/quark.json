@@ -1,0 +1,37 @@
+{
+    "word": "quark",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kwɑːk"
+                            ],
+                            "us": [
+                                "kwɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the most basic forms of matter that make up the heavier elementary particles: ",
+                            "examples": [
+                                "Atoms are made up of smaller particles - protons, neutrons and electrons - some of which are made up of even smaller ones, called quarks."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of soft white cheese",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

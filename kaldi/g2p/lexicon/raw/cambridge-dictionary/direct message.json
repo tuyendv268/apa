@@ -1,0 +1,56 @@
+{
+    "word": "direct message",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaɪ.rekt ˈmes.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˌdaɪ.rekt ˈmes.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a private message sent on a social media website, that only the person it is sent to can see: ",
+                            "examples": [
+                                "It's better to give any personal details by direct message."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaɪ.rekt ˈmes.ɪdʒ",
+                                "ˌdaɪ.rekt ˈmes.ɪdʒ"
+                            ],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send someone a private message on a social media website: ",
+                            "examples": [
+                                "I don't want these people direct messaging me."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

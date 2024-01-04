@@ -1,0 +1,33 @@
+{
+    "word": "code word",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkəʊd ˌwɜːd"
+                            ],
+                            "us": [
+                                "ˈkoʊd ˌwɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word or sign with a special meaning, or a word used to keep something secret: ",
+                            "examples": [
+                                "\"Long\" and \"frank\" are all diplomatic code words for continuing disagreement."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

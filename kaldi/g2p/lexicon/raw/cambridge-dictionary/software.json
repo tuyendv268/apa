@@ -1,0 +1,33 @@
+{
+    "word": "software",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɒft.weər"
+                            ],
+                            "us": [
+                                "ˈsɑːft.wer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the instructions that control what a computer does; computer programs: ",
+                            "examples": [
+                                "He's written a piece of software that does your taxes for you."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

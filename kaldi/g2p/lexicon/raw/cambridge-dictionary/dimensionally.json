@@ -1,0 +1,74 @@
+{
+    "word": "dimensionally",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "daɪˈmen.ʃən.əl.i",
+                                "dɪˈmen.ʃən.əl.i"
+                            ],
+                            "us": [
+                                "daɪˈmen.ʃən.əl.i",
+                                "dɪˈmen.ʃən.əl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that relates to the dimensions (= measurements such as height, length, or width) of something: ",
+                            "examples": [
+                                "The material is lightweight, non-absorbent, fire resistant, and dimensionally stable.",
+                                "The two designs have elements that are dimensionally identical."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that measures something on a scale (= a set of numbers to measure or compare the level of something): ",
+                            "examples": [
+                                "Trained interviewers rated the disorder dimensionally on a 5-point scale.",
+                                "Each anxiety symptom was assessed dimensionally rather than as the presence or absence of a disorder."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                "-daɪ.men.ʃən.əl.i",
+                                "-dɪ.men.ʃən.əl.i"
+                            ],
+                            "us": [
+                                "-daɪ.men.ʃən.əl.i",
+                                "-dɪ.men.ʃən.əl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that has or appears to have the stated number of dimensions (= measurements such as height, length, or width): ",
+                            "examples": [
+                                "The backgrounds are rendered in beautiful lifelike graphics rather than being drawn two-dimensionally.",
+                                "This is a type of navigation that allows an aircraft to fly a specific path between two 3-dimensionally defined points in space."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

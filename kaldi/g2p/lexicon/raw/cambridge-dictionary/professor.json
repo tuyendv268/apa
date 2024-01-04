@@ -1,0 +1,36 @@
+{
+    "word": "professor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "prəˈfes.ər"
+                            ],
+                            "us": [
+                                "prəˈfes.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a teacher of the highest rank in a department of a British university, or a teacher of high rank in an American university or college: ",
+                            "examples": [
+                                "Professor Stephen Hawking",
+                                "a professor of sociology",
+                                "a sociology professor",
+                                "Thank you, Professor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

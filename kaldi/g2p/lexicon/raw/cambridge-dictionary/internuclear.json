@@ -1,0 +1,41 @@
+{
+    "word": "internuclear",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈnjuː.kli.ər"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˈnuː.kli.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "between the nuclei (= the central parts) of atoms: ",
+                            "examples": [
+                                "internuclear space",
+                                "The molecule is symmetrical about the mid-point of the internuclear axis."
+                            ]
+                        },
+                        {
+                            "explanation": "between the nuclei of cells (= the parts that control their growth): ",
+                            "examples": [
+                                "internuclear fibres",
+                                "internuclear migration of proteins"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

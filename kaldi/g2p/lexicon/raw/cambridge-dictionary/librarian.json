@@ -1,0 +1,41 @@
+{
+    "word": "librarian",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "laɪˈbreə.ri.ən"
+                            ],
+                            "us": [
+                                "laɪˈbrer.i.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who works in a library, is trained in the organization or running of libraries, or is in charge of a library: ",
+                            "examples": [
+                                "The young librarian is great at finding titles children will like.",
+                                "The Central Library saves money by hiring clerks paid by the hour rather than trained librarians."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who is in charge of a collection of a particular type of books or papers, or books or papers on a particular subject: ",
+                            "examples": [
+                                "As an astronomy librarian, she is a member of a collaborative group of specialized librarians.",
+                                "Librarians spend days sorting through music that may be added to their collections."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

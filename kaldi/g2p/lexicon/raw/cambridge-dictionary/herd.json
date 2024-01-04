@@ -1,0 +1,67 @@
+{
+    "word": "herd",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hɜːd"
+                            ],
+                            "us": [
+                                "hɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large group of animals of the same type that live and feed together: ",
+                            "examples": [
+                                "a herd of cattle/elephants/goats"
+                            ]
+                        },
+                        {
+                            "explanation": "a large group of people that is considered together as a group and not separately: ",
+                            "examples": [
+                                "Poor Janine - she just follows the herd (= does what all the other people are doing)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "hɜːd"
+                            ],
+                            "us": [
+                                "hɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make animals move together as a group: ",
+                            "examples": [
+                                "An old woman was herding the goats."
+                            ]
+                        },
+                        {
+                            "explanation": "to make people move somewhere as a group, often against their wishes or with difficulty",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

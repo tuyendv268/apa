@@ -1,0 +1,34 @@
+{
+    "word": "tabulator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæb.jə.leɪ.tər"
+                            ],
+                            "us": [
+                                "ˈtæb.jə.leɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a machine for recording information from punch cards (= cards with holes in patterns that represent information): ",
+                            "examples": [
+                                "Charles Babbage designed an electro-mechanical device called a tabulator to read the information contained on the punch card.",
+                                "His tabulator worked successfully, reducing the number of man-hours for the task by two-thirds."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "implement",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪm.plɪ.ment"
+                            ],
+                            "us": [
+                                "ˈɪm.plə.ment"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to start using a plan or system: ",
+                            "examples": [
+                                "The changes to the national health system will be implemented next year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪm.plɪ.mənt"
+                            ],
+                            "us": [
+                                "ˈɪm.plə.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tool that works by being moved by hand or by being pulled across a surface: ",
+                            "examples": [
+                                "garden/household/agricultural implements",
+                                "Shopkeepers are not supposed to sell knives and other sharp implements to children."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

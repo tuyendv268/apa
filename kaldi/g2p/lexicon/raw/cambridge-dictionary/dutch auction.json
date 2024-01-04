@@ -1,0 +1,41 @@
+{
+    "word": "dutch auction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʌtʃ ˈɔːk.ʃən"
+                            ],
+                            "us": [
+                                "ˌdʌtʃ ˈɑːk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a process of selling something in which the price is reduced until a buyer agrees to pay it: ",
+                            "examples": [
+                                "Unlike an art auction, where bidders keep driving the price of a painting higher, a Dutch auction drives the price lower.",
+                                "The firm will use the Internet to manage a \"descending price auction,\" often called a \"Dutch auction\"."
+                            ]
+                        },
+                        {
+                            "explanation": "a process in which people or organizations compete with each other to offer the lowest level or amount of something: ",
+                            "examples": [
+                                "Tax is becoming a Dutch auction, with each party claiming to double the cuts proposed by the other.",
+                                "We have seen a Dutch auction between the political parties about who is tougher on benefits."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "six",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "sɪks"
+                            ],
+                            "us": [
+                                "sɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 6: ",
+                            "examples": [
+                                "Look for a bus with a number six on the front.",
+                                "\"How many grandchildren do you have now?\" \"I've got six.\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɪks"
+                            ],
+                            "us": [
+                                "sɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in cricket, six runs (= points) scored when the player hits the ball to the edge of the playing area without it touching the ground first: ",
+                            "examples": [
+                                "Richards hit a six."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

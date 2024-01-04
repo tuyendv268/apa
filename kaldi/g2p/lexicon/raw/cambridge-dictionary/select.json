@@ -1,0 +1,62 @@
+{
+    "word": "select",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sɪˈlekt"
+                            ],
+                            "us": [
+                                "səˈlekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to choose a small number of things, or to choose by making careful decisions: ",
+                            "examples": [
+                                "There was a choice of four prizes, and the winner could select one of them.",
+                                "A mouse is a device which makes it easier to select different options from computer menus.",
+                                "How do you select people for promotion?",
+                                "He was selected to play for Australia at the age of only 18."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "sɪˈlekt"
+                            ],
+                            "us": [
+                                "səˈlekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of only the best type or highest quality, and usually small in size or amount: ",
+                            "examples": [
+                                "It's a very select club - I've been trying unsuccessfully to join it for years.",
+                                "These activities should be available to all students, not just a select few.",
+                                "Hamilton lives in a very select part of Boston."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

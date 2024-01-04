@@ -1,0 +1,33 @@
+{
+    "word": "mach",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mɑːk",
+                                "mæk"
+                            ],
+                            "us": [
+                                "mɑːk",
+                                "mæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a measurement of speed that is calculated by dividing the speed of an object, especially an aircraft, by the speed of sound",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "pseudonymize",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sjuːˈdɒn.ɪ.maɪz"
+                            ],
+                            "us": [
+                                "suːˈdɑːn.ə.maɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change information that relates to a particular person, for example, a name or email address, to a number or name that has no meaning so that it is impossible to see who the information relates to : ",
+                            "examples": [
+                                "Pseudonymizing personal data helps organizations meet their data protection obligations.",
+                                "Any identifiers in the patient data have been pseudonymized."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

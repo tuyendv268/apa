@@ -1,0 +1,42 @@
+{
+    "word": "ventilator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈven.tɪ.leɪ.tər"
+                            ],
+                            "us": [
+                                "ˈven.t̬əl.eɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an opening or a device that allows fresh air to come into a closed space: ",
+                            "examples": [
+                                "The bathroom had no window but it had an electric ventilator."
+                            ]
+                        },
+                        {
+                            "explanation": "a machine that helps people breathe when they have difficulty breathing on their own, by forcing air in and out of their lungs: ",
+                            "examples": [
+                                "He was brought into intensive care shortly after the accident and immediately put on a ventilator.",
+                                "Three days after surgery, she was taken off the ventilator, but had to go back on it a day later.",
+                                "Early reports found death rates as high as 90% among COVID-19 patients on ventilators.",
+                                "He was still in a critical ward, still breathing through a ventilator and still without feeling in any of his limbs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

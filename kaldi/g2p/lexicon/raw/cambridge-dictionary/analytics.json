@@ -1,0 +1,39 @@
+{
+    "word": "analytics",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.əlˈɪt.ɪks"
+                            ],
+                            "us": [
+                                "ˌæn.əˈlɪt̬.ɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a process in which a computer examines information using mathematical methods in order to find useful patterns: ",
+                            "examples": [
+                                "a system for performing analytics on received data"
+                            ]
+                        },
+                        {
+                            "explanation": "the information that results from this process: ",
+                            "examples": [
+                                "This technology provides detailed analytics about campaign reach."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

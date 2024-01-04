@@ -1,0 +1,57 @@
+{
+    "word": "bye",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "baɪ"
+                            ],
+                            "us": [
+                                "baɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "goodbye: ",
+                            "examples": [
+                                "Bye! See you next week!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "baɪ"
+                            ],
+                            "us": [
+                                "baɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If someone is given a bye, they are allowed to miss out part of a competition and continue to the next stage without having to win anything: ",
+                            "examples": [
+                                "European teams were granted a bye into the third round of the Cup."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

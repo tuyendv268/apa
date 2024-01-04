@@ -1,0 +1,71 @@
+{
+    "word": "feared",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nfear ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fɪər"
+                            ],
+                            "us": [
+                                "fɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be frightened of something or someone unpleasant: ",
+                            "examples": [
+                                "Most older employees fear unemployment.",
+                                "What do you fear most?"
+                            ]
+                        },
+                        {
+                            "explanation": "to be worried or frightened that something bad might happen or might have happened: ",
+                            "examples": [
+                                "Police fear (that) the couple may have drowned.",
+                                "It is feared (that) as many as two hundred passengers may have died in the crash.",
+                                "We huddled together, fearing we might be killed.",
+                                "Fearing to go herself, she sent her son to find out the news."
+                            ]
+                        },
+                        {
+                            "explanation": "used to give someone news of something bad that has happened or might happen: ",
+                            "examples": [
+                                "I fear (that) she's already left."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

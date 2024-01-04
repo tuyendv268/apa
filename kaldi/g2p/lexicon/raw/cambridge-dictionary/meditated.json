@@ -1,0 +1,61 @@
+{
+    "word": "meditated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmeditate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmed.ɪ.teɪt"
+                            ],
+                            "us": [
+                                "ˈmed.ə.teɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to think calm thoughts in order to relax or as a religious activity: ",
+                            "examples": [
+                                "Sophie meditates for 20 minutes every day."
+                            ]
+                        },
+                        {
+                            "explanation": "to think seriously about something for a long time: ",
+                            "examples": [
+                                "He meditated on the consequences of his decision."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

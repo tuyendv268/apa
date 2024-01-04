@@ -1,0 +1,55 @@
+{
+    "word": "transitive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈtræn.sə.tɪv"
+                            ],
+                            "us": [
+                                "ˈtræn.sə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a verb) having or needing an object: ",
+                            "examples": [
+                                "In this dictionary, transitive verbs, such as \"put\", are marked [T]."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtræn.sə.tɪv"
+                            ],
+                            "us": [
+                                "ˈtræn.sə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a verb that has or needs an object",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "word": "registering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nregister ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈredʒ.ɪ.stər"
+                            ],
+                            "us": [
+                                "ˈredʒ.ə.stɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put information, especially your name, into an official list or record: ",
+                            "examples": [
+                                "I registered the car in my name.",
+                                "Within two weeks of arrival all foreigners had to register with the local police.",
+                                "Students have to register for the new course by the end of April."
+                            ]
+                        },
+                        {
+                            "explanation": "to record, show, or express something: ",
+                            "examples": [
+                                "The Geiger counter registered a dangerous level of radioactivity.",
+                                "The earthquake was too small to register on the Richter scale.",
+                                "His face registered extreme disapproval of what he had witnessed."
+                            ]
+                        },
+                        {
+                            "explanation": "If something registers, someone realizes it and if someone registers something, they realize it: ",
+                            "examples": [
+                                "I did mention the address but I'm not sure that it registered (with him).",
+                                "I scarcely registered the fact that he was there."
+                            ]
+                        },
+                        {
+                            "explanation": "If you register a letter or parcel, you send it using a special postal service, so that it will be dealt with in a special way and not be lost: ",
+                            "examples": [
+                                "a registered letter"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

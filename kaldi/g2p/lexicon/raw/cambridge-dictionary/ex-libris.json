@@ -1,0 +1,58 @@
+{
+    "word": "ex-libris",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌeksˈlɪb.riːs"
+                            ],
+                            "us": [
+                                "ˌeksˈliː.brɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a decorative piece of paper stuck inside the front cover of a book to show who owns it: ",
+                            "examples": [
+                                "The ex-libris bears the name \"Sebastian Miller\".",
+                                "Bookplates are often known as ex libris (\"from the books of...\")."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌeksˈlɪb.riːs"
+                            ],
+                            "us": [
+                                "ˌeksˈliː.brɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "words meaning \"from the books of\" written or printed inside the front cover of a book, usually on a bookplate (= a piece of paper stuck inside the front of the book), to say who the book belongs to: ",
+                            "examples": [
+                                "The volume was enscribed as ex-libris Albert Pile."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

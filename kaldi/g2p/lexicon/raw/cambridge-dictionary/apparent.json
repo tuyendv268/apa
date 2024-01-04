@@ -1,0 +1,42 @@
+{
+    "word": "apparent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈpær.ənt"
+                            ],
+                            "us": [
+                                "əˈper.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to be seen or understood: ",
+                            "examples": [
+                                "Her unhappiness was apparent to everyone.",
+                                "It was becoming increasingly apparent that he could no longer take care of himself.",
+                                "I was on the metro this morning when, for no apparent reason, the man opposite me suddenly screamed."
+                            ]
+                        },
+                        {
+                            "explanation": "seeming to exist or be true: ",
+                            "examples": [
+                                "There are one or two apparent discrepancies between the two reports.",
+                                "She has this apparent innocence which, I suspect, she uses to her advantage."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

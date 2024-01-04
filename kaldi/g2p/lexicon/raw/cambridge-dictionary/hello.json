@@ -1,0 +1,60 @@
+{
+    "word": "hello",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "heˈləʊ"
+                            ],
+                            "us": [
+                                "heˈloʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used when meeting or greeting someone: ",
+                            "examples": [
+                                "Hello, Paul. I haven't seen you for ages.",
+                                "I know her vaguely - we've exchanged hellos a few times.",
+                                "I just thought I'd call by and say hello.",
+                                "And a big hello (= welcome) to all the parents who've come to see the show."
+                            ]
+                        },
+                        {
+                            "explanation": "something that is said at the beginning of a phone conversation: ",
+                            "examples": [
+                                "\"Hello, I'd like some information about flights to the US, please.\""
+                            ]
+                        },
+                        {
+                            "explanation": "something that is said to attract someone's attention: ",
+                            "examples": [
+                                "The front door was open so she walked inside and called out, \"Hello! Is there anybody in?\""
+                            ]
+                        },
+                        {
+                            "explanation": "said to someone who has just said or done something stupid, especially something that shows they are not noticing what is happening: ",
+                            "examples": [
+                                "She asked me if I'd just arrived and I was like \"Hello, I've been here for an hour.\""
+                            ]
+                        },
+                        {
+                            "explanation": "an expression of surprise: ",
+                            "examples": [
+                                "Hello, this is very strange - I know that man."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

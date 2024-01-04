@@ -1,0 +1,34 @@
+{
+    "word": "two-factor authentication",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌtuː.fæk.tər ɔː.θen.tɪˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌtuː.fæk.tɚ ɑː.θen.t̬əˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use of two different types of proof of who you are when you are doing something online, for example when paying for something: ",
+                            "examples": [
+                                "Two-factor authentication basically means having one password that you make up for yourself and another password or code that you get from somewhere else.",
+                                "It has been recommended that all mobile banking transactions are validated through a two-factor authentication system."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

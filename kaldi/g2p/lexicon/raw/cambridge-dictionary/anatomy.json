@@ -1,0 +1,53 @@
+{
+    "word": "anatomy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈnæt.ə.mi"
+                            ],
+                            "us": [
+                                "əˈnæt̬.ə.mi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the scientific study of the body and how its parts are arranged: ",
+                            "examples": [
+                                "An understanding of human anatomy is important to a dancer.",
+                                "He later became professor of anatomy at Kiel."
+                            ]
+                        },
+                        {
+                            "explanation": "the structure of an animal or plant: ",
+                            "examples": [
+                                "the female anatomy",
+                                "the anatomy of a leaf"
+                            ]
+                        },
+                        {
+                            "explanation": "a person's body: ",
+                            "examples": [
+                                "On which part of her anatomy is she tattooed?"
+                            ]
+                        },
+                        {
+                            "explanation": "a detailed examination of a subject: ",
+                            "examples": [
+                                "The whole play reads like an anatomy of evil."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

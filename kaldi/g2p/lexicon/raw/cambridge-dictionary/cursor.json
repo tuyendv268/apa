@@ -1,0 +1,33 @@
+{
+    "word": "cursor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɜː.sər"
+                            ],
+                            "us": [
+                                "ˈkɝː.sɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a line on a computer screen that moves to show the point where work is being done: ",
+                            "examples": [
+                                "You can move the cursor either by using the mouse or by using the arrow keys on the keyboard."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

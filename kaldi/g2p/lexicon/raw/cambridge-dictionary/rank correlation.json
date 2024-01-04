@@ -1,0 +1,34 @@
+{
+    "word": "rank correlation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌræŋk kɒr.əˈleɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˈræŋk kɔːr.əˌleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mathematical method of measuring the relationship between the ranking (= an order from low to high) of two variables (= numbers that can change): ",
+                            "examples": [
+                                "They found high rank correlations between these two measures.",
+                                "Spearman's rank correlation coefficient was used for correlations between continuous variables. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "quart",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kwɔːt"
+                            ],
+                            "us": [
+                                "kwɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of measurement for liquids, equal to approximately 1.14 litres in the UK, or 0.95 litres in the US: ",
+                            "examples": [
+                                "A quart is so called because it is a quarter of a gallon."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

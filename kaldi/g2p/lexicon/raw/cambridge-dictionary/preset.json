@@ -1,0 +1,70 @@
+{
+    "word": "preset",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌpriːˈset"
+                            ],
+                            "us": [
+                                "ˌpriːˈset"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to prepare a machine so it will operate or stop later: ",
+                            "examples": [
+                                "I'll preset the oven to come on at 5 p.m."
+                            ]
+                        },
+                        {
+                            "explanation": "to arrange for or agree to something: ",
+                            "examples": [
+                                "The agenda for the meeting has been preset."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈpriː.set"
+                            ],
+                            "us": [
+                                "ˈpriː.set"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "arranged, agreed, or chosen earlier: ",
+                            "examples": [
+                                "We have a device which switches the lights on at a preset time in the evening.",
+                                "The stock will be sold at a preset price."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to part of a machine that is used to prepare it to operate or stop later: ",
+                            "examples": [
+                                "Press and hold the numeric preset button."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "word": "advertisement",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ədˈvɜː.tɪs.mənt"
+                            ],
+                            "us": [
+                                "ˌæd.vɚˈtaɪz.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a picture, short film, song, etc. that tries to persuade people to buy a product or service: ",
+                            "examples": [
+                                "I saw an advertisement for the new restaurant that opened in town. ",
+                                "Many companies run advertisements in the magazine.",
+                                "The impression given in the advertisement is misleading."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of text that tells people about a job, event, etc: ",
+                            "examples": [
+                                "She scanned the job advertisements in the paper.",
+                                "She saw an advertisement asking for volunteers to take part in a study.",
+                                "We've been deluged with replies to our advertisement."
+                            ]
+                        },
+                        {
+                            "explanation": "If someone or something is an advertisement for something, they show its good effects: ",
+                            "examples": [
+                                "I'm afraid I'm not a very good advertisement for the diet since I've actually put on weight!"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

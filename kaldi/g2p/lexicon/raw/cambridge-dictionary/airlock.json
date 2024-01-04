@@ -1,0 +1,37 @@
+{
+    "word": "airlock",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeə.lɒk"
+                            ],
+                            "us": [
+                                "ˈer.lɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a room between two areas that have different air pressure, allowing you to go from one area to the other: ",
+                            "examples": [
+                                "Airlocks are commonly found on submarines and manned spacecraft."
+                            ]
+                        },
+                        {
+                            "explanation": "a bubble in a pipe that prevents liquid from flowing along it",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

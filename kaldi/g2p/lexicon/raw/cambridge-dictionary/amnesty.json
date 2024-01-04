@@ -1,0 +1,40 @@
+{
+    "word": "amnesty",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæm.nə.sti"
+                            ],
+                            "us": [
+                                "ˈæm.nə.sti"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a decision by a government that allows political prisoners to go free: ",
+                            "examples": [
+                                "Most political prisoners were freed under the terms of the amnesty."
+                            ]
+                        },
+                        {
+                            "explanation": "a fixed period of time during which people are not punished for committing a particular crime: ",
+                            "examples": [
+                                "People who hand in illegal weapons will not be prosecuted during the amnesty.",
+                                "The government refused to declare an amnesty for people who had not paid the disputed tax."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

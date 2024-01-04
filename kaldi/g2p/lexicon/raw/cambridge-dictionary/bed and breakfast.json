@@ -1,0 +1,35 @@
+{
+    "word": "bed and breakfast",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌbed ən ˈbrek.fəst"
+                            ],
+                            "us": [
+                                "ˌbed ən ˈbrek.fəst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a room to sleep in for the night and a morning meal, or a private house or small hotel offering this: ",
+                            "examples": [
+                                "There are several bed and breakfast places near the station.",
+                                "We're staying at a farm that does bed and breakfast.",
+                                "Can you recommend a good bed and breakfast near Brighton?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

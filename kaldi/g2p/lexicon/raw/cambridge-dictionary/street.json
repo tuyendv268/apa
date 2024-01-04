@@ -1,0 +1,47 @@
+{
+    "word": "street",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "striːt"
+                            ],
+                            "us": [
+                                "striːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a road in a city or town that has buildings that are usually close together along one or both sides: ",
+                            "examples": [
+                                "The streets were strewn with rubbish after the parade.",
+                                "a street map",
+                                "Our daughter lives just across the street from us.",
+                                "Diane's house is in/on Cherry Street.",
+                                "Men whistle at us when we're just walking down the street.",
+                                "Make sure you look both ways when you cross the street.",
+                                "The town's streets were deserted by dusk.",
+                                "At five in the morning, there were still crowds of people roaming the streets.",
+                                "I bought these sunglasses from a street vendor in Florence."
+                            ]
+                        },
+                        {
+                            "explanation": "When people take to the streets, they express their opposition to something in public and often violently: ",
+                            "examples": [
+                                "Thousands of people have taken to the streets to protest against the military coup."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

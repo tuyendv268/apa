@@ -1,0 +1,45 @@
+{
+    "word": "cipher",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪ.fər"
+                            ],
+                            "us": [
+                                "ˈsaɪ.fɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a system of writing that prevents most people from understanding the message: ",
+                            "examples": [
+                                "The message was written in cipher."
+                            ]
+                        },
+                        {
+                            "explanation": "a person or group of people without power, but used by others for their own purposes, or someone who is not important: ",
+                            "examples": [
+                                "The interim government is a mere cipher for military rule."
+                            ]
+                        },
+                        {
+                            "explanation": "a zero: ",
+                            "examples": [
+                                "If you have no children, enter a cipher in the space on the form."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

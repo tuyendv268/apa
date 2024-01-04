@@ -1,0 +1,41 @@
+{
+    "word": "outside lane",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌaʊt.saɪd ˈleɪn"
+                            ],
+                            "us": [
+                                "ˌaʊt.saɪd ˈleɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of the road nearest the vehicles going in the opposite direction, used especially by faster vehicles: ",
+                            "examples": [
+                                "She cruised by at 160 kilometres per hour on the outside/in the outside lane."
+                            ]
+                        },
+                        {
+                            "explanation": "the part of the road nearest the edge, especially used by slower vehicles",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the part of a race track that is furthest from the centre",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

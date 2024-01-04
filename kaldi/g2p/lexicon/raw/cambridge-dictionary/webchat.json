@@ -1,0 +1,33 @@
+{
+    "word": "webchat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈweb.tʃæt"
+                            ],
+                            "us": [
+                                "ˈweb.tʃæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of service available on the internet that allows you to exchange written messages with someone else who is using the service at the same time, without the need to use special software: ",
+                            "examples": [
+                                "You can join in the discussions with cancer experts during a live webchat. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

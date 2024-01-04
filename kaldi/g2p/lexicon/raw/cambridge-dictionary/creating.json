@@ -1,0 +1,64 @@
+{
+    "word": "creating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncreate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kriˈeɪt"
+                            ],
+                            "us": [
+                                "kriˈeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something new, or invent something: ",
+                            "examples": [
+                                "Charles Schulz created the characters \"Snoopy\" and \"Charlie Brown\".",
+                                "The Bible says that God created the world.",
+                                "He created a wonderful meal from very few ingredients.",
+                                "It's important to create a good impression when you meet a new client."
+                            ]
+                        },
+                        {
+                            "explanation": "to show that you are angry: ",
+                            "examples": [
+                                "If she sees you with an ice cream she'll only start creating."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

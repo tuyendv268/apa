@@ -1,0 +1,48 @@
+{
+    "word": "isolator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈaɪ.sə.leɪ.tər"
+                            ],
+                            "us": [
+                                "ˈaɪ.sə.leɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a switch or control that completely stops the flow of something such as electricity or water to a particular place: ",
+                            "examples": [
+                                "The power company fitted a mains isolator.",
+                                "I turned the water off at the isolator.",
+                                "Appliances such as cookers should have an isolator switch."
+                            ]
+                        },
+                        {
+                            "explanation": "a device that protects something from being affected by vibrations (= shaking movements): ",
+                            "examples": [
+                                "The base of a sculpture can be fitted with an isolator that protects the piece from shaking if there is an earthquake.",
+                                "You can mount a vibration isolator on the legs of your bed to dampen the vibrations caused by machinery in the building."
+                            ]
+                        },
+                        {
+                            "explanation": "a device used, for example in a laboratory (= a place where scientific experiments are done), to keep a process separate from the environment around it: ",
+                            "examples": [
+                                "When working with mice in an isolator they may be picked up using a pair of large forceps with rubber covers on their tips."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

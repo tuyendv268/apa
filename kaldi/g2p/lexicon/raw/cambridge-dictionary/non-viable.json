@@ -1,0 +1,41 @@
+{
+    "word": "non-viable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒnˈvaɪ.ə.bəl"
+                            ],
+                            "us": [
+                                "ˌnɑːnˈvaɪ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not able to work as intended or not able to succeed: ",
+                            "examples": [
+                                "It's an interesting proposal but it's simply economically non-viable.",
+                                "They fiercely contested the assertion that independence was a non-viable option."
+                            ]
+                        },
+                        {
+                            "explanation": "not able to continue to exist as or develop into a living thing: ",
+                            "examples": [
+                                "Non-viable embryos can be used for research purposes under strict conditions.",
+                                "Seeds below a certain weight are considered non-viable."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

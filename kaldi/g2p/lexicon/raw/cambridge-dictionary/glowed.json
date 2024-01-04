@@ -1,0 +1,69 @@
+{
+    "word": "glowed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nglow ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡləʊ"
+                            ],
+                            "us": [
+                                "ɡloʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to produce a continuous light and sometimes heat: ",
+                            "examples": [
+                                "A nightlight glowed dimly in the corner of the children's bedroom.",
+                                "This substance is so radioactive that it glows in the dark."
+                            ]
+                        },
+                        {
+                            "explanation": "to look attractive because you are happy or healthy, especially with eyes that are shining: ",
+                            "examples": [
+                                "The children's faces were glowing with excitement.",
+                                "They came back from their week at the beach, glowing with health."
+                            ]
+                        },
+                        {
+                            "explanation": "to be hot or red from exercising: ",
+                            "examples": [
+                                "When we got back from our walk in the snow, my whole body was glowing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

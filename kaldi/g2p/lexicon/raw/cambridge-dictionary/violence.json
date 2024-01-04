@@ -1,0 +1,42 @@
+{
+    "word": "violence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvaɪə.ləns"
+                            ],
+                            "us": [
+                                "ˈvaɪə.ləns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "actions or words that are intended to hurt people: ",
+                            "examples": [
+                                "It seems that the attack was a gratuitous/random/mindless act of violence.",
+                                "The recent outbreak/eruption of racial violence in the area is very troubling.",
+                                "The report documents the staggering amount of domestic violence against women."
+                            ]
+                        },
+                        {
+                            "explanation": "extreme force: ",
+                            "examples": [
+                                "We were all surprised at the violence of his anger/rage.",
+                                "The storm turned out to be one of unexpected violence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

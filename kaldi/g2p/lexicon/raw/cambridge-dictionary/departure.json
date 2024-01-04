@@ -1,0 +1,48 @@
+{
+    "word": "departure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈpɑː.tʃər"
+                            ],
+                            "us": [
+                                "dɪˈpɑːr.tʃɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of a person or vehicle, etc. leaving somewhere: ",
+                            "examples": [
+                                "There are several departures (= buses, trains, or aircraft leaving) for Paris every day.",
+                                "Our departure was delayed because of bad weather.",
+                                "departure time"
+                            ]
+                        },
+                        {
+                            "explanation": "the act of leaving a job: ",
+                            "examples": [
+                                "Everyone in the office was surprised by Graham's sudden departure."
+                            ]
+                        },
+                        {
+                            "explanation": "a change from what is expected, or from what has happened before: ",
+                            "examples": [
+                                "There can be no departure from the rules.",
+                                "Selling men's clothing is a new departure for the store."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

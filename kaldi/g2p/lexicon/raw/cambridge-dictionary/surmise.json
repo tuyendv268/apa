@@ -1,0 +1,58 @@
+{
+    "word": "surmise",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səˈmaɪz"
+                            ],
+                            "us": [
+                                "sɚˈmaɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to guess something, without having much or any proof: ",
+                            "examples": [
+                                "The police surmise (that) the robbers have fled the country."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "səˈmaɪz"
+                            ],
+                            "us": [
+                                "sɚˈmaɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a guess: ",
+                            "examples": [
+                                "My surmise turned out to be right.",
+                                "The article is pure surmise and innuendo."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

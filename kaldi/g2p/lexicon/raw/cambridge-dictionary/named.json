@@ -1,0 +1,71 @@
+{
+    "word": "named",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nname ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "neɪm"
+                            ],
+                            "us": [
+                                "neɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give someone or something a name: ",
+                            "examples": [
+                                "We named our dogs Shandy and Belle.",
+                                "A man named Dennis answered the door."
+                            ]
+                        },
+                        {
+                            "explanation": "to say what something or someone's name is: ",
+                            "examples": [
+                                "In the first question you had to name three types of monkey.",
+                                "He couldn't name his attacker."
+                            ]
+                        },
+                        {
+                            "explanation": "to choose someone or something: ",
+                            "examples": [
+                                "Just name the time and I'll be there.",
+                                "Name your conditions/terms/price.",
+                                "Ms Martinez has been named (as) the new Democratic candidate."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

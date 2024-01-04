@@ -1,0 +1,40 @@
+{
+    "word": "metaphorical",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmet.əˈfɒr.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˌmet̬.əˈfɔːr.ɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Metaphorical language contains metaphors: ",
+                            "examples": [
+                                "Her second novel is written in a very metaphorical style."
+                            ]
+                        },
+                        {
+                            "explanation": "not having real existence but representing some truth about a situation or other subject: ",
+                            "examples": [
+                                "A metaphorical ocean (= extremely large area of disagreement) lies between the two groups.",
+                                "There is a danger that America's metaphoric \"war on drugs\" may turn into a bloody reality."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

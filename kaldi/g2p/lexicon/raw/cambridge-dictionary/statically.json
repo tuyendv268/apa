@@ -1,0 +1,47 @@
+{
+    "word": "statically",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈstæt.ɪ.kəl.i"
+                            ],
+                            "us": [
+                                "ˈstæt̬.ɪ.kəl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that is not moving or not changing: ",
+                            "examples": [
+                                "As the singers sing more or less statically, the dancers move about in front of them.",
+                                "Hold each position statically for at least 15 seconds. "
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that is fixed and does not change: ",
+                            "examples": [
+                                "Statically linked software usually loads faster.",
+                                "Each task has a stack that can be statically allocated."
+                            ]
+                        },
+                        {
+                            "explanation": "involving static electricity (= an electrical charge that collects on the surface of objects): ",
+                            "examples": [
+                                "The plastic film is statically charged, so it will cling and protect the area being painted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

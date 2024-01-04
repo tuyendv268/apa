@@ -1,0 +1,67 @@
+{
+    "word": "lobby",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒb.i"
+                            ],
+                            "us": [
+                                "ˈlɑː.bi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to persuade a politician, the government, or an official group that a particular thing should or should not happen, or that a law should be changed: ",
+                            "examples": [
+                                "Small businesses have lobbied hard for/against changes in the tax laws.",
+                                "Local residents lobbied to have the factory shut down.",
+                                "They have been lobbying Congress to change the legislation concerning guns."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlɒb.i"
+                            ],
+                            "us": [
+                                "ˈlɑː.bi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of people who try to persuade the government or an official group to do something: ",
+                            "examples": [
+                                "the anti-smoking lobby"
+                            ]
+                        },
+                        {
+                            "explanation": "the (large) room into which the main entrance door opens in a hotel or other large building",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in the UK parliament, a room where someone meets a member of parliament who they have arranged to talk to, or one of the two passages that members of parliament walk through as a way of voting",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

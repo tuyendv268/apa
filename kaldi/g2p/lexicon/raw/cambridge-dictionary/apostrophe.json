@@ -1,0 +1,39 @@
+{
+    "word": "apostrophe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈpɒs.trə.fi"
+                            ],
+                            "us": [
+                                "əˈpɑː.strə.fi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the symbol ’ used in writing to show when a letter or a number has been left out, as in I'm (= I am) or '85 (= 1985), or that is used before or after s to show possession, as in Helen's house or babies' hands: ",
+                            "examples": [
+                                "\"It's\" with an apostrophe means \"it is\" or \"it has\"."
+                            ]
+                        },
+                        {
+                            "explanation": "sometimes used before s to show the plural of a number or a letter: ",
+                            "examples": [
+                                "There are two p's in \"supper\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

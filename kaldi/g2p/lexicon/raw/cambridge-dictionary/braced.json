@@ -1,0 +1,62 @@
+{
+    "word": "braced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbrace ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "breɪs"
+                            ],
+                            "us": [
+                                "breɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to support an object in order to stop it from falling down: ",
+                            "examples": [
+                                "The side wall of the old house was braced with a wooden support."
+                            ]
+                        },
+                        {
+                            "explanation": "to prepare yourself physically or mentally for something unpleasant: ",
+                            "examples": [
+                                "The passengers were told to brace themselves (= to press their bodies hard against something or hold them very stiff) for a crash landing.",
+                                "She told me she had some bad news for me and I braced myself for a shock."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

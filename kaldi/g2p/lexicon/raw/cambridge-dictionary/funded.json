@@ -1,0 +1,56 @@
+{
+    "word": "funded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nfund ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fʌnd"
+                            ],
+                            "us": [
+                                "fʌnd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to provide the money to pay for an event, activity, or organization: ",
+                            "examples": [
+                                "The company has agreed to fund my trip to Australia.",
+                                "The new college is being privately funded (= money for it is not being provided from taxes)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

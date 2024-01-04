@@ -1,0 +1,68 @@
+{
+    "word": "toasted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntoast ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "təʊst"
+                            ],
+                            "us": [
+                                "toʊst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make bread or other food warm, crisp (= hard enough to break), and brown by putting it near a high heat: ",
+                            "examples": [
+                                "Do you want this bread toasted?",
+                                "The sandwich was served on lightly toasted ciabatta."
+                            ]
+                        },
+                        {
+                            "explanation": "to warm yourself or part of your body: ",
+                            "examples": [
+                                "He's just toasting his feet by the fire."
+                            ]
+                        },
+                        {
+                            "explanation": "to hold up your glass and then drink as an expression of good wishes or respect: ",
+                            "examples": [
+                                "We toasted the happy couple."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

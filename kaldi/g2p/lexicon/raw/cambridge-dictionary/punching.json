@@ -1,0 +1,66 @@
+{
+    "word": "punching",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npunch ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pʌntʃ"
+                            ],
+                            "us": [
+                                "pʌntʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to hit someone or something with your fist (= closed hand): ",
+                            "examples": [
+                                "He punched him in the stomach."
+                            ]
+                        },
+                        {
+                            "explanation": "to hit with your fingers the buttons on a phone or the keys on a keyboard",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to make a hole in something with a special piece of equipment: ",
+                            "examples": [
+                                "I was just punching holes in some sheets of paper.",
+                                "This belt's too big - I'll have to punch an extra hole in it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

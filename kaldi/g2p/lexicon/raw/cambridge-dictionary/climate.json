@@ -1,0 +1,69 @@
+{
+    "word": "climate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈklaɪ.mət"
+                            ],
+                            "us": [
+                                "ˈklaɪ.mət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the general weather conditions usually found in a particular place: ",
+                            "examples": [
+                                "a hot/dry/harsh climate",
+                                "The Mediterranean climate is good for growing citrus fruits and grapes.",
+                                "When we retire, we're going to move to a warmer climate."
+                            ]
+                        },
+                        {
+                            "explanation": "the general development of a situation, or the situation, feelings, and opinions that exist at a particular time: ",
+                            "examples": [
+                                "the political/social climate",
+                                "I don't think we should expand our business in the current economic climate.",
+                                "Terrorism creates a climate of fear."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈklaɪ.mət"
+                            ],
+                            "us": [
+                                "ˈklaɪ.mət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to climate change: ",
+                            "examples": [
+                                "The world's premier climate scientists report that global warming is already occurring.",
+                                "He is an outspoken climate sceptic.",
+                                "a climate summit"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

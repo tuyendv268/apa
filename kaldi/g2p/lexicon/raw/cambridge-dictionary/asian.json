@@ -1,0 +1,69 @@
+{
+    "word": "asian",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈeɪ.ʒən"
+                            ],
+                            "us": [
+                                "ˈeɪ.ʒən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or relating to Asia or its people",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in the US, Canada, Australia, and New Zealand, belonging to or relating to China, Japan, or countries near them",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in the UK, belonging to or relating to India, Pakistan, or countries near them",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeɪ.ʒən"
+                            ],
+                            "us": [
+                                "ˈeɪ.ʒən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who comes from the continent of Asia, or a member of a group of people originally from Asia",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in the US, Canada, Australia, and New Zealand, someone from China, Japan, or countries near them",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in the UK, someone from India, Pakistan, or countries near them",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

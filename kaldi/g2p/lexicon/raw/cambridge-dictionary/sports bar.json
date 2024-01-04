@@ -1,0 +1,39 @@
+{
+    "word": "sports bar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspɔːts ˌbɑːr"
+                            ],
+                            "us": [
+                                "ˈspɔːrts ˌbɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a bar where customers can watch sport on large television screens: ",
+                            "examples": [
+                                "They watched Korea's victory over Spain in a Tokyo sports bar."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of food made with ingredients such as grains and nuts shaped into a bar, that is intended to give you energy quickly, for example when you are running or playing a sport: ",
+                            "examples": [
+                                "If you're exercising for longer, have a quick-digesting carbohydrate such as a cereal or sports bar."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

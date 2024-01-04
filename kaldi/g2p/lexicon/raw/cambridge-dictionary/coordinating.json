@@ -1,0 +1,63 @@
+{
+    "word": "coordinating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncoordinate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəʊˈɔː.dɪ.neɪt"
+                            ],
+                            "us": [
+                                "koʊˈɔːr.dən.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make many different things work effectively as a whole: ",
+                            "examples": [
+                                "We need someone to coordinate the whole campaign.",
+                                "A number of charities are coordinating their efforts to distribute food to the region."
+                            ]
+                        },
+                        {
+                            "explanation": "to match or look attractive together: ",
+                            "examples": [
+                                "The bed linen coordinates with the bedroom curtains.",
+                                "a coordinating jacket and skirt"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

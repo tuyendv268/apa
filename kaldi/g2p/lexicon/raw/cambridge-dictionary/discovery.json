@@ -1,0 +1,42 @@
+{
+    "word": "discovery",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈskʌv.ər.i"
+                            ],
+                            "us": [
+                                "dɪˈskʌv.ɚ.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of finding information, a place, or an object, especially for the first time, or the thing that is found: ",
+                            "examples": [
+                                "Who is credited with the discovery of electricity?",
+                                "Leonardo made many scientific discoveries.",
+                                "a journey/voyage of discovery",
+                                "The discovery of a body in the undergrowth started a murder enquiry."
+                            ]
+                        },
+                        {
+                            "explanation": "part of a legal process in which the lawyers from one side in a case give documents relating to their case to the other side, before the trial begins: ",
+                            "examples": [
+                                "Among the thousands of documents Litt was able to obtain in discovery from the city was a memo written by a councilman's aide in response to one resident's complaint. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

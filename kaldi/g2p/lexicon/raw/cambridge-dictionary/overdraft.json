@@ -1,0 +1,34 @@
+{
+    "word": "overdraft",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈəʊ.və.drɑːft"
+                            ],
+                            "us": [
+                                "ˈoʊ.vɚ.dræft"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an amount of money that a customer with a bank account is temporarily allowed to owe to the bank, or the agreement that allows this: ",
+                            "examples": [
+                                "to run up/pay off an overdraft",
+                                "The bank offers overdraft facilities."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

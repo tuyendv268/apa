@@ -1,0 +1,46 @@
+{
+    "word": "feedback",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfiːd.bæk"
+                            ],
+                            "us": [
+                                "ˈfiːd.bæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "information or statements of opinion about something, such as a new product, that can tell you if it is successful or liked: ",
+                            "examples": [
+                                "Have you had any feedback from customers about the new soap?",
+                                "positive/negative feedback"
+                            ]
+                        },
+                        {
+                            "explanation": "the sudden, high, unpleasant noise sometimes produced by an amplifier when sound it produces is put back into it: ",
+                            "examples": [
+                                "Jimi Hendrix loved to fling his guitar around to get weird and wonderful sounds from the feedback."
+                            ]
+                        },
+                        {
+                            "explanation": "the return back into a machine or system of part of what it produces, especially to improve what is produced: ",
+                            "examples": [
+                                "Feedback from the sensors ensures that the car engine runs smoothly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

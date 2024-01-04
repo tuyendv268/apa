@@ -1,0 +1,34 @@
+{
+    "word": "self-select",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌself.sɪˈlekt"
+                            ],
+                            "us": [
+                                "ˌself.səˈlekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to choose something yourself, rather than have someone choose it for you: ",
+                            "examples": [
+                                "Voters who self-select to register Republican make up about 31% of voters in California.",
+                                "Since people self-select group members who they already know and trust, the issue of adverse selection is avoided."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

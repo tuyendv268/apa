@@ -1,0 +1,49 @@
+{
+    "word": "administrative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ədˈmɪn.ɪ.strə.tɪv"
+                            ],
+                            "us": [
+                                "ædˈmɪn.ɪˌstreɪ.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the arrangements and work that is needed to control the operation of a plan or organization: ",
+                            "examples": [
+                                "administrative work",
+                                "an administrative problem",
+                                "Your responsibilities will be mainly administrative."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the organization and structure of local government: ",
+                            "examples": [
+                                "Brittany is a cultural and administrative region in the north-west of France. ",
+                                "The villages had been omitted because they fell outside the administrative boundary of the region. "
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the laws that control local government: ",
+                            "examples": [
+                                "In several countries, administrative law is distinguished from constitutional law by being concerned purely with matters of public administration.",
+                                "Review by an administrative tribunal is generally to determine whether a decision taken by an executive authority breaches procedural rules."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

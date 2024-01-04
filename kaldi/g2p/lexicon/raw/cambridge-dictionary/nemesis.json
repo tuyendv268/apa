@@ -1,0 +1,41 @@
+{
+    "word": "nemesis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnem.ə.sɪs"
+                            ],
+                            "us": [
+                                "ˈnem.ə.sɪs"
+                            ],
+                            "uk_other_tense": [
+                                "ˈnem.ə.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˈnem.ə.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Someone's nemesis is a person or thing that is very difficult for them to defeat.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(a cause of) punishment or defeat that is deserved and cannot be avoided: ",
+                            "examples": [
+                                "The tax increases proved to be the president's political nemesis."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

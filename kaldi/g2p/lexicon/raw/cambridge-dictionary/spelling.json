@@ -1,0 +1,41 @@
+{
+    "word": "spelling",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspel.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈspel.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "forming words with the correct letters in the correct order, or the ability to do this: ",
+                            "examples": [
+                                "He's hopeless at spelling.",
+                                "My computer has a program which corrects my spelling.",
+                                "Your essay is full of spelling mistakes/errors."
+                            ]
+                        },
+                        {
+                            "explanation": "the way a particular word is spelled: ",
+                            "examples": [
+                                "This dictionary includes both British and American spellings of words."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

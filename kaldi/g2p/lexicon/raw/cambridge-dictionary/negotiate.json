@@ -1,0 +1,51 @@
+{
+    "word": "negotiate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "nəˈɡəʊ.ʃi.eɪt"
+                            ],
+                            "us": [
+                                "nəˈɡoʊ.ʃi.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to have formal discussions with someone in order to reach an agreement with them: ",
+                            "examples": [
+                                "The government has refused to negotiate with the strikers.",
+                                "I'm negotiating for a new contract.",
+                                "I've managed to negotiate (= get by discussion) a five percent pay increase with my boss."
+                            ]
+                        },
+                        {
+                            "explanation": "to manage to travel along a difficult route: ",
+                            "examples": [
+                                "The only way to negotiate the muddy hillside is on foot."
+                            ]
+                        },
+                        {
+                            "explanation": "to deal with something difficult: ",
+                            "examples": [
+                                "The company's had some tricky problems to negotiate in its first year in business."
+                            ]
+                        },
+                        {
+                            "explanation": "to get or give an amount of money in exchange for a financial document of the same value",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "postbag",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊst.bæɡ"
+                            ],
+                            "us": [
+                                "ˈpoʊst.bæɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number of letters received at one time or on one subject: ",
+                            "examples": [
+                                "It was clear from our postbag that viewers were unhappy about the programme."
+                            ]
+                        },
+                        {
+                            "explanation": "a large strong bag used by the Post Office for transporting and carrying letters and parcels",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

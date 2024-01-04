@@ -1,0 +1,43 @@
+{
+    "word": "misfire",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪsˈfaɪər"
+                            ],
+                            "us": [
+                                "ˌmɪsˈfaɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a gun misfires, the bullet fails to come out.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "When an engine misfires, the fuel inside it starts to burn at the wrong moment: ",
+                            "examples": [
+                                "There was a loud bang, like the sound of an engine misfiring."
+                            ]
+                        },
+                        {
+                            "explanation": "If a plan misfires, it does not have the result that was intended: ",
+                            "examples": [
+                                "The boy's death was the result of a practical joke that misfired."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

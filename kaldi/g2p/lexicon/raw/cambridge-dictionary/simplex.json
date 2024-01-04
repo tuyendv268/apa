@@ -1,0 +1,69 @@
+{
+    "word": "simplex",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪm.pleks"
+                            ],
+                            "us": [
+                                "ˈsɪm.pleks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "consisting of or containing a single part, structure, etc.: ",
+                            "examples": [
+                                "A parent with such a single dose of the dominant allele is called the simplex parent."
+                            ]
+                        },
+                        {
+                            "explanation": "of a communications system, allowing communication in only one direction: ",
+                            "examples": [
+                                "Radio technology refers to a simplex system when only one party can transmit at a time."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪm.pleks"
+                            ],
+                            "us": [
+                                "ˈsɪm.pleks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a simple word that is not a combination of other words or parts of words : ",
+                            "examples": [
+                                "Several Old English simplices have the general meaning \"mind\". "
+                            ]
+                        },
+                        {
+                            "explanation": "the simplest shape that is possible in a particular space : ",
+                            "examples": [
+                                "A regular simplex of dimension n is the polytope with the largest number of points that can be embedded in Rn such that all points are equidistant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

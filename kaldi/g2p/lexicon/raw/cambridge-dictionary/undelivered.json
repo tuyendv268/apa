@@ -1,0 +1,41 @@
+{
+    "word": "undelivered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌn.dɪˈlɪv.əd"
+                            ],
+                            "us": [
+                                "ˌʌn.dɪˈlɪv.ɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An undelivered letter, parcel, or message has not been delivered or cannot be delivered: ",
+                            "examples": [
+                                "We spend millions trying to return undelivered mail that is not properly addressed.",
+                                "The airline's baggage problem arose last week after technical faults resulted in 7,000 bags being undelivered."
+                            ]
+                        },
+                        {
+                            "explanation": "If something that was promised or planned is undelivered, it has not been done: ",
+                            "examples": [
+                                "The vendor has been making undelivered promises since before shipment.",
+                                "It was not the only undelivered element of the company's obligations."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

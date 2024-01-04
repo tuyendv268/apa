@@ -1,0 +1,68 @@
+{
+    "word": "presumed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npresume ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈzjuːm"
+                            ],
+                            "us": [
+                                "prɪˈzuːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to believe something to be true because it is very likely, although you are not certain: ",
+                            "examples": [
+                                "I presume (that) they're not coming, since they haven't replied to the invitation.",
+                                "You are Dr Smith, I presume?",
+                                "\"Are we walking to the hotel?\" \"I presume not/so.\"",
+                                "The boat's captain is missing, presumed dead (= it is believed that he is dead).",
+                                "In British law, you are presumed innocent until you are proved guilty.",
+                                "The universe is presumed to contain many other planets with some form of life."
+                            ]
+                        },
+                        {
+                            "explanation": "to do something although you know that you do not have a right to do it: ",
+                            "examples": [
+                                "I wouldn't presume to tell you how to do your job, but shouldn't this piece go there?",
+                                "I don't wish to presume (= make a suggestion although I have no right to), but don't you think you should apologize to her?",
+                                "He presumes on her good nature (= takes unfair advantage of it)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

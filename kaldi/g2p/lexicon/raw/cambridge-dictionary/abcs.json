@@ -1,0 +1,39 @@
+{
+    "word": "abcs",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌeɪ.biːˈsiːz"
+                            ],
+                            "us": [
+                                "ˌeɪ.biːˈsiːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the alphabet: ",
+                            "examples": [
+                                "He's learning his ABCs at school."
+                            ]
+                        },
+                        {
+                            "explanation": "basic information about a subject: ",
+                            "examples": [
+                                "What I need is a book that contains the ABCs of carpentry."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

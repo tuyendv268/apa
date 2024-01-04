@@ -1,0 +1,33 @@
+{
+    "word": "username",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈjuː.zə.neɪm"
+                            ],
+                            "us": [
+                                "ˈjuː.zɚ.neɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a name or other word that you sometimes need to type in along with a password before you are allowed to use a computer or a website: ",
+                            "examples": [
+                                "Please enter your username and password."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

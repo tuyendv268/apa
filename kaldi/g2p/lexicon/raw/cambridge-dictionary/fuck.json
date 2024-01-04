@@ -1,0 +1,83 @@
+{
+    "word": "fuck",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fʌk"
+                            ],
+                            "us": [
+                                "fʌk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a rude word meaning to have sex with someone",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "fʌk"
+                            ],
+                            "us": [
+                                "fʌk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a rude word used when expressing extreme anger, or to add force to what is being said: ",
+                            "examples": [
+                                "Fuck - the car won't start!",
+                                "Shut the fuck up!",
+                                "Who the fuck does she think she is, telling me what to do?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fʌk"
+                            ],
+                            "us": [
+                                "fʌk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a rude word for an act of having sex",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an offensive word for a sexual partner",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

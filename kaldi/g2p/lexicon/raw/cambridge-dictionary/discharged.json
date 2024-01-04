@@ -1,0 +1,80 @@
+{
+    "word": "discharged",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndischarge ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪsˈtʃɑːdʒ"
+                            ],
+                            "us": [
+                                "dɪsˈtʃɑːrdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to allow someone officially to leave somewhere, especially a hospital or a law court: ",
+                            "examples": [
+                                "Patients were discharged from the hospital because the beds were needed by other people.",
+                                "More than half of all prisoners discharged are reconvicted within two years.",
+                                "A peace protester was conditionally discharged for twelve months (= allowed to go free only if they do not commit a crime again for this period of time)."
+                            ]
+                        },
+                        {
+                            "explanation": "to send out a substance, especially waste liquid or gas: ",
+                            "examples": [
+                                "Large amounts of dangerous waste are discharged daily by the factory.",
+                                "The oil that discharged into the sea seriously harmed a lot of birds and animals."
+                            ]
+                        },
+                        {
+                            "explanation": "to perform a task, especially an official one: ",
+                            "examples": [
+                                "The city must discharge its legal duty to house the homeless."
+                            ]
+                        },
+                        {
+                            "explanation": "to pay back a debt completely",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to fire a gun, or to fire a shot from a gun: ",
+                            "examples": [
+                                "The police stated that some 50 rounds had been discharged."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

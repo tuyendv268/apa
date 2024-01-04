@@ -1,0 +1,35 @@
+{
+    "word": "passivhaus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpæs.ɪv.haʊs"
+                            ],
+                            "us": [
+                                "ˈpæs.ɪv.haʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a standard for houses that are very environmentally friendly (= not harmful to the environment) because they can be kept at a comfortable temperature using no or almost no energy, or a house that meets this standard: ",
+                            "examples": [
+                                "The 50 unit residential development is to be built to the standards of PassivHaus.",
+                                "An important feature of a Passivhaus is extreme air-tightness, which is necessary to minimize heat loss.",
+                                "Passive House buildings use energy sources such as the body heat from the residents or solar heat entering the building."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

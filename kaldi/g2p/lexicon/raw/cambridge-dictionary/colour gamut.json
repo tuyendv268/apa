@@ -1,0 +1,35 @@
+{
+    "word": "colour gamut",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkʌl.ə ˌɡæm.ət"
+                            ],
+                            "us": [
+                                "ˈkʌl.ɚ ˌɡæm.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the set of colours that can be represented by a device such as a computer or television screen or a printer: ",
+                            "examples": [
+                                "Matte screens typically have a better colour gamut and are viewable in brighter conditions.",
+                                "The technology can deliver high-quality prints, fast print speeds, and an extremely wide colour gamut.",
+                                "Gamuts can be represented in a diagrammatic way."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

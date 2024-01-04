@@ -1,0 +1,76 @@
+{
+    "word": "random",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈræn.dəm"
+                            ],
+                            "us": [
+                                "ˈræn.dəm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "happening, done, or chosen by chance rather than according to a plan: ",
+                            "examples": [
+                                "random checks/tests/attacks",
+                                "We asked a random sample/selection of people what they thought."
+                            ]
+                        },
+                        {
+                            "explanation": "strange or unusual: ",
+                            "examples": [
+                                "I just saw Billy wearing a top hat - he's so random!"
+                            ]
+                        },
+                        {
+                            "explanation": "unknown and unexpected in a particular situation: ",
+                            "examples": [
+                                "Some random guy walked in."
+                            ]
+                        },
+                        {
+                            "explanation": "by chance, or without being chosen intentionally: ",
+                            "examples": [
+                                "The winning entry will be the first correct answer drawn at random."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈræn.dəm"
+                            ],
+                            "us": [
+                                "ˈræn.dəm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an unknown or unexpected person: ",
+                            "examples": [
+                                "You can't make a whole movie with randoms off the street."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

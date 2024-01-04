@@ -1,0 +1,61 @@
+{
+    "word": "invented",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ninvent ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈvent"
+                            ],
+                            "us": [
+                                "ɪnˈvent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to design and/or create something that has never been made before: ",
+                            "examples": [
+                                "The first safety razor was invented by company founder King C. Gillette in 1903."
+                            ]
+                        },
+                        {
+                            "explanation": "to create a reason, excuse, story, etc. that is not true, usually to deceive someone: ",
+                            "examples": [
+                                "But I didn't invent the story - everything I told you is true."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

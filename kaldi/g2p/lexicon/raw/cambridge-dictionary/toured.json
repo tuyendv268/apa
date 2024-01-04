@@ -1,0 +1,65 @@
+{
+    "word": "toured",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntour ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tʊər",
+                                "tɔːr"
+                            ],
+                            "us": [
+                                "tʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to go on a tour somewhere: ",
+                            "examples": [
+                                "We spent a month touring (around/round/in) Kenya.",
+                                "The New Zealand team will be touring (in) Europe this winter.",
+                                "The president toured US military bases yesterday.",
+                                "The band is currently touring to promote the new album."
+                            ]
+                        },
+                        {
+                            "explanation": "If a play tours a particular area, it is performed in several places there: ",
+                            "examples": [
+                                "The play will be performed first in the capital, and will then tour the rest of the country."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

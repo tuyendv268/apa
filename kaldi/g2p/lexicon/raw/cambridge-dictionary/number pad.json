@@ -1,0 +1,40 @@
+{
+    "word": "number pad",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnʌm.bə ˌpæd"
+                            ],
+                            "us": [
+                                "ˈnʌm.bɚ ˌpæd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of a keyboard, usually on the right hand side, that has 17 keys and is used for entering numbers; a separate device like this: ",
+                            "examples": [
+                                "This keyboard has a built-in number pad, and all you need to do is press the “num lock” key to use it."
+                            ]
+                        },
+                        {
+                            "explanation": "a display of numbers on a mobile phone or electrical device, that you press to make the device do something: ",
+                            "examples": [
+                                "The keyboard is hidden behind the phone's number pad.",
+                                "Press the number pad to select the desired oven temperature."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "nine",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "naɪn"
+                            ],
+                            "us": [
+                                "naɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 9: ",
+                            "examples": [
+                                "The children go to bed at nine (o'clock).",
+                                "a nine-month prison sentence"
+                            ]
+                        },
+                        {
+                            "explanation": "describing or relating to work that begins at nine o'clock in the morning and finishes at five, the hours worked in many offices from Monday to Friday: ",
+                            "examples": [
+                                "a nine-to-five routine"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

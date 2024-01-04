@@ -1,0 +1,42 @@
+{
+    "word": "connector",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəˈnek.tər"
+                            ],
+                            "us": [
+                                "kəˈnek.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device or part of a device that makes it possible to connect one piece of electrical equipment to another by allowing contact between wires, electrical components (= parts), etc. : ",
+                            "examples": [
+                                "This charger doesn't have the right connector for my phone.",
+                                "USB connectors are sometimes referred to as \"male\" connectors, plugging into a \"female\" port.",
+                                "This easy-to-set-up external device connects to the monitor connector of a computer."
+                            ]
+                        },
+                        {
+                            "explanation": "an object that connects two pipes, tubes, etc. so that something such as water or gas can flow from one to the other: ",
+                            "examples": [
+                                "We sell connectors for outdoor taps and hosepipes.",
+                                "Water pipes are linked to the basin by 15mm connectors. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

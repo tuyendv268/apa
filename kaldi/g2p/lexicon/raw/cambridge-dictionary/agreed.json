@@ -1,0 +1,40 @@
+{
+    "word": "agreed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈɡriːd"
+                            ],
+                            "us": [
+                                "əˈɡriːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "accepted: ",
+                            "examples": [
+                                "We have to stick to the agreed price.",
+                                "\"So we'll meet at 5.30, shall we?\" \"Agreed (= yes).\""
+                            ]
+                        },
+                        {
+                            "explanation": "If two or more people are agreed, they have the same opinion: ",
+                            "examples": [
+                                "Are we all agreed (on that)?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "freshman",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfreʃ.mən"
+                            ],
+                            "us": [
+                                "ˈfreʃ.mən"
+                            ],
+                            "uk_other_tense": [
+                                "ˈfreʃ.mən"
+                            ],
+                            "us_other_tense": [
+                                "ˈfreʃ.mən"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a student in the first year of high school, college, or university: ",
+                            "examples": [
+                                "He's a freshman at Harvard.",
+                                "Greg and Jody met in their freshman year at college and married soon after they graduated."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who has recently started any particular job or activity: ",
+                            "examples": [
+                                "a freshman in Congress",
+                                "a freshman football player"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "syntactic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "sɪnˈtæk.tɪk"
+                            ],
+                            "us": [
+                                "sɪnˈtæk.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the grammatical arrangement of words in a sentence: ",
+                            "examples": [
+                                "syntactic analysis",
+                                "Readers use their syntactic and semantic knowledge to decode the text."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to the structure of statements or elements in a computer language: ",
+                            "examples": [
+                                "Markup and content may be distinguished by the application of simple syntactic rules."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "consequentially",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒn.sɪˈkwen.ʃəl.i"
+                            ],
+                            "us": [
+                                "ˌkɑːn.səˈkwən.ʃəl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "as a result: ",
+                            "examples": [
+                                "They were given no training or instructions and consequentially made a mess of the job.",
+                                "These potatoes have more starch and consequentially are better suited for baking."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that is important and has a strong influence on events, decisions, etc.: ",
+                            "examples": [
+                                "She understands which issues matter to voters and, more consequentially, what makes them vote for a particular candidate.",
+                                "Most consequentially, he had lost the confidence of his colleagues."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

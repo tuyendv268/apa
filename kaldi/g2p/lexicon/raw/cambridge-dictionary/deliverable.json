@@ -1,0 +1,57 @@
+{
+    "word": "deliverable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈlɪv.ər.ə.bəl"
+                            ],
+                            "us": [
+                                "dɪˈlɪv.ɚ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that can be provided or achieved as a result of a process: ",
+                            "examples": [
+                                "What are the project deliverables?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈlɪv.ər.ə.bəl"
+                            ],
+                            "us": [
+                                "dɪˈlɪv.ɚ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to be delivered: ",
+                            "examples": [
+                                "The goods were not in a deliverable state."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

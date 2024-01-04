@@ -1,0 +1,78 @@
+{
+    "word": "guaranteeing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nguarantee ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌɡær.ənˈtiː"
+                            ],
+                            "us": [
+                                "ˌɡer.ənˈtiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a product is guaranteed, the company that made it promises to repair or change it if a fault develops within a particular period of time: ",
+                            "examples": [
+                                "The fridge is guaranteed for three years."
+                            ]
+                        },
+                        {
+                            "explanation": "to promise that something will happen or exist: ",
+                            "examples": [
+                                "European Airlines guarantees its customers top-quality service.",
+                                "The label on this bread says it is guaranteed free of/from preservatives (= it contains no preservatives)."
+                            ]
+                        },
+                        {
+                            "explanation": "If you guarantee someone's debt, you formally promise to accept the responsibility for that debt if the person fails to pay it.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If something guarantees something else, it makes certain that it will happen: ",
+                            "examples": [
+                                "The £50 deposit guarantees (that) people return the boats after their hour has finished."
+                            ]
+                        },
+                        {
+                            "explanation": "If something is guaranteed to happen or have a particular result, it is certain that it will happen or have that result: ",
+                            "examples": [
+                                "Just looking at a picture of the sea is guaranteed to make me feel sick."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

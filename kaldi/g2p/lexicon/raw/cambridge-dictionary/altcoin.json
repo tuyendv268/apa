@@ -1,0 +1,34 @@
+{
+    "word": "altcoin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒlt.kɔɪn"
+                            ],
+                            "us": [
+                                "ˈɑːlt.kɔɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any cryptocurrency (= a digital currency that is produced by a public network rather than by a government and uses special codes to keep it secure) that is not bitcoin (= the first cryptocurrency to be established): ",
+                            "examples": [
+                                "There are thousands of Altcoins in existence today.",
+                                "Each altcoin operates according to its own rules."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

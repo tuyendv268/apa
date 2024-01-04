@@ -1,0 +1,56 @@
+{
+    "word": "argue",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑːɡ.juː"
+                            ],
+                            "us": [
+                                "ˈɑːrɡ.juː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak angrily to someone, telling that person that you disagree with them: ",
+                            "examples": [
+                                "They were arguing over which film to go and see.",
+                                "The children are always arguing.",
+                                "Kids, will you stop arguing with each other?"
+                            ]
+                        },
+                        {
+                            "explanation": "to give the reasons for your opinion, idea, belief, etc.: ",
+                            "examples": [
+                                "The senator argued against making cuts in military spending.",
+                                "The senator argued for making cuts in military spending.",
+                                "The senator argued in favour of making cuts in military spending.",
+                                "The senator argued that cuts in military spending were needed."
+                            ]
+                        },
+                        {
+                            "explanation": "to give reasons why you think that a particular idea is right or wrong: ",
+                            "examples": [
+                                "You can argue the case either way."
+                            ]
+                        },
+                        {
+                            "explanation": "to show that something is true or exists: ",
+                            "examples": [
+                                "The evidence argues a change in policy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "cardio",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɑː.di.əʊ"
+                            ],
+                            "us": [
+                                "ˈkɑːr.di.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "physical exercise that increases the rate at which your heart works: ",
+                            "examples": [
+                                "My workout usually includes 15 to 20 minutes of cardio.",
+                                "cardio exercises/training/workouts"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "kɑː.di.əʊ-"
+                            ],
+                            "us": [
+                                "kɑːr.di.oʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "of the heart: ",
+                            "examples": [
+                                "cardiovascular"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

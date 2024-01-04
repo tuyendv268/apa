@@ -1,0 +1,73 @@
+{
+    "word": "watering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nwater ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɔː.tər"
+                            ],
+                            "us": [
+                                "ˈwɑː.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pour water on to plants or the soil that they are growing in: ",
+                            "examples": [
+                                "I've asked my neighbour to water the plants while I'm away."
+                            ]
+                        },
+                        {
+                            "explanation": "to give an animal water to drink: ",
+                            "examples": [
+                                "The horses had been fed and watered."
+                            ]
+                        },
+                        {
+                            "explanation": "If your mouth waters, it produces a lot of saliva, usually because you can see or smell some food that you would like to eat: ",
+                            "examples": [
+                                "The smell of that bread is making my mouth water!"
+                            ]
+                        },
+                        {
+                            "explanation": "When your eyes water, they produce tears but not because you are unhappy: ",
+                            "examples": [
+                                "How do you stop your eyes from watering when you're cutting up onions?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

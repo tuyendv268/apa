@@ -1,0 +1,64 @@
+{
+    "word": "homeward",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhəʊm.wəd"
+                            ],
+                            "us": [
+                                "ˈhoʊm.wɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "towards home: ",
+                            "examples": [
+                                "After three hours cycling we decided to turn homeward."
+                            ]
+                        },
+                        {
+                            "explanation": "travelling towards home: ",
+                            "examples": [
+                                "We were so happy to be homeward bound."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈhəʊm.wəd"
+                            ],
+                            "us": [
+                                "ˈhoʊm.wɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "going towards home: ",
+                            "examples": [
+                                "the homeward journey",
+                                "It happened when she was on the homeward flight back to the UK."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

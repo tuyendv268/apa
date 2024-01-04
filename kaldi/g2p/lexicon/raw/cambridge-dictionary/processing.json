@@ -1,0 +1,52 @@
+{
+    "word": "processing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprəʊ.ses.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈprɑː.ses.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of dealing with documents or people in an official way: ",
+                            "examples": [
+                                "There was a delay in the processing of passport applications.",
+                                "The processing of claims will begin later this year. "
+                            ]
+                        },
+                        {
+                            "explanation": "(of a computer) the act of performing a particular series of operations on information, such as a set of calculations: ",
+                            "examples": [
+                                "data processing"
+                            ]
+                        },
+                        {
+                            "explanation": "the act of preparing, changing, or treating food or natural substances as a part of an industrial operation: ",
+                            "examples": [
+                                "a waste processing plant"
+                            ]
+                        },
+                        {
+                            "explanation": "the act of making pictures from photographic film: ",
+                            "examples": [
+                                "The popularity of digital cameras has reduced the demand for traditional film processing. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "word": "anti",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈæn.ti"
+                            ],
+                            "us": [
+                                "ˈæn.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "opposed to or against a particular thing or person: ",
+                            "examples": [
+                                "We've received a lot of anti letters about that newspaper article.",
+                                "Just because I won't join you, it doesn't mean that I'm anti you."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæn.ti"
+                            ],
+                            "us": [
+                                "ˈæn.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who is opposed to something or someone: ",
+                            "examples": [
+                                "So what do you think about smoking in public places - are you a pro or an anti (= do you support or oppose it)?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "æn.ti-"
+                            ],
+                            "us": [
+                                "æn.t̬i",
+                                "æn.taɪ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "opposed to or against",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "opposite of",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "preventing",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

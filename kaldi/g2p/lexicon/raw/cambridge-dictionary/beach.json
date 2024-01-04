@@ -1,0 +1,59 @@
+{
+    "word": "beach",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "biːtʃ"
+                            ],
+                            "us": [
+                                "biːtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area of sand or small stones near the sea or another area of water such as a lake: ",
+                            "examples": [
+                                "We spent the day on the beach.",
+                                "a beach café",
+                                "a beach towel"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "biːtʃ"
+                            ],
+                            "us": [
+                                "biːtʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pull or force a boat, etc. out of the water onto the land: ",
+                            "examples": [
+                                "The boat had been beached near the rocks."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

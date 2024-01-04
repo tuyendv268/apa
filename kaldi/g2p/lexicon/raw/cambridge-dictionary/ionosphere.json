@@ -1,0 +1,41 @@
+{
+    "word": "ionosphere",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "aɪˈɒn.əˌsfɪər"
+                            ],
+                            "us": [
+                                "aɪˈɑː.nəˌsfɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of a planet's atmosphere in which there are many ions (= atoms or groups of atoms that have an electrical charge): ",
+                            "examples": [
+                                "Which planets have an ionosphere?",
+                                "Some sorts of plasmoid life may exist in planetary ionospheres or interstellar space."
+                            ]
+                        },
+                        {
+                            "explanation": "the part of the earth's atmosphere, from about 60 kilometres to about 1,000 kilometres above the surface, in which there are many ions (= atoms or groups of atoms that have an electrical charge): ",
+                            "examples": [
+                                "Altering the temperature of the ionosphere can affect the chemical reactions that produce ozone.",
+                                "Microwaves are able to pass through the ionosphere to reach satellites in space."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

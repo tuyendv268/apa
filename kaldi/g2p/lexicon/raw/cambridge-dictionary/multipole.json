@@ -1,0 +1,42 @@
+{
+    "word": "multipole",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.tiˈpəʊl"
+                            ],
+                            "us": [
+                                "ˌmʌl.tiˈpoʊl",
+                                "ˌmʌl.taɪˈpoʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving several magnetic poles (= the ends of a magnet where the magnetic force is strongest): ",
+                            "examples": [
+                                "The plasma is confined within a magnetic trap with multipole magnetic walls.",
+                                "Eriksson looked at the nonlinear motion of a rigid conductor in a multipole field."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to a mathematical calculation that involves a series of terms, used especially for solving problems in physics: ",
+                            "examples": [
+                                "multipole expansion",
+                                "multipole methods"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

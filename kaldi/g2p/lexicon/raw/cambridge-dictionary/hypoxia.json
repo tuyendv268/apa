@@ -1,0 +1,41 @@
+{
+    "word": "hypoxia",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "haɪˈpɒk.si.ə"
+                            ],
+                            "us": [
+                                "haɪˈpɑːk.si.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a condition in which there is not enough oxygen available to the blood and body tissues: ",
+                            "examples": [
+                                "Doctors are learning more about the threat that affects every airline passenger: hypoxia, the term for too little oxygen.",
+                                "After major surgery hypoxia can occur for up to for 3 days, particularly at night."
+                            ]
+                        },
+                        {
+                            "explanation": "a situation in which there is not enougth oxygen in a place or environment: ",
+                            "examples": [
+                                "His team studied fish in an estuary suffering hypoxia.",
+                                "Hypoxia is an oxygen deficiency in water that threatens the survival of many species."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

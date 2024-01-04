@@ -1,0 +1,39 @@
+{
+    "word": "inhibit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈhɪb.ɪt"
+                            ],
+                            "us": [
+                                "ɪnˈhɪb.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to prevent someone from doing something by making them feel nervous or embarrassed : ",
+                            "examples": [
+                                "Some workers were inhibited (from speaking) by the presence of their managers."
+                            ]
+                        },
+                        {
+                            "explanation": "to slow down a process or the growth of something: ",
+                            "examples": [
+                                "This drug inhibits the growth of tumours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

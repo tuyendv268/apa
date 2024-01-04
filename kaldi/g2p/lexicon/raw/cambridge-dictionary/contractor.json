@@ -1,0 +1,42 @@
+{
+    "word": "contractor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈtræk.tər"
+                            ],
+                            "us": [
+                                "ˈkɑːn.træk.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person or company that signs a contract to supply materials or workers to perform a service or a job: ",
+                            "examples": [
+                                "He is a building contractor who was working on hurricane repair in Florida.",
+                                "They are one of the nation's largest airport security contractors.",
+                                "Set designers work with contractors to build an entire new set for each episode."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who works or provides a service for a company for a limited period of time, but is not an employee: ",
+                            "examples": [
+                                "Average hourly rates for IT contractors working in the financial services sector rose.",
+                                "They hire contractors to perform data entry and customer service tasks."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

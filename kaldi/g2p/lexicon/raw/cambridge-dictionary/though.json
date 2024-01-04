@@ -1,0 +1,69 @@
+{
+    "word": "though",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "ðəʊ"
+                            ],
+                            "us": [
+                                "ðoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "despite the fact that: ",
+                            "examples": [
+                                "She hasn't called, even though she said she would."
+                            ]
+                        },
+                        {
+                            "explanation": "but: ",
+                            "examples": [
+                                "They're coming next week, though I don't know which day."
+                            ]
+                        },
+                        {
+                            "explanation": "as if: ",
+                            "examples": [
+                                "You look as though you've been running a marathon!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ðəʊ"
+                            ],
+                            "us": [
+                                "ðoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "despite this: ",
+                            "examples": [
+                                "We went to high school together. I haven't seen her for years, though."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

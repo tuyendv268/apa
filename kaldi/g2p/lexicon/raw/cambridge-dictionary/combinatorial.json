@@ -1,0 +1,34 @@
+{
+    "word": "combinatorial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒm.bɪ.nəˈtɔː.ri.əl"
+                            ],
+                            "us": [
+                                "ˌkɑːm.bə.nəˈtɔːr.i.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the arrangement of a number of elements from a set without putting them in any particular order : ",
+                            "examples": [
+                                "Although not a professional mathematician, he created an interesting problem in combinatorial analysis.",
+                                "The software is intended to be used for creating organizational charts and in solving combinatorial problems."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

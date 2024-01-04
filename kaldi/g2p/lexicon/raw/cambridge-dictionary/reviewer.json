@@ -1,0 +1,37 @@
+{
+    "word": "reviewer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈvjuː.ər"
+                            ],
+                            "us": [
+                                "rɪˈvjuː.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who writes articles expressing their opinion of a book, play, film, etc.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "someone who works for an official organization that controls a particular type of activity: ",
+                            "examples": [
+                                "A Food and Drug Agency reviewer said the new treatment appears to be working effectively."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

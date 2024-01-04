@@ -1,0 +1,58 @@
+{
+    "word": "wont",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "wəʊnt"
+                            ],
+                            "us": [
+                                "woʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in the way that someone usually does: ",
+                            "examples": [
+                                "She arrived an hour late, as is her wont."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "wəʊnt"
+                            ],
+                            "us": [
+                                "woʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to often do something: ",
+                            "examples": [
+                                "The previous city council was wont to overspend.",
+                                "They spent much of the time reminiscing about the war, as old soldiers are wont to do."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

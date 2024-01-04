@@ -1,0 +1,60 @@
+{
+    "word": "cooking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkʊk.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈkʊk.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the activity of preparing or cooking food: ",
+                            "examples": [
+                                "My mother always hated cooking.",
+                                "Who does the cooking in your house?",
+                                "I love my dad's cooking (= the food that he cooks)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkʊk.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈkʊk.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "good for cooking with: ",
+                            "examples": [
+                                "cooking apples",
+                                "cooking oil"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

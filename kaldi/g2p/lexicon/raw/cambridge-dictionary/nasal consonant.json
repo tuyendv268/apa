@@ -1,0 +1,33 @@
+{
+    "word": "nasal consonant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌneɪ.zəl ˈkɒn.sə.nənt"
+                            ],
+                            "us": [
+                                "ˌneɪ.zəl ˈkɑːn.sə.nənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a consonant in which air escapes only through the nose: ",
+                            "examples": [
+                                "In English, \"m\" and \"n\" are nasal consonants."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

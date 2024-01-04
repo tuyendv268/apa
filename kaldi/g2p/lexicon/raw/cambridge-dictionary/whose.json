@@ -1,0 +1,61 @@
+{
+    "word": "whose",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "huːz"
+                            ],
+                            "us": [
+                                "huːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used especially in questions when asking about which person owns or is responsible for something: ",
+                            "examples": [
+                                "Whose is this bag?",
+                                "Whose bag is this?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "huːz"
+                            ],
+                            "us": [
+                                "huːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used for adding information about a person or thing just mentioned: ",
+                            "examples": [
+                                "Cohen, whose short film won awards, was chosen to direct the movie .",
+                                "There was a picture in the paper of a man whose leg had been blown off.",
+                                "They meet in an old house, whose basement has been converted into a chapel.",
+                                "Fraud detectives are investigating the company, three of whose senior executives have already been arrested."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

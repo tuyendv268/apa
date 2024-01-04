@@ -1,0 +1,34 @@
+{
+    "word": "inclusive disjunction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˌkluː.sɪv dɪsˈdʒʌŋk.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˌkluː.sɪv dɪsˈdʒʌŋk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "In logic (= a formal scientific method of examining or thinking about ideas), an inclusive disjunction is a situation in which a statement with two parts is true if either one or both of the parts is true: ",
+                            "examples": [
+                                "This symbol is used in algebra to indicate an inclusive disjunction between two statements. ",
+                                "In logic and mathematics, inclusive disjunction results in \"true\" whenever one or more of its operands are true."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

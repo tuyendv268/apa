@@ -1,0 +1,31 @@
+{
+    "word": "guide word",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡaɪd ˌwɜːd"
+                            ],
+                            "us": [
+                                "ˈɡaɪd ˌwɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "In this dictionary, guide words help you find the explanation you are looking for when a word has more than one main meaning. They are printed in small, coloured capital letters.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

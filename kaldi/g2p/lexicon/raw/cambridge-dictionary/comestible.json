@@ -1,0 +1,55 @@
+{
+    "word": "comestible",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəˈmes.tə.bəl"
+                            ],
+                            "us": [
+                                "kəˈmes.tə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an item of food: ",
+                            "examples": [
+                                "I decided to stop doing anything social and just spend my money on healthy comestibles.",
+                                "They threw dinner parties and typically, they would fly over to Paris beforehand to purchase comestibles."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "suitable or safe for eating: ",
+                            "examples": [
+                                "Vanilla planifolia is generally considered to be the only orchid that provides a comestible product.",
+                                "The puppy needs to learn that not everything comestible is his."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

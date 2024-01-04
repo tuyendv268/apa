@@ -1,0 +1,69 @@
+{
+    "word": "unfolding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nunfold ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈfəʊld"
+                            ],
+                            "us": [
+                                "ʌnˈfoʊld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to open or spread out something that has been folded: ",
+                            "examples": [
+                                "He watched her expression as she unfolded the letter.",
+                                "She unfolded a deckchair and sat down."
+                            ]
+                        },
+                        {
+                            "explanation": "If a situation or story unfolds, it develops or becomes clear to other people: ",
+                            "examples": [
+                                "Like a lot of people, I've watched the events of the last few days unfold on TV.",
+                                "As the plot unfolds, you gradually realize that all your initial assumptions were wrong."
+                            ]
+                        },
+                        {
+                            "explanation": "to tell a story or explain something such as a plan: ",
+                            "examples": [
+                                "Gradually, the author unfolds a fantastical tale."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

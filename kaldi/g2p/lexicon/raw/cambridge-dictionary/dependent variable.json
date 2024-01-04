@@ -1,0 +1,39 @@
+{
+    "word": "dependent variable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˌpen.dənt ˈveə.ri.ə.bəl"
+                            ],
+                            "us": [
+                                "dɪˌpen.dənt ˈver.i.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number or amount whose value depends on the value of another element in the same mathematical expression (= group of symbols representing an amount or idea): ",
+                            "examples": [
+                                "The dependent variable is often denoted by y."
+                            ]
+                        },
+                        {
+                            "explanation": "in an experiment (= a scientific test done in order to learn something), the variable (= a number, amount, or situation that can change) that is being studied and that changes when another variable is changed: ",
+                            "examples": [
+                                "The dependent variables were reaction time and accuracy of interpreting the Chinese words."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

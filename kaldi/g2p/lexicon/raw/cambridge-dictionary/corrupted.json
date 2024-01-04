@@ -1,0 +1,61 @@
+{
+    "word": "corrupted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncorrupt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəˈrʌpt"
+                            ],
+                            "us": [
+                                "kəˈrʌpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone or something become dishonest or immoral: ",
+                            "examples": [
+                                "The study claimed that violence on television corrupts the minds of children."
+                            ]
+                        },
+                        {
+                            "explanation": "to change information on a computer so that it is wrong and cannot be used: ",
+                            "examples": [
+                                "Most of the data on the hard drive was corrupted when the power went out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

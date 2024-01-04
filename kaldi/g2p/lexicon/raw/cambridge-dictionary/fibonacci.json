@@ -1,0 +1,33 @@
+{
+    "word": "fibonacci",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "fɪb.əˈnɑː.tʃi"
+                            ],
+                            "us": [
+                                "fɪb.əˈnɑː.tʃi "
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe methods of examining and predicting changes, for example of prices on the stock market, that use the mathematical relationships between numbers described by the Italian mathematician Fibonacci: ",
+                            "examples": [
+                                "Using Fibonacci analysis has proven to be effective as a predictor of stock values. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

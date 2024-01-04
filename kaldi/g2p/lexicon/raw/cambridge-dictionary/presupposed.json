@@ -1,0 +1,62 @@
+{
+    "word": "presupposed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npresuppose ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌpriː.səˈpəʊz"
+                            ],
+                            "us": [
+                                "ˌpriː.səˈpoʊz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to accept that something is true before it has been proved: ",
+                            "examples": [
+                                "You're presupposing that he'll have told her - but he may not have."
+                            ]
+                        },
+                        {
+                            "explanation": "If an idea or situation presupposes something, that thing must be true for the idea or situation to work: ",
+                            "examples": [
+                                "Investigative journalism presupposes some level of investigation.",
+                                "All this presupposes that he'll get the job he wants."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

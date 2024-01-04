@@ -1,0 +1,62 @@
+{
+    "word": "because",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "bɪˈkəz",
+                                "bɪˈkɒz"
+                            ],
+                            "us": [
+                                "bɪˈkɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "for the reason that: ",
+                            "examples": [
+                                "\"Why did you do it?\" \"Because Carlos told me to\".",
+                                "We can't go to Julia's party because we're going away that weekend.",
+                                "Just because I'm lending you my dress for tonight doesn't mean you can borrow it whenever you want to.",
+                                "Where've you been, because (= the reason I am asking is that) we haven't seen you recently?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "bɪˈkəz",
+                                "bɪˈkɒz"
+                            ],
+                            "us": [
+                                "bɪˈkɑːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used before giving a short reason or explanation, especially when you think the reason or explanation is obvious or you do not want to explain more: ",
+                            "examples": [
+                                "\"Why does that happen?\" \"Because science.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

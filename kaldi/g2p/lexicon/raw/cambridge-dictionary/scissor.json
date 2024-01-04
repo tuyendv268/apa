@@ -1,0 +1,67 @@
+{
+    "word": "scissor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪz.ər"
+                            ],
+                            "us": [
+                                "ˈsɪz.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to or like scissors: ",
+                            "examples": [
+                                "a scissor blade",
+                                "The blades pass each other in a scissor action."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪz.ər"
+                            ],
+                            "us": [
+                                "ˈsɪz.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut something with a pair of scissors : ",
+                            "examples": [
+                                "I scissored myself out of one photo.",
+                                "Eventually the itching was too much for him and he scissored the plaster cast off.",
+                                "Hold the paper firmly while scissoring."
+                            ]
+                        },
+                        {
+                            "explanation": "to move or exist in a pattern of lines crossing something or each other: ",
+                            "examples": [
+                                "A tall man swept in, long limbs scissoring with his stride.",
+                                "The masts and sails of anchored vessels scissored the skyline."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

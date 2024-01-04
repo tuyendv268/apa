@@ -1,0 +1,55 @@
+{
+    "word": "fifteen",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "ˌfɪfˈtiːn"
+                            ],
+                            "us": [
+                                "ˌfɪfˈtiːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 15: ",
+                            "examples": [
+                                "They live about fifteen miles away.",
+                                "\"How old is your sister?\" \"Fifteen.\""
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a team of fifteen players, for example in rugby union: ",
+                            "examples": [
+                                "The Welsh fifteen won a crushing victory over Fiji at the weekend.",
+                                "The starting fifteen boast over 420 caps between them."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

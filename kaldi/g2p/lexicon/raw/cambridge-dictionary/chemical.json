@@ -1,0 +1,58 @@
+{
+    "word": "chemical",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkem.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈkem.ɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any basic substance that is used in or produced by a reaction involving changes to atoms or molecules: ",
+                            "examples": [
+                                "The government has pledged to reduce the amount of chemicals used in food production.",
+                                "Each year, factories release millions of tons of toxic (= poisonous) chemicals into the atmosphere."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkem.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈkem.ɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to chemicals: ",
+                            "examples": [
+                                "The chemical industry produces such things as petrochemicals, drugs, and rubber."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

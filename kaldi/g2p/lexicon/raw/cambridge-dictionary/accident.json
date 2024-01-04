@@ -1,0 +1,44 @@
+{
+    "word": "accident",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.sɪ.dənt"
+                            ],
+                            "us": [
+                                "ˈæk.sə.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something bad that happens that is not expected or intended and that often damages something or injures someone: ",
+                            "examples": [
+                                "Josh had an accident and spilled water all over his work.",
+                                "The lorry had been involved in an accident. ",
+                                "The sign was damaged in an accident.",
+                                "She was injured in a car/road accident (= when one car hit another)."
+                            ]
+                        },
+                        {
+                            "explanation": "something that happens by chance, without anyone intending or planning it: ",
+                            "examples": [
+                                "Social status is often merely an accident of birth (= caused by whether people are born rich, poor, etc.).",
+                                "I like to think it is not an accident that hidden in the word \"created\" are the letters R-E-A-D.",
+                                "He became president by an accident of history."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

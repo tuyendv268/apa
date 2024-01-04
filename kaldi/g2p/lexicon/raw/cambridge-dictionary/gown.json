@@ -1,0 +1,39 @@
+{
+    "word": "gown",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡaʊn"
+                            ],
+                            "us": [
+                                "ɡaʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a woman's dress, especially a long one worn on formal occasions: ",
+                            "examples": [
+                                "a ball gown"
+                            ]
+                        },
+                        {
+                            "explanation": "a long, loose piece of clothing worn over other clothes for a particular purpose: ",
+                            "examples": [
+                                "a hospital gown"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "exchanged",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nexchange ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪksˈtʃeɪndʒ"
+                            ],
+                            "us": [
+                                "ɪksˈtʃeɪndʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give something to someone and receive something from that person: ",
+                            "examples": [
+                                "It's traditional for the two teams to exchange shirts after the game.",
+                                "Every month the group meets so its members can exchange their views/opinions (= have a discussion).",
+                                "We exchanged greetings before the meeting.",
+                                "We can exchange addresses when we see each other.",
+                                "Exchanging houses (= going to live in someone else's house while they live in yours) for a few weeks is a good way of having a holiday."
+                            ]
+                        },
+                        {
+                            "explanation": "to take something back to a shop where it was bought and get something else instead: ",
+                            "examples": [
+                                "If you don't like the gift, you can exchange it.",
+                                "I exchanged those trousers for a larger size."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

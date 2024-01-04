@@ -1,0 +1,71 @@
+{
+    "word": "captain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæp.tɪn"
+                            ],
+                            "us": [
+                                "ˈkæp.tən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the leader of a sports team: ",
+                            "examples": [
+                                "It's unusual to have a goalkeeper as (the) captain of a football team."
+                            ]
+                        },
+                        {
+                            "explanation": "the person in charge of a ship or an aircraft: ",
+                            "examples": [
+                                "This is your captain speaking. We expect to be landing at Osaka Kansai airport in an hour's time."
+                            ]
+                        },
+                        {
+                            "explanation": "an officer's rank in the British army or navy, or in the US air force, Marine Corps, Coast Guard, or the US police and fire departments: ",
+                            "examples": [
+                                "The captain gave him his orders.",
+                                "Captain Lane/Alex Lane",
+                                "Yes, Captain."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæp.tɪn"
+                            ],
+                            "us": [
+                                "ˈkæp.tən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to lead and be the captain of a team, military group, ship, or aircraft: ",
+                            "examples": [
+                                "She captained the Canadian ice hockey team for three years."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

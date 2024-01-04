@@ -1,0 +1,34 @@
+{
+    "word": "gastroscopy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɡæs.ˈtrɒs.kə.pi"
+                            ],
+                            "us": [
+                                "ɡæs.ˈtrɑː.skə.pi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a medical examination of the inside of the stomach and part of the small intestine (= the upper part of the bowels between the stomach and the large intestine) using a gastroscope (= a long, thin medical device with a light and camera): ",
+                            "examples": [
+                                "A gastroscopy showed duodenal ulcers.",
+                                "The patients all underwent routine diagnostic gastroscopy. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

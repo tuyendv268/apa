@@ -1,0 +1,39 @@
+{
+    "word": "complexity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈplek.sə.ti"
+                            ],
+                            "us": [
+                                "kəmˈplek.sə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of having many parts and being difficult to understand or find an answer to: ",
+                            "examples": [
+                                "a problem of great complexity"
+                            ]
+                        },
+                        {
+                            "explanation": "the features of something that make it difficult to understand or find an answer to: ",
+                            "examples": [
+                                "There are a lot of complexities surrounding this issue."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

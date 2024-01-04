@@ -1,0 +1,34 @@
+{
+    "word": "prompt engineering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɒmpt en.dʒɪˌnɪə.rɪŋ"
+                            ],
+                            "us": [
+                                "ˈprɑːmpt en.dʒɪˌnɪr.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of designing prompts (= instructions given to an artificial intelligence by a human using natural language rather than computer language) that will give the best possible results or answers: ",
+                            "examples": [
+                                "We apply a prompt engineering technique to determine the ideal prompt.",
+                                "As a beginner in prompt engineering, start with simple prompts and gradually move on to more complex prompts. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

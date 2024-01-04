@@ -1,0 +1,41 @@
+{
+    "word": "medicated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmed.ɪ.keɪ.tɪd"
+                            ],
+                            "us": [
+                                "ˈmed.ɪ.keɪ.t̬ɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "containing a medical substance: ",
+                            "examples": [
+                                "medicated lotion/shampoo/tissues",
+                                "If the infection is only in the skin, you can normally treat it successfully with a medicated cream."
+                            ]
+                        },
+                        {
+                            "explanation": "having received medicine of some kind: ",
+                            "examples": [
+                                "She said she was heavily medicated when she signed the document.",
+                                "The state's lower income levels may mean its people are not as medicated."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "indemnify",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈdem.nɪ.faɪ"
+                            ],
+                            "us": [
+                                "ɪnˈdem.nə.faɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pay or promise to pay someone an amount of money if they suffer damage or loss: ",
+                            "examples": [
+                                "In return for a premium, the underwriter agrees to indemnify the insured against losses covered by the insurance.",
+                                "The farm bill contained provisions enabling the secretary of agriculture to indemnify farmers from certain losses. ",
+                                "The seller promised to indemnify the buyer for cleanup costs associated with pollution on the parcel of land."
+                            ]
+                        },
+                        {
+                            "explanation": "to protect someone against legal responsibility for their actions: ",
+                            "examples": [
+                                "He cannot sue, because the government had indemnified the company.",
+                                "The state is required to indemnify employees against civil claims relating to actions taken in the course of their official duties."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

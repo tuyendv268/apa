@@ -1,0 +1,41 @@
+{
+    "word": "trafficking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtræf.ɪ.kɪŋ"
+                            ],
+                            "us": [
+                                "ˈtræf.ɪ.kɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of buying or selling goods illegally: ",
+                            "examples": [
+                                "arms/drug trafficking",
+                                "He was wanted on charges of trafficking in stolen property."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of buying or selling people, or of making money from work they are forced to do, such as sex work: ",
+                            "examples": [
+                                "human/people trafficking",
+                                "efforts to combat illegal trafficking in people"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

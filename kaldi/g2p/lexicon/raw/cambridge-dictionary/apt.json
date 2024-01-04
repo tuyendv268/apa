@@ -1,0 +1,67 @@
+{
+    "word": "apt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "æpt"
+                            ],
+                            "us": [
+                                "æpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "suitable or right for a particular situation: ",
+                            "examples": [
+                                "an apt comment/description"
+                            ]
+                        },
+                        {
+                            "explanation": "to be likely to do something or to often do something: ",
+                            "examples": [
+                                "The kitchen roof is apt to (= likely to) leak when it rains."
+                            ]
+                        },
+                        {
+                            "explanation": "having a natural ability or skill: ",
+                            "examples": [
+                                "We have some particularly apt students in the class this year."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for apartment",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "washington",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɒʃ.ɪŋ.tən"
+                            ],
+                            "us": [
+                                "ˈwɑː.ʃɪŋ.tən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the capital city of the United States, situated in the northeastern part of the country: ",
+                            "examples": [
+                                "There are direct flights from London to Washington, D.C.",
+                                "The city of Washington was founded in 1791."
+                            ]
+                        },
+                        {
+                            "explanation": "a state in the northwestern US, whose capital city is Olympia: ",
+                            "examples": [
+                                "The information was not reported to the state of Washington.",
+                                "He now lives in Washington state with his wife and children."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

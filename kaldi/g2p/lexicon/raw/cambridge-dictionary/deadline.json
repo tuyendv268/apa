@@ -1,0 +1,35 @@
+{
+    "word": "deadline",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈded.laɪn"
+                            ],
+                            "us": [
+                                "ˈded.laɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a time or day by which something must be done: ",
+                            "examples": [
+                                "There's no way I can meet that deadline.",
+                                "We're working to a tight deadline (= we do not have much time to finish the work).",
+                                "I'm afraid you've missed the deadline - the deadline for applications was 30 May."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

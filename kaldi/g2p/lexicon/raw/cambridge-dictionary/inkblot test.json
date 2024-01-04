@@ -1,0 +1,31 @@
+{
+    "word": "inkblot test",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪŋk.blɒt ˌtest"
+                            ],
+                            "us": [
+                                "ˈɪŋk.blɑːt ˌtest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a psychological test in which a person is shown spots of ink and asked what they look like, as a way of learning about the person's personality or feelings",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "pasta",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpæs.tə"
+                            ],
+                            "us": [
+                                "ˈpɑː.stə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a food made from flour, water, and sometimes egg, that is cooked and usually served with a sauce. It is made in various shapes that have different names: ",
+                            "examples": [
+                                "Spaghetti, lasagne, ravioli, and cannelloni are all types of pasta."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

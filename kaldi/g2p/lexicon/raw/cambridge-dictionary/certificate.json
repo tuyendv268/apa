@@ -1,0 +1,65 @@
+{
+    "word": "certificate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "səˈtɪf.ɪ.kət"
+                            ],
+                            "us": [
+                                "sɚˈtɪf.ə.kət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an official document that states that the information on it is true: ",
+                            "examples": [
+                                "a birth/marriage/death certificate",
+                                "a doctor's/medical certificate"
+                            ]
+                        },
+                        {
+                            "explanation": "the qualification that you receive when you are successful in an exam: ",
+                            "examples": [
+                                "She has a Certificate in Drama Education."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səˈtɪf.ɪ.keɪt"
+                            ],
+                            "us": [
+                                "sɚˈtɪf.ɪ.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to provide an official document as proof that something has happened or been done: ",
+                            "examples": [
+                                "She has proposed a series of reforms to the system of reporting and certificating deaths.",
+                                "A welder who has been certificated to work at a certain level must be brought in to do the repairs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

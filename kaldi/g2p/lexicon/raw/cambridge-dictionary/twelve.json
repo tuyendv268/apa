@@ -1,0 +1,34 @@
+{
+    "word": "twelve",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "twelv"
+                            ],
+                            "us": [
+                                "twelv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 12: ",
+                            "examples": [
+                                "The cafeteria opens for lunch at twelve (o'clock).",
+                                "a twelve-seater minibus"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

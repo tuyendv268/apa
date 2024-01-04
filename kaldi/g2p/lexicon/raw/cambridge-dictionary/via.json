@@ -1,0 +1,41 @@
+{
+    "word": "via",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "ˈvaɪə"
+                            ],
+                            "us": [
+                                "ˈvaɪə",
+                                "ˈviː.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "going through or stopping at a place on the way to another place: ",
+                            "examples": [
+                                "The London to Cairo flight goes via Rome."
+                            ]
+                        },
+                        {
+                            "explanation": "using a particular machine, system, or person to send or receive something: ",
+                            "examples": [
+                                "Reports are coming in via satellite.",
+                                "I only found out about it via my sister."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

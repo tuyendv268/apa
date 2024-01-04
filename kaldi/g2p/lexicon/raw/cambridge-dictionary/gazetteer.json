@@ -1,0 +1,33 @@
+{
+    "word": "gazetteer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɡæz.əˈtɪər"
+                            ],
+                            "us": [
+                                "ˌɡæz.əˈtɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a book or part of a book that contains a list of names of places, usually with some extra information: ",
+                            "examples": [
+                                "the Cambridge Gazetteer of the United States and Canada"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

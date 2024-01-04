@@ -1,0 +1,46 @@
+{
+    "word": "black box",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌblæk ˈbɒks"
+                            ],
+                            "us": [
+                                "ˌblæk ˈbɑːks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small machine that records information about an aircraft during its flight, used to discover the cause of an accident: ",
+                            "examples": [
+                                "Analysis of the black box recovered from the crash scene suggested pilot error was not the cause."
+                            ]
+                        },
+                        {
+                            "explanation": "a piece of equipment placed in a car that records information about how well someone is driving: ",
+                            "examples": [
+                                "They equipped all school buses with a black box."
+                            ]
+                        },
+                        {
+                            "explanation": "a system that produces results without the user being able to see or understand how it works: ",
+                            "examples": [
+                                "The function is a black box that takes some inputs and returns some outputs – you don't need to know how things work inside, just how to use the interface.",
+                                "Machine learning models are widely regarded as black boxes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

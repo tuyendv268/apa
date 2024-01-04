@@ -1,0 +1,68 @@
+{
+    "word": "tide",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "taɪd"
+                            ],
+                            "us": [
+                                "taɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the rise and fall of the sea that happens twice every day: ",
+                            "examples": [
+                                "high/low tide",
+                                "The tide is out/in."
+                            ]
+                        },
+                        {
+                            "explanation": "a noticeable change in a situation or increase in a particular type of behaviour: ",
+                            "examples": [
+                                "We must look for ways of stemming (= stopping) the rising tide of protest."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -taɪd"
+                            ],
+                            "us": [
+                                " -taɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a period of time: ",
+                            "examples": [
+                                "Yuletide"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

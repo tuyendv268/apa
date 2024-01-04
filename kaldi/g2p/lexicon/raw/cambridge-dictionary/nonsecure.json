@@ -1,0 +1,41 @@
+{
+    "word": "nonsecure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.sɪˈkjʊər"
+                            ],
+                            "us": [
+                                "ˌnɑːn.səˈkjʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a computer or telephone connection, etc.) not safe or protected, for example against someone stealing information: ",
+                            "examples": [
+                                "The computer will send you a warning message if you connect to a non-secure network.",
+                                "You must never speak about this matter on a non-secure telephone line."
+                            ]
+                        },
+                        {
+                            "explanation": "A nonsecure place is one that it is not difficult to enter or leave: ",
+                            "examples": [
+                                "She was living in a non-secure children's home.",
+                                "More officers were brought in to patrol the nonsecure areas."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

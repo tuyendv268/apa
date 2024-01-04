@@ -1,0 +1,92 @@
+{
+    "word": "ms",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written abbreviation for\nmanuscript ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məz",
+                                "mɪz"
+                            ],
+                            "us": [
+                                "məz",
+                                "mɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a title used before the family name or full name of a woman, used to avoid saying if she is married or not: ",
+                            "examples": [
+                                "Ms Hill/Ms Paula Hill",
+                                "What can I do for you, Ms Wood?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌemˈes"
+                            ],
+                            "us": [
+                                "ˌemˈes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for\nmultiple sclerosis ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "abbreviation for \nMaster of Science ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "written abbreviation for the US state of Mississippi: used in addresses",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "multigroup",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.tiˈɡruːp"
+                            ],
+                            "us": [
+                                "ˌmʌl.tiˈɡruːp",
+                                "ˌmʌl.taɪˈɡruːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving several groups of people or things: ",
+                            "examples": [
+                                "They are part of a multigroup alliance.",
+                                "It is a multi-user, multi-group task management system."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to statistical calculations that compare data from two or more groups: ",
+                            "examples": [
+                                "Multigroup analyses were conducted."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

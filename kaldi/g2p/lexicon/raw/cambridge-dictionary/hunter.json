@@ -1,0 +1,73 @@
+{
+    "word": "hunter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhʌn.tər"
+                            ],
+                            "us": [
+                                "ˈhʌn.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person or an animal that hunts animals for food or for sport: ",
+                            "examples": [
+                                "Animals in the cat family are hunters."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of horse, especially one used in hunting animals",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -hʌn.tər"
+                            ],
+                            "us": [
+                                " -t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who hunts the stated animal: ",
+                            "examples": [
+                                "a fox-hunter"
+                            ]
+                        },
+                        {
+                            "explanation": "someone who is trying to find or get the stated thing: ",
+                            "examples": [
+                                "a job-hunter",
+                                "a house-hunter",
+                                "bargain-hunters"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

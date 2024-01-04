@@ -1,0 +1,73 @@
+{
+    "word": "adult",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæd.ʌlt",
+                                "əˈdʌlt"
+                            ],
+                            "us": [
+                                "ˈæd.ʌlt",
+                                "əˈdʌlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person or animal that has grown to full size and strength: ",
+                            "examples": [
+                                "An adult under English law is someone over 18 years old.",
+                                "Adults pay an admission charge but children get in free."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈæd.ʌlt",
+                                "əˈdʌlt"
+                            ],
+                            "us": [
+                                "ˈæd.ʌlt",
+                                "əˈdʌlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "grown to full size and strength: ",
+                            "examples": [
+                                "an adult male/elephant",
+                                "She spent most of her adult life in Spain."
+                            ]
+                        },
+                        {
+                            "explanation": "typical of or suitable for adults: ",
+                            "examples": [
+                                "Let's try to be adult about this."
+                            ]
+                        },
+                        {
+                            "explanation": "Adult films, magazines, and books show naked people and sexual acts and are not for children.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

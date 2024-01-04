@@ -1,0 +1,35 @@
+{
+    "word": "copyright",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒp.i.raɪt"
+                            ],
+                            "us": [
+                                "ˈkɑː.pi.raɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the legal right to control the production and selling of a book, play, film, photograph, or piece of music: ",
+                            "examples": [
+                                "Who owns/holds the copyright on this article?",
+                                "His work is no longer protected by copyright.",
+                                "The symbol © shows that something is protected by copyright."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

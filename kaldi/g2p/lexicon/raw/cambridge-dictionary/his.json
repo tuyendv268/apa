@@ -1,0 +1,70 @@
+{
+    "word": "his",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "determiner",
+                        "ipa": {
+                            "uk": [
+                                "hɪz",
+                                "ɪz"
+                            ],
+                            "us": [
+                                "hɪz",
+                                "ɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "belonging to or connected with a man, boy, or male animal that has just been mentioned or is known about: ",
+                            "examples": [
+                                "\"Jo's got a new boyfriend.\" \"Oh really? What's his name?\"",
+                                "The bull tossed his horns.",
+                                "Did Chris tell you about his winning some money in the lottery?"
+                            ]
+                        },
+                        {
+                            "explanation": "belonging to or connected with a person or animal that has just been mentioned and whose gender is not known or not considered to be important: ",
+                            "examples": [
+                                "Anyone who drives his car at 100 miles an hour is asking for trouble.",
+                                "What a cute dog! What's his name?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "hɪz"
+                            ],
+                            "us": [
+                                "hɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the one(s) belonging to or connected with a man, boy, or male animal that has just been mentioned or is known about: ",
+                            "examples": [
+                                "Mark just phoned to say he'd left his coat behind. Do you know if this is his?",
+                                "He introduced us to some colleagues of his.",
+                                "His is the office directly ahead of you, at the far end of the corridor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

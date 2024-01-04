@@ -1,0 +1,59 @@
+{
+    "word": "assessed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nassess ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈses"
+                            ],
+                            "us": [
+                                "əˈses"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to judge or decide the amount, value, quality, or importance of something: ",
+                            "examples": [
+                                "The insurers will need to assess the flood damage.",
+                                "They assessed the cost of the flood damage at £2,500.",
+                                "Exams are not the only means of assessing a student's ability.",
+                                "It's too early to assess the long-term consequences of the two countries' union.",
+                                "We need to assess whether the project is worth doing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

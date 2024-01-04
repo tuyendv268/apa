@@ -1,0 +1,33 @@
+{
+    "word": "cline",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "klaɪn"
+                            ],
+                            "us": [
+                                "klaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a scale (= set of numbers, levels, etc.) on which things can be arranged in order according to a particular feature or quality: ",
+                            "examples": [
+                                "In some species, the phenotype and genotype of the species varies along a cline."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

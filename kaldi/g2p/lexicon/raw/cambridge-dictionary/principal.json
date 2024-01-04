@@ -1,0 +1,67 @@
+{
+    "word": "principal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɪn.sə.pəl"
+                            ],
+                            "us": [
+                                "ˈprɪn.sə.pəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "first in order of importance: ",
+                            "examples": [
+                                "Iraq's principal export is oil.",
+                                "He was principal dancer at the Dance Theatre of Harlem.",
+                                "That was my principal reason for moving."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprɪn.sə.pəl"
+                            ],
+                            "us": [
+                                "ˈprɪn.sə.pəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the person in charge of a school ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the person in charge of a college or university",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an amount of money that someone has invested in a bank or lent to a person or organization so that they will receive interest on it from the bank, person, or organization: ",
+                            "examples": [
+                                "She lives off the interest and tries to keep the principal intact."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

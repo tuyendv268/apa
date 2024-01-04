@@ -1,0 +1,41 @@
+{
+    "word": "corporate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɔː.pər.ət"
+                            ],
+                            "us": [
+                                "ˈkɔːr.pɚ.ət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a large company: ",
+                            "examples": [
+                                "corporate finance",
+                                "a corporate merger",
+                                "corporate executives"
+                            ]
+                        },
+                        {
+                            "explanation": "of or shared by a whole group and not just of a single member: ",
+                            "examples": [
+                                "All adults take corporate responsibility for the upbringing of the tribe's children."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

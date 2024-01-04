@@ -1,0 +1,34 @@
+{
+    "word": "kibibyte",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɪb.ɪ.baɪt"
+                            ],
+                            "us": [
+                                "ˈkɪb.ɪ.baɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of measurement of computer information consisting of 1,024 bytes: ",
+                            "examples": [
+                                "The kibibyte is a multiple of the unit byte for quantities of digital information.",
+                                "The formatted capacity of 3½-inch high-density floppies was originally 1440 kibibytes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

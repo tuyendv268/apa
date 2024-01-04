@@ -1,0 +1,34 @@
+{
+    "word": "data centre",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeɪ.tə ˌsen.tər"
+                            ],
+                            "us": [
+                                "ˈdeɪ.t̬ə ˌsen.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a building containing many powerful computers and the systems needed to keep them running, so that large amounts of data (= computer information) can be dealt with effectively and without interruption: ",
+                            "examples": [
+                                "The performance of the data centre's cooling systems is of critical importance.",
+                                "A data farm is essential for large companies who need to gather and process large amounts of information in an efficient manner."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

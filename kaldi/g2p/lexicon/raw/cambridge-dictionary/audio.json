@@ -1,0 +1,88 @@
+{
+    "word": "audio",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.di.əʊ"
+                            ],
+                            "us": [
+                                "ˈɑː.di.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "connected with sound and the recording and broadcasting of sound: ",
+                            "examples": [
+                                "an audiocassette",
+                                "audiotape",
+                                "an audio signal"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.di.əʊ"
+                            ],
+                            "us": [
+                                "ˈɑː.di.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sound recording, or recorded sound: ",
+                            "examples": [
+                                "The audio revealed the candidate boasting about his illegal activities.",
+                                "Portable media players let you enjoy both video and audio."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "ɔː.di.əʊ-"
+                            ],
+                            "us": [
+                                "ɑː.di.oʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to hearing or sound: ",
+                            "examples": [
+                                "audiotape"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

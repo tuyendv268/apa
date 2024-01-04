@@ -1,0 +1,33 @@
+{
+    "word": "ceteris paribus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌket.ə.rɪs ˈpær.ɪ.bʊs"
+                            ],
+                            "us": [
+                                "ˌket.ə.rɪs ˈper.ɪ.bʊs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "if everything else remains the same; other things being equal: ",
+                            "examples": [
+                                "This will have the effect of raising the demand and, ceteris paribus, the price."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "echogenic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌek.əʊˈdʒen.ɪk"
+                            ],
+                            "us": [
+                                "ˌek.oʊˈdʒen.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to send back an echo (= a sound that reflects off a surface), and therefore showing as a light area in an ultrasound scan (= a medical examination that produces an image using sound waves): ",
+                            "examples": [
+                                "Ultrasonography revealed large, echogenic kidneys.",
+                                "4 patients had an abnormal anechoic mass and 1 had an abnormal echogenic mass."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

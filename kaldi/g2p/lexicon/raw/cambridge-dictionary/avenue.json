@@ -1,0 +1,44 @@
+{
+    "word": "avenue",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæv.ə.njuː"
+                            ],
+                            "us": [
+                                "ˈæv.ə.nuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a wide road with trees or tall buildings on both sides, or a wide country path or road with trees on both sides: ",
+                            "examples": [
+                                "Fremont Avenue"
+                            ]
+                        },
+                        {
+                            "explanation": "a road that leads to a large house",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a method or way of doing something: ",
+                            "examples": [
+                                "We should explore/pursue every avenue in the search for an answer to this problem.",
+                                "Only two avenues are open to us - either we accept his offer or we give up the fight completely."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

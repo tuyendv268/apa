@@ -1,0 +1,34 @@
+{
+    "word": "unmount",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌʌnˈmaʊnt"
+                            ],
+                            "us": [
+                                "ˌʌnˈmaʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a disk or disk drive no longer available for use on a computer: ",
+                            "examples": [
+                                "In order to unmount a CD-ROM, you should use the unmount command.",
+                                "If you cannot safely unmount your hard drive, power down the computer by holding down the power button for six seconds."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

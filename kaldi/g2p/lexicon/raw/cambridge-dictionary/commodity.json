@@ -1,0 +1,40 @@
+{
+    "word": "commodity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəˈmɒd.ə.ti"
+                            ],
+                            "us": [
+                                "kəˈmɑː.də.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a substance or product that can be traded, bought, or sold: ",
+                            "examples": [
+                                "The country's most valuable commodities include tin and diamonds.",
+                                "the international commodities market"
+                            ]
+                        },
+                        {
+                            "explanation": "a valuable quality: ",
+                            "examples": [
+                                "If you're going into teaching, energy is a necessary commodity."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

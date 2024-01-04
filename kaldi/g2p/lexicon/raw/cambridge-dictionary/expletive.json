@@ -1,0 +1,39 @@
+{
+    "word": "expletive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspliː.tɪv"
+                            ],
+                            "us": [
+                                "ˈek.splə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word that is considered offensive: ",
+                            "examples": [
+                                "She dropped the book on her foot and let out a row/string of expletives."
+                            ]
+                        },
+                        {
+                            "explanation": "used when an offensive word has been removed from a report of what someone has said: ",
+                            "examples": [
+                                "He ran at the officers, calling them (expletive deleted) and threatening them."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

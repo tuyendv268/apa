@@ -1,0 +1,83 @@
+{
+    "word": "along",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "əˈlɒŋ"
+                            ],
+                            "us": [
+                                "əˈlɑːŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "from one part of a road, river, etc. to another: ",
+                            "examples": [
+                                "a romantic walk along the beach/river"
+                            ]
+                        },
+                        {
+                            "explanation": "in a line next to something long: ",
+                            "examples": [
+                                "a row of houses along the river",
+                                "Cars were parked all along the road."
+                            ]
+                        },
+                        {
+                            "explanation": "at a particular place on a road, river, etc.: ",
+                            "examples": [
+                                "Somewhere along this road there's a garage."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "əˈlɒŋ"
+                            ],
+                            "us": [
+                                "əˈlɑːŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "moving forward: ",
+                            "examples": [
+                                "We were just walking along, chatting."
+                            ]
+                        },
+                        {
+                            "explanation": "with you: ",
+                            "examples": [
+                                "Why don't you take him along with you when you go?",
+                                "I'll bring some food along and we can have a picnic."
+                            ]
+                        },
+                        {
+                            "explanation": "in addition to someone or something else: ",
+                            "examples": [
+                                "California, along with Florida and Hawaii, is among the most popular US tourist destinations."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

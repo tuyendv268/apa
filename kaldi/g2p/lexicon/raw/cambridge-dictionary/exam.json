@@ -1,0 +1,45 @@
+{
+    "word": "exam",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪɡˈzæm"
+                            ],
+                            "us": [
+                                "ɪɡˈzæm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a test of a student's knowledge or skill in a particular subject : ",
+                            "examples": [
+                                "American students ranked fourth in those taking the geography exam. ",
+                                "I failed my physics exam, but I passed chemistry.",
+                                "Helen turned over the examination paper and checked the clock.",
+                                "Anxious students were standing around waiting for their exam results."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of looking at or considering something carefully in order to discover something, especially a medical examination of part of your body: ",
+                            "examples": [
+                                "If you find yourself squinting to see, it may be time for an eye exam.",
+                                "He gets yearly blood tests and a physical exam.",
+                                "a pelvic/rectal/breast/neurological exam",
+                                "an ultrasound/a polygraph exam"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

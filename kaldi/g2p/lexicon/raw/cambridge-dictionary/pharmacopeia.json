@@ -1,0 +1,41 @@
+{
+    "word": "pharmacopeia",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfɑː.mə.kəˈpiː.ə"
+                            ],
+                            "us": [
+                                "ˌfɑrː.məˈkoʊ.piː.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of drugs, together with information on their effects and instructions on how they should be used : ",
+                            "examples": [
+                                "In most countries there is an official pharmacopeia, and any dispensed drug must comply with its standards.",
+                                "They did not easily fit into the existing pharmacopeias as regular drugs."
+                            ]
+                        },
+                        {
+                            "explanation": "a supply or collection of drugs: ",
+                            "examples": [
+                                "Nature offers a vast pharmacopeia of remedies that medical science has at last begun to explore.",
+                                "Over the years, he worked his way through a pharmacopeia of recreational drugs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

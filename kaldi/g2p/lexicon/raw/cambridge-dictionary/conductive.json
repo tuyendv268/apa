@@ -1,0 +1,41 @@
+{
+    "word": "conductive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "kənˈdʌk.tɪv"
+                            ],
+                            "us": [
+                                "kənˈdʌk.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A conductive substance allows heat or electricity to travel through it: ",
+                            "examples": [
+                                "Aluminium is a conductive metal.",
+                                "A gas that has been ionised becomes highly conductive."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a type of hearing loss caused by problems in the way sound waves travel through the ear: ",
+                            "examples": [
+                                "Otosclerosis is a conductive hearing loss caused when the middle ear no longer transmits sound correctly from the eardrum to the inner ear. ",
+                                "Hearing checks are essential as conductive hearing impairment is very frequent in young children. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

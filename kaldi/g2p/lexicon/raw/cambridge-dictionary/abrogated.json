@@ -1,0 +1,62 @@
+{
+    "word": "abrogated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nabrogate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæb.rə.ɡeɪt"
+                            ],
+                            "us": [
+                                "ˈæb.rə.ɡeɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to end a law, agreement, or custom formally: ",
+                            "examples": [
+                                "The treaty was abrogated in 1929."
+                            ]
+                        },
+                        {
+                            "explanation": "to avoid something that you should do: ",
+                            "examples": [
+                                "Companies are really abrogating responsibility for safety.",
+                                "He seemed to abrogate his duty to withhold law and order. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

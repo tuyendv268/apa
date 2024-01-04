@@ -1,0 +1,34 @@
+{
+    "word": "stop light",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a red light on a set of traffic lights or other traffic signals: ",
+                            "examples": [
+                                "He risked a serious accident by sailing through a stop light.",
+                                "The coach had tried to cross the railway line even though red stop lights had warned of an oncoming train."
+                            ]
+                        },
+                        {
+                            "explanation": "a \nstoplight ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

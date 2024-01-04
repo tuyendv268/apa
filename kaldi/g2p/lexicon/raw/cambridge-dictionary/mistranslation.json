@@ -1,0 +1,43 @@
+{
+    "word": "mistranslation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.trænzˈleɪ.ʃən",
+                                "ˌmɪs.trænsˈleɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌmɪs.trænzˈleɪ.ʃən",
+                                "ˌmɪs.trænsˈleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word, document, etc. that is translated (= changed into a different language) in a way that is not correct: ",
+                            "examples": [
+                                "The book is marred by sloppy research, including mistranslations of documents.",
+                                "This is, unfortunately, a mis-translation of the original Hebrew."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact that a word, document, etc. is translated (= changed into a different language) in a way that is not correct: ",
+                            "examples": [
+                                "She focuses on the problems of translation and mistranslation.",
+                                "He was accused of misquotation, manipulation, and mis-translation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

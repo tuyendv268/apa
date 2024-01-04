@@ -1,0 +1,62 @@
+{
+    "word": "made",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "meɪd"
+                            ],
+                            "us": [
+                                "meɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of\nmake : ",
+                            "examples": [
+                                "He was wearing a suit made from pure silk.",
+                                "The house was made of wood with an iron roof."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -meɪd"
+                            ],
+                            "us": [
+                                " -meɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "produced in the stated way or place: ",
+                            "examples": [
+                                "On the bottom of the watch it said \"Swiss-made\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

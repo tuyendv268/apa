@@ -1,0 +1,40 @@
+{
+    "word": "navigation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnæv.ɪˈɡeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌnæv.əˈɡeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of directing a ship, aircraft, etc. from one place to another, or the science of finding a way from one place to another: ",
+                            "examples": [
+                                "In the past, navigation depended on a knowledge of the positions of the stars.",
+                                "Mechanics discovered problems with the plane's navigation system."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of moving around a website or computer screen, or between websites or screens: ",
+                            "examples": [
+                                "We have streamlined our website for easier navigation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

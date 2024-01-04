@@ -1,0 +1,56 @@
+{
+    "word": "taxi",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæk.si"
+                            ],
+                            "us": [
+                                "ˈtæk.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a car with a driver who you pay to take you somewhere: ",
+                            "examples": [
+                                "I took a taxi from the station to the hotel.",
+                                "a taxi driver"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæk.si"
+                            ],
+                            "us": [
+                                "ˈtæk.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "present participle"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of an aircraft) to move slowly on the ground",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

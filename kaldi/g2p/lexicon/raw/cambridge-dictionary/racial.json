@@ -1,0 +1,50 @@
+{
+    "word": "racial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈreɪ.ʃəl"
+                            ],
+                            "us": [
+                                "ˈreɪ.ʃəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "based on someone's perceived race, especially in a way that is unfair or harmful; or based on policies, behaviours, rules, etc. that result in unfair or harmful treatment of people because of their perceived race: ",
+                            "examples": [
+                                "racial discrimination/prejudice",
+                                "The law has done little to prevent racial inequality.",
+                                "She accused another contestant of using a racial slur against her."
+                            ]
+                        },
+                        {
+                            "explanation": "happening between people of different races: ",
+                            "examples": [
+                                "He had a vision of a society living in racial harmony.",
+                                "We talk a lot about racial diversity and tolerance.",
+                                "At that time, racial tensions were rising, locally and throughout the country. "
+                            ]
+                        },
+                        {
+                            "explanation": "relating to race or to someone's perceived race: ",
+                            "examples": [
+                                "They are members of a racial minority.",
+                                "Please state your name, age, marital status, and racial identity."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

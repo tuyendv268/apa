@@ -1,0 +1,39 @@
+{
+    "word": "balcony",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæl.kə.ni"
+                            ],
+                            "us": [
+                                "ˈbæl.kə.ni"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an area with a wall or bars around it that is joined to the outside wall of a building on an upper level: ",
+                            "examples": [
+                                "We had a drink on the hotel balcony."
+                            ]
+                        },
+                        {
+                            "explanation": "an area of seats at an upper level in a theatre: ",
+                            "examples": [
+                                "Our seats are in row F of the balcony."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

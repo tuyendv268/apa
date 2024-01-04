@@ -1,0 +1,69 @@
+{
+    "word": "cis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "sɪs"
+                            ],
+                            "us": [
+                                "sɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe an isomer (= one of a group of similar chemical substances) in which the atoms are arranged on the same side of the molecule, especially on the same side of the carbon chain (= a line of connected carbon atoms): ",
+                            "examples": [
+                                "The traditional cold-pressing method of extracting vegetable oils preserves the cis fatty acids in their natural form.",
+                                "The polyacetylene chain can adopt two different shapes, called cis and trans, where the trans configuration is the most chemically stable."
+                            ]
+                        },
+                        {
+                            "explanation": "short for\ncisgender : used to describe a person whose gender matches the body they were born with: ",
+                            "examples": [
+                                "They stress that trans women and cis women are all women.",
+                                "If you are cis you feel comfortable with your assigned birth sex and do not identify as another gender."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "sɪs"
+                            ],
+                            "us": [
+                                "sɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form the names of chemical substances in which the atoms are arranged on the same side of the molecule, especially on the same side of the carbon chain (= line of connected carbon atoms): ",
+                            "examples": [
+                                "In 1969 researchers discovered that only the cis-DDP isomer killed tumours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "word": "timed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntime ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "taɪm"
+                            ],
+                            "us": [
+                                "taɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to decide that something will happen at a particular time: ",
+                            "examples": [
+                                "We timed our trip to coincide with my cousin's wedding."
+                            ]
+                        },
+                        {
+                            "explanation": "to arrange something so that it happens at the best possible time: ",
+                            "examples": [
+                                "If you time your departure carefully, you should be able to miss the worst of the traffic.",
+                                "The girls' basketball team won the game with a perfectly timed shot (= one played at exactly the right moment), just before the buzzer."
+                            ]
+                        },
+                        {
+                            "explanation": "to measure how long it takes for something to happen or for someone to do something: ",
+                            "examples": [
+                                "Will you time me to see how long it takes me to swim a length?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

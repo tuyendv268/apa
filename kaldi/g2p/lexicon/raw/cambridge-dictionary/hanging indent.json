@@ -1,0 +1,34 @@
+{
+    "word": "hanging indent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌhæŋ.ɪŋ ˈɪn.dent"
+                            ],
+                            "us": [
+                                "ˈhæŋ.ɪŋ ɪnˌdent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use of a space at the start of every line of a paragraph except the first line: ",
+                            "examples": [
+                                "Instead of using tabs and hanging indents, left-justify the entire document.",
+                                "Each entry in the dictionary is set off by a hanging indentation and shows the headword in bold print. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "referent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈref.ər.ənt"
+                            ],
+                            "us": [
+                                "ˈref.ər.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the person, thing, or idea that a word, phrase, or object refers to: ",
+                            "examples": [
+                                "The obvious textual referent in this movie is Shakespeare's \"Hamlet\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

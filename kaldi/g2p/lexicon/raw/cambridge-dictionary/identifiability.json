@@ -1,0 +1,40 @@
+{
+    "word": "identifiability",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "aɪˌden.tɪˌfaɪ.əˈbɪl.ə.ti"
+                            ],
+                            "us": [
+                                "aɪˈden.t̬ə.faɪ.əˈbɪl.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the quality of being able to be recognized or named: ",
+                            "examples": [
+                                "The concepts of anonymity, privacy, and identifiability are closely related.",
+                                "Protections against identifiability are important to assure the anonymity of the patient."
+                            ]
+                        },
+                        {
+                            "explanation": "a quality in a statistical model which makes it possible to make correct inferences (= form correct opinions) based on the information in it: ",
+                            "examples": [
+                                "This method was used in assessing the identifiability of the final model."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

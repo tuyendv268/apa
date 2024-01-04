@@ -1,0 +1,39 @@
+{
+    "word": "gigabyte",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡɪɡ.ə.baɪt"
+                            ],
+                            "us": [
+                                "ˈɡɪɡ.ə.baɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of computer information consisting of 1,024 megabytes: ",
+                            "examples": [
+                                "Gigabyte (GB) can be a synonym of gibibyte or can refer to 1,000,000,000 bytes."
+                            ]
+                        },
+                        {
+                            "explanation": "a unit of computer information consisting of 1,000,000,000 bytes: ",
+                            "examples": [
+                                "It has a high-end ATI graphics board, a gigabyte of RAM, and a large hard drive."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

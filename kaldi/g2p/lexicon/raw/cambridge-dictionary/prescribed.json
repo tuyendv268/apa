@@ -1,0 +1,39 @@
+{
+    "word": "prescribed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈskraɪbd"
+                            ],
+                            "us": [
+                                "prɪˈskraɪbd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "set by a rule or order: ",
+                            "examples": [
+                                "The product will have to meet internationally prescribed (= demanded) standards."
+                            ]
+                        },
+                        {
+                            "explanation": "decided by a doctor as treatment: ",
+                            "examples": [
+                                "The patient was taking a widely prescribed sedative."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

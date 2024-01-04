@@ -1,0 +1,33 @@
+{
+    "word": "windchill",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɪnd.tʃɪl"
+                            ],
+                            "us": [
+                                "ˈwɪnd.tʃɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the effect that wind has on how cold the air feels: ",
+                            "examples": [
+                                "It's two degrees outside, but with the windchill factor, it feels like minus five."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "forensics",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fəˈren.zɪks"
+                            ],
+                            "us": [
+                                "fəˈren.zɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "scientific methods of solving crimes, that involve examining objects or substances related to a crime: ",
+                            "examples": [
+                                "Using cutting-edge forensics, they can analyze material samples for traces of suspicious chemicals.",
+                                "a forensics expert"
+                            ]
+                        },
+                        {
+                            "explanation": "objects or substances related to a crime, that are scientifically examined to help find out who committed it and how: ",
+                            "examples": [
+                                "The forensics clearly pointed to his guilt."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

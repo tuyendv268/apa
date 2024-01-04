@@ -1,0 +1,62 @@
+{
+    "word": "felt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "felt"
+                            ],
+                            "us": [
+                                "felt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of\nfeel ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to make wool or other cloth into felt (= a thick, soft cloth made from a mass of fibres) by rolling and pressing it and using hot water or a special needle: ",
+                            "examples": [
+                                "I just finished felting a pair of mittens for the winter.",
+                                "a pile of felted blankets"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "felt"
+                            ],
+                            "us": [
+                                "felt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of thick, soft cloth made from a pressed mass of wool or other fibres: ",
+                            "examples": [
+                                "a felt hat"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

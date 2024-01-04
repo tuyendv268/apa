@@ -1,0 +1,62 @@
+{
+    "word": "dreading",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndread ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dred"
+                            ],
+                            "us": [
+                                "dred"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to feel extremely worried or frightened about something that is going to happen or that might happen: ",
+                            "examples": [
+                                "He's dreading the exam - he's sure he's going to fail.",
+                                "I'm dreading having to meet his parents."
+                            ]
+                        },
+                        {
+                            "explanation": "used to say that you do not want to think about something because it is too worrying: ",
+                            "examples": [
+                                "I dread to think what would happen if he was left to cope on his own."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

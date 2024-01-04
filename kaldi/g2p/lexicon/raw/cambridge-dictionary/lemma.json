@@ -1,0 +1,33 @@
+{
+    "word": "lemma",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlem.ə"
+                            ],
+                            "us": [
+                                "ˈlem.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a form of a word that appears as an entry in a dictionary and is used to represent all the other possible forms. For example, the lemma \"build\" represents \"builds\", \"building\", \"built\", etc.: ",
+                            "examples": [
+                                "Only headword lemmas are placed in the table."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

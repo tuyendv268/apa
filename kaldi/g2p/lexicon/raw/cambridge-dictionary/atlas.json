@@ -1,0 +1,47 @@
+{
+    "word": "atlas",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæt.ləs"
+                            ],
+                            "us": [
+                                "ˈæt.ləs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a book containing maps: ",
+                            "examples": [
+                                "a road atlas",
+                                "an atlas of the world"
+                            ]
+                        },
+                        {
+                            "explanation": "a book containing maps showing where particular things are made, found, etc.: ",
+                            "examples": [
+                                "a wine atlas",
+                                "an atlas of British plants"
+                            ]
+                        },
+                        {
+                            "explanation": "the first vertebra (= bone) of the spine, that supports the skull: ",
+                            "examples": [
+                                "atlas bone neck pain"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "bundle",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌn.dəl"
+                            ],
+                            "us": [
+                                "ˈbʌn.dəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number of things that have been fastened or are held together: ",
+                            "examples": [
+                                "a bundle of clothes/newspapers/books",
+                                "a bundle of sticks"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌn.dəl"
+                            ],
+                            "us": [
+                                "ˈbʌn.dəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to push or put someone or something somewhere quickly and roughly: ",
+                            "examples": [
+                                "He bundled his clothes into the washing machine.",
+                                "She was bundled into the back of the car.",
+                                "The children were bundled off to school early that morning."
+                            ]
+                        },
+                        {
+                            "explanation": "to include an extra computer program or other product with something that you sell: ",
+                            "examples": [
+                                "The system came bundled with a word processor, spreadsheet, and graphics program."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

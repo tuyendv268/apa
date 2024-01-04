@@ -1,0 +1,41 @@
+{
+    "word": "queuing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkjuː.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈkjuː.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of waiting in a line of people, often to buy something: ",
+                            "examples": [
+                                "After an hour of queuing, a guard said it was only another two hours to the ticket booth.",
+                                "There were plenty of staff on hand when checking in, which meant less queueing."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of arranging pieces of data, files to be printed, calls, etc. in a series so they can be dealt with one after the other by a computer, telephone system, etc.: ",
+                            "examples": [
+                                "The Server Information Module is also responsible for printer configuration and queueing.",
+                                "Some business owners just need a few phone lines with features such as call queuing, call transfer and music-on-hold."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

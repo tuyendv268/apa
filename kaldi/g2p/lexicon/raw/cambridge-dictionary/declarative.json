@@ -1,0 +1,41 @@
+{
+    "word": "declarative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈklær.ə.tɪv"
+                            ],
+                            "us": [
+                                "dɪˈkler.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving knowledge or facts: ",
+                            "examples": [
+                                "Sleep is important for declarative memory.",
+                                "Kids may be a long way through school before they make a final, declarative choice of what path to follow professionally."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to or involving an announcement, often one that is written and official: ",
+                            "examples": [
+                                "In his public appearances, he dresses informally and makes simple, bold declarative statements.",
+                                "In public, all her speeches are bold and declarative."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

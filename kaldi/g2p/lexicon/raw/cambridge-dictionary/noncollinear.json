@@ -1,0 +1,35 @@
+{
+    "word": "noncollinear",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.kɒlˈɪn.i.ər"
+                            ],
+                            "us": [
+                                "ˌnɑːn.kəˈlɪn.i.ɚ",
+                                "ˌnɑːn.koʊˈlɪn.i.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Noncollinear points do not lie on a single straight line: ",
+                            "examples": [
+                                "The points on the diagram are noncollinear.",
+                                "We were studying some problems in non-collinear geometry."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

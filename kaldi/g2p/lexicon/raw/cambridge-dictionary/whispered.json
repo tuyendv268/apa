@@ -1,0 +1,64 @@
+{
+    "word": "whispered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nwhisper ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɪs.pər"
+                            ],
+                            "us": [
+                                "ˈwɪs.pɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak very quietly, using the breath but not the voice, so that only the person close to you can hear you: ",
+                            "examples": [
+                                "She leaned over and whispered something in his ear.",
+                                "What are you two girls whispering about?",
+                                "\"Where are the toilets?\" she whispered.",
+                                "It's rude to whisper!"
+                            ]
+                        },
+                        {
+                            "explanation": "to suggest privately that something might be true: ",
+                            "examples": [
+                                "People are whispering that she's going to retire next year."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "plumbed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nplumb ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "plʌm"
+                            ],
+                            "us": [
+                                "plʌm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to supply a building or a device with water pipes, or to connect a building or a device to a water pipe: ",
+                            "examples": [
+                                "We've discovered that our house isn't plumbed properly.",
+                                "I think we can plumb the new bath into the existing pipes.",
+                                "Have you plumbed the dishwasher in yet?"
+                            ]
+                        },
+                        {
+                            "explanation": "to measure how deep something is, especially water",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to understand or discover all about something: ",
+                            "examples": [
+                                "Now that she had begun, she wanted to plumb her own childhood further."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

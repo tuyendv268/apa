@@ -1,0 +1,33 @@
+{
+    "word": "linear combination",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌlɪn.i.ə kɒm.bɪˈneɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌlɪn.i.ɚ kɑːm.bəˈneɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mathematical expression produced from a set of terms (= numbers or symbols) by multiplying each term by a constant (= a number or amount that never changes) and adding the results together: ",
+                            "examples": [
+                                "The expression ax + by is a linear combination of x and y, where a and b are constants."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "cv",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsiːˈviː"
+                            ],
+                            "us": [
+                                "ˌsiːˈviː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for\ncurriculum vitae formal : a short written description of your education, qualifications, previous jobs, and sometimes also your personal interests, that you send to an employer when you are trying to get a job",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a written description of the previous work of someone who is looking for a job at a college or university: ",
+                            "examples": [
+                                "Applicants interested in applying for the position should submit their CVs to the Anatomy Department no later than 15 February."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

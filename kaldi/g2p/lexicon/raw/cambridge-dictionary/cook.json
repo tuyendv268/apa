@@ -1,0 +1,59 @@
+{
+    "word": "cook",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kʊk"
+                            ],
+                            "us": [
+                                "kʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When you cook food, you prepare it to be eaten by heating it in a particular way, such as baking or boiling, and when food cooks, it is heated until it is ready to eat: ",
+                            "examples": [
+                                "I don't cook meat very often.",
+                                "He cooked us a huge dinner./He cooked a huge dinner for us.",
+                                "Let the fish cook for half an hour before you add the wine."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kʊk"
+                            ],
+                            "us": [
+                                "kʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who prepares and cooks food: ",
+                            "examples": [
+                                "She's a wonderful cook."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

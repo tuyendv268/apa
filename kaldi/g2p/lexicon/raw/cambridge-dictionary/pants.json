@@ -1,0 +1,68 @@
+{
+    "word": "pants",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pænts"
+                            ],
+                            "us": [
+                                "pænts"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of underwear covering the area between the waist and the tops of the legs",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a piece of clothing that covers the lower part of the body from the waist to the feet, consisting of two cylinder-shaped parts, one for each leg, that are joined at the top: ",
+                            "examples": [
+                                "a pair of pants",
+                                "Why aren't you wearing any pants, David?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "pænts"
+                            ],
+                            "us": [
+                                "pænts"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not useful or of bad quality: ",
+                            "examples": [
+                                "This music is pants."
+                            ]
+                        },
+                        {
+                            "explanation": "belonging or relating to pants: ",
+                            "examples": [
+                                "\"Just look at this scar,\" said Aaron proudly, rolling up his pants leg."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

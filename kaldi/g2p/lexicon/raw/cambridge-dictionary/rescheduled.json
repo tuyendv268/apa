@@ -1,0 +1,61 @@
+{
+    "word": "rescheduled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nreschedule ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriːˈʃedʒ.uːl"
+                            ],
+                            "us": [
+                                "ˌriːˈskedʒ.uːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to agree on a new and later date for something to happen: ",
+                            "examples": [
+                                "I rescheduled my doctor's appointment for later in the week."
+                            ]
+                        },
+                        {
+                            "explanation": "to agree that money owed can be paid back at a later date: ",
+                            "examples": [
+                                "Banks have rescheduled the debts of many developing countries ."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

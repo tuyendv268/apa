@@ -1,0 +1,62 @@
+{
+    "word": "eroded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nerode ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈrəʊd"
+                            ],
+                            "us": [
+                                "ɪˈroʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to rub or be rubbed away gradually: ",
+                            "examples": [
+                                "Wind and rain have eroded the statues into shapeless lumps of stone.",
+                                "The cliffs are eroding several feet a year."
+                            ]
+                        },
+                        {
+                            "explanation": "to slowly reduce or destroy something: ",
+                            "examples": [
+                                "His behaviour over the last few months has eroded my confidence in his judgment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

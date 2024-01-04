@@ -1,0 +1,80 @@
+{
+    "word": "accessible",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əkˈses.ə.bəl"
+                            ],
+                            "us": [
+                                "əkˈses.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "able to be reached or easily obtained : ",
+                            "examples": [
+                                "The resort is easily accessible by road, rail, and air.",
+                                "The building has fast internet accessible to subscribers. ",
+                                "The problem with some of these drugs is that they are so very accessible."
+                            ]
+                        },
+                        {
+                            "explanation": "able to be entered or used by everyone, including people who use a wheelchair, people who are blind, etc.: ",
+                            "examples": [
+                                "They agreed to build more affordable and accessible housing.",
+                                "All the toilets are fully accessible."
+                            ]
+                        },
+                        {
+                            "explanation": "easy to understand or enjoy: ",
+                            "examples": [
+                                "Lea Anderson is a choreographer who believes in making dance accessible.",
+                                "Covent Garden has made some attempt to make opera accessible to a wider public."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                "-ək.ses.ə.bəl"
+                            ],
+                            "us": [
+                                "-ək.ses.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used at the end of words to mean that something can be reached or obtained in a particular way or by a particular group of people: ",
+                            "examples": [
+                                "The facility is handicapped-accesible, with a ramp leading to the entrance. ",
+                                "The stadium currently has 90 wheelchair-accessible seats.",
+                                "Computer-accessible medical records avoid paper waste and save time.",
+                                "The device has two front-accessible USB ports."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

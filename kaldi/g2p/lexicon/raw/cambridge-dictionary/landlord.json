@@ -1,0 +1,38 @@
+{
+    "word": "landlord",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlænd.lɔːd"
+                            ],
+                            "us": [
+                                "ˈlænd.lɔːrd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person or organization that owns a building or an area of land and is paid by other people for the use of it: ",
+                            "examples": [
+                                "The landlord had promised to redecorate the bedrooms before we moved in.",
+                                "Housing associations are the biggest landlords in this area."
+                            ]
+                        },
+                        {
+                            "explanation": "a man who is in charge of a pub or bar",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

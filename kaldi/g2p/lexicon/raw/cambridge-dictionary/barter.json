@@ -1,0 +1,58 @@
+{
+    "word": "barter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɑː.tər"
+                            ],
+                            "us": [
+                                "ˈbɑːr.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to exchange goods for other things rather than for money: ",
+                            "examples": [
+                                "He bartered his stamp collection for her comics.",
+                                "We spent a whole hour bartering with stallholders for souvenirs."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɑː.tər"
+                            ],
+                            "us": [
+                                "ˈbɑːr.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act or system of bartering goods: ",
+                            "examples": [
+                                "The currency has lost so much of its value that barter has become the preferred way of doing business."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

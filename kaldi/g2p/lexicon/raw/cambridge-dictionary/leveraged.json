@@ -1,0 +1,40 @@
+{
+    "word": "leveraged",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈliː.vər.ɪdʒd"
+                            ],
+                            "us": [
+                                "ˈlev.ɚ.ɪdʒd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A leveraged company or organization owes a large amount of money in relation to its value: ",
+                            "examples": [
+                                "The company is highly leveraged and struggling with interest payments."
+                            ]
+                        },
+                        {
+                            "explanation": "A leveraged deal or investment has been paid for using borrowed money. : ",
+                            "examples": [
+                                "He owns some highly leveraged investment property.",
+                                "The company was acquired by a consortium in a highly leveraged takeover."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "unpacked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nunpack ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈpæk"
+                            ],
+                            "us": [
+                                "ʌnˈpæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove things from a suitcase, bag, or box: ",
+                            "examples": [
+                                "I haven't even had time to unpack (my suitcase/clothes)."
+                            ]
+                        },
+                        {
+                            "explanation": "to explain or examine something in order to make its meaning clearer: ",
+                            "examples": [
+                                "He read the agreed statement to the group and then began to unpack it for them."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

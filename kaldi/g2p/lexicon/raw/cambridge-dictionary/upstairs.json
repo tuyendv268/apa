@@ -1,0 +1,59 @@
+{
+    "word": "upstairs",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ʌpˈsteəz"
+                            ],
+                            "us": [
+                                "ʌpˈsterz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "towards or on the highest floor or floors of a building: ",
+                            "examples": [
+                                "an upstairs landing/window",
+                                "He heard glass breaking and ran upstairs to see what had caused it."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ʌpˈsteəz"
+                            ],
+                            "us": [
+                                "ʌpˈsterz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the highest floor or floors of a building: ",
+                            "examples": [
+                                "Sadly, the upstairs of the house was gutted by fire.",
+                                "There were shouts from upstairs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

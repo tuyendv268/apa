@@ -1,0 +1,49 @@
+{
+    "word": "translate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trænzˈleɪt",
+                                "trænˈsleɪt"
+                            ],
+                            "us": [
+                                "trænsˈleɪt",
+                                "trænzˈleɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change words into a different language: ",
+                            "examples": [
+                                "We were asked to translate a list of sentences.",
+                                "She works for the UN, translating from English into French."
+                            ]
+                        },
+                        {
+                            "explanation": "to change something into a new form, especially to turn a plan into something real: ",
+                            "examples": [
+                                "So how does this theory translate into practical policy?",
+                                "The ways of working that he had learned at college did not translate well (= were not suitable) to the world of business."
+                            ]
+                        },
+                        {
+                            "explanation": "to decide that words, behaviour, or actions mean a particular thing: ",
+                            "examples": [
+                                "He mumbled something which I translated as agreement."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

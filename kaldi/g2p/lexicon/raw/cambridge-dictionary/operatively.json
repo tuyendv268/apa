@@ -1,0 +1,41 @@
+{
+    "word": "operatively",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒp.ər.ə.tɪv.li"
+                            ],
+                            "us": [
+                                "ˈɑː.pɚ.ə.t̬ɪv.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that relates to something working: ",
+                            "examples": [
+                                "The design and build phases were challenging but, operatively speaking, the project has been a success.",
+                                "The display panel is operatively connected to the processor via a printed circuit board. "
+                            ]
+                        },
+                        {
+                            "explanation": "as part of or using a medical operation: ",
+                            "examples": [
+                                "The doctors decided that the tumour had to be removed operatively.",
+                                "The study assessed the quality of life of the patients who were treated operatively."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

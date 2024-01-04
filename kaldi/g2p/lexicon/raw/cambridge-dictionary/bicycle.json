@@ -1,0 +1,60 @@
+{
+    "word": "bicycle",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.sɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈbaɪ.sə.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a two-wheeled vehicle that you sit on and move by turning the two pedals (= flat parts you press with your feet): ",
+                            "examples": [
+                                "I go to work by bicycle.",
+                                "He got on his bicycle and rode off.",
+                                "You should never ride your bicycle without lights at night."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbaɪ.sɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈbaɪ.sə.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to ride a bicycle: ",
+                            "examples": [
+                                "He bicycles to work through the heart of Amsterdam.",
+                                "After the event, we bicycled six miles back home."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

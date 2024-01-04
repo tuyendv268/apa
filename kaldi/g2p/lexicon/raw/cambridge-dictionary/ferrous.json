@@ -1,0 +1,41 @@
+{
+    "word": "ferrous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfer.əs"
+                            ],
+                            "us": [
+                                "ˈfer.əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "containing or relating to iron: ",
+                            "examples": [
+                                "ferrous metals/compounds",
+                                "The simplest way to detect ferrous metal is using a magnet."
+                            ]
+                        },
+                        {
+                            "explanation": "relating to iron with a valency of two: ",
+                            "examples": [
+                                "ferrous iron",
+                                "Iron can be absorbed in the ferrous state much more readily than in the ferric state."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

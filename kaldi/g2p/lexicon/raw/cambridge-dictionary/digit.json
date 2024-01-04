@@ -1,0 +1,37 @@
+{
+    "word": "digit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɪdʒ.ɪt"
+                            ],
+                            "us": [
+                                "ˈdɪdʒ.ɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any one of the ten numbers 0 to 9: ",
+                            "examples": [
+                                "The number 345 contains three digits."
+                            ]
+                        },
+                        {
+                            "explanation": "a finger, thumb, or toe",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

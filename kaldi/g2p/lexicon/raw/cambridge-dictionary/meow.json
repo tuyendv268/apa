@@ -1,0 +1,59 @@
+{
+    "word": "meow",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmiːˈaʊ"
+                            ],
+                            "us": [
+                                "ˌmiˈaʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the high crying sound of a cat: ",
+                            "examples": [
+                                "The cat let out a small meow. ",
+                                "Every time I say \"Bye Ginger\", the cat goes \"meow\"."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌmiːˈaʊ"
+                            ],
+                            "us": [
+                                "ˌmiˈaʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a cat) to make a high crying sound: ",
+                            "examples": [
+                                "A cat was meowing pitifully outside the door.",
+                                "A cat meowed from somewhere in the house. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

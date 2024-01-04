@@ -1,0 +1,48 @@
+{
+    "word": "until",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "ənˈtɪl",
+                                "ʌnˈtɪl"
+                            ],
+                            "us": [
+                                "ənˈtɪl",
+                                "ʌnˈtɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "up to (the time that): ",
+                            "examples": [
+                                "I was up until three o'clock trying to get it finished!",
+                                "Shouldn't we wait until Antony's here?"
+                            ]
+                        },
+                        {
+                            "explanation": "not before a particular time or event: ",
+                            "examples": [
+                                "We didn't eat until past midnight."
+                            ]
+                        },
+                        {
+                            "explanation": "as far as: ",
+                            "examples": [
+                                "You should stay on the train until Manchester and then change."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

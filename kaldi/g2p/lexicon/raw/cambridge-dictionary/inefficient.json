@@ -1,0 +1,41 @@
+{
+    "word": "inefficient",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.ɪˈfɪʃ.ənt"
+                            ],
+                            "us": [
+                                "ˌɪn.ɪˈfɪʃ.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not organized, skilled, or able to work in a satisfactory way: ",
+                            "examples": [
+                                "Existing methods of production are expensive and inefficient.",
+                                "I'm hopelessly inefficient at fixing things."
+                            ]
+                        },
+                        {
+                            "explanation": "working in a way that wastes a resource (= something valuable such as fuel, water, or money): ",
+                            "examples": [
+                                "A gas stove is a very inefficient device because some of the hot gas is lost to the surroundings.",
+                                "Current design practices are environmentally inefficient. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

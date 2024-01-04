@@ -1,0 +1,57 @@
+{
+    "word": "hypothesized",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nhypothesize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "haɪˈpɒθ.ə.saɪz"
+                            ],
+                            "us": [
+                                "haɪˈpɑː.θə.saɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give a possible but not yet proved explanation for something: ",
+                            "examples": [
+                                "We hypothesized that children of alcoholic fathers will demonstrate more behavioural problems.",
+                                "There's no point hypothesizing about how the accident happened, since we'll never really know.",
+                                "This discovery led experts to hypothesize a different path of evolution for early man."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

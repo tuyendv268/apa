@@ -1,0 +1,37 @@
+{
+    "word": "symmetry",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪm.ə.tri"
+                            ],
+                            "us": [
+                                "ˈsɪm.ə.tri"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the quality of having parts that match each other, especially in a way that is attractive, or similarity of shape or contents: ",
+                            "examples": [
+                                "The design of the house had a pleasing symmetry, its oblong shape being picked up in its elongated windows."
+                            ]
+                        },
+                        {
+                            "explanation": "in mathematics, the quality of having two parts that match exactly, either when one half is like an image of the other half in a mirror, or when one part can take the place of another if it is turned 90° or 180°",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

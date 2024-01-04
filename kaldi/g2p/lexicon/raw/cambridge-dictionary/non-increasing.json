@@ -1,0 +1,34 @@
+{
+    "word": "non-increasing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.ɪnˈkriː.sɪŋ"
+                            ],
+                            "us": [
+                                "ˌnɑːn.ɪnˈkriː.sɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not becoming larger in amount or size: ",
+                            "examples": [
+                                "Throughout the article, the author has preferred the words increasing to non-decreasing and decreasing to non-increasing.",
+                                "The sequence is non-negative and non-increasing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

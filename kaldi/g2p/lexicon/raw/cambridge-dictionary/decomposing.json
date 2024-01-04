@@ -1,0 +1,61 @@
+{
+    "word": "decomposing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndecompose ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌdiː.kəmˈpəʊz"
+                            ],
+                            "us": [
+                                "ˌdiː.kəmˈpoʊz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to decay, or to cause something to decay: ",
+                            "examples": [
+                                "The body must have been decomposing for several weeks."
+                            ]
+                        },
+                        {
+                            "explanation": "to break, or to break something, into smaller parts: ",
+                            "examples": [
+                                "Microbes decompose organic waste into a mixture of methane and carbon dioxide."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "word": "dos",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "duːz"
+                            ],
+                            "us": [
+                                "duːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "rules about actions and activities that people should or should not perform or take part in: ",
+                            "examples": [
+                                "The teacher spent ten minutes explaining all the dos and don'ts in the classroom."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɒs"
+                            ],
+                            "us": [
+                                "dɑːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for denial of service: an occasion when a computer network or website is intentionally prevented from working correctly, by a person or group sending a large amount of data at one time: ",
+                            "examples": [
+                                "DoS attacks can be motivated by revenge, blackmail, or activism.",
+                                "One type of DoS involves redirecting outgoing messages from the client back to the client."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɒs"
+                            ],
+                            "us": [
+                                "dɑːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for disk operating system: a type of operating system for computers",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

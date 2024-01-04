@@ -1,0 +1,58 @@
+{
+    "word": "essay",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈes.eɪ"
+                            ],
+                            "us": [
+                                "ˈes.eɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short piece of writing on a particular subject, especially one done by students as part of the work for a course: ",
+                            "examples": [
+                                "For homework I want you to write an essay on endangered species.",
+                                "Mr Jones thought my history essay was terrific."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "eˈseɪ"
+                            ],
+                            "us": [
+                                "eˈseɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to do something: ",
+                            "examples": [
+                                "The procedure was first essayed in 1923."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

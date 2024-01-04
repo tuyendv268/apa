@@ -1,0 +1,69 @@
+{
+    "word": "polarizing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npolarize ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊ.lə.raɪz"
+                            ],
+                            "us": [
+                                "ˈpoʊ.lə.raɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause something, especially something that contains different people or opinions, to divide into two completely opposing groups: ",
+                            "examples": [
+                                "The issue has polarized the nation. ",
+                                "Two developments have polarized the debate."
+                            ]
+                        },
+                        {
+                            "explanation": "to make light waves move in one direction only, or mainly in one direction: ",
+                            "examples": [
+                                "To polarize the light there is a screen directly in front of the projector.",
+                                "A polarizing filter is a filter which transmits only light polarized in a specific dimension."
+                            ]
+                        },
+                        {
+                            "explanation": "to treat glass with a substance that reduces the amount of reflected light: ",
+                            "examples": [
+                                "Car manufacturers do not polarize the glass in windscreens for safety reasons."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

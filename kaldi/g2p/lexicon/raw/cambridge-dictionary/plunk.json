@@ -1,0 +1,89 @@
+{
+    "word": "plunk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "plʌŋk"
+                            ],
+                            "us": [
+                                "plʌŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put something down heavily and without taking care: ",
+                            "examples": [
+                                "Just plunk the shopping bags (down) on the table, and come and have a cup of tea.",
+                                "Come in and plunk yourselves (down) (= sit down) anywhere you like."
+                            ]
+                        },
+                        {
+                            "explanation": "to play a musical instrument, usually not very well but often loudly: ",
+                            "examples": [
+                                "I really enjoy plunking away on the piano."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "plʌŋk"
+                            ],
+                            "us": [
+                                "plʌŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a hollow sound like that made when an object is dropped heavily onto a surface: ",
+                            "examples": [
+                                "the plunk of a tennis ball"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "plɒŋk"
+                            ],
+                            "us": [
+                                "plɑːŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "making a hollow sound like that made when an object is dropped heavily onto a surface: ",
+                            "examples": [
+                                "I heard something go plunk.",
+                                "An apple landed plunk on the ground."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

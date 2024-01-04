@@ -1,0 +1,71 @@
+{
+    "word": "interface",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tə.feɪs"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ɚ.feɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a connection between two pieces of electronic equipment, or between a person and a computer: ",
+                            "examples": [
+                                "My computer has a network interface, which allows me to get to other computers.",
+                                "The new version of the program comes with a much better user interface (= way of showing information to a user) than the original."
+                            ]
+                        },
+                        {
+                            "explanation": "a situation, way, or place where two things come together and affect each other: ",
+                            "examples": [
+                                "the interface between technology and tradition",
+                                "We need a clearer interface between management and the workforce."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.tə.feɪs"
+                            ],
+                            "us": [
+                                "ˈɪn.t̬ɚ.feɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to connect two or more pieces of equipment, such as computers: ",
+                            "examples": [
+                                "The computers must be properly interfaced."
+                            ]
+                        },
+                        {
+                            "explanation": "to communicate with someone, especially in a work-related situation: ",
+                            "examples": [
+                                "We use email to interface with our customers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "intervened",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nintervene ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌɪn.təˈviːn"
+                            ],
+                            "us": [
+                                "ˌɪn.t̬ɚˈviːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to intentionally become involved in a difficult situation in order to improve it or prevent it from getting worse: ",
+                            "examples": [
+                                "The Central Bank intervened in the currency markets today to try to stabilize the exchange rate.",
+                                "The minister intervened personally to stop the museum from being closed."
+                            ]
+                        },
+                        {
+                            "explanation": "to happen between two times or between other events or activities: ",
+                            "examples": [
+                                "Two decades intervened between the completion of the design and the opening of the theatre."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

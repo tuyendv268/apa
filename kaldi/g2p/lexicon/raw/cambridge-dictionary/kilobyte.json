@@ -1,0 +1,40 @@
+{
+    "word": "kilobyte",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɪl.ə.baɪt"
+                            ],
+                            "us": [
+                                "ˈkɪl.ə.baɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of computer information consisting of 1,024 bytes: ",
+                            "examples": [
+                                "a 20-kilobyte file",
+                                "A standard e-mail consists of ten kilobytes of data."
+                            ]
+                        },
+                        {
+                            "explanation": "a unit of computer information consisting of 1,000 bytes: ",
+                            "examples": [
+                                "A byte is a single unit of information, a kilobyte is 1000 bytes, and a megabyte is 1000 kilobytes. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "reflexive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈflek.sɪv"
+                            ],
+                            "us": [
+                                "rɪˈflek.sɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Reflexive words show that the person who does the action is also the person who is affected by it: ",
+                            "examples": [
+                                "In the sentence \"She prides herself on doing a good job\", \"prides\" is a reflexive verb and \"herself\" is a reflexive pronoun."
+                            ]
+                        },
+                        {
+                            "explanation": "done because of a physical reaction that you cannot control: ",
+                            "examples": [
+                                "I hadn't meant to answer her, it was simply reflexive."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

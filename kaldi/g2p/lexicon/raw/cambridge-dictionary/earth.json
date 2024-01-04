@@ -1,0 +1,80 @@
+{
+    "word": "earth",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɜːθ"
+                            ],
+                            "us": [
+                                "ɝːθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the planet third in order of distance from the sun, between Venus and Mars; the world on which we live: ",
+                            "examples": [
+                                "The earth takes approximately 3651/4 days to go round the sun.",
+                                "The circus has been described as the greatest show on earth (= in the world).",
+                                "Mercury, Venus, Earth, and Mars are called \"rocky planets\"."
+                            ]
+                        },
+                        {
+                            "explanation": "the land surface of the world rather than the sky or sea: ",
+                            "examples": [
+                                "The earth was shaking and people rushed out of their houses in panic. ",
+                                "He had enjoyed the voyage but was happy to feel the earth beneath his feet once more."
+                            ]
+                        },
+                        {
+                            "explanation": "the usually brown, heavy and loose substance of which a large part of the surface of the ground is made, and in which plants can grow: ",
+                            "examples": [
+                                "The ploughed earth looked rich and dark and fertile."
+                            ]
+                        },
+                        {
+                            "explanation": "a wire that makes a connection between a piece of electrical equipment and the ground, so the user is protected from feeling an electric shock if the equipment develops a fault",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a hole in the ground where an animal such as a fox lives",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɜːθ"
+                            ],
+                            "us": [
+                                "ɝːθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put an earth (= wire) between a piece of electrical equipment and the ground: ",
+                            "examples": [
+                                "You could get a nasty shock from that water heater if it isn't earthed properly."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

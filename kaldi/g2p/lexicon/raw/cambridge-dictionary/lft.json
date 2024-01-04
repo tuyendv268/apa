@@ -1,0 +1,40 @@
+{
+    "word": "lft",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌel.efˈtiː"
+                            ],
+                            "us": [
+                                "ˌel.efˈtiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for lateral flow test: a test done using a small medical device that tests whether or not there is a particular substance, gene, etc. in a sample: ",
+                            "examples": [
+                                "Once you have done your LFT, you have to report the results. ",
+                                "Lateral flow tests (LFTs) are used to identify people with COVID-19 who are not showing symptoms."
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for liver function test: a test that checks the health of the liver (= the organ in the body that cleans the blood and produces bile): ",
+                            "examples": [
+                                "The patient had no known previous liver disease or LFT abnormalities."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

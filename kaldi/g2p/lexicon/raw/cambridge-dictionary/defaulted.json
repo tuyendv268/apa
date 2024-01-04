@@ -1,0 +1,55 @@
+{
+    "word": "defaulted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndefault ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈfɒlt"
+                            ],
+                            "us": [
+                                "dɪˈfɑːlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fail to do something, such as pay a debt, that you legally have to do: ",
+                            "examples": [
+                                "People who default on their mortgage repayments may have their home repossessed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "consulted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nconsult ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈsʌlt"
+                            ],
+                            "us": [
+                                "kənˈsʌlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get information or advice from a person, book, etc. with special knowledge on a particular subject: ",
+                            "examples": [
+                                "If the symptoms get worse, consult your doctor.",
+                                "I'm not quite sure how to get there - I'd better consult a map."
+                            ]
+                        },
+                        {
+                            "explanation": "to discuss something with someone before you make a decision: ",
+                            "examples": [
+                                "Why didn't you consult me about this?",
+                                "This afternoon the president was consulting with his advisers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

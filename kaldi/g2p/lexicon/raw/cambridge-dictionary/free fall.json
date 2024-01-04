@@ -1,0 +1,37 @@
+{
+    "word": "free fall",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [
+                                "ˈfri ˌfɔl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fast fall from a great height under the influence of gravity (= the natural force that attracts things toward the earth) without any other force acting to reduce speed: ",
+                            "examples": [
+                                "The parachutists are briefly in free fall before opening their parachutes."
+                            ]
+                        },
+                        {
+                            "explanation": "a sudden, fast loss, for example in price, popularity, or value: ",
+                            "examples": [
+                                "The government had to act to keep the dollar from going into free fall against other currencies."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

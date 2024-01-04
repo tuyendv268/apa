@@ -1,0 +1,45 @@
+{
+    "word": "population",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɒp.jəˈleɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌpɑː.pjəˈleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "all the people living in a particular country, area, or place: ",
+                            "examples": [
+                                "Ten percent of the population lived in poverty.",
+                                "In 1992 the population of Cairo was approximately 6,500,000.",
+                                "a growing/shrinking population",
+                                "Throughout the war, there were horrific casualties among the civilian populations of both countries.",
+                                "The UN is investigating new methods of population control (= limiting the growth of the number of people).",
+                                "The country is facing a population explosion (= sudden growth in the number of people)."
+                            ]
+                        },
+                        {
+                            "explanation": "all the people or animals of a particular type or group who live in one country, area, or place: ",
+                            "examples": [
+                                "There's been a nine percent rise in the prison population (= the number of people in prison).",
+                                "The dolphin population has been decimated by tuna fishing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

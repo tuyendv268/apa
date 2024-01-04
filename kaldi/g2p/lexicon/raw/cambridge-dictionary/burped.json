@@ -1,0 +1,57 @@
+{
+    "word": "burped",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nburp ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɜːp"
+                            ],
+                            "us": [
+                                "bɝːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to allow air from the stomach to come out through the mouth in a noisy way",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to gently rub a baby's back to help air to come out of its stomach",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

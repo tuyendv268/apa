@@ -1,0 +1,65 @@
+{
+    "word": "forking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nfork ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fɔːk"
+                            ],
+                            "us": [
+                                "fɔːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a road or river forks, it divides into two parts: ",
+                            "examples": [
+                                "The hotel is near where the road forks."
+                            ]
+                        },
+                        {
+                            "explanation": "to turn in one of two different directions: ",
+                            "examples": [
+                                "Fork left/right where the road divides."
+                            ]
+                        },
+                        {
+                            "explanation": "to move or dig something with a fork",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

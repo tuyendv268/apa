@@ -1,0 +1,34 @@
+{
+    "word": "scissors",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪz.əz"
+                            ],
+                            "us": [
+                                "ˈsɪz.ɚz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device used for cutting materials such as paper, cloth, and hair, consisting of two sharp blades that are joined in the middle, and two handles with holes to put your fingers through: ",
+                            "examples": [
+                                "a pair of scissors",
+                                "Could you pass me the/those scissors, please?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

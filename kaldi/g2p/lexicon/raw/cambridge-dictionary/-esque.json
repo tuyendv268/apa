@@ -1,0 +1,35 @@
+{
+    "word": "-esque",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -esk"
+                            ],
+                            "us": [
+                                " -esk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "like or in the style of someone or their work: ",
+                            "examples": [
+                                "Dalí-esque",
+                                "Leonardo-esque",
+                                "Working there was like being trapped in a Kafkaesque nightmare."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

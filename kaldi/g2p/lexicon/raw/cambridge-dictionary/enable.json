@@ -1,0 +1,40 @@
+{
+    "word": "enable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈneɪ.bəl"
+                            ],
+                            "us": [
+                                "ɪˈneɪ.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone able to do something, or to make something possible: ",
+                            "examples": [
+                                "Computerization should enable us to cut production costs by half."
+                            ]
+                        },
+                        {
+                            "explanation": "to allow or make it possible for someone to behave in a way that damages them: ",
+                            "examples": [
+                                "It is wrong to enable or support any addict to become re-addicted to any drug.",
+                                "Parents must always ask themselves if they are enabling their child's drug use."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

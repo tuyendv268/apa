@@ -1,0 +1,41 @@
+{
+    "word": "experimentally",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˌsper.ɪˈmen.təl.i"
+                            ],
+                            "us": [
+                                "ɪkˌsper.əˈmen.t̬əl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that involves scientific tests: ",
+                            "examples": [
+                                "The implications were recognized but could not be experimentally tested.",
+                                "This phenomenon has been demonstrated experimentally. "
+                            ]
+                        },
+                        {
+                            "explanation": "in an uncertain way, without being sure what the result will be: ",
+                            "examples": [
+                                "She ran a finger experimentally along a shelf and examined the dust that piled up beneath it.",
+                                "She raised herself from her pillows and stretched experimentally."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "small cap",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsmɔːl ˈkæp"
+                            ],
+                            "us": [
+                                "ˌsmɑːl ˈkæp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "capital letters that are the same height as lower case letters (= a, b, c, etc.): ",
+                            "examples": [
+                                "The title is output in small caps."
+                            ]
+                        },
+                        {
+                            "explanation": "a company that has a low total value of shares, compared to other companies: ",
+                            "examples": [
+                                "Not all small caps are good investments.",
+                                "When we first invested, the company was a small cap."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

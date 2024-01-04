@@ -1,0 +1,55 @@
+{
+    "word": "bird",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bɜːd"
+                            ],
+                            "us": [
+                                "bɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a creature with feathers and wings, usually able to fly: ",
+                            "examples": [
+                                "caged/wild birds",
+                                "wading birds",
+                                "Most birds lay eggs in the spring.",
+                                "Penguins and ostriches are flightless birds (= they cannot fly).",
+                                "We watched a flock of birds fly over the field."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular type of person: ",
+                            "examples": [
+                                "He's a tough old bird."
+                            ]
+                        },
+                        {
+                            "explanation": "a young woman: ",
+                            "examples": [
+                                "Is that Lee's new bird?"
+                            ]
+                        },
+                        {
+                            "explanation": "another word for \nbirdie : ",
+                            "examples": [
+                                "The server must hit the bird so it lands within the court boundaries."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

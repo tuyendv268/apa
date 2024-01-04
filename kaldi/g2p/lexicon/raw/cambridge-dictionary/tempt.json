@@ -1,0 +1,40 @@
+{
+    "word": "tempt",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tempt"
+                            ],
+                            "us": [
+                                "tempt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone want to have or do something, especially something that is unnecessary or wrong: ",
+                            "examples": [
+                                "The offer of free credit tempted her into buying a new car.",
+                                "They tempted him to join the company by offering him a huge salary and a company car."
+                            ]
+                        },
+                        {
+                            "explanation": "to want something or to want to do something: ",
+                            "examples": [
+                                "\"Did you apply for that job?\" \"Well, I was very tempted, but I decided not to.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

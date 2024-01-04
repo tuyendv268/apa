@@ -1,0 +1,41 @@
+{
+    "word": "department",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈpɑːt.mənt"
+                            ],
+                            "us": [
+                                "dɪˈpɑːrt.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a part of an organization such as a school, business, or government that deals with a particular area of study or work: ",
+                            "examples": [
+                                "the chemistry department/the department of chemistry",
+                                "The sales department is/are having a Christmas party this week.",
+                                "the Department of Health and Social Security"
+                            ]
+                        },
+                        {
+                            "explanation": "one of the areas that France is divided into, that has its own local government: ",
+                            "examples": [
+                                "Angers is the capital of the department of Maine-et-Loire. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

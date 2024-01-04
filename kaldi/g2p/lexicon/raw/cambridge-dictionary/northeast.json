@@ -1,0 +1,71 @@
+{
+    "word": "northeast",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɔːθˈiːst"
+                            ],
+                            "us": [
+                                "ˌnɔːrθˈiːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the direction that is between north and east: ",
+                            "examples": [
+                                "We live in the northeast of Spain."
+                            ]
+                        },
+                        {
+                            "explanation": "the area in the northeast of England, the US, or another country: ",
+                            "examples": [
+                                "Newcastle is one of the largest cities in the Northeast."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɔːθˈiːst"
+                            ],
+                            "us": [
+                                "ˌnɔːrθˈiːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in or towards the northeast: ",
+                            "examples": [
+                                "Go northeast for about five miles.",
+                                "The town is/lies roughly northeast of here.",
+                                "the northeast corner of the field"
+                            ]
+                        },
+                        {
+                            "explanation": "a wind that comes from the northeast: ",
+                            "examples": [
+                                "High pressure had served to strengthen the northeast wind battering the coast. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

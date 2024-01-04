@@ -1,0 +1,56 @@
+{
+    "word": "complement",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒm.plɪ.ment"
+                            ],
+                            "us": [
+                                "ˈkɑːm.plə.ment"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something else seem better or more attractive when combining with it: ",
+                            "examples": [
+                                "Strawberries and cream complement each other perfectly.",
+                                "The music complements her voice perfectly."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒm.plɪ.ment"
+                            ],
+                            "us": [
+                                "ˈkɑːm.plə.ment"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a part of a clause that usually follows the verb in English and adds more information about the subject or object",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

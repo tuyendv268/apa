@@ -1,0 +1,39 @@
+{
+    "word": "outlier",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈaʊtˌlaɪ.ər"
+                            ],
+                            "us": [
+                                "ˈaʊtˌlaɪ.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person, thing, or fact that is very different from other people, things, or facts, so that it cannot be used to draw general conclusions: ",
+                            "examples": [
+                                "People who live past 100 are genetic outliers, whose longevity is unreachable for most of us. "
+                            ]
+                        },
+                        {
+                            "explanation": "a place that is far from the main part of something: ",
+                            "examples": [
+                                "The survey showed about 125 outlier sites up to 100 miles from Chaco."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

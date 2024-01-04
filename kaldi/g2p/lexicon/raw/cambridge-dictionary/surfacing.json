@@ -1,0 +1,72 @@
+{
+    "word": "surfacing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsurface ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɜː.fɪs"
+                            ],
+                            "us": [
+                                "ˈsɝː-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to rise to the surface of water: ",
+                            "examples": [
+                                "The submarine surfaced a few miles off the coast."
+                            ]
+                        },
+                        {
+                            "explanation": "to cover a road or other area with a hard surface",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If a feeling or information surfaces, it becomes known: ",
+                            "examples": [
+                                "Doubts are beginning to surface about whether the right decision has been made.",
+                                "A rumour has surfaced that the company is about to go out of business."
+                            ]
+                        },
+                        {
+                            "explanation": "to get out of bed: ",
+                            "examples": [
+                                "He never surfaces until at least 11.00 a.m. on a Sunday."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

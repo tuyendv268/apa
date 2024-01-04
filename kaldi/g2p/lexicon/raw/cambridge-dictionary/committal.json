@@ -1,0 +1,51 @@
+{
+    "word": "committal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəˈmɪt.əl"
+                            ],
+                            "us": [
+                                "kəˈmɪt̬.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of sending someone to a psychiatric hospital or prison: ",
+                            "examples": [
+                                "The psychiatric team decided that committal would not be beneficial in her case.",
+                                "These events led to his committal.",
+                                "The prospect of a committal to prison did not frighten her."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of sending someone to a higher court for a trial or to be sentenced (= given a punishment): ",
+                            "examples": [
+                                "On his committal for trial, he was granted bail.",
+                                "Sentence was passed by the Crown Court following committal for sentence by the magistrates' court.",
+                                "How can we reduce the number of committals without interfering with the defendant's right to opt for jury trial?"
+                            ]
+                        },
+                        {
+                            "explanation": "the ceremony at which a dead body is buried or sent to be burned: ",
+                            "examples": [
+                                "The funeral service will be followed by a private committal.",
+                                "The priest read a prayer of committal over the grave.",
+                                "At a crematorium, the committal signals the final goodbye before the coffin is removed from view."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

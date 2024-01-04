@@ -1,0 +1,73 @@
+{
+    "word": "fished",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nfish ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fɪʃ"
+                            ],
+                            "us": [
+                                "fɪʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to find something, using your fingers to look for it: ",
+                            "examples": [
+                                "She fished in her tool box for the right screwdriver."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to get something, without asking directly: ",
+                            "examples": [
+                                "The director was fishing for information about our strategy.",
+                                "He's always fishing for compliments (= trying to make people say good things about him)."
+                            ]
+                        },
+                        {
+                            "explanation": "to catch fish from a river, sea, lake, etc., or to try to do this: ",
+                            "examples": [
+                                "They're fishing for tuna.",
+                                "The sea here has been fished intensely over the last ten years."
+                            ]
+                        },
+                        {
+                            "explanation": "If an area of water has been fished out, all or most of the fish in it have been caught.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

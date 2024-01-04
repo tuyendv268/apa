@@ -1,0 +1,63 @@
+{
+    "word": "complicating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncomplicate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒm.plɪ.keɪt"
+                            ],
+                            "us": [
+                                "ˈkɑːm.plə.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something more difficult to deal with, do, or understand: ",
+                            "examples": [
+                                "It will only complicate the situation if we invite his old girlfriend as well.",
+                                "The rescue operation has been complicated by bad weather.",
+                                "These new rules have complicated the tax system even further."
+                            ]
+                        },
+                        {
+                            "explanation": "If one illness complicates another illness, it makes the other illness worse: ",
+                            "examples": [
+                                "The breathing problem has now been complicated by a chest infection."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

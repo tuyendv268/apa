@@ -1,0 +1,72 @@
+{
+    "word": "depositing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndeposit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈpɒz.ɪt"
+                            ],
+                            "us": [
+                                "dɪˈpɑː.zɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to leave something somewhere: ",
+                            "examples": [
+                                "The flood waters fell, depositing mud over the whole area.",
+                                "The bus deposited me miles from anywhere.",
+                                "The cuckoo deposits her eggs in other birds' nests.",
+                                "I deposited my luggage in a locker at the station."
+                            ]
+                        },
+                        {
+                            "explanation": "to put something valuable, especially money, in a bank or safe (= strong box or cupboard with locks): ",
+                            "examples": [
+                                "There's a night safe outside the bank, so you can deposit money whenever you wish.",
+                                "I deposited £500 in my account this morning."
+                            ]
+                        },
+                        {
+                            "explanation": "to pay someone an amount of money when you make an agreement with that person to pay for or buy something, that either will be returned to you later, if the agreed arrangement is kept, or that forms part of the total payment: ",
+                            "examples": [
+                                "When we moved in, we had to deposit $1,000 with the landlord in case we broke any of his things.",
+                                "You deposit 20 percent now and pay the rest when the car is delivered."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "multisystem",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.tiˈsɪs.təm"
+                            ],
+                            "us": [
+                                "ˌmʌl.tiˈsɪs.təm",
+                                "ˌmʌl.taɪˈsɪs.təm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving or affecting two or more of the body's organ systems: ",
+                            "examples": [
+                                "Lyme disease is a multisystem disease which can affect the skin, joints, and nervous system.",
+                                "One death occurred due to multisystem failure."
+                            ]
+                        },
+                        {
+                            "explanation": "involving several systems: ",
+                            "examples": [
+                                "This technique permits multisystem data sharing. ",
+                                "It's a workload management solution to manage large, multi-system environments."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

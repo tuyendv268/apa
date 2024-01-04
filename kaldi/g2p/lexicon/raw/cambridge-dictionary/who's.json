@@ -1,0 +1,39 @@
+{
+    "word": "who's",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "huːz"
+                            ],
+                            "us": [
+                                "huːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short form of who has: ",
+                            "examples": [
+                                "Who's been chosen, do you know?"
+                            ]
+                        },
+                        {
+                            "explanation": "short form of who is: ",
+                            "examples": [
+                                "Who's that talking to Jason?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

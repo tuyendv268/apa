@@ -1,0 +1,33 @@
+{
+    "word": "humidex",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhjuː.mɪ.deks"
+                            ],
+                            "us": [
+                                "ˈhjuː.mɪ.deks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a measurement of how hot the air feels and how uncomfortable people are likely to be based on the temperature combined with the humidity (= the amount of water in the air): ",
+                            "examples": [
+                                "The weather has been horrible, with temperatures approaching 34 C and the humidex making it feel like it's over 40 C outside."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

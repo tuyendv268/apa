@@ -1,0 +1,48 @@
+{
+    "word": "perhaps",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "pəˈhæps",
+                                "præps"
+                            ],
+                            "us": [
+                                "pɚˈhæps"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to show that something is possible or that you are not certain about something: ",
+                            "examples": [
+                                "He hasn't written to me recently - perhaps he's lost my address.",
+                                "Perhaps the most important question has not been asked.",
+                                "We plan to travel to Europe - to Spain or Italy perhaps."
+                            ]
+                        },
+                        {
+                            "explanation": "used to show that a number or amount is approximate: ",
+                            "examples": [
+                                "There were perhaps 500 people at the meeting."
+                            ]
+                        },
+                        {
+                            "explanation": "used when making polite requests or statements of opinion: ",
+                            "examples": [
+                                "\"I never remember people's birthdays.\" \"Well, perhaps you should.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

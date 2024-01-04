@@ -1,0 +1,40 @@
+{
+    "word": "payroll",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪ.rəʊl"
+                            ],
+                            "us": [
+                                "ˈpeɪ.roʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of the people employed by a company showing how much each one earns: ",
+                            "examples": [
+                                "a payroll tax",
+                                "The company is growing fast, adding another 100 employees to its payroll over the last year."
+                            ]
+                        },
+                        {
+                            "explanation": "the total amount of money paid to the people employed by a particular company: ",
+                            "examples": [
+                                "With debts of $4 million and a monthly payroll of $1.2 million, the venture is clearly heading for trouble."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

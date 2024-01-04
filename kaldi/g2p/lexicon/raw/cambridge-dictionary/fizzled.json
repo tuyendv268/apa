@@ -1,0 +1,61 @@
+{
+    "word": "fizzled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nfizzle ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɪz.əl"
+                            ],
+                            "us": [
+                                "ˈfɪz.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to gradually end: ",
+                            "examples": [
+                                "Interest in the project fizzled after the funding was withdrawn."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a weak continuous s sound: ",
+                            "examples": [
+                                "The fire fizzled miserably in the rain."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "card reader",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɑːd ˌriː.dər"
+                            ],
+                            "us": [
+                                "ˈkɑːrd ˌriː.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an electronic device that can read the information on a credit card, etc.: ",
+                            "examples": [
+                                "To pay, just hold your card up to the card reader."
+                            ]
+                        },
+                        {
+                            "explanation": "a device in a computer, etc. that can move data from another device on which it has been stored: ",
+                            "examples": [
+                                "The computer was supplied with an integrated 4 in 1 card reader."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "word": "study",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈstʌd.i"
+                            ],
+                            "us": [
+                                "ˈstʌd.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to learn about a subject, especially in an educational course or by reading books: ",
+                            "examples": [
+                                "to study biology/chemistry",
+                                "Next term we will study plants and how they grow.",
+                                "She's been studying for her doctorate for three years already."
+                            ]
+                        },
+                        {
+                            "explanation": "to examine something very carefully: ",
+                            "examples": [
+                                "I want time to study this contract thoroughly before signing it.",
+                                "Researchers have been studying how people under stress make decisions."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstʌd.i"
+                            ],
+                            "us": [
+                                "ˈstʌd.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the activity of examining a subject in detail in order to discover new information: ",
+                            "examples": [
+                                "a five-year study of the relationship between wildlife and farming",
+                                "Some studies have suggested a link between certain types of artificial sweetener and cancer."
+                            ]
+                        },
+                        {
+                            "explanation": "a drawing that an artist makes in order to test ideas before starting a painting of the same subject",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the act of learning about a subject, usually at school or university: ",
+                            "examples": [
+                                "the study of English literature"
+                            ]
+                        },
+                        {
+                            "explanation": "studying or work involving studying: ",
+                            "examples": [
+                                "Adam doesn't spend enough time on his studies."
+                            ]
+                        },
+                        {
+                            "explanation": "used in the names of some educational subjects and courses: ",
+                            "examples": [
+                                "Michaela is doing a degree in business/media studies."
+                            ]
+                        },
+                        {
+                            "explanation": "a room, especially in a house, used for quiet work such as reading or writing",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

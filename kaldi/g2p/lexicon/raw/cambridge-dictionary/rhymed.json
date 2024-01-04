@@ -1,0 +1,56 @@
+{
+    "word": "rhymed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nrhyme ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "raɪm"
+                            ],
+                            "us": [
+                                "raɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Words that rhyme have the same last sound: ",
+                            "examples": [
+                                "\"Blue\" and \"flew\" rhyme.",
+                                "Can you think of a word that rhymes with \"orange\"?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

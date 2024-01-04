@@ -1,0 +1,52 @@
+{
+    "word": "deficit",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdef.ɪ.sɪt"
+                            ],
+                            "us": [
+                                "ˈdef.ə.sɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the total amount by which money spent is more than money received, or the state of having spent more money than has been received: ",
+                            "examples": [
+                                "The presidential candidate claims that he can cut the deficit in half within five years.",
+                                "With a budget deficit of nearly £26 billion, the state plans to slash spending on schools and police.",
+                                "The country is running a balance-of-payments deficit of $250 million.",
+                                "The UK's deficit in manufactured goods fell slightly in the last three months.",
+                                "What happened to cause this lurch from surplus to deficit?",
+                                "A third of schools in the county say they are in deficit."
+                            ]
+                        },
+                        {
+                            "explanation": "the amount by which a team or player is behind in a game or competition: ",
+                            "examples": [
+                                "They overcame a two-goal deficit to draw even in the second half.",
+                                "It was the first time in baseball history a team had overcome a three-games-to-none deficit in the World Series."
+                            ]
+                        },
+                        {
+                            "explanation": "a temporary or permanent lack in someone's ability to operate normally: ",
+                            "examples": [
+                                "Children neglected in early life are likely to exhibit deficits in psychosocial functioning.",
+                                "The disease results in increasing levels of cognitive deficit."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

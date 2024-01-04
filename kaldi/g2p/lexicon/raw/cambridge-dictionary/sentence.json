@@ -1,0 +1,72 @@
+{
+    "word": "sentence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsen.təns"
+                            ],
+                            "us": [
+                                "ˈsen.təns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of words, usually containing a verb, that expresses a thought in the form of a statement, question, instruction, or exclamation and starts with a capital letter when written: ",
+                            "examples": [
+                                "He's very impatient and always interrupts me mid-sentence.",
+                                "Your conclusion is good, but the final sentence is too long and complicated."
+                            ]
+                        },
+                        {
+                            "explanation": "a punishment given by a judge in court to a person or organization after they have been found guilty of doing something wrong: ",
+                            "examples": [
+                                "He got a heavy/light sentence (= he was severely/not severely punished).",
+                                "The offence carries a jail/prison/life/five-year sentence.",
+                                "He was given a non-custodial/suspended sentence."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a judge) to say officially what a punishment will be: ",
+                            "examples": [
+                                "The judge will pronounce sentence on the defendant this afternoon."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsen.təns"
+                            ],
+                            "us": [
+                                "ˈsen.təns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to decide and say officially what a punishment will be: ",
+                            "examples": [
+                                "He was sentenced to life imprisonment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

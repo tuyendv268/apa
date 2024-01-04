@@ -1,0 +1,44 @@
+{
+    "word": "-ee",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -iː",
+                                "-i"
+                            ],
+                            "us": [
+                                " -iː",
+                                "-i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "added to a verb to form a noun that refers to the person to whom the action of the verb is being done: ",
+                            "examples": [
+                                "an employee (= someone who is employed)",
+                                "the payee (= a person who money is paid to)",
+                                "an interviewee (= someone who is being interviewed for a job)"
+                            ]
+                        },
+                        {
+                            "explanation": "added to an adjective, noun, or verb to refer to a person who is in that condition or state: ",
+                            "examples": [
+                                "a refugee (= someone who has taken refuge)",
+                                "an escapee (= someone who has escaped)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

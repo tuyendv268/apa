@@ -1,0 +1,60 @@
+{
+    "word": "assent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈsent"
+                            ],
+                            "us": [
+                                "əˈsent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "official agreement to or approval of an idea, plan, or request: ",
+                            "examples": [
+                                "She nodded her assent to the proposal.",
+                                "Before an Act of Parliament can become law, it needs to receive Royal Assent (= an official signature) from the monarch.",
+                                "Once the directors have given their assent to the proposal we can begin."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈsent"
+                            ],
+                            "us": [
+                                "əˈsent"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to agree to or give official approval to something: ",
+                            "examples": [
+                                "Have they assented to the terms of the contract?",
+                                "\"Do you assent to a search of your vehicle?\" \"Yes, I assent.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "word": "odds",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɒdz"
+                            ],
+                            "us": [
+                                "ɑːdz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the probability (= how likely it is) that a particular thing will or will not happen: ",
+                            "examples": [
+                                "If you drive a car all your life, the odds are that you'll have an accident at some point.",
+                                "There are heavy odds against people succeeding in such a bad economic climate.",
+                                "What are the odds on him being (= do you think he will be) re-elected?",
+                                "The overall odds of winning a lottery prize are 1 in 13.",
+                                "The odds are stacked against a woman succeeding (= it is not likely that a woman will succeed) in the business."
+                            ]
+                        },
+                        {
+                            "explanation": "in gambling (= the activity of risking money guessing the result of something), a probability expressed as a number: ",
+                            "examples": [
+                                "The odds against my horse winning (= that it will not win)/on my horse winning (= that it will win) are a hundred to one.",
+                                "The odds that the US entrant will win the race are ten to one."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "photograph",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfəʊ.tə.ɡrɑːf"
+                            ],
+                            "us": [
+                                "ˈfoʊ.t̬oʊ.ɡræf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a picture produced using a camera: ",
+                            "examples": [
+                                "a colour/black-and-white photograph",
+                                "aerial photographs",
+                                "nude photographs",
+                                "My parents took lots of photographs of us when we were small."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈfəʊ.tə.ɡrɑːf"
+                            ],
+                            "us": [
+                                "ˈfoʊ.t̬oʊ.ɡræf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take a picture using a camera: ",
+                            "examples": [
+                                "I prefer photographing people rather than places.",
+                                "MacKay was photographed leaving the building."
+                            ]
+                        },
+                        {
+                            "explanation": "to appear attractive/unattractive in photographs: ",
+                            "examples": [
+                                "I don't usually wear black because it doesn't photograph well."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

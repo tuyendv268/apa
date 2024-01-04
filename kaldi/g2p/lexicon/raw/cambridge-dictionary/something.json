@@ -1,0 +1,76 @@
+{
+    "word": "something",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌm.θɪŋ"
+                            ],
+                            "us": [
+                                "ˈsʌm.θɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an object, situation, quality, or action that is not exactly known or stated: ",
+                            "examples": [
+                                "There's something sharp in my shoe.",
+                                "Something in the cupboard smells weird.",
+                                "We thought there was something wrong because we hadn't heard from you.",
+                                "There's something wrong with the engine - it's making strange noises.",
+                                "Something's happened to upset him but we don't know what it is.",
+                                "I heard something worrying at work this morning.",
+                                "Is there something you'd like to say?",
+                                "Don't just stand there, do something.",
+                                "There's just something strange about him."
+                            ]
+                        },
+                        {
+                            "explanation": "a thing for which you are grateful, especially because an unpleasant thing has also happened: ",
+                            "examples": [
+                                "We were given five hundred pounds in compensation which isn't much but at least it's something."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -sʌm.θɪŋ"
+                            ],
+                            "us": [
+                                " -sʌm.θɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used after a number like 20, 30, etc. to refer to the age of a person who is between 20 and 29, 30 and 39 years old, etc., or to a person who is of this age: ",
+                            "examples": [
+                                "I'd guess she's thirty-something.",
+                                "Most of these places are aimed at twenty-somethings."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

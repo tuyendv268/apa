@@ -1,0 +1,40 @@
+{
+    "word": "shipping",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃɪp.ɪŋ"
+                            ],
+                            "us": [
+                                "ˈʃɪp.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "ships considered as a group: ",
+                            "examples": [
+                                "This stretch of water is heavily used by shipping."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of sending goods from one place to another, especially by ship: ",
+                            "examples": [
+                                "The cost is $205 plus $3 for shipping.",
+                                "The fruit is picked and artificially ripened before shipping."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "word": "reconstruct",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriː.kənˈstrʌkt"
+                            ],
+                            "us": [
+                                "ˌriː.kənˈstrʌkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to build or create again something that has been damaged or destroyed: ",
+                            "examples": [
+                                "The post-war government had the enormous task of reconstructing the city."
+                            ]
+                        },
+                        {
+                            "explanation": "to change a system or organization completely, so that it works more effectively: ",
+                            "examples": [
+                                "They were given the task of reconstructing the city's public transport system."
+                            ]
+                        },
+                        {
+                            "explanation": "If you reconstruct something that has happened in the past, you combine a lot of information in order to get a complete description of what happened: ",
+                            "examples": [
+                                "The police tried to reconstruct the crime using the statements of witnesses."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "word": "commuted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncommute ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəˈmjuːt"
+                            ],
+                            "us": [
+                                "kəˈmjuːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make the same journey regularly between work and home: ",
+                            "examples": [
+                                "It's exhausting commuting from Brighton to London every day."
+                            ]
+                        },
+                        {
+                            "explanation": "to change one thing into another: ",
+                            "examples": [
+                                "People used to believe that you could commute base metals into gold."
+                            ]
+                        },
+                        {
+                            "explanation": "to exchange one type of payment for a different type: ",
+                            "examples": [
+                                "I think I'll commute my life insurance into an annuity."
+                            ]
+                        },
+                        {
+                            "explanation": "to change a punishment to one that is less severe: ",
+                            "examples": [
+                                "Her sentence was commuted from death to life imprisonment."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "atomic clock",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˌtɒm.ɪk ˈklɒk"
+                            ],
+                            "us": [
+                                "əˌtɑː.mɪk ˈklɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device that measures time extremely accurately using the vibrations (= fast, regular small movements) of atoms: ",
+                            "examples": [
+                                "The atomic clock is so precise it shouldn't lose or gain a second in 20 to 30 billion years.",
+                                "His discovery of the magnetic properties of atoms gave rise to superaccurate atomic clocks."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

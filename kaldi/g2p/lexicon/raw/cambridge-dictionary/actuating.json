@@ -1,0 +1,57 @@
+{
+    "word": "actuating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nactuate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.tʃu.eɪt",
+                                "ˈæk.tju.eɪt"
+                            ],
+                            "us": [
+                                "ˈæk.tʃu.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a machine work or be the reason a person acts in a certain way: ",
+                            "examples": [
+                                "A detonator is actuated by heat, percussion, friction, or electricity.",
+                                "He was actuated almost entirely by altruism."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

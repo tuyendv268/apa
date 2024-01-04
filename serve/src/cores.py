@@ -32,25 +32,6 @@ from src.utils.kaldi import (
     load_config
 )
 
-def initialize(transition_model_path, tree_path, lang_graph_path, \
-    words_path, disam_path, phones_path, word_boundary_path, acoustic_model_path, num_senones):
-
-    aligner = MappedAligner.from_files(
-        transition_model_path, tree_path, 
-        lang_graph_path, words_path,
-        disam_path, beam=40.0, acoustic_scale=1.0)
-    
-    phones  = SymbolTable.read_text(phones_path)
-    word_boundary_info = WordBoundaryInfo.from_file(
-        WordBoundaryInfoNewOpts(),
-        word_boundary_path)
-
-    acoustic_model = FTDNNAcoustic(num_senones=num_senones, device_name="cuda")
-    acoustic_model.load_state_dict(torch.load(acoustic_model_path))
-    acoustic_model.eval()
-
-    return aligner, phones, word_boundary_info, acoustic_model
-
 class Aligner(object):
     def __init__(self, configs):
         self.data_dir = configs["data-dir"]
@@ -86,7 +67,7 @@ class Aligner(object):
         self.lexicon = self.load_lexicon(configs['lexicon-path'])
 
         self.aligner, self.phones, self.word_boundary_info, self.acoustic_model = \
-            initialize(
+            self.initialize(
                 transition_model_path=self.transition_model_path, 
                 tree_path=self.tree_path, 
                 lang_graph_path=self.lang_graph_path, 
@@ -98,7 +79,26 @@ class Aligner(object):
                 num_senones=self.num_senones
             )
         self.ivector_period = load_ivector_period_from_conf(self.conf_path)
-        self.acoustic_model.eval().cuda()
+        self.acoustic_model.eval().to(self.device)
+
+    def initialize(self, transition_model_path, tree_path, lang_graph_path, \
+        words_path, disam_path, phones_path, word_boundary_path, acoustic_model_path, num_senones):
+
+        aligner = MappedAligner.from_files(
+            transition_model_path, tree_path, 
+            lang_graph_path, words_path,
+            disam_path, beam=40.0, acoustic_scale=1.0)
+        
+        phones  = SymbolTable.read_text(phones_path)
+        word_boundary_info = WordBoundaryInfo.from_file(
+            WordBoundaryInfoNewOpts(),
+            word_boundary_path)
+
+        acoustic_model = FTDNNAcoustic(num_senones=num_senones, device_name=self.device)
+        acoustic_model.load_state_dict(torch.load(acoustic_model_path))
+        acoustic_model.eval()
+
+        return aligner, phones, word_boundary_info, acoustic_model
 
     def load_phone_pure_senone_matrix(self):
         phone_pure_senone_matrix = matrix_gop_robust(
@@ -106,7 +106,7 @@ class Aligner(object):
             number_senones=self.num_senones, 
             batch_size=1)
         
-        phone_pure_senone_matrix = torch.tensor(phone_pure_senone_matrix).float()
+        phone_pure_senone_matrix = torch.tensor(phone_pure_senone_matrix).float().to(self.device)
         return phone_pure_senone_matrix.transpose(2, 1)
 
     def prepare_df_phones_pure(self):
@@ -248,13 +248,13 @@ class Aligner(object):
 
         padded = self.pad_1d(inputs=features, pad_value=0.0)
 
-        features = padded["inputs"].cuda()
-        attention_mask = padded["attention_mask"]
+        features = padded["inputs"].to(self.device)
+        attention_mask = padded["attention_mask"].to(self.device)
         lengths = attention_mask.sum(1).cpu()
 
         with torch.no_grad():
             logits = self.acoustic_model(features)
-            scores_phone_pure = torch.softmax(logits.cuda(), dim=-1)
+            scores_phone_pure = torch.softmax(logits, dim=-1)
             
             scores_phone_pure = torch.matmul(
                 scores_phone_pure, self.phone_pure_senones_matrix)
@@ -293,7 +293,7 @@ class Aligner(object):
         ivectors = np.repeat(ivectors, self.ivector_period, axis=0) 
         ivectors = ivectors[:mfccs.shape[0],:]
         x = np.concatenate((mfccs,ivectors), axis=1)
-        feats = torch.from_numpy(x).unsqueeze(0).cuda()
+        feats = torch.from_numpy(x).unsqueeze(0)
 
         with torch.no_grad():
             logits = self.acoustic_model(feats)
@@ -400,10 +400,10 @@ class GOP(object):
 
         indices[indices==-1] = indices.max() + 1
 
-        indices = torch.nn.functional.one_hot(indices.long(), num_classes=int(indices.max().item())+1).cuda()
+        indices = torch.nn.functional.one_hot(indices.long(), num_classes=int(indices.max().item())+1).to(self.device)
         indices = indices / indices.sum(1, keepdim=True)
         
-        features = torch.matmul(indices.transpose(1, 2), features)
+        features = torch.matmul(indices.transpose(1, 2), features.to(self.device))
         gop_features = []
         for index in range(len(ids)):
             length = phone_lengths[index]
@@ -425,9 +425,9 @@ class GOP(object):
                     lpps[index[0], index[1]] 
                     for index in phone_pure_ids
                     ]
-                ).cuda()
+                ).to(self.device)
             
-            lprs = lprs.unsqueeze(-1).expand(-1, lpps.shape[-1]).cuda()
+            lprs = lprs.unsqueeze(-1).expand(-1, lpps.shape[-1])
 
             lprs = lpps - lprs
             feats = torch.cat([lpps, lprs], dim=-1)

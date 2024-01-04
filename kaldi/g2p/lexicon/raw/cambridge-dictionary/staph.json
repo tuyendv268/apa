@@ -1,0 +1,34 @@
+{
+    "word": "staph",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "stæf"
+                            ],
+                            "us": [
+                                "stæf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \nstaphylococcus : a type of bacterium that causes infection: ",
+                            "examples": [
+                                "In addition to causing potentially fatal conditions such as blood poisoning and toxic shock syndrome, staph is commonly resistant to antibiotics.",
+                                "Healthcare providers should be aware that the people who inject drugs are 16 times more likely to develop a serious staph infection than those who do not."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "sprain",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "spreɪn"
+                            ],
+                            "us": [
+                                "spreɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause an injury to a joint (= a place where two bones are connected) by a sudden movement: ",
+                            "examples": [
+                                "She sprained her ankle playing squash.",
+                                "He stumbled and sprained a knee."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "spreɪn"
+                            ],
+                            "us": [
+                                "spreɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an injury to a joint (= a place where two bones are connected) caused by a sudden movement: ",
+                            "examples": [
+                                "She continued to play despite an ankle sprain.",
+                                "He hasn't broken anything - it's just a bad sprain."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

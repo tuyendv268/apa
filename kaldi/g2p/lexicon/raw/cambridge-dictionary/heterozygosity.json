@@ -1,0 +1,33 @@
+{
+    "word": "heterozygosity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌhet.ər.ə.zaɪˈɡɒs.ə.ti"
+                            ],
+                            "us": [
+                                "ˌhet̬.ə.roʊ.zaɪˈɡɑː.sə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of having two different forms of a gene (= part of a cell containing DNA information) that controls a particular characteristic, one from each parent, and therefore able to pass on either form: ",
+                            "examples": [
+                                "The loss of heterozygosity in both sporadic and hereditary forms of basal cell carcinoma suggests that it functions as a tumour suppressor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "megaflop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmeɡ.ə.flɒp"
+                            ],
+                            "us": [
+                                "ˈmeɡ.ə.flɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit for measuring a computer’s speed, equal to approximately one million operations (= processes) per second: ",
+                            "examples": [
+                                "The five scientific computers each had 650 megabytes of disk storage and 38 megaflops peak speed.",
+                                "He invented the terms FLOPS and MFLOPS (megaFLOPS) so that he could compare the supercomputers of the day.",
+                                "One megaflop equals 1 million calculations per second; one gigaflop, 1 billion calculations per second; and one teraflop, 1 trillion calculations per second."
+                            ]
+                        },
+                        {
+                            "explanation": "something that is a big failure, especially a film or TV show: ",
+                            "examples": [
+                                "The show turned out to be a megaflop.",
+                                "It's hard to say why movies become megahits or megaflops."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "cooled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncool ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kuːl"
+                            ],
+                            "us": [
+                                "kuːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to become or cause something to become slightly colder: ",
+                            "examples": [
+                                "Leave the cake to cool for an hour before cutting it.",
+                                "He took off his shoes to cool his sweaty feet."
+                            ]
+                        },
+                        {
+                            "explanation": "If a feeling cools or cools off, it starts to become less strong: ",
+                            "examples": [
+                                "They were completely in love in the beginning, but I think it's starting to cool off now.",
+                                "Their interest in the project seems to be cooling."
+                            ]
+                        },
+                        {
+                            "explanation": "If the economy, a business, etc. cools or cools off, it grows less fast than before: ",
+                            "examples": [
+                                "The stock market has cooled off after hitting new highs last week."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

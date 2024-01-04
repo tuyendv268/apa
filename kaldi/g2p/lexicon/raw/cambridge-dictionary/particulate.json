@@ -1,0 +1,59 @@
+{
+    "word": "particulate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pɑːˈtɪk.jə.lət"
+                            ],
+                            "us": [
+                                "pɑːrˈtɪk.jə.lət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an extremely small piece of dirt, especially one produced by road vehicles, that causes pollution: ",
+                            "examples": [
+                                "Biodiesel produces up to 50 percent fewer particulates. ",
+                                "Studies have linked exposure to particulates in air pollution with increased risk for heart disease. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "pəˈtɪ.kjuː.lət"
+                            ],
+                            "us": [
+                                "pəˈtɪ.kjuː.lət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "consisting of small pieces of dirt, especially ones produced by road vehicles, that cause pollution: ",
+                            "examples": [
+                                "health risks posed by particulate matter",
+                                "Particulate pollution is unhealthy at the levels recorded last summer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

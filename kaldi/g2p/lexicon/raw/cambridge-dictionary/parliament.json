@@ -1,0 +1,38 @@
+{
+    "word": "parliament",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɑː.lɪ.mənt"
+                            ],
+                            "us": [
+                                "ˈpɑːr.lə.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in some countries, the group of (usually) elected politicians or other people who make the laws for their country: ",
+                            "examples": [
+                                "On Tuesday the country's parliament voted to establish its own army.",
+                                "She was elected to Parliament in 1997."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular period of time during which a parliament is operating, between either holidays or elections",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

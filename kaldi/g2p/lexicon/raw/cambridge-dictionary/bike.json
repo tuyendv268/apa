@@ -1,0 +1,68 @@
+{
+    "word": "bike",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "baɪk"
+                            ],
+                            "us": [
+                                "baɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a bicycle: ",
+                            "examples": [
+                                "It would be better for the environment if more people used bikes rather than cars.",
+                                "My youngest child is learning to ride a bike."
+                            ]
+                        },
+                        {
+                            "explanation": "a motorcycle",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "baɪk"
+                            ],
+                            "us": [
+                                "baɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to go somewhere by bicycle: ",
+                            "examples": [
+                                "Do you want to bike to the park, or walk?"
+                            ]
+                        },
+                        {
+                            "explanation": "to use a motorcycle to take something to someone: ",
+                            "examples": [
+                                "We biked a copy over to Greg at the BBC."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

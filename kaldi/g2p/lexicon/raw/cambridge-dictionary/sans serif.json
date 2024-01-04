@@ -1,0 +1,58 @@
+{
+    "word": "sans serif",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsæn ˈser.ɪf"
+                            ],
+                            "us": [
+                                "ˌsæn ˈser.ɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any typeface in which the letters do not have serifs (= small lines) added to them: ",
+                            "examples": [
+                                "I prefer to use sans serif for this kind of information. "
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌsæn ˈser.ɪf"
+                            ],
+                            "us": [
+                                "ˌsæn ˈser.ɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to sans serif: ",
+                            "examples": [
+                                "Use a sans serif font, such as Arial.",
+                                "You'll generally find that a serif face is much easier to read in large quantities than a sans serif one."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "nano-",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "næn.əʊ-"
+                            ],
+                            "us": [
+                                "næn.oʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one billionth of the stated unit: ",
+                            "examples": [
+                                "a nanosecond"
+                            ]
+                        },
+                        {
+                            "explanation": "extremely small: ",
+                            "examples": [
+                                "nanotechnology"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

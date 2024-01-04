@@ -1,0 +1,41 @@
+{
+    "word": "somber",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɒm.bər"
+                            ],
+                            "us": [
+                                "ˈsɑːm.bɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "serious, sad, and without humor or entertainment: ",
+                            "examples": [
+                                "a somber atmosphere/voice/face",
+                                "The funeral was a somber occasion.",
+                                "I left them in a somber mood."
+                            ]
+                        },
+                        {
+                            "explanation": "dark and plain: ",
+                            "examples": [
+                                "He wore a somber black suit."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

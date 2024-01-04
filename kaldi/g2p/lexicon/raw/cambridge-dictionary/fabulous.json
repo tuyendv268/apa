@@ -1,0 +1,41 @@
+{
+    "word": "fabulous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfæb.jə.ləs"
+                            ],
+                            "us": [
+                                "ˈfæb.jə.ləs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "very good; excellent: ",
+                            "examples": [
+                                "She looked absolutely fabulous in her dress.",
+                                "They've got a fabulous apartment in the centre of Paris.",
+                                "We had a fabulous time at the party."
+                            ]
+                        },
+                        {
+                            "explanation": "imaginary, not existing in real life: ",
+                            "examples": [
+                                "The unicorn is a fabulous creature."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "word": "alloy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæl.ɔɪ"
+                            ],
+                            "us": [
+                                "ˈæl.ɔɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a metal that is made by mixing two or more metals, or a metal and another substance: ",
+                            "examples": [
+                                "Brass is an alloy of copper and zinc.",
+                                "alloy wheels"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈlɔɪ"
+                            ],
+                            "us": [
+                                "əˈlɔɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to mix a metal with one or more other metals to form a new substance: ",
+                            "examples": [
+                                "They alloyed tin with copper to make bronze.",
+                                "For certain purposes gold was alloyed, for example by adding silver to toughen it for more hardwearing jewellery."
+                            ]
+                        },
+                        {
+                            "explanation": "to mix with and change something, often in a way that makes it worse or less valuable: ",
+                            "examples": [
+                                "My pleasure in receiving the letter was somewhat alloyed by its contents.",
+                                "He showed a courageous passion alloyed with a scientist's analytical detachment.",
+                                "A certain amount of fear alloyed their admiration of him."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

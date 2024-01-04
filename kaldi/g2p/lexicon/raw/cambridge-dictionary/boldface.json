@@ -1,0 +1,72 @@
+{
+    "word": "boldface",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbəʊld.feɪs"
+                            ],
+                            "us": [
+                                "ˈboʊld.feɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "letters printed in a dark, thick style : ",
+                            "examples": [
+                                "She underlined the word \"private\" and put it in boldface.",
+                                "You can emphasize text using boldface, italics, or underlining."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈbəʊld.feɪs"
+                            ],
+                            "us": [
+                                "ˈboʊld.feɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "printed in a dark, thick style: ",
+                            "examples": [
+                                "Although legally blind, he can read large, boldface letters up close.",
+                                "You will notice some items are in bold face type.",
+                                "All stocks with profits that have grown 25% or more are boldfaced."
+                            ]
+                        },
+                        {
+                            "explanation": "a person whose name is very well known to the public: ",
+                            "examples": [
+                                "The chef is a boldface name in Britain."
+                            ]
+                        },
+                        {
+                            "explanation": "showing no shame or embarrassment about doing something bad: ",
+                            "examples": [
+                                "Her opponent's boldface attacks were all too familiar."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "word": "guessing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nguess ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɡes"
+                            ],
+                            "us": [
+                                "ɡes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give an answer to a particular question when you do not have all the facts and so cannot be certain if you are correct: ",
+                            "examples": [
+                                "I didn't know the answer, so I had to guess.",
+                                "On the last question, she guessed right/wrong.",
+                                "Guess when this was built.",
+                                "I guessed (that) she was your sister.",
+                                "She asked me to guess her age.",
+                                "I guessed the total amount to be about £50,000."
+                            ]
+                        },
+                        {
+                            "explanation": "to give the correct answer or make the correct judgment: ",
+                            "examples": [
+                                "I bet you can't guess how old he is.",
+                                "She guessed the answer on her first try.",
+                                "\"You have a new job, don't you?\" \"Yes, how did you guess?\""
+                            ]
+                        },
+                        {
+                            "explanation": "used before telling someone something interesting or surprising: ",
+                            "examples": [
+                                "Guess what? We won the game 4–0."
+                            ]
+                        },
+                        {
+                            "explanation": "used when you believe something is true or likely but are not certain: ",
+                            "examples": [
+                                "I guess (that) things are pretty hard for you now."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

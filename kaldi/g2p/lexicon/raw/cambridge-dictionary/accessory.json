@@ -1,0 +1,53 @@
+{
+    "word": "accessory",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əkˈses.ər.i"
+                            ],
+                            "us": [
+                                "əkˈses.ər.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something added to a machine or to clothing that has a useful or decorative purpose: ",
+                            "examples": [
+                                "Sunglasses are much more than a fashion accessory.",
+                                "She wore a green wool suit with matching accessories (= shoes, hat, bag, etc.).",
+                                "Accessories for the top-of-the-range car include leather upholstery, electric windows, and a sunroof."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who helps another person to commit a crime but does not take part in it: ",
+                            "examples": [
+                                "He was charged with being an accessory to murder."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who helps someone after that person has committed a crime, for example by hiding them from the police: ",
+                            "examples": [
+                                "She was charged with being an accessory after the fact."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who helps in the preparation of a crime: ",
+                            "examples": [
+                                "The person who gave him the gun was an accessory before the fact."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

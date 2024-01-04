@@ -1,0 +1,34 @@
+{
+    "word": "hospitalist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɒs.pɪ.təl.ɪst"
+                            ],
+                            "us": [
+                                " ˈhɑː.spɪ.t̬əl.ɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a doctor who works in a hospital: ",
+                            "examples": [
+                                "She has been a practising hospitalist since 2000.",
+                                "A hospitalist is on call from the moment the patient arrives, and can see the patient several times during a shift if needed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "the second floor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsek.ənd ˈflɔːr"
+                            ],
+                            "us": [
+                                "ˌsek.ənd ˈflɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in British English, the floor of a building that is two floors above ground level, or in American English, the floor that is directly above ground level: ",
+                            "examples": [
+                                "I live on the second floor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌsek.ənd ˈflɔːr"
+                            ],
+                            "us": [
+                                "ˌsek.ənd ˈflɔːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in British English, on the floor of a building that is two floors above ground level, or in American English, on the floor that is directly above ground level: ",
+                            "examples": [
+                                "a second-floor apartment"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

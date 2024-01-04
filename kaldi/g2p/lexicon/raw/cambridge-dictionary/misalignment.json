@@ -1,0 +1,40 @@
+{
+    "word": "misalignment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmɪs.əˈlaɪn.mənt"
+                            ],
+                            "us": [
+                                "ˌmɪs.əˈlaɪn.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an arrangement in which the parts of a machine or structure do not fit together correctly, which causes problems: ",
+                            "examples": [
+                                "It could be that the car came out of the factory with a slight misalignment.",
+                                "I suffer spinal misalignment, which causes me daily pain."
+                            ]
+                        },
+                        {
+                            "explanation": "a situation in which parts of a system are different, so the system does not work well: ",
+                            "examples": [
+                                "The squeeze is a result of a classic misalignment between supply and demand."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

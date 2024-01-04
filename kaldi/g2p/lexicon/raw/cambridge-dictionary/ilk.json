@@ -1,0 +1,40 @@
+{
+    "word": "ilk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪlk"
+                            ],
+                            "us": [
+                                "ɪlk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a particular type: ",
+                            "examples": [
+                                "The worst of her criticism was reserved for journalists, photographers, and others of their ilk.",
+                                "They do not give children chicken nuggets, potato smiley faces, or processed foods of that ilk."
+                            ]
+                        },
+                        {
+                            "explanation": "of that name; usually used when someone's family name has been mentioned: ",
+                            "examples": [
+                                "It was young McBride, Brian of that ilk (= Brian McBride)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

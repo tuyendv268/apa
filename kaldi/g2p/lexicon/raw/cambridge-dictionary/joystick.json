@@ -1,0 +1,40 @@
+{
+    "word": "joystick",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒɔɪ.stɪk"
+                            ],
+                            "us": [
+                                "ˈdʒɔɪ.stɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device that can be moved forwards, backwards, and sideways to control a machine or computer game: ",
+                            "examples": [
+                                "It was one of those old-fashioned arcade games with two joysticks and big buttons.",
+                                "He moves a joystick to control the robotic arm."
+                            ]
+                        },
+                        {
+                            "explanation": "a vertical handle that can be moved forwards, backwards, and sideways to control the direction or height of an aircraft: ",
+                            "examples": [
+                                "The pilot gripped the joystick, pulling it back as hard as he could."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

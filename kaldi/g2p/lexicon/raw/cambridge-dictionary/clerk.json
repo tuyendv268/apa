@@ -1,0 +1,74 @@
+{
+    "word": "clerk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "klɑːk"
+                            ],
+                            "us": [
+                                "klɝːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who works in an office, dealing with records or performing general office duties: ",
+                            "examples": [
+                                "a filing clerk",
+                                "a junior office clerk"
+                            ]
+                        },
+                        {
+                            "explanation": "a person who serves customers in a shop: ",
+                            "examples": [
+                                "Take your purchases to the clerk, and he will wrap them for you."
+                            ]
+                        },
+                        {
+                            "explanation": "a hotel employee who deals with guests when they arrive: ",
+                            "examples": [
+                                "The clerk checked us in and gave us our key."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who works with a judge and helps the judge make decisions",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "klɑːk"
+                            ],
+                            "us": [
+                                "klɝːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to work as a clerk: ",
+                            "examples": [
+                                "Debbie has a summer job clerking in an office."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

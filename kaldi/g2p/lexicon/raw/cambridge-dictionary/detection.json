@@ -1,0 +1,40 @@
+{
+    "word": "detection",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈtek.ʃən"
+                            ],
+                            "us": [
+                                "dɪˈtek.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of noticing or discovering something: ",
+                            "examples": [
+                                "Early detection of the cancer improves the chances of successful treatment.",
+                                "bomb detection"
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of the police discovering information about crimes: ",
+                            "examples": [
+                                "a low/high crime detection rate"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

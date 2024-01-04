@@ -1,0 +1,52 @@
+{
+    "word": "acknowledgment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əkˈnɒl.ɪdʒ.mənt"
+                            ],
+                            "us": [
+                                "əkˈnɑː.lɪdʒ.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of accepting that something is true or right: ",
+                            "examples": [
+                                "All I want is some acknowledgment that his behaviour is unreasonable."
+                            ]
+                        },
+                        {
+                            "explanation": "something given to thank someone for what they have done: ",
+                            "examples": [
+                                "We sent her a copy of the book in acknowledgment of her part in its creation.",
+                                "She was given a floral arrangement by her boss as an acknowledgment for a job well done. "
+                            ]
+                        },
+                        {
+                            "explanation": "a letter or email to say that something has been received: ",
+                            "examples": [
+                                "I applied for four jobs, but I've only had one acknowledgment so far."
+                            ]
+                        },
+                        {
+                            "explanation": "a short text at the beginning or end of a book where the writer names people or other works that have helped in writing the book: ",
+                            "examples": [
+                                "She included Wilson in her acknowledgements."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

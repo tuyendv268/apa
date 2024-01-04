@@ -1,0 +1,72 @@
+{
+    "word": "cough",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kɒf"
+                            ],
+                            "us": [
+                                "kɑːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to force air out of your lungs through your throat with a short, loud sound: ",
+                            "examples": [
+                                "The smoke made me cough.",
+                                "I coughed all night long."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a sound like a cough: ",
+                            "examples": [
+                                "The car engine coughed a few times, but wouldn't start."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kɒf"
+                            ],
+                            "us": [
+                                "kɑːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of coughing, or the sound this makes: ",
+                            "examples": [
+                                "a dry cough (= one that does not produce mucus)",
+                                "a hacking (= very bad and loud) cough"
+                            ]
+                        },
+                        {
+                            "explanation": "an illness that makes you cough a lot: ",
+                            "examples": [
+                                "a smoker's cough",
+                                "Emily has a very bad/nasty cough."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

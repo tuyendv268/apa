@@ -1,0 +1,40 @@
+{
+    "word": "tautology",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tɔːˈtɒl.ə.dʒi"
+                            ],
+                            "us": [
+                                "tɑːˈtɑː.lə.dʒi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use of two words or phrases that express the same meaning, in a way that is unnecessary and usually unintentional: ",
+                            "examples": [
+                                "No one talks about \"creative music\", because it would be a tautology. ",
+                                "Try to avoid repetition or tautology."
+                            ]
+                        },
+                        {
+                            "explanation": "in logic (= a formal scientific method of examining ideas), a statement that is always true: ",
+                            "examples": [
+                                "There are the propositions of science and ordinary language on the one hand, and the tautologies of maths and logic on the other. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

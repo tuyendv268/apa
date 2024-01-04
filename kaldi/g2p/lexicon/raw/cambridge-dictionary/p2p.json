@@ -1,0 +1,33 @@
+{
+    "word": "p2p",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌpiː.təˈpiː"
+                            ],
+                            "us": [
+                                "ˌpiː.t̬əˈpiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for peer-to-peer: involving sharing files or other resources between computers connected through a network, rather than using a central server (= a central computer that stores files): ",
+                            "examples": [
+                                "a P2P network"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

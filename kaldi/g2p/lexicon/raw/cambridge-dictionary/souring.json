@@ -1,0 +1,63 @@
+{
+    "word": "souring",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsour ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "saʊər"
+                            ],
+                            "us": [
+                                "saʊr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to become sour or to make something become sour: ",
+                            "examples": [
+                                "Hot weather sours milk.",
+                                "Milk sours in hot weather."
+                            ]
+                        },
+                        {
+                            "explanation": "to (cause to) become unpleasant or unfriendly: ",
+                            "examples": [
+                                "Her whole attitude to life soured as a result of that experience.",
+                                "This incident has soured relations between the two countries."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

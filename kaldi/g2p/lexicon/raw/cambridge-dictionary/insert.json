@@ -1,0 +1,63 @@
+{
+    "word": "insert",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈsɜːt"
+                            ],
+                            "us": [
+                                "ɪnˈsɝːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put something inside something else: ",
+                            "examples": [
+                                "Insert the key in/into the lock."
+                            ]
+                        },
+                        {
+                            "explanation": "to add writing to a text, form, etc.: ",
+                            "examples": [
+                                "I've filled in the form, but you still need to insert (= add) your bank details and date of birth."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.sɜːt"
+                            ],
+                            "us": [
+                                "ˈɪn.sɝːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is made to go inside or into something else: ",
+                            "examples": [
+                                "These magazines have too many annoying inserts (= extra loose pages) advertising various products."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "word": "alien",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈeɪ.li.ən"
+                            ],
+                            "us": [
+                                "ˈeɪ.li.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to creatures from another planet: ",
+                            "examples": [
+                                "an alien spacecraft"
+                            ]
+                        },
+                        {
+                            "explanation": "strange and not familiar: ",
+                            "examples": [
+                                "When I first went to New York, it all felt very alien to me."
+                            ]
+                        },
+                        {
+                            "explanation": "coming from a different country, race, or group: ",
+                            "examples": [
+                                "an alien culture"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeɪ.li.ən"
+                            ],
+                            "us": [
+                                "ˈeɪ.li.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a creature from a different planet: ",
+                            "examples": [
+                                "He believes that aliens visit Earth in UFOs.",
+                                "In this story, the spaceship comes into contact with a society of friendly aliens. "
+                            ]
+                        },
+                        {
+                            "explanation": "someone who lives in a country of which they are not a legal citizen: ",
+                            "examples": [
+                                "When war broke out, the government rounded up thousands of aliens and put them in temporary camps."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

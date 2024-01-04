@@ -1,0 +1,38 @@
+{
+    "word": "bishop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɪʃ.əp"
+                            ],
+                            "us": [
+                                "ˈbɪʃ.əp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a priest of high rank who is in charge of the priests of lower rank in a particular area: ",
+                            "examples": [
+                                "the Bishop of Durham",
+                                "Bishop Desmond Tutu"
+                            ]
+                        },
+                        {
+                            "explanation": "a piece that moves from corner to corner along squares of the same colour",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

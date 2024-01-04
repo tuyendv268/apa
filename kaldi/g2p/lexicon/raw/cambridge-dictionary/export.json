@@ -1,0 +1,73 @@
+{
+    "word": "export",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspɔːt"
+                            ],
+                            "us": [
+                                "ˈek.spɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send goods to another country for sale: ",
+                            "examples": [
+                                "French cheeses are exported to many different countries.",
+                                "Our clothes sell so well in this country that we have no need to export."
+                            ]
+                        },
+                        {
+                            "explanation": "to put something from one country into use in other countries: ",
+                            "examples": [
+                                "American culture has been exported all over the world."
+                            ]
+                        },
+                        {
+                            "explanation": "If you export information from a computer, you copy a large amount of it to a different part of the computer's memory or to another device.",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.spɔːt"
+                            ],
+                            "us": [
+                                "ˈek.spɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a product that you sell in another country, or the business of sending goods to another country in order to sell them there: ",
+                            "examples": [
+                                "Coffee is one of Brazil's main exports.",
+                                "We plan to increase our exports over the next five years.",
+                                "The export of ivory is now strictly controlled.",
+                                "India grows tea for export.",
+                                "We are planning to develop our export market.",
+                                "Most of the country's export trade is with Russia."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

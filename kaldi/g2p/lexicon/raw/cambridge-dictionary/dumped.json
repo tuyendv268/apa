@@ -1,0 +1,79 @@
+{
+    "word": "dumped",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndump ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dʌmp"
+                            ],
+                            "us": [
+                                "dʌmp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put down or drop something in a careless way: ",
+                            "examples": [
+                                "He came in with four shopping bags and dumped them on the table."
+                            ]
+                        },
+                        {
+                            "explanation": "to get rid of something unwanted, especially by leaving it in a place where it is not allowed to be: ",
+                            "examples": [
+                                "The tax was so unpopular that the government decided to dump it.",
+                                "Several old cars had been dumped near the beach.",
+                                "Toxic chemicals continue to be dumped into the river."
+                            ]
+                        },
+                        {
+                            "explanation": "to sell unwanted goods very cheaply, usually in other countries: ",
+                            "examples": [
+                                "They accused the West of dumping out-of-date medicines on Third World countries."
+                            ]
+                        },
+                        {
+                            "explanation": "to move information from a computer's memory to another place or device",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to suddenly end a romantic relationship you have been having with someone: ",
+                            "examples": [
+                                "If he's so awful, why don't you just dump him?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

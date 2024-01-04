@@ -1,0 +1,81 @@
+{
+    "word": "fork",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fɔːk"
+                            ],
+                            "us": [
+                                "fɔːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small object with three or four points and a handle, that you use to pick up food and eat with: ",
+                            "examples": [
+                                "She brought an extra plate, and knife and fork to the table."
+                            ]
+                        },
+                        {
+                            "explanation": "a tool with a long handle and three or four points, used for digging and breaking soil into pieces: ",
+                            "examples": [
+                                "Using a garden fork, she dug a hole two foot deep."
+                            ]
+                        },
+                        {
+                            "explanation": "a place where a road, river, etc. divides into two parts, or either of those two parts: ",
+                            "examples": [
+                                "When you reach a fork in the road turn right.",
+                                "Take the left-hand fork."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fɔːk"
+                            ],
+                            "us": [
+                                "fɔːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a road or river forks, it divides into two parts: ",
+                            "examples": [
+                                "The hotel is near where the road forks."
+                            ]
+                        },
+                        {
+                            "explanation": "to turn in one of two different directions: ",
+                            "examples": [
+                                "Fork left where the road divides.",
+                                "After 5 minutes the path forks right for the lake. "
+                            ]
+                        },
+                        {
+                            "explanation": "to move or dig something with a fork",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

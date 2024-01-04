@@ -1,0 +1,40 @@
+{
+    "word": "non-emphatic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɒn.emˈfæt.ɪk"
+                            ],
+                            "us": [
+                                "ˌnɑːn.emˈfæt̬.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A non-emphatic word or sound is one that is not stressed (= given more force or importance than others): ",
+                            "examples": [
+                                "The distinction between emphatic and nonemphatic indefinite pronouns is marked only by the stress.",
+                                "One can describe intonation in terms of pairs of opposed features: \"non-emphatic\" and \"emphatic\", and \"suspensive\" and \"final\"."
+                            ]
+                        },
+                        {
+                            "explanation": "used for referring to a particular type of consonant in languages such as Arabic, Aramaic, and Hebrew: ",
+                            "examples": [
+                                "Arabic distinguishes between emphatic and non-emphatic consonants."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

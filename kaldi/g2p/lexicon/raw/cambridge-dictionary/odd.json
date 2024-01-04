@@ -1,0 +1,87 @@
+{
+    "word": "odd",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɒd"
+                            ],
+                            "us": [
+                                "ɑːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "strange or unexpected: ",
+                            "examples": [
+                                "Her father was an odd man.",
+                                "What an odd thing to say.",
+                                "The skirt and jacket looked a little odd together.",
+                                "That's odd - I'm sure I put my keys in this drawer and yet they're not here.",
+                                "It's odd that no one's seen him.",
+                                "It must be odd to go back to your home town after forty years away."
+                            ]
+                        },
+                        {
+                            "explanation": "not happening often: ",
+                            "examples": [
+                                "She does the odd teaching job but nothing permanent.",
+                                "You get the odd person who's rude to you but they're generally quite helpful."
+                            ]
+                        },
+                        {
+                            "explanation": "(of numbers) not able to be divided exactly by two: ",
+                            "examples": [
+                                "3, 5, and 7 are all odd numbers.",
+                                "The houses on this side of the street all have odd numbers."
+                            ]
+                        },
+                        {
+                            "explanation": "(of something that should be in a pair or set) separated from its pair or set: ",
+                            "examples": [
+                                "He's got a whole drawer full of odd socks.",
+                                "I'd got a few odd (= I had various) balls of wool left over."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -ɒd"
+                            ],
+                            "us": [
+                                " -ɑːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used after a number, especially a number that can be divided by ten, to show that the exact number is not known: ",
+                            "examples": [
+                                "I'd say Robert's about 40-odd - maybe 45."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

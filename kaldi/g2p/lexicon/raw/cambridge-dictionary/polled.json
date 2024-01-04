@@ -1,0 +1,61 @@
+{
+    "word": "polled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npoll ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pəʊl"
+                            ],
+                            "us": [
+                                "poʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When a person or a political party polls a particular number of votes in an election, they receive that number: ",
+                            "examples": [
+                                "With nearly all the votes counted, Mr Soto had polled 67 percent of the vote."
+                            ]
+                        },
+                        {
+                            "explanation": "to ask a person for their opinion as part of a general study of what people think about a subject: ",
+                            "examples": [
+                                "Half the people polled said they would pay more for environmentally friendly food."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

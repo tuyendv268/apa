@@ -1,0 +1,73 @@
+{
+    "word": "hire",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "haɪər"
+                            ],
+                            "us": [
+                                "haɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pay to use something for a short period: ",
+                            "examples": [
+                                "How much would it cost to hire a car for the weekend?",
+                                "You could always hire a dress for the ball if you can't afford to buy one."
+                            ]
+                        },
+                        {
+                            "explanation": "to employ someone or pay someone to do a particular job: ",
+                            "examples": [
+                                "I was hired by the first company I applied to.",
+                                "We ought to hire a public relations consultant to help improve our image."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "haɪər"
+                            ],
+                            "us": [
+                                "haɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an arrangement to use something by paying for it: ",
+                            "examples": [
+                                "The price includes flights and car hire.",
+                                "The price includes flights, accommodation, and a hire car for the week. ",
+                                "There's a camping shop in town that has tents for hire (= available to be hired) at £30 a week."
+                            ]
+                        },
+                        {
+                            "explanation": "a person to whom a company has recently given a job: ",
+                            "examples": [
+                                "She's our latest hire."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

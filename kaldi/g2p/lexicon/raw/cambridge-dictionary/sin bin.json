@@ -1,0 +1,59 @@
+{
+    "word": "sin bin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪn ˌbɪn"
+                            ],
+                            "us": [
+                                "ˈsɪn ˌbɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in some sports, an area off the field where a player who has done something that is against the rules can be sent",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪn.bɪn"
+                            ],
+                            "us": [
+                                "ˈsɪn.bɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "past tense"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send a player to the sin bin: ",
+                            "examples": [
+                                "Thomas was sin-binned for a professional foul."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

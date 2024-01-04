@@ -1,0 +1,65 @@
+{
+    "word": "overcast",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈəʊ.və.kɑːst",
+                                "ˌəʊ.vəˈkɑːst"
+                            ],
+                            "us": [
+                                "ˈoʊ.vɚ.kæst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "with clouds in the sky and therefore not bright and sunny: ",
+                            "examples": [
+                                "The sky/weather was overcast.",
+                                "a depressing, overcast winter morning"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌəʊ.vəˈkɑːst"
+                            ],
+                            "us": [
+                                "ˌoʊ.vɚˈkæst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "past tense"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of clouds) to cover the sky so it is not bright and sunny: ",
+                            "examples": [
+                                "Thick clouds overcast the sky."
+                            ]
+                        },
+                        {
+                            "explanation": "to stitch over the edge of a piece of cloth to stop the loose threads from separating: ",
+                            "examples": [
+                                "Finish off the hem by overcasting."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

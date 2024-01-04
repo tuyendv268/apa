@@ -1,0 +1,38 @@
+{
+    "word": "computer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpjuː.tər"
+                            ],
+                            "us": [
+                                "kəmˈpjuː.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an electronic machine that is used for storing, organizing, and finding words, numbers, and pictures, for doing calculations, and for controlling other machines: ",
+                            "examples": [
+                                "a personal/home computer",
+                                "All our customer orders are handled by computer.",
+                                "We've put all our records on computer.",
+                                "computer software/hardware",
+                                "computer graphics",
+                                "a computer program"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

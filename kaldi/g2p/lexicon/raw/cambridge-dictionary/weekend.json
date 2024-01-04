@@ -1,0 +1,55 @@
+{
+    "word": "weekend",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌwiːkˈend"
+                            ],
+                            "us": [
+                                "ˈwiːk.end"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Saturday and Sunday, or Friday evening until Sunday night; the part of the week in which many people living in the West do not go to work: ",
+                            "examples": [
+                                "This/Next weekend we're going to see some friends.",
+                                "I have a lot of homework to do over the weekend.",
+                                "He spent the weekend fishing with his brother.",
+                                "Do you have anything planned for the weekend?"
+                            ]
+                        },
+                        {
+                            "explanation": "a trip or a visit at a weekend: ",
+                            "examples": [
+                                "How much would a weekend for two in New York cost?",
+                                "They own a weekend retreat in the country."
+                            ]
+                        },
+                        {
+                            "explanation": "on Saturday or Sunday, or on both Saturday and Sunday: ",
+                            "examples": [
+                                "What did you do at the weekend?"
+                            ]
+                        },
+                        {
+                            "explanation": "usually or often between Friday evening and Sunday night, or on Saturdays and Sundays: ",
+                            "examples": [
+                                "They go windsurfing at weekends."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

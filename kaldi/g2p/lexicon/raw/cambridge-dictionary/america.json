@@ -1,0 +1,35 @@
+{
+    "word": "america",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈmer.ɪ.kə"
+                            ],
+                            "us": [
+                                "əˈmer.ɪ.kə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the United States of America",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "North America and/or South America",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

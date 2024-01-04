@@ -1,0 +1,63 @@
+{
+    "word": "docking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndock ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɒk"
+                            ],
+                            "us": [
+                                "dɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove part of something: ",
+                            "examples": [
+                                "As a punishment, the Army docked the soldiers' pay/wages by 20% and took away their leave.",
+                                "The lambs' tails are docked (= cut short) for hygiene reasons."
+                            ]
+                        },
+                        {
+                            "explanation": "If a ship docks, it arrives at a dock and if someone docks a ship, they bring it into a dock: ",
+                            "examples": [
+                                "Hundreds of people turned up to see the ship dock at the pier.",
+                                "The Russians and Americans docked (= joined together in space) (their spacecraft) just after one o'clock this morning."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

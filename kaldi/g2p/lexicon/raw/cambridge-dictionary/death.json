@@ -1,0 +1,54 @@
+{
+    "word": "death",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "deθ"
+                            ],
+                            "us": [
+                                "deθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the end of life: ",
+                            "examples": [
+                                "The disease causes thousands of deaths a year.",
+                                "Do you believe in life after death?",
+                                "He never got over the death of his daughter.",
+                                "death threats"
+                            ]
+                        },
+                        {
+                            "explanation": "extremely bored, frightened, etc.: ",
+                            "examples": [
+                                "She's frightened to death of snakes. "
+                            ]
+                        },
+                        {
+                            "explanation": "until you die: ",
+                            "examples": [
+                                "The animals burned to death in the barn."
+                            ]
+                        },
+                        {
+                            "explanation": "the cause of the end of life, or the end or destruction of something: ",
+                            "examples": [
+                                "The failure of the family business was the death of him."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

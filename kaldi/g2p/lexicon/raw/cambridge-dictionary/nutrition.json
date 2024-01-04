@@ -1,0 +1,40 @@
+{
+    "word": "nutrition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "njuːˈtrɪʃ.ən"
+                            ],
+                            "us": [
+                                "nuːˈtrɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the substances that you take into your body as food and the way that they influence your health: ",
+                            "examples": [
+                                "Good nutrition is essential if patients are to make a quick recovery.",
+                                "improvements in nutrition"
+                            ]
+                        },
+                        {
+                            "explanation": "the process of taking in and using food, or the scientific study of this: ",
+                            "examples": [
+                                "She's a professor of nutrition at Columbia University."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

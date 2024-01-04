@@ -1,0 +1,41 @@
+{
+    "word": "dressed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "drest"
+                            ],
+                            "us": [
+                                "drest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "wearing clothes and not naked: ",
+                            "examples": [
+                                "I usually get dressed before I eat breakfast.",
+                                "He was dressed in a dark grey suit.",
+                                "The party guests came early, and I wasn't fully dressed (= didn't have all my clothes on)."
+                            ]
+                        },
+                        {
+                            "explanation": "wearing clothing of a particular type: ",
+                            "examples": [
+                                "a well-dressed/casually dressed man"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

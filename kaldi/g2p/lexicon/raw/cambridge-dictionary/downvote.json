@@ -1,0 +1,59 @@
+{
+    "word": "downvote",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaʊn.vəʊt"
+                            ],
+                            "us": [
+                                "ˈdaʊn.voʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to click (= choose) a symbol to show that you dislike or disagree with something you have read or seen on the internet: ",
+                            "examples": [
+                                "Anyone who creates an account can post comments on the topic, and can also upvote or downvote other people's comments.",
+                                "Who in their right mind would downvote this video?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaʊn.vəʊt"
+                            ],
+                            "us": [
+                                "ˈdaʊn.voʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a symbol that shows someone dislikes or disagrees with something they have read or seen on the internet: ",
+                            "examples": [
+                                "The system uses the upvotes and downvotes to generate a kind of map of all the participants in the debate.",
+                                "This is the most disliked video in the platform's history, beating the previous record of more than 10 million downvotes. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

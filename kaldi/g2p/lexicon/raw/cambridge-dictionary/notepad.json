@@ -1,0 +1,48 @@
+{
+    "word": "notepad",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnəʊt.pæd"
+                            ],
+                            "us": [
+                                "ˈnoʊt.pæd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a set of sheets of plain or lined paper, joined at the top edge, for writing on: ",
+                            "examples": [
+                                "He took out a notepad and pretended to write.",
+                                "a plain/ruled notepad",
+                                "a reporter's notepad"
+                            ]
+                        },
+                        {
+                            "explanation": "a computer program used for making notes: ",
+                            "examples": [
+                                "I always copy what I say and paste it in a notepad before posting it.",
+                                "There is a built-in notepad which lets you attach your own thoughts, ideas and memos to a specific map."
+                            ]
+                        },
+                        {
+                            "explanation": "a type of very small computer that you can carry easily. This type of computer is no longer commonly used. : ",
+                            "examples": [
+                                "She was repairing an Amstrad notepad computer from the 1990s."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

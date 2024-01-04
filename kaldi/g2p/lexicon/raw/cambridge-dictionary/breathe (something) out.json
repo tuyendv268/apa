@@ -1,0 +1,37 @@
+{
+    "word": "breathe (something) out",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "collocation",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move air out of the lungs: ",
+                            "examples": [
+                                "Watch your stomach contract as you breathe out.",
+                                "The instructor told us to take a deep breath and then breathe out slowly."
+                            ]
+                        },
+                        {
+                            "explanation": "If you breathe something out, you move it out of your lungs: ",
+                            "examples": [
+                                "The man at the next table was breathing out smoke through his nostrils.",
+                                "She paused for a second before breathing out a contented sigh."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

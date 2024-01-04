@@ -1,0 +1,31 @@
+{
+    "word": "composite number",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒm.pə.zɪt ˈnʌm.bər"
+                            ],
+                            "us": [
+                                "ˌkɑːm.pə.zɪt ˈnʌm.bɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a positive number (= larger than zero) that can be divided by positive numbers other than 1 and itself",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

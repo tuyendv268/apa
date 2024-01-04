@@ -1,0 +1,41 @@
+{
+    "word": "asymmetry",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "eɪˈsɪm.ə.tri"
+                            ],
+                            "us": [
+                                "eɪˈsɪm.ə.tri"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the state of two halves, sides, or parts that are not exactly the same in shape or size: ",
+                            "examples": [
+                                "The brain scan showed a hemispheric asymmetry.",
+                                "Physicists are investigating the apparent asymmetry in the amounts of matter and antimatter in the universe. "
+                            ]
+                        },
+                        {
+                            "explanation": "the condition of not being equal or equally available between two people or groups : ",
+                            "examples": [
+                                "power/information asymmetries ",
+                                "Economic asymmetry between the rich and the poor has worsened in recent years. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

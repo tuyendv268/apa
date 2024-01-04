@@ -1,0 +1,41 @@
+{
+    "word": "armour",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɑː.mər"
+                            ],
+                            "us": [
+                                "ˈɑːr.mɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "strong covering that protects something, especially the body: ",
+                            "examples": [
+                                "Police put on body armour before confronting the rioters.",
+                                "In the past, knights used to wear suits of armour (= protective covering made of metal) in battle.",
+                                "These grenades are able to pierce the armour of tanks."
+                            ]
+                        },
+                        {
+                            "explanation": "military vehicles that are covered in strong metal to protect them from attack: ",
+                            "examples": [
+                                "The troops were backed by tanks, artillery, and other heavy armour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

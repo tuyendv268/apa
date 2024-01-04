@@ -1,0 +1,41 @@
+{
+    "word": "hypoxic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective ",
+                        "ipa": {
+                            "uk": [
+                                "haɪˈpɒk.sɪk"
+                            ],
+                            "us": [
+                                "haɪˈpɑːk.sɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "caused by not enough oxygen being available to the blood and body tissues: ",
+                            "examples": [
+                                "He died of hypoxic encephalopathy - a lack of oxygen to the brain, following cardiac arrest.",
+                                "The degree of hypoxic stress depends on altitude, rate of ascent, and duration of exposure."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a place or environment) not having enough oxygen: ",
+                            "examples": [
+                                "A hypoxic zone is an area of low oxygen that forms in coastal waters.",
+                                "A hypoxic environment may be deliberately sought by endurance athletes who try to naturally increase their oxygen transport capacity."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

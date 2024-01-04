@@ -1,0 +1,40 @@
+{
+    "word": "steam locomotive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈstiːm ləʊ.kəˌməʊ.tɪv"
+                            ],
+                            "us": [
+                                "ˈstiːm loʊ.kəˌmoʊ.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a vehicle with an engine powered by steam, used for pulling trains: ",
+                            "examples": [
+                                "The trains used to be pulled by steam locomotives.",
+                                "For twelve years carriages were pulled by horse, with steam locomotives only arriving in 1847."
+                            ]
+                        },
+                        {
+                            "explanation": "a train pulled by an engine powered by steam: ",
+                            "examples": [
+                                "Electric streetcars replaced horsecars in cities, and electrified trains replaced steam locomotives in suburbs. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

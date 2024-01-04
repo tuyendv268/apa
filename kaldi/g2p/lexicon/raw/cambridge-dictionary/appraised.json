@@ -1,0 +1,63 @@
+{
+    "word": "appraised",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nappraise ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈpreɪz"
+                            ],
+                            "us": [
+                                "əˈpreɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to examine someone or something in order to judge their qualities, success, or needs: ",
+                            "examples": [
+                                "At the end of each teaching practice, trainee teachers are asked to appraise their own performance.",
+                                "In cooperation with other professionals, social workers will appraise the individual's needs.",
+                                "He coolly appraised the situation, deciding which person would be most likely to succeed."
+                            ]
+                        },
+                        {
+                            "explanation": "to give a judgment about how much money something might be sold for: ",
+                            "examples": [
+                                "The ring was appraised at $40,000."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "bribe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "braɪb"
+                            ],
+                            "us": [
+                                "braɪb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to make someone do something for you by giving them money, presents, or something else that they want : ",
+                            "examples": [
+                                "He bribed immigration officials and entered the country illegally.",
+                                "They bribed the waiter to find them a better table."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "braɪb"
+                            ],
+                            "us": [
+                                "braɪb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "money or a present that you give to someone so that they will do something for you, usually something dishonest: ",
+                            "examples": [
+                                "He was accused of accepting bribes from wealthy businessmen.",
+                                "The judge took a bribe in exchange for giving a lenient sentence to the defendant. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

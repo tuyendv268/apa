@@ -1,0 +1,33 @@
+{
+    "word": "precondition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpriː.kənˈdɪʃ.ən"
+                            ],
+                            "us": [
+                                "ˌpriː.kənˈdɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that must happen or be true before it is possible for something else to happen: ",
+                            "examples": [
+                                "A halt to the fighting is a precondition for negotiations."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

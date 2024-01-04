@@ -1,0 +1,71 @@
+{
+    "word": "imprint",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪmˈprɪnt"
+                            ],
+                            "us": [
+                                "ɪmˈprɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to mark a surface by pressing something hard into it",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to fix an event or experience so firmly in the memory that it cannot be forgotten although you do not try to remember it: ",
+                            "examples": [
+                                "That look of grief would be imprinted on her mind forever."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪm.prɪnt"
+                            ],
+                            "us": [
+                                "ˈɪm.prɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the name of a publisher as it appears on a particular set of books",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an occasion when an object presses on something and leaves a mark: ",
+                            "examples": [
+                                "The button had left an imprint on my arm."
+                            ]
+                        },
+                        {
+                            "explanation": "an occasion when an event or experience becomes fixed in someone's memory or leaves its mark in some way on their appearance: ",
+                            "examples": [
+                                "War has left its imprint on the strained faces of these people."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

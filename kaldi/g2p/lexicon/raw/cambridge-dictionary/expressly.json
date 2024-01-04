@@ -1,0 +1,39 @@
+{
+    "word": "expressly",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspres.li"
+                            ],
+                            "us": [
+                                "ɪkˈspres.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that is clear: ",
+                            "examples": [
+                                "I expressly told you to be home by midnight."
+                            ]
+                        },
+                        {
+                            "explanation": "for a particular purpose: ",
+                            "examples": [
+                                "The farmer put up the fence expressly to stop people walking across his field."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

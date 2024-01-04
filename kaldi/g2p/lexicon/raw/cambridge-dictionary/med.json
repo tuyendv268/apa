@@ -1,0 +1,62 @@
+{
+    "word": "med",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "med"
+                            ],
+                            "us": [
+                                "med"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "→ \nmedical : ",
+                            "examples": [
+                                "med school",
+                                "a med student"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmed"
+                            ],
+                            "us": [
+                                "ˈmed"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the Mediterranean sea or the countries near it: ",
+                            "examples": [
+                                "They're going on a cruise around the Med."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "assuming (that)",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "conjunction",
+                        "ipa": {
+                            "uk": [
+                                "əˈsjuː.mɪŋ ðət"
+                            ],
+                            "us": [
+                                "əˈsuː.mɪŋ ðət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "accepting as true without question or proof: ",
+                            "examples": [
+                                "Even assuming that smokers do see the health warnings, I doubt they'll take any notice."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

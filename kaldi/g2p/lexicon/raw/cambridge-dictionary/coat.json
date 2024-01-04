@@ -1,0 +1,78 @@
+{
+    "word": "coat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəʊt"
+                            ],
+                            "us": [
+                                "koʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an outer piece of clothing with sleeves that is worn over other clothes, usually for warmth: ",
+                            "examples": [
+                                "Do your coat up, Joe, or you'll freeze.",
+                                "We need a coat hook on the back of this door."
+                            ]
+                        },
+                        {
+                            "explanation": "used as a combining form: ",
+                            "examples": [
+                                "an overcoat",
+                                "a raincoat"
+                            ]
+                        },
+                        {
+                            "explanation": "the hair, wool, or fur covering an animal: ",
+                            "examples": [
+                                "a thick/glossy/matted coat"
+                            ]
+                        },
+                        {
+                            "explanation": "a layer of a substance, especially paint, that covers something: ",
+                            "examples": [
+                                "I'll give the walls a quick coat of paint.",
+                                "two coats of varnish"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəʊt"
+                            ],
+                            "us": [
+                                "koʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cover something with a layer of a particular substance: ",
+                            "examples": [
+                                "When the biscuits are cool, you coat them in/with melted chocolate."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

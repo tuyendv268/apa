@@ -1,0 +1,33 @@
+{
+    "word": "css",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsiː.esˈes"
+                            ],
+                            "us": [
+                                "ˌsiː.esˈes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for cascading style sheet: a piece of computer software that allows you to describe and control how a web page or a series of web pages should appear to the user: ",
+                            "examples": [
+                                "One of the goals of CSS is also to allow users greater control over presentation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

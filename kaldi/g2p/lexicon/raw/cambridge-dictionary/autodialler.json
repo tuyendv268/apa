@@ -1,0 +1,34 @@
+{
+    "word": "autodialler",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔː.təʊ.daɪ.ə.lər"
+                            ],
+                            "us": [
+                                "ˈɑː.t̬oʊ.daɪ.ə.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device or feature that makes a telephone or computer able to automatically call a number or connect with a computer: ",
+                            "examples": [
+                                "You may be supplied with an autodialler that dials the prefix for you.",
+                                "Load the ISP phone number into the autodialler."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

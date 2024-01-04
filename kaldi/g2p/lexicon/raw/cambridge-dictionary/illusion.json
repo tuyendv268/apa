@@ -1,0 +1,42 @@
+{
+    "word": "illusion",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈluː.ʒən"
+                            ],
+                            "us": [
+                                "ɪˈluː.ʒən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an idea or belief that is not true: ",
+                            "examples": [
+                                "He had no illusions about his talents as a singer.",
+                                "I'm under no illusions (= I understand the truth) about the man I married.",
+                                "My boss is labouring under the illusion that (= wrongly believes that) the project will be completed on time."
+                            ]
+                        },
+                        {
+                            "explanation": "something that is not really what it seems to be: ",
+                            "examples": [
+                                "A large mirror in a room can create the illusion of space.",
+                                "The impression of calm in the office is just an illusion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

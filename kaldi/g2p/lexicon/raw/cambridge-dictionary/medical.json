@@ -1,0 +1,60 @@
+{
+    "word": "medical",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmed.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈmed.ɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "related to the treatment of illness and injuries: ",
+                            "examples": [
+                                "medical advice",
+                                "medical books",
+                                "a medical team",
+                                "medical workers"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmed.ɪ.kəl"
+                            ],
+                            "us": [
+                                "ˈmed.ɪ.kəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an examination of a person's body by a doctor in order to discover if that person is healthy, sometimes done before a person can be accepted for a particular job: ",
+                            "examples": [
+                                "The insurance company wanted me to have a medical."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

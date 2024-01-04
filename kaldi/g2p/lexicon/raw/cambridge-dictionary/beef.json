@@ -1,0 +1,72 @@
+{
+    "word": "beef",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "biːf"
+                            ],
+                            "us": [
+                                "biːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the flesh of cattle (= cows), eaten as food: ",
+                            "examples": [
+                                "The spaghetti sauce is made with minced (US ground) beef.",
+                                "People in England often have roast beef and Yorkshire pudding for lunch on Sundays.",
+                                "He is a beef cattle farmer."
+                            ]
+                        },
+                        {
+                            "explanation": "a complaint: ",
+                            "examples": [
+                                "My main beef about the job is that I have to work on Saturdays."
+                            ]
+                        },
+                        {
+                            "explanation": "strength, power, or force: ",
+                            "examples": [
+                                "He said that the newly published government report didn't have much beef in it.",
+                                "Push harder! Put some beef into it!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "biːf"
+                            ],
+                            "us": [
+                                "biːf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to complain: ",
+                            "examples": [
+                                "He was beefing about having to do the shopping."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

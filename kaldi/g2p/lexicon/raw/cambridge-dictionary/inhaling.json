@@ -1,0 +1,62 @@
+{
+    "word": "inhaling",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ninhale ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈheɪl"
+                            ],
+                            "us": [
+                                "ɪnˈheɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to breathe air, smoke, or gas into your lungs: ",
+                            "examples": [
+                                "She flung open the window and inhaled deeply.",
+                                "She became ill shortly after inhaling the fumes."
+                            ]
+                        },
+                        {
+                            "explanation": "to eat something extremely fast: ",
+                            "examples": [
+                                "Tony inhaled his burger."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

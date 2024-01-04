@@ -1,0 +1,42 @@
+{
+    "word": "writable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈraɪ.tə.bəl"
+                            ],
+                            "us": [
+                                "ˈraɪ.t̬ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a computer disk) able to have new information written and stored on it by a user: ",
+                            "examples": [
+                                "The computer was introduced in 1997 with a CD-ROM drive but no floppy disk drive or other writable media device.",
+                                "Since the advent of cloud computing, we have less need to use writable disks to store our data. ",
+                                "You can back up your videos with an external hard drive or on a writeable CD ."
+                            ]
+                        },
+                        {
+                            "explanation": "able to be written, or written on: ",
+                            "examples": [
+                                "There are so many hours in a day, and I can only find about a page of writable stuff. ",
+                                "The price for the device doesn't include a writeable screen."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

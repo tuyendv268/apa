@@ -1,0 +1,33 @@
+{
+    "word": "compute",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəmˈpjuːt"
+                            ],
+                            "us": [
+                                "kəmˈpjuːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to calculate an answer or amount by using a machine: ",
+                            "examples": [
+                                "Compute the ratio of the object's height to its weight."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

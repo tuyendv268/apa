@@ -1,0 +1,64 @@
+{
+    "word": "chant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tʃɑːnt"
+                            ],
+                            "us": [
+                                "tʃænt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to repeat or sing a word or phrase continuously: ",
+                            "examples": [
+                                "The crowd were chanting the team's name.",
+                                "Demonstrators chanted anti-government slogans in the square."
+                            ]
+                        },
+                        {
+                            "explanation": "to sing a religious prayer or song to a simple tune: ",
+                            "examples": [
+                                "We could hear the monks chanting."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tʃɑːnt"
+                            ],
+                            "us": [
+                                "tʃænt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word or phrase that is repeated many times: ",
+                            "examples": [
+                                "The fans started to sing the familiar football chant, \"Here we go, here we go, here we go!\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

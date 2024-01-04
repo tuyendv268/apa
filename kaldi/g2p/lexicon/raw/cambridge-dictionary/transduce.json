@@ -1,0 +1,39 @@
+{
+    "word": "transduce",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trænzˈdʒuːs"
+                            ],
+                            "us": [
+                                "trænsˈduːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move genetic material (= part of the DNA in cells) from one cell or bacterium to another, for example using a virus: ",
+                            "examples": [
+                                "An adenovirus was used to transduce the primary muscle-derived cells with BMP-2 DNA."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause energy to change from one form to another: ",
+                            "examples": [
+                                "We learned how sensory systems gather stimuli and transduce specific stimuli into action potentials."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

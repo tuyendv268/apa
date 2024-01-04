@@ -1,0 +1,64 @@
+{
+    "word": "antecedent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.tiˈsiː.dənt"
+                            ],
+                            "us": [
+                                "ˌæn.t̬əˈsiː.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone or something existing or happening before, especially as the cause or origin of something existing or happening later: ",
+                            "examples": [
+                                "Charles Babbage's mechanical calculating engines were the antecedents of the modern computer.",
+                                "Many people feel a great curiosity to find out about their antecedents."
+                            ]
+                        },
+                        {
+                            "explanation": "a word or phrase that a pronoun refers back to: ",
+                            "examples": [
+                                "In the sentence \"He picked a book off the shelf and handed it to Sally\", \"book\" is the antecedent of \"it\"."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.tiˈsiː.dənt"
+                            ],
+                            "us": [
+                                "ˌæn.t̬əˈsiː.dənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "previous: ",
+                            "examples": [
+                                "When the college was established in 1546, it inherited a hall from each of three antecedent institutions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

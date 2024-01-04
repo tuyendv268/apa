@@ -1,0 +1,79 @@
+{
+    "word": "tempered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈtem.pəd"
+                            ],
+                            "us": [
+                                "ˈtem.pɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "limited or controlled, or made less extreme: ",
+                            "examples": [
+                                "Her ambitions are tempered by the scale of the task.",
+                                "Their love for each other was growing steadily, but the emotion was tempered with suspicion.",
+                                "Pink is a tempered form of fierce, dramatic red."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a substance) changed by heat or a chemical process: ",
+                            "examples": [
+                                "Tempered glass has a higher strength than standard glass.",
+                                "The extreme cold turned tempered steel brittle.",
+                                "tempered chocolate"
+                            ]
+                        },
+                        {
+                            "explanation": "with the differences between notes slightly changed so that they are in equal temperament (= have 12 parts of equal size in each octave): ",
+                            "examples": [
+                                "The tempered scale, with the octave divided into 12 equal half-tones, is increasingly apparent from 1600 on.",
+                                "In these tunings, the interval of the semitone is slightly smaller than the tempered semitone."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -tem.pəd"
+                            ],
+                            "us": [
+                                " -tem.pɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having or showing the stated type of temper: ",
+                            "examples": [
+                                "even-tempered",
+                                "bad-tempered"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

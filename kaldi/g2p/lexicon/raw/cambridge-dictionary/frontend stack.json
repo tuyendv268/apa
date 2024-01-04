@@ -1,0 +1,34 @@
+{
+    "word": "frontend stack",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfrʌnt.end ˈstæk"
+                            ],
+                            "us": [
+                                "ˌfrʌnt.end ˈstæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the parts of the hardware, software, programming languages, operating system, etc. in a mobile app or website that the user interacts with (= uses directly): ",
+                            "examples": [
+                                "A tech stack consists of two equally important elements: the frontend stack (client-side) and backend stack (server-side).",
+                                "The frontend tech stack is the client's side of the application – anything that a user can see or engage with on a screen."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

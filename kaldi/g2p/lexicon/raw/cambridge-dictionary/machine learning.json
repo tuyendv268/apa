@@ -1,0 +1,34 @@
+{
+    "word": "machine learning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "məˌʃiːn ˈlɜː.nɪŋ"
+                            ],
+                            "us": [
+                                "məˌʃiːn ˈlɜ˞ː.nɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of computers improving their own ability to carry out tasks by analysing new data, without a human needing to give instructions in the form of a program, or the study of creating and using computer systems that can do this: ",
+                            "examples": [
+                                "His research helped shape the field of machine learning, bringing computers closer to the realm of human thought.",
+                                "They believe that the route to genuine machine learning and artificial intelligence runs through language."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

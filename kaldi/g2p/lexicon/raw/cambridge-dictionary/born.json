@@ -1,0 +1,105 @@
+{
+    "word": "born",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bɔːn"
+                            ],
+                            "us": [
+                                "bɔːrn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to come out of a mother's body, and start to exist: ",
+                            "examples": [
+                                "She was born in 1950."
+                            ]
+                        },
+                        {
+                            "explanation": "having started life in a particular way: ",
+                            "examples": [
+                                "The toll of babies born with AIDS is rising.",
+                                "Stevie Wonder was born blind."
+                            ]
+                        },
+                        {
+                            "explanation": "If an idea is born, it starts to exist.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "existing as the result of something: ",
+                            "examples": [
+                                "With a courage born of necessity, she seized the gun and ran at him."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "bɔːn"
+                            ],
+                            "us": [
+                                "bɔːrn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a natural ability or liking: ",
+                            "examples": [
+                                "a born writer/athlete",
+                                "I felt born to take care of animals."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -bɔːn"
+                            ],
+                            "us": [
+                                " -bɔːrn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "born in the way, place, or order mentioned: ",
+                            "examples": [
+                                "newborn",
+                                "Ben Okri is a Nigerian-born poet and novelist.",
+                                "the first-born son"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

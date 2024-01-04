@@ -1,0 +1,61 @@
+{
+    "word": "bordered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nborder ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɔː.dər"
+                            ],
+                            "us": [
+                                "ˈbɔːr.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to form a line around the edge of something: ",
+                            "examples": [
+                                "The fields are bordered by tall trees."
+                            ]
+                        },
+                        {
+                            "explanation": "to be next to and have a border with another country: ",
+                            "examples": [
+                                "Swaziland borders South Africa and Mozambique."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

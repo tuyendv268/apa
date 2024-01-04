@@ -1,0 +1,34 @@
+{
+    "word": "wave equation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈweɪv ɪˌkweɪ.ʒən"
+                            ],
+                            "us": [
+                                "ˈweɪv ɪˌkweɪ.ʒən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an equation in physics that helps you find out the length or shape of a wave (= the pattern in which some types of energy, such as sound, light, and heat, are spread or carried): ",
+                            "examples": [
+                                "Erwin Schrödinger's best-known equation is a wave equation that is considered a landmark in the development of quantum mechanics. ",
+                                "Many wave equations have good approximations that can be used for very high frequency solutions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

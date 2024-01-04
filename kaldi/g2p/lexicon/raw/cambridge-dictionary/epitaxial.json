@@ -1,0 +1,35 @@
+{
+    "word": "epitaxial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌep.ɪˈtæk.si.əl"
+                            ],
+                            "us": [
+                                "ˌep.əˈtæk.si.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the growth of a thin crystal (= any solid consisting of atoms or molecules that are arranged in a regular structure) on top of another crystal, with both having a similar shape and structure: ",
+                            "examples": [
+                                "Any suitable material that allows epitaxial growth can be used as a substrate.",
+                                "The substrate includes an epitaxial layer where the memory cells of the computer are located.",
+                                "The atomic structure of these crystals is epitaxial in many cases."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

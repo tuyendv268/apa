@@ -1,0 +1,43 @@
+{
+    "word": "invoke",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈvəʊk"
+                            ],
+                            "us": [
+                                "ɪnˈvoʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use a law in order to achieve something, or to mention something in order to explain something or to support your opinion or action: ",
+                            "examples": [
+                                "Police can invoke the law to regulate access to these places."
+                            ]
+                        },
+                        {
+                            "explanation": "to request help from someone, especially a god, when you want to improve a situation: ",
+                            "examples": [
+                                "Their sacred dance is performed to invoke ancient gods."
+                            ]
+                        },
+                        {
+                            "explanation": "to make someone have a particular feeling or remember something",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

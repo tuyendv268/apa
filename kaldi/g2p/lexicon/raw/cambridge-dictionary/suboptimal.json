@@ -1,0 +1,41 @@
+{
+    "word": "suboptimal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "sʌbˈɒp.tɪ.məl"
+                            ],
+                            "us": [
+                                "sʌbˈɑːp.tə.məl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "less than optimal (= the best possible): ",
+                            "examples": [
+                                "Long-term consumer debt is often considered fiscally suboptimal.",
+                                "A combination of these two drugs at the same suboptimal concentrations showed a potent inhibitory activity."
+                            ]
+                        },
+                        {
+                            "explanation": "not very good: ",
+                            "examples": [
+                                "I consider that her care was suboptimal in some respects.",
+                                "Initial assessment was often suboptimal, and key features in investigation and initial management were often lacking."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "manoeuvred",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmanoeuvre ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "məˈnuː.vər"
+                            ],
+                            "us": [
+                                "məˈnuː.vɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to turn and direct an object: ",
+                            "examples": [
+                                "Loaded supermarket trolleys are often difficult to manoeuvre.",
+                                "This car manoeuvres well at high speed."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to make someone act in a particular way: ",
+                            "examples": [
+                                "The other directors are trying to manoeuvre her into resigning."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

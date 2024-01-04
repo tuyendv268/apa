@@ -1,0 +1,40 @@
+{
+    "word": "verso",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɜː.səʊ"
+                            ],
+                            "us": [
+                                "ˈvɝː.soʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the back of a piece of paper, document, etc.: ",
+                            "examples": [
+                                "The verso of the manuscript fragment shows more deterioration than the recto."
+                            ]
+                        },
+                        {
+                            "explanation": "a page on the left side of an open book, etc.: ",
+                            "examples": [
+                                "At the beginning of a book, on the verso (left-hand) page, the name of the publisher is usually given.",
+                                "For information: the verso always carries the even page number and the recto the odd number."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

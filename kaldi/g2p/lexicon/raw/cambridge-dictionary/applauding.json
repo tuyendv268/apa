@@ -1,0 +1,62 @@
+{
+    "word": "applauding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \napplaud ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈplɔːd"
+                            ],
+                            "us": [
+                                "əˈplɑːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to show enjoyment or approval of something such as a performance or speech by clapping the hands repeatedly to make a noise: ",
+                            "examples": [
+                                "You should have heard the audience applaud - the noise was fantastic.",
+                                "She was applauded for a full five minutes after her speech."
+                            ]
+                        },
+                        {
+                            "explanation": "to say that you admire and agree with a person's action or decision: ",
+                            "examples": [
+                                "We applaud the family's decision to remain silent over the issue."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

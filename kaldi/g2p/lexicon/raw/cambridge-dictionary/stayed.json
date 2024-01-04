@@ -1,0 +1,90 @@
+{
+    "word": "stayed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nstay ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "steɪ"
+                            ],
+                            "us": [
+                                "steɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to not move away from or leave a place or situation: ",
+                            "examples": [
+                                "They need an assistant who is willing to stay for six months.",
+                                "Stay until the rain has stopped.",
+                                "Can you stay after work to play tennis?",
+                                "Because of the snow, children were told to stay at home."
+                            ]
+                        },
+                        {
+                            "explanation": "to continue doing something, or to continue to be in a particular state: ",
+                            "examples": [
+                                "Stay away from the edge of the cliff.",
+                                "He decided not to stay in teaching/medicine/the army.",
+                                "The final figures showed that most departments had stayed within budget.",
+                                "It was so warm we stayed (out) in the garden until ten that night.",
+                                "Put a lid on the pan so the food will stay hot.",
+                                "The shops stay open until nine o' clock.",
+                                "They stayed friends after their divorce."
+                            ]
+                        },
+                        {
+                            "explanation": "to live or be in a place for a short time as a visitor: ",
+                            "examples": [
+                                "I stayed in Montreal for two weeks then flew home.",
+                                "They said they'd stay at/in a hotel.",
+                                "My kids usually stay with their grandparents for a week in the summer."
+                            ]
+                        },
+                        {
+                            "explanation": "to sleep somewhere for one night: ",
+                            "examples": [
+                                "We've arranged to stay overnight at my sister's house."
+                            ]
+                        },
+                        {
+                            "explanation": "to live somewhere permanently: ",
+                            "examples": [
+                                "I still stay with my parents."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

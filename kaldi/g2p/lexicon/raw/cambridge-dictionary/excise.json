@@ -1,0 +1,58 @@
+{
+    "word": "excise",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈek.saɪz"
+                            ],
+                            "us": [
+                                "ˈek.saɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tax made by a government on some types of goods produced and used within their own country: ",
+                            "examples": [
+                                "The excise (duty) on beer was increased under the last government."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ekˈsaɪz"
+                            ],
+                            "us": [
+                                "ekˈsaɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove something, especially by cutting: ",
+                            "examples": [
+                                "During a three-hour operation six tumours were excised from the wall of the patient's stomach.",
+                                "The official censors have excised the controversial sections of the report."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

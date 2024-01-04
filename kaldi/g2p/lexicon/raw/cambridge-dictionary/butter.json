@@ -1,0 +1,57 @@
+{
+    "word": "butter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌt.ər"
+                            ],
+                            "us": [
+                                "ˈbʌt̬.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pale yellow solid food containing a lot of fat that is made from cream and is spread on bread or used in cooking: ",
+                            "examples": [
+                                "We were served scones with butter and jam.",
+                                "Have some bread and butter (= bread spread with butter).",
+                                "a butter dish"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈbʌt.ər"
+                            ],
+                            "us": [
+                                "ˈbʌt̬.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to spread butter on something",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "cohort",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkəʊ.hɔːt"
+                            ],
+                            "us": [
+                                "ˈkoʊ.hɔːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of people who share a characteristic, usually age: ",
+                            "examples": [
+                                "This study followed up a cohort of 386 patients aged 65+ for six months after their discharge home."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of people who support a particular person, usually a leader: ",
+                            "examples": [
+                                "The Mayor and his cohorts have abused their positions of power."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

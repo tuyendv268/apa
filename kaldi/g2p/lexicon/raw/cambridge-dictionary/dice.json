@@ -1,0 +1,77 @@
+{
+    "word": "dice",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "daɪs"
+                            ],
+                            "us": [
+                                "daɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small cube (= object with six equal square sides) with a different number of spots on each side, used in games involving chance: ",
+                            "examples": [
+                                "We need two dice to play the game.",
+                                "You roll/throw the dice and whoever gets the highest score goes first."
+                            ]
+                        },
+                        {
+                            "explanation": "any game involving chance in which dice are thrown: ",
+                            "examples": [
+                                "Let's play dice."
+                            ]
+                        },
+                        {
+                            "explanation": "a small square piece of something: ",
+                            "examples": [
+                                "Cut the potatoes into small dice."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "daɪs"
+                            ],
+                            "us": [
+                                "daɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut food into small squares: ",
+                            "examples": [
+                                "Peel and dice the potatoes.",
+                                "diced carrots"
+                            ]
+                        },
+                        {
+                            "explanation": "to do something extremely dangerous and silly: ",
+                            "examples": [
+                                "You're dicing with death driving at that speed on icy roads."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

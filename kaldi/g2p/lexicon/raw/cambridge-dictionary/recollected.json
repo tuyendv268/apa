@@ -1,0 +1,59 @@
+{
+    "word": "recollected",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nrecollect ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌrek.əˈlekt"
+                            ],
+                            "us": [
+                                "ˌrek.əˈlekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remember something: ",
+                            "examples": [
+                                "Can you recollect his name?",
+                                "As far as I can recollect, his name is Edward.",
+                                "She suddenly recollected (that) she had left her jacket in the restaurant.",
+                                "Do you recollect where she went?",
+                                "He does not recollect seeing her at the party."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

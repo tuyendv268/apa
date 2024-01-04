@@ -1,0 +1,39 @@
+{
+    "word": "sequela",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɪˈkwiː.lə"
+                            ],
+                            "us": [
+                                "sɪˈkwiː.lə"
+                            ],
+                            "uk_other_tense": [
+                                "sɪˈkwiː.liː"
+                            ],
+                            "us_other_tense": [
+                                "sɪˈkwiː.liː"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a result or condition that follows from a disease or illness: ",
+                            "examples": [
+                                "neurological sequelae",
+                                "Mild cognitive impairment is a sequela of having multiple concussions while playing football.",
+                                "Most cases are probably a sequel of acute inflammation and do not indicate any specific disease."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

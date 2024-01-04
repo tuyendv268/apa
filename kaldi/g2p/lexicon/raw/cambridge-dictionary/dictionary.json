@@ -1,0 +1,50 @@
+{
+    "word": "dictionary",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɪk.ʃən.ər.i"
+                            ],
+                            "us": [
+                                "ˈdɪk.ʃən.er.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a book that contains a list of words in alphabetical order and explains their meanings, or gives a word for them in another language; an electronic product giving similar information on a computer, smartphone, etc.: ",
+                            "examples": [
+                                "a French-English/English-French dictionary",
+                                "a bilingual/monolingual dictionary",
+                                "To check how a word is spelled, look it up in a dictionary.",
+                                "Our online dictionary is regularly updated with new entries."
+                            ]
+                        },
+                        {
+                            "explanation": "a book that gives information about a particular subject, in which the entries (= words or phrases) are given in alphabetical order, or a similar electronic product: ",
+                            "examples": [
+                                "a biographical/science dictionary",
+                                "a dictionary of quotations",
+                                "The world's most ambitious online dictionary of Architects has been launched in Scotland."
+                            ]
+                        },
+                        {
+                            "explanation": "a list of words in electronic form that is used by a computer or smartphone, for example, in a program that checks your spelling when you type: ",
+                            "examples": [
+                                "Each word is checked by the computer against its internal dictionary."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "weather ship",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈweð.ə ˌʃɪp"
+                            ],
+                            "us": [
+                                "ˈweð.ɚ ˌʃɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a ship that is used to help learn about and report on the weather in different places: ",
+                            "examples": [
+                                "The news office received reports sent from weather ships stationed out in the Atlantic. ",
+                                "The scientist spent nine months doing research on a weather ship anchored in the Arctic Circle. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

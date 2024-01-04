@@ -1,0 +1,38 @@
+{
+    "word": "valve",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "vælv"
+                            ],
+                            "us": [
+                                "vælv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device that opens and closes to control the flow of liquids or gases, or a similar structure in the heart and the veins that controls the flow of blood: ",
+                            "examples": [
+                                "The valve failed to open/close.",
+                                "It was a weak heart valve that caused her death."
+                            ]
+                        },
+                        {
+                            "explanation": "part of a musical instrument such as a trumpet that changes the sound by controlling the flow of air",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "word": "nominating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nnominate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈnɒm.ɪ.neɪt"
+                            ],
+                            "us": [
+                                "ˈnɑː.mə.neɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to officially suggest someone for an election, job, position, or honour: ",
+                            "examples": [
+                                "He's been nominated by the Green Party as their candidate in the next election.",
+                                "Would you like to nominate anyone for/as director?"
+                            ]
+                        },
+                        {
+                            "explanation": "to say officially that a film, song, programme, etc. will be included in a competition for a prize: ",
+                            "examples": [
+                                "The film was nominated for an Academy Award."
+                            ]
+                        },
+                        {
+                            "explanation": "to officially choose someone for a job or to do something: ",
+                            "examples": [
+                                "She was nominated as the delegation's official interpreter.",
+                                "President Yeltsin nominated acting prime minister Sergei Kiriyenko to head the government."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

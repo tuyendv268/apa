@@ -1,0 +1,71 @@
+{
+    "word": "modulated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmodulate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɒdʒ.ə.leɪt"
+                            ],
+                            "us": [
+                                "ˈmɑː.dʒə.leɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change the style, loudness, etc. of something such as your voice in order to achieve an effect or express an emotion: ",
+                            "examples": [
+                                "His gentle introductory tone modulates into a coach's pre-game pep talk."
+                            ]
+                        },
+                        {
+                            "explanation": "to change from one musical key to another: ",
+                            "examples": [
+                                "Here we modulate from G major to A minor."
+                            ]
+                        },
+                        {
+                            "explanation": "to change something, such as an action or a process, to make it more suitable for its situation: ",
+                            "examples": [
+                                "An elected committee will meet monthly to modulate the council's energy policy."
+                            ]
+                        },
+                        {
+                            "explanation": "to mix an electrical signal that represents sounds or pictures with a radio signal so that it can be broadcast",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

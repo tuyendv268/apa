@@ -1,0 +1,74 @@
+{
+    "word": "surveying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsurvey ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səˈveɪ",
+                                "ˈsɜː.veɪ"
+                            ],
+                            "us": [
+                                "sɚˈveɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to look at or examine all of something, especially carefully: ",
+                            "examples": [
+                                "He got out of the car to survey the damage.",
+                                "She has written a book which surveys (= describes in detail) the history of feminism."
+                            ]
+                        },
+                        {
+                            "explanation": "to measure an area of land, and to record the details of it, especially on a map: ",
+                            "examples": [
+                                "Before the new railway was built, its route was carefully surveyed."
+                            ]
+                        },
+                        {
+                            "explanation": "If a building is surveyed, it is examined carefully by a specially trained person, in order to discover if there is anything wrong with its structure.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to ask people questions in order to find out about their opinions or behaviour: ",
+                            "examples": [
+                                "The researchers surveyed the attitudes of 2,500 college students.",
+                                "Many of the listeners surveyed said that they were not satisfied with the station's programming."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

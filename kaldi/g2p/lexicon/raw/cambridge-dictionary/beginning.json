@@ -1,0 +1,41 @@
+{
+    "word": "beginning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bɪˈɡɪn.ɪŋ"
+                            ],
+                            "us": [
+                                "bɪˈɡɪn.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the first part of something or the start of something: ",
+                            "examples": [
+                                "Notes on how to use this dictionary can be found at the beginning of the book.",
+                                "She sat down and read the book straight through from beginning to end.",
+                                "I enjoyed my job at/in the beginning (= when I started it), but I'm bored with it now."
+                            ]
+                        },
+                        {
+                            "explanation": "the origin of something, or the place, time, or way in which something started: ",
+                            "examples": [
+                                "The city had its beginnings in Roman times."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

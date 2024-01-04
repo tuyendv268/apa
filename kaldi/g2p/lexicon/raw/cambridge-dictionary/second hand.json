@@ -1,0 +1,60 @@
+{
+    "word": "second hand",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsek.ənd ˌhænd"
+                            ],
+                            "us": [
+                                "ˈsek.ənd ˌhænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the long, thin part on some clocks and watches that shows how many seconds have passed",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌsek.əndˈhænd"
+                            ],
+                            "us": [
+                                "ˌsek.əndˈhænd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not new; having been used in the past by someone else: ",
+                            "examples": [
+                                "This bike is second-hand but it's still in good condition.",
+                                "She buys all her clothes second-hand."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

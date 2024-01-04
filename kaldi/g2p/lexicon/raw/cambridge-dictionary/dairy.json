@@ -1,0 +1,63 @@
+{
+    "word": "dairy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeə.ri"
+                            ],
+                            "us": [
+                                "ˈder.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to refer to cows that are used for producing milk, rather than meat, or to foods that are made from milk, such as cream, butter, and cheese: ",
+                            "examples": [
+                                "dairy cattle",
+                                "dairy farmers",
+                                "dairy products"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeə.ri"
+                            ],
+                            "us": [
+                                "ˈder.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a place on a farm where milk and cream are kept and cheese and butter are made, or a company that supplies milk and products made from milk",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "foods that are made from milk, such as cream, butter, and cheese: ",
+                            "examples": [
+                                "I was advised not to eat too much dairy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

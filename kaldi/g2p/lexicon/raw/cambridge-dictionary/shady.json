@@ -1,0 +1,40 @@
+{
+    "word": "shady",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃeɪ.di"
+                            ],
+                            "us": [
+                                "ˈʃeɪ.di"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "sheltered from direct light from the sun: ",
+                            "examples": [
+                                "We sat on the shady grass for our picnic."
+                            ]
+                        },
+                        {
+                            "explanation": "dishonest or illegal: ",
+                            "examples": [
+                                "They know some very shady characters.",
+                                "He was involved in shady deals in the past."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

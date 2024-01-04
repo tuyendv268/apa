@@ -1,0 +1,41 @@
+{
+    "word": "llm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌel.elˈem"
+                            ],
+                            "us": [
+                                "ˌel.elˈem"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for \nlarge language model : a complex mathematical representation of language that is based on very large amounts of data and allows computers to produce language that seems similar to what a human might say: ",
+                            "examples": [
+                                "LLMs represent a major advancement in artificial intelligence.",
+                                "LLMs are fundamentally changing the way search algorithms work."
+                            ]
+                        },
+                        {
+                            "explanation": "abbreviation for Master of Laws, a university degree in law that you can get after your first degree: ",
+                            "examples": [
+                                "He graduated in 1970 and obtained an LLM the next year.",
+                                "As an LLM student soon to graduate, I feel very fortunate to have had this professor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

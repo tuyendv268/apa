@@ -1,0 +1,41 @@
+{
+    "word": "cab",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kæb"
+                            ],
+                            "us": [
+                                "kæb"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the separate front part of a large vehicle, such as a truck, bus, or train, in which the driver sits",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a taxi: ",
+                            "examples": [
+                                "It'll save time if we go by cab."
+                            ]
+                        },
+                        {
+                            "explanation": "in the past, a vehicle pulled by a horse, used as a taxi",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

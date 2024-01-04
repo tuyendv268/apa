@@ -1,0 +1,39 @@
+{
+    "word": "stripe",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "straɪp"
+                            ],
+                            "us": [
+                                "straɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a strip on the surface of something that is a different colour from the surrounding surface: ",
+                            "examples": [
+                                "The zebra is a wild African horse with black and white stripes."
+                            ]
+                        },
+                        {
+                            "explanation": "a strip of material that is sewn onto the arm or shoulder of a military uniform to show the rank of the person wearing it: ",
+                            "examples": [
+                                "By the age of 25 he'd already earned his third stripe and become a sergeant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

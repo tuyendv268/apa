@@ -1,0 +1,40 @@
+{
+    "word": "rectifiable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈrek.tɪˌfaɪ.ə.bəl"
+                            ],
+                            "us": [
+                                "ˌrek.təˈfaɪ.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "possible to rectify (= correct): ",
+                            "examples": [
+                                "I think the problem is serious, but it's rectifiable. ",
+                                "Should a rectifiable fault be found, it can typically be repaired and returned within 28 days."
+                            ]
+                        },
+                        {
+                            "explanation": "In mathematics, a rectifiable curve has a finite (= limited) length: ",
+                            "examples": [
+                                "By a rectifiable curve, we mean one that is continuous and has finite arc-length. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

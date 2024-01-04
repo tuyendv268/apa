@@ -1,0 +1,33 @@
+{
+    "word": "codec",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkəʊ.dek"
+                            ],
+                            "us": [
+                                "ˈkoʊ.dek"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device or computer program that compresses data (= makes it use less space) so it can be sent or stored, and decompresses it (= returns it to its original form) so it can be seen or used: ",
+                            "examples": [
+                                "The key to rapid future development will be in the growing sophistication of codec capabilities."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

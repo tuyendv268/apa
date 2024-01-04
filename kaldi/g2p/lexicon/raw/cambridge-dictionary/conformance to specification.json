@@ -1,0 +1,35 @@
+{
+    "word": "conformance to specification",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˌfɔː.məns tə spes.ɪ.fɪˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "kənˌfɔːr.məns tə spes.ə.fəˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a product or service) the fact or quality of being produced or done in a way that satisfies all rules or laws or is exactly what a customer has asked for: ",
+                            "examples": [
+                                "In the case of a restaurant, conformance to specification could mean meeting regulatory requirements that the food served must be safe for consumption.",
+                                "A client may require a statement of conformance to specifications.",
+                                "A product's conformity to specifications, as opposed to its quality, is relatively measurable: it either conforms or it does not. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

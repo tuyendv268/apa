@@ -1,0 +1,43 @@
+{
+    "word": "wrapper",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈræp.ər"
+                            ],
+                            "us": [
+                                "ˈræp.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of paper, plastic, or other material that covers and protects something: ",
+                            "examples": [
+                                "a sweet wrapper"
+                            ]
+                        },
+                        {
+                            "explanation": "a loose piece of clothing that is worn in the house, sometimes over other clothes ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a financial product that gives advantages such as reduced tax: ",
+                            "examples": [
+                                "The shares will be held in a tax-free individual savings account wrapper."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

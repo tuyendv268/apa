@@ -1,0 +1,61 @@
+{
+    "word": "quaver",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈkweɪ.vər"
+                            ],
+                            "us": [
+                                "ˈkweɪ.vɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a person's voice quavers, it shakes, usually because of emotion: ",
+                            "examples": [
+                                "Her voice began to quaver and I thought she was going to cry."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkweɪ.vər"
+                            ],
+                            "us": [
+                                "ˈkweɪ.vɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a musical note that is half as long as a crotchet",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a slight shake in someone's voice, especially because of emotion: ",
+                            "examples": [
+                                "There was a quaver in her voice as she thanked her staff for all their support."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

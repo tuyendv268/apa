@@ -1,0 +1,42 @@
+{
+    "word": "accuse",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈkjuːz"
+                            ],
+                            "us": [
+                                "əˈkjuːz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say that someone has done something morally wrong, illegal, or unkind: ",
+                            "examples": [
+                                "\"It wasn't my fault.\" \"Don't worry, I'm not accusing you.\"",
+                                "He's been accused of robbery/murder.",
+                                "Are you accusing me of lying?",
+                                "The surgeon was accused of negligence."
+                            ]
+                        },
+                        {
+                            "explanation": "If you stand accused of doing something wrong, people say that you have done it: ",
+                            "examples": [
+                                "The government stands accused of eroding freedom of speech."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

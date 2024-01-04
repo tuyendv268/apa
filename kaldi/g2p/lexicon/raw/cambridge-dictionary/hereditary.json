@@ -1,0 +1,43 @@
+{
+    "word": "hereditary",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "hɪˈred.ɪ.tər.i"
+                            ],
+                            "us": [
+                                "həˈred.ə.ter.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of characteristics or diseases) passing from a parent to a child through the genes : ",
+                            "examples": [
+                                "a hereditary disease",
+                                "Depression is often hereditary.",
+                                "It is possible that her heart condition is hereditary."
+                            ]
+                        },
+                        {
+                            "explanation": "(of titles and positions in society) passing from a parent to a child as a right: ",
+                            "examples": [
+                                "It is a hereditary title, so Mark Howard will become Sir Mark Howard on his father's death.",
+                                "The link between the hereditary peerage and the House of Lords is still strong.",
+                                "Most monarchies are hereditary."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

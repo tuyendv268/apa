@@ -1,0 +1,41 @@
+{
+    "word": "tag question",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæɡ ˌkwes.tʃən"
+                            ],
+                            "us": [
+                                "ˈtæɡ ˌkwes.tʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short phrase such as isn't it or don't you that is added to the end of a sentence to check information, or to ask if someone agrees with you: ",
+                            "examples": [
+                                "In the sentence \"It's a lovely day, isn't it?\", \"isn't it\" is a tag question.",
+                                "Most of the sentences with tag questions were said by women. "
+                            ]
+                        },
+                        {
+                            "explanation": "a sentence that has been made into a question by the addition of such a short phrase: ",
+                            "examples": [
+                                "In the first section of the video, a tag question is used to elicit confirmation from the interviewer.",
+                                "She mentioned women's frequent use of tag questions as evidence of their tendency to express themselves with less force."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

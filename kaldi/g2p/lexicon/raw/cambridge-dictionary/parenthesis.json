@@ -1,0 +1,39 @@
+{
+    "word": "parenthesis",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəˈren.θə.sɪs"
+                            ],
+                            "us": [
+                                "pəˈren.θə.sɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a remark that is added to a sentence, often to provide an explanation or extra information, that is separated from the main part of the sentence by commas, brackets, or dashes: ",
+                            "examples": [
+                                "The sentence \"Her youngest sister - the one who lives in Australia - is coming over next summer\" contains a parenthesis."
+                            ]
+                        },
+                        {
+                            "explanation": "If, while you are talking, you say something in parenthesis, you say it as something extra and then continue with the main part of the sentence: ",
+                            "examples": [
+                                "Of his origins he said very little, merely mentioning in parenthesis that his background was poor."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

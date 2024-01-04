@@ -1,0 +1,39 @@
+{
+    "word": "contradiction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒn.trəˈdɪk.ʃən"
+                            ],
+                            "us": [
+                                "ˌkɑːn.trəˈdɪk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of something being the complete opposite of something else or very different from something else, so that one of them must be wrong: ",
+                            "examples": [
+                                "You say that you're good friends and yet you don't trust him. Isn't that a contradiction?"
+                            ]
+                        },
+                        {
+                            "explanation": "a combination of words that is nonsense because some of the words suggest the opposite of some of the others: ",
+                            "examples": [
+                                "Many people think that an honest politician is a contradiction in terms."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

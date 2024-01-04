@@ -1,0 +1,61 @@
+{
+    "word": "headlined",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nheadline ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhed.laɪn"
+                            ],
+                            "us": [
+                                "ˈhed.laɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to have something as a headline or as the main story: ",
+                            "examples": [
+                                "The story was headlined \"Killer dogs on the loose\"."
+                            ]
+                        },
+                        {
+                            "explanation": "to be the main performer at an entertainment event: ",
+                            "examples": [
+                                "The band's headlining appearance at the festival could be their last."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "dissolve",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈzɒlv"
+                            ],
+                            "us": [
+                                "dɪˈzɑːlv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a solid) to be absorbed by a liquid, especially when mixed, or (of a liquid) to absorb a solid: ",
+                            "examples": [
+                                "Dissolve two spoons of powder in warm water.",
+                                "Nitric acid will dissolve most animal tissue."
+                            ]
+                        },
+                        {
+                            "explanation": "to end an official organization or a legal arrangement: ",
+                            "examples": [
+                                "Parliament has been dissolved.",
+                                "Their marriage was dissolved in 1968."
+                            ]
+                        },
+                        {
+                            "explanation": "to disappear: ",
+                            "examples": [
+                                "The tension in the office just dissolves when she walks out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

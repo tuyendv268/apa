@@ -1,0 +1,63 @@
+{
+    "word": "persisting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npersist ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pəˈsɪst"
+                            ],
+                            "us": [
+                                "pɚˈsɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If an unpleasant feeling or situation persists, it continues to exist: ",
+                            "examples": [
+                                "If the pain persists, consult a doctor.",
+                                "The cold weather is set to persist throughout the week."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to do or continue doing something in a determined but often unreasonable way: ",
+                            "examples": [
+                                "If he persists in asking awkward questions, then send him to the boss.",
+                                "The government is persisting with its ambitious public works programme."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "word": "ddos",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdiː.dɒs"
+                            ],
+                            "us": [
+                                "ˈdiː.dɑːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for distributed denial of service: an occasion when a computer network or website is intentionally prevented from working correctly, by a very large number of users sending data at the same time: ",
+                            "examples": [
+                                "A DDoS is a cyber-attack where the perpetrator uses several, often thousands of, unique IP addresses.",
+                                "Several Internet giants were crippled by DDoS attacks in February last year."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdiː.dɒs"
+                            ],
+                            "us": [
+                                "ˈdiː.dɑːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to intentionally prevent a computer network or website from working correctly by sending data from a very large number of users at the same time: ",
+                            "examples": [
+                                "In the simulation, the attackers DDoSed telecommunications networks and brought down electrical grids."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

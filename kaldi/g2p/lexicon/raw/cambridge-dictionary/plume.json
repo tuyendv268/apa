@@ -1,0 +1,45 @@
+{
+    "word": "plume",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pluːm"
+                            ],
+                            "us": [
+                                "pluːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large feather: ",
+                            "examples": [
+                                "fans made of ostrich plumes"
+                            ]
+                        },
+                        {
+                            "explanation": "a decoration that looks like several large feathers tied together, worn by soldiers on their hats or attached to horses' heads: ",
+                            "examples": [
+                                "The coffin was drawn by horses with black plumes."
+                            ]
+                        },
+                        {
+                            "explanation": "a tall, thin mass of smoke, dust, or similar substance that rises up into the air: ",
+                            "examples": [
+                                "After the explosion, a plume of smoke could be seen in the sky for miles around."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

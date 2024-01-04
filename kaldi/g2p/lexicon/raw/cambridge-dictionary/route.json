@@ -1,0 +1,82 @@
+{
+    "word": "route",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ruːt"
+                            ],
+                            "us": [
+                                "ruːt",
+                                "raʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a particular way or direction between places: ",
+                            "examples": [
+                                "The route we had planned took us right across Greece.",
+                                "I live on a bus route so I can easily get to work."
+                            ]
+                        },
+                        {
+                            "explanation": "a method of achieving something: ",
+                            "examples": [
+                                "A college education is often the best route to a good job."
+                            ]
+                        },
+                        {
+                            "explanation": "a set of regular visits that you make to a number of places or people, especially in order to take products as part of your job",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "in the US, used as part of the name of numbered roads: ",
+                            "examples": [
+                                "Route 66"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ruːt"
+                            ],
+                            "us": [
+                                "ruːt",
+                                "raʊt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send something somewhere using a particular way or direction: ",
+                            "examples": [
+                                "Deliveries are routed via/by way of London."
+                            ]
+                        },
+                        {
+                            "explanation": "to send information from one computer network to another: ",
+                            "examples": [
+                                "When a customer buys, the purchase order is routed via the internet to each supplier's personal Web page."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

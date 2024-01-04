@@ -1,0 +1,61 @@
+{
+    "word": "enacted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nenact ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈnækt"
+                            ],
+                            "us": [
+                                "ɪˈnækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put something into action, especially to make something law: ",
+                            "examples": [
+                                "A package of economic sanctions is to be enacted against the country."
+                            ]
+                        },
+                        {
+                            "explanation": "to perform a story or play: ",
+                            "examples": [
+                                "The stories are enacted using music, dance and mime."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "tax",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "tæks"
+                            ],
+                            "us": [
+                                "tæks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(an amount of) money paid to the government that is based on your income or the cost of goods or services you have bought: ",
+                            "examples": [
+                                "They're increasing the tax on cigarettes.",
+                                "Tax cuts (= reductions in taxes) are always popular.",
+                                "What do you earn before/after tax (= before/after you have paid tax on the money you earn)?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "tæks"
+                            ],
+                            "us": [
+                                "tæks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone pay a tax: ",
+                            "examples": [
+                                "Husbands and wives may be taxed jointly/separately."
+                            ]
+                        },
+                        {
+                            "explanation": "to need someone to make a lot of effort, either physical or mental: ",
+                            "examples": [
+                                "He only has to read a short report - it shouldn't tax him too much."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

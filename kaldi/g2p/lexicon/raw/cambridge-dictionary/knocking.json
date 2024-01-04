@@ -1,0 +1,85 @@
+{
+    "word": "knocking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nknock ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "nɒk"
+                            ],
+                            "us": [
+                                "nɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to repeatedly hit something, producing a noise: ",
+                            "examples": [
+                                "She knocked on the window to attract his attention.",
+                                "There's someone knocking on/at the door.",
+                                "Please knock before entering."
+                            ]
+                        },
+                        {
+                            "explanation": "If an engine is knocking, it is producing a repeated high sound either because the fuel is not burning correctly or because a small part is damaged and is therefore allowing another part to move in ways that it should not.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "If something such as a pipe knocks, it makes a repeated high sound.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to hit, especially forcefully, and cause to move or fall: ",
+                            "examples": [
+                                "He accidentally knocked the vase off the table.",
+                                "She knocked her head against the wall as she fell.",
+                                "Who knocked over that mug of coffee?",
+                                "Some thug knocked him unconscious/senseless.",
+                                "She took a hammer and knocked a hole in the wall."
+                            ]
+                        },
+                        {
+                            "explanation": "If you knock two rooms into each other or knock two rooms through, you remove the wall between them so that they form one room.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to criticize, especially unfairly: ",
+                            "examples": [
+                                "Don't knock him - he's doing his best."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

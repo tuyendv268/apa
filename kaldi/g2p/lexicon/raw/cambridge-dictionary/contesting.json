@@ -1,0 +1,67 @@
+{
+    "word": "contesting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncontest ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈtest"
+                            ],
+                            "us": [
+                                "kənˈtest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If you contest a formal statement, a claim, a judge's decision, or a legal case, you say formally that it is wrong or unfair and try to have it changed: ",
+                            "examples": [
+                                "We will certainly contest any claims made against the safety of our products."
+                            ]
+                        },
+                        {
+                            "explanation": "to compete for something: ",
+                            "examples": [
+                                "The medal is being keenly contested by eight gymnasts."
+                            ]
+                        },
+                        {
+                            "explanation": "to attempt to win an election or to get power or control: ",
+                            "examples": [
+                                "She could win, since only two people are contesting the seat and the other candidate is very unpopular."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

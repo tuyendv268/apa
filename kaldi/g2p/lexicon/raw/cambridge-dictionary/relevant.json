@@ -1,0 +1,42 @@
+{
+    "word": "relevant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈrel.ə.vənt"
+                            ],
+                            "us": [
+                                "ˈrel.ə.vənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "connected with what is happening or being discussed: ",
+                            "examples": [
+                                "Education should be relevant to the child's needs.",
+                                "For further information, please refer to the relevant leaflet.",
+                                "The point is highly relevant to this discussion.",
+                                "I'm sorry but your personal wishes are not relevant (= important) in this case."
+                            ]
+                        },
+                        {
+                            "explanation": "correct or suitable for a particular purpose: ",
+                            "examples": [
+                                "plans to make schooling more relevant to life beyond school"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

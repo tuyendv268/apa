@@ -1,0 +1,45 @@
+{
+    "word": "summation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsʌmˈeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌsəmˈeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short, clear description that gives the main facts or ideas about something: ",
+                            "examples": [
+                                "He offered his own concise summation of the problem."
+                            ]
+                        },
+                        {
+                            "explanation": "something that represents a complete account or impression of what someone or something is like: ",
+                            "examples": [
+                                "The scene where the two characters dance is the perfect summation of the love and desire between them."
+                            ]
+                        },
+                        {
+                            "explanation": "a speech made by a judge or lawyer to the jury towards the end of a trial, telling them again about the main matters they should consider in the case: ",
+                            "examples": [
+                                "the prosecutor's final summation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

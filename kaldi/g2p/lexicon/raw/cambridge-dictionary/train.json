@@ -1,0 +1,114 @@
+{
+    "word": "train",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "treɪn"
+                            ],
+                            "us": [
+                                "treɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a railway engine connected to carriages for carrying people or to wheeled containers for carrying goods: ",
+                            "examples": [
+                                "The line was closed yesterday after a goods/freight/passenger train derailed.",
+                                "The train to/from Bristol has been delayed due to a signal failure.",
+                                "We decided to take a train journey together. ",
+                                "The architect is best known for designing the city's train station. ",
+                                "Did you come by train?",
+                                "She caught/took the train to Edinburgh.",
+                                "Hurry up, or we'll miss (= arrive too late for) the train."
+                            ]
+                        },
+                        {
+                            "explanation": "a series of connected thoughts or events: ",
+                            "examples": [
+                                "What amazing train of thought led you from Napoleon to global warming?"
+                            ]
+                        },
+                        {
+                            "explanation": "a line of animals, people, or things moving along together: ",
+                            "examples": [
+                                "a wagon train",
+                                "a mule/camel train"
+                            ]
+                        },
+                        {
+                            "explanation": "the part of a long dress that spreads out onto the floor behind the person wearing it: ",
+                            "examples": [
+                                "an elaborate wedding dress with a long train"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "treɪn"
+                            ],
+                            "us": [
+                                "treɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to prepare someone or yourself for a job, activity, or sport, by learning skills and/or by mental or physical exercise: ",
+                            "examples": [
+                                "She trained as a pilot.",
+                                "John trained to be an accountant.",
+                                "She trained hard for the race, sometimes running as much as 60 miles a week."
+                            ]
+                        },
+                        {
+                            "explanation": "to teach a person or an animal a habit: ",
+                            "examples": [
+                                "I'm trying to train my kids to pick up after themselves.",
+                                "I had to train myself to be more assertive at work.",
+                                "Try to train your mind to tune out distractions.",
+                                "Working in such a difficult environment trained her not to give up when things got difficult.",
+                                "These dogs are very intelligent and eager to please, so it's easy to train them."
+                            ]
+                        },
+                        {
+                            "explanation": "to aim or point a gun, camera, light, etc. at someone or something: ",
+                            "examples": [
+                                "With five guns suddenly trained on him, he was understandably nervous."
+                            ]
+                        },
+                        {
+                            "explanation": "to direct the growth of a plant in a particular direction by cutting it and tying it: ",
+                            "examples": [
+                                "The vines were trained over an arch, providing shade as well as fruit."
+                            ]
+                        },
+                        {
+                            "explanation": "in machine learning (= the study of creating computer systems that can improve their own ability to carry out tasks by analysing new data), to create or improve a computer representation of a system or process by supplying it with data: ",
+                            "examples": [
+                                "This chatbot has been trained on a collection of customer service conversations to ensure that it can generate human-like text in an interactive context.",
+                                "Deep neural nets require a lot of data to train.",
+                                "Machine learning models trained with incompletely annotated datasets often make similar errors. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

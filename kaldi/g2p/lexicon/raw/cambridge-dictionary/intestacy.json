@@ -1,0 +1,35 @@
+{
+    "word": "intestacy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈtes.tə.si"
+                            ],
+                            "us": [
+                                "ɪnˈtes.tə.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which someone dies without leaving instructions about who should be given their property: ",
+                            "examples": [
+                                "If you die without a will your estate is subject to the rules of intestacy.",
+                                "The intestacy laws can be particularly harsh for unmarried couples.",
+                                "You will need to provide details of how the estate was passed, including intestacies and assets passing by survivorship."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

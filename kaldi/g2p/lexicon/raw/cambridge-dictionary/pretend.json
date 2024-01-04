@@ -1,0 +1,68 @@
+{
+    "word": "pretend",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈtend"
+                            ],
+                            "us": [
+                                "prɪˈtend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to behave as if something is true when you know that it is not, especially in order to deceive people or as a game: ",
+                            "examples": [
+                                "He pretended (that) he didn't mind, but I knew that he did.",
+                                "The children pretended (that) they were dinosaurs.",
+                                "Were you just pretending to be interested?",
+                                "She's not really hurt - she's only pretending.",
+                                "Of course I was angry - I can't pretend otherwise."
+                            ]
+                        },
+                        {
+                            "explanation": "to not claim something that is false: ",
+                            "examples": [
+                                "I don't pretend to be an expert on the subject."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈtend"
+                            ],
+                            "us": [
+                                "prɪˈtend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "imaginary or not real: ",
+                            "examples": [
+                                "\"Do you want a cup of tea?\" she asks, offering me a pretend cup.",
+                                "They knew the argument was only pretend, but they still got upset."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

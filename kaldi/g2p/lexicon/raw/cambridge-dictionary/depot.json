@@ -1,0 +1,39 @@
+{
+    "word": "depot",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdep.əʊ"
+                            ],
+                            "us": [
+                                "ˈdiː.poʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a building where supplies or vehicles, especially buses, are kept: ",
+                            "examples": [
+                                "an arms/weapons depot",
+                                "a fuel/storage depot",
+                                "a bus depot"
+                            ]
+                        },
+                        {
+                            "explanation": "a bus station or train station",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

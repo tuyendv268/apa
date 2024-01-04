@@ -1,0 +1,91 @@
+{
+    "word": "harvest",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɑː.vɪst"
+                            ],
+                            "us": [
+                                "ˈhɑːr.vəst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the time of year when crops are cut and collected from the fields, or the activity of cutting and collecting them, or the crops that are cut and collected: ",
+                            "examples": [
+                                "the grain/potato/grape harvest",
+                                "We had a good harvest this year.",
+                                "Farmers are reporting a bumper (= very big) harvest this year.",
+                                "It won't be long now till harvest (time)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɑː.vɪst"
+                            ],
+                            "us": [
+                                "ˈhɑːr.vəst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pick and collect crops, or to collect plants, animals, or fish as food: ",
+                            "examples": [
+                                "In the US, winter wheat is harvested in the early summer.",
+                                "By the end of the year, growers in the state will have harvested 1.8 million barrels of fruit.",
+                                "About 30 million pounds of red snapper are harvested from US waters every year.",
+                                "Farmers sort the vegetables when they harvest."
+                            ]
+                        },
+                        {
+                            "explanation": "to take or collect a useful substance, for example water or a chemical element, from somewhere so that it can be used: ",
+                            "examples": [
+                                "Hydrogen and oxygen could be harvested from the frozen water reserves.",
+                                "We use harvested rainwater for most of our cooking."
+                            ]
+                        },
+                        {
+                            "explanation": "to take cells or other body parts from someone for medical use: ",
+                            "examples": [
+                                "The donor organ is harvested at the accident scene and rushed to a hospital.",
+                                "Stem cells harvested from cord blood have been used to successfully treat dozens of serious illnesses."
+                            ]
+                        },
+                        {
+                            "explanation": "to collect large quantities of information, especially automatically: ",
+                            "examples": [
+                                "The ministry will not harvest data about salaries, sexual orientation, or country of origin for foreigners. ",
+                                "Unauthorized use of personal information harvested from social networks is likely to anger potential customers. "
+                            ]
+                        },
+                        {
+                            "explanation": "to get an advantage or something valuable from a situation: ",
+                            "examples": [
+                                "He could harvest considerable political capital out of this incident.",
+                                "The only winners here seem to be the large, for-profit corporations who harvest profits from schools."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

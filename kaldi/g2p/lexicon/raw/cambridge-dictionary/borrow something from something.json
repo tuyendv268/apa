@@ -1,0 +1,44 @@
+{
+    "word": "borrow something from something",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "collocation",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get or receive something from a place or an organization with the intention of giving it back after a period of time: ",
+                            "examples": [
+                                "He borrowed a novel from the library.",
+                                "They are using earth-moving equipment borrowed from the council's roads department."
+                            ]
+                        },
+                        {
+                            "explanation": "to take money from a bank or other financial organization and pay it back over a period of time: ",
+                            "examples": [
+                                "We could always borrow some money from the bank.",
+                                "Money borrowed from banks had not been fully repaid."
+                            ]
+                        },
+                        {
+                            "explanation": "to take and use a word or idea from another language or piece of work: ",
+                            "examples": [
+                                "English has borrowed many words from French.",
+                                "To borrow a phrase from William Blake, his work comprises \"songs of innocence and of experience\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

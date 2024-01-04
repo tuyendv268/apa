@@ -1,0 +1,67 @@
+{
+    "word": "vector",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈvek.tər"
+                            ],
+                            "us": [
+                                "ˈvek.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a quantity that has both size and direction: ",
+                            "examples": [
+                                "We use vectors to, for example, describe the velocity of moving objects.",
+                                "In graphical representation, a vector is drawn as an arrow, with the arrow having both a magnitude (how long it is) and a direction (the direction in which it points). ",
+                                "Momentum is a vector quantity but inertia is not."
+                            ]
+                        },
+                        {
+                            "explanation": "an insect or animal that carries a disease from one animal or plant to another: ",
+                            "examples": [
+                                "Mosquitoes are the vectors of malaria."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈvek.tər"
+                            ],
+                            "us": [
+                                "ˈvek.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A vector image is one that can be made into any size without its quality being affected: ",
+                            "examples": [
+                                "You can export a map either as a bitmap or as a vector file.",
+                                "Vector images can be enlarged or shrunk.",
+                                "The image is editable as long as it remains in a vector format."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

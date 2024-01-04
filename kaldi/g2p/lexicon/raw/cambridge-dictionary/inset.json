@@ -1,0 +1,84 @@
+{
+    "word": "inset",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.set"
+                            ],
+                            "us": [
+                                "ˈɪn.set"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something positioned within a larger object: ",
+                            "examples": [
+                                "The map has an inset (= a small extra map) in the top corner that shows the city centre in more detail.",
+                                "The long black wool coat has gold satin insets along its back and sleeves."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈset"
+                            ],
+                            "us": [
+                                "ɪnˈset"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of an object) having something positioned within it: ",
+                            "examples": [
+                                "He bought her a gold necklace inset with rubies.",
+                                "The large mullioned window inset with heraldic glass appears to be early 16th century."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈset"
+                            ],
+                            "us": [
+                                "ɪnˈset"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to position something within a larger object: ",
+                            "examples": [
+                                "Small lights were inset into the side of the stair treads.",
+                                "When the lens is inset inside the fixture, the light is directed where it is needed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

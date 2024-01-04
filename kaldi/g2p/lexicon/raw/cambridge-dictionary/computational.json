@@ -1,0 +1,40 @@
+{
+    "word": "computational",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "kɒm.pjəˈteɪ.ʃən.əl"
+                            ],
+                            "us": [
+                                "kɑːm.pjəˈteɪ.ʃən.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "involving the calculation of answers, amounts, results, etc.: ",
+                            "examples": [
+                                "The children had limited linguistic and computational skills.",
+                                "computational techniques"
+                            ]
+                        },
+                        {
+                            "explanation": "using computers to study something: ",
+                            "examples": [
+                                "computational chemistry"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "retracted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nretract ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈtrækt"
+                            ],
+                            "us": [
+                                "rɪˈtrækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take back an offer or statement, etc. or admit that a statement was false: ",
+                            "examples": [
+                                "retract an invitation/confession/promise",
+                                "When questioned on TV, he retracted his allegations."
+                            ]
+                        },
+                        {
+                            "explanation": "to pull something back or in: ",
+                            "examples": [
+                                "The wheels retract after the aircraft takes off.",
+                                "The cat retracted its claws."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

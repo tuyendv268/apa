@@ -1,0 +1,43 @@
+{
+    "word": "server",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɜː.vər"
+                            ],
+                            "us": [
+                                "ˈsɝː.vɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a central computer from which other computers get information: ",
+                            "examples": [
+                                "a client/network/file server"
+                            ]
+                        },
+                        {
+                            "explanation": "a large spoon, etc. that is used for serving food: ",
+                            "examples": [
+                                "salad servers"
+                            ]
+                        },
+                        {
+                            "explanation": "a person who serves food in a restaurant",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

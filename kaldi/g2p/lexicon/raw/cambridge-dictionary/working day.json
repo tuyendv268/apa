@@ -1,0 +1,40 @@
+{
+    "word": "working day",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌwɜː.kɪŋ ˈdeɪ"
+                            ],
+                            "us": [
+                                "ˌwɝː.kɪŋ ˈdeɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the amount of time a person spends doing their job on a day when they work: ",
+                            "examples": [
+                                "An eight-hour working day is still typical for many people."
+                            ]
+                        },
+                        {
+                            "explanation": "a day on which most people go to work: ",
+                            "examples": [
+                                "On a working day I tend to get up around seven o'clock.",
+                                "Please allow three full working days for the money to be transferred."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

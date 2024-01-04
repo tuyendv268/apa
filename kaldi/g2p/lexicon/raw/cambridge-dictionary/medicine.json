@@ -1,0 +1,45 @@
+{
+    "word": "medicine",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmed.ɪ.sən",
+                                "ˈmed.sən"
+                            ],
+                            "us": [
+                                "ˈmed.ɪ.sən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "treatment for illness or injury, or the study of this: ",
+                            "examples": [
+                                "paediatric/preventative medicine",
+                                "orthodox/Western medicine",
+                                "a career in medicine",
+                                "She is a doctor, but is unable to practise medicine (= work as a doctor) in her own country."
+                            ]
+                        },
+                        {
+                            "explanation": "a substance, especially in the form of a liquid or a pill, that is a treatment for illness or injury: ",
+                            "examples": [
+                                "cough medicine",
+                                "Take two spoonfuls of medicine at mealtimes.",
+                                "She knows a lot about herbal medicines."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

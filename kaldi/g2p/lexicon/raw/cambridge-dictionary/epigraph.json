@@ -1,0 +1,40 @@
+{
+    "word": "epigraph",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈep.ɪ.ɡrɑːf"
+                            ],
+                            "us": [
+                                "ˈep.ə.ɡræf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "words that are written on or cut into a surface: ",
+                            "examples": [
+                                "The value of the bronzes was directly dependent on whether they carried epigraphs."
+                            ]
+                        },
+                        {
+                            "explanation": "a saying or a part of a poem, play, or book put at the beginning of a piece of writing or a film, to give the reader some idea of what the piece is about: ",
+                            "examples": [
+                                "She has chosen this remark as the epigraph for her new novel.",
+                                "The film's epigraph comes from the late French director René Clair."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

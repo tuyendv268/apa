@@ -1,0 +1,71 @@
+{
+    "word": "relating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nrelate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈleɪt"
+                            ],
+                            "us": [
+                                "rɪˈleɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to find or show the connection between two or more things: ",
+                            "examples": [
+                                "We need to explain why these issues are important and relate them to everyday life.",
+                                "Archaeologists hope to relate the discovery with the arrival of Vikings in the area in the tenth century.",
+                                "equations that relate variables of pressure, volume, and temperature"
+                            ]
+                        },
+                        {
+                            "explanation": "to tell a story or describe a series of events: ",
+                            "examples": [
+                                "She related the events of the previous week to the police.",
+                                "She related that she had been approached by an employee asking for time off. ",
+                                "He relates how at the age of 23 he was interned in a prison camp."
+                            ]
+                        },
+                        {
+                            "explanation": "to be able to understand a situation or someone's feelings because you have experienced something similar yourself: ",
+                            "examples": [
+                                "I often wake very early - I'm sure most readers over 50 can relate."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

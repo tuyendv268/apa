@@ -1,0 +1,40 @@
+{
+    "word": "white hat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwaɪt ˌhæt"
+                            ],
+                            "us": [
+                                "ˈwaɪt ˌhæt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone in a particular situation who is acting for morally good reasons, or something that shows who this person is: ",
+                            "examples": [
+                                "We work for the good guys. We're the white hats.",
+                                "It would be simpler if some of us had white hats and some of us had black hats, but in fact things are more complicated than that."
+                            ]
+                        },
+                        {
+                            "explanation": "a hacker (= a person who gets into computer systems without permission) who has morally good reasons for doing this: ",
+                            "examples": [
+                                "Levy is a so-called \"white hat\" computer hacker who hunts for computer security flaws to help repair them. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

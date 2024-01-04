@@ -1,0 +1,65 @@
+{
+    "word": "perfective",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "pəˈfek.tɪv"
+                            ],
+                            "us": [
+                                "pɚˈfek.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to a verb form, in some languages, that describes a completed action: ",
+                            "examples": [
+                                "He classifies the suffix as a marker of perfective aspect.",
+                                "The children in this group were less accurate in producing perfective forms."
+                            ]
+                        },
+                        {
+                            "explanation": "becoming perfect, making something perfect, or improving something: ",
+                            "examples": [
+                                "Perfective maintenance should eliminate such problems in the system. ",
+                                "This is an entertaining but serious show, which is both generous and perfective."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəˈfek.tɪv"
+                            ],
+                            "us": [
+                                "pɚˈfek.tɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a verb form, in some languages, that describes a completed action: ",
+                            "examples": [
+                                "We note the change from the narrative past tense to the perfective."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

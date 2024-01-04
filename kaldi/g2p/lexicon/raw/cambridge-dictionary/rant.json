@@ -1,0 +1,58 @@
+{
+    "word": "rant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rænt"
+                            ],
+                            "us": [
+                                "rænt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to speak, write or shout in a loud, uncontrolled, or angry way, often saying confused or silly things: ",
+                            "examples": [
+                                "He's always ranting (on) about the government.",
+                                "I get fed up with my mother ranting and raving (about my clothes) all the time."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rænt"
+                            ],
+                            "us": [
+                                "rænt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, angry, and confused speech: ",
+                            "examples": [
+                                "The minister's speech descended into a rant against his political opponents."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

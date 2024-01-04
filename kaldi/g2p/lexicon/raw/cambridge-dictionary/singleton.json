@@ -1,0 +1,41 @@
+{
+    "word": "singleton",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪŋ.ɡəl.tən"
+                            ],
+                            "us": [
+                                "ˈsɪŋ.ɡəl.tən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a man or woman who does not have a romantic or sexual partner",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "one baby or baby animal that is born and is not a twin, etc.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a playing card that is the only one of that suit that a player has: ",
+                            "examples": [
+                                "Jack has a singleton in hearts."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

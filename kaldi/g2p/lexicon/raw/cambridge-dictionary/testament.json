@@ -1,0 +1,39 @@
+{
+    "word": "testament",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtes.tə.mənt"
+                            ],
+                            "us": [
+                                "ˈtes.tə.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "proof: ",
+                            "examples": [
+                                "The detail of her wildlife paintings is (a) testament to (= proof of) her powers of observation."
+                            ]
+                        },
+                        {
+                            "explanation": "a will that someone makes, saying what should be done with their money and property after they die: ",
+                            "examples": [
+                                "This article will give clear instructions for making a last will and testament."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "word": "peered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npeer ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pɪər"
+                            ],
+                            "us": [
+                                "pɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to look carefully or with difficulty: ",
+                            "examples": [
+                                "When no one answered the door, she peered through the window to see if anyone was there.",
+                                "The driver was peering into the distance trying to read the road sign."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

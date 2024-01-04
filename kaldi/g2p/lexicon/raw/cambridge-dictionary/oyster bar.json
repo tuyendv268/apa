@@ -1,0 +1,41 @@
+{
+    "word": "oyster bar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɔɪ.stə ˌbɑːr"
+                            ],
+                            "us": [
+                                "ˈɔɪ.stɚ ˌbɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a restaurant, or part of a restaurant, where mainly oysters are served: ",
+                            "examples": [
+                                "Whitby's oldest oyster bar serves glistening oysters in unpretentious surroundings. ",
+                                "The stylish Number Thirty Three has an oyster bar and à la carte restaurant."
+                            ]
+                        },
+                        {
+                            "explanation": "a place on the bottom of the sea where oysters breed: ",
+                            "examples": [
+                                "Each island provides opportunities for fishing its respective oyster bars. ",
+                                "The mouths of the south rivers are defined by massive oyster bars. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

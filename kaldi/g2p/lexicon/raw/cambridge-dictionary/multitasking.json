@@ -1,0 +1,40 @@
+{
+    "word": "multitasking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.tiˈtɑːs.kɪŋ"
+                            ],
+                            "us": [
+                                "ˌmʌl.tiˈtæs.kɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person's or product's ability to do more than one thing at a time: ",
+                            "examples": [
+                                "To succeed, you will need strong multitasking skills.",
+                                "The lotion is a multitasking formula that offers a natural-looking sunless tan while protecting skin from the damaging effects of the sun."
+                            ]
+                        },
+                        {
+                            "explanation": "the ability of a computer to operate several programs at one time: ",
+                            "examples": [
+                                "The machine allows multitasking without the need to buy extra hardware."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

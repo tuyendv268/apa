@@ -1,0 +1,86 @@
+{
+    "word": "en suite",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒn ˈswiːt"
+                            ],
+                            "us": [
+                                "ˌɑːn ˈswiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe a bathroom that is directly connected to a bedroom, or a bedroom that is connected to a bathroom: ",
+                            "examples": [
+                                "All four bedrooms in their new house are en suite."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒnˈswiːt"
+                            ],
+                            "us": [
+                                "ˌɑːnˈswiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "An en-suite bathroom is directly connected to and entered through a bedroom: ",
+                            "examples": [
+                                "I want a hotel room with an en-suite bathroom.",
+                                "All rooms have en-suite facilities."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒnˈswiːt"
+                            ],
+                            "us": [
+                                "ˌɑːnˈswiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a bathroom directly connected to and entered through a bedroom: ",
+                            "examples": [
+                                "My room has an en-suite."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

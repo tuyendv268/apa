@@ -1,0 +1,69 @@
+{
+    "word": "he",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "hiː",
+                                "hi",
+                                "i"
+                            ],
+                            "us": [
+                                "hiː",
+                                "hi",
+                                "i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used as the subject of a verb to refer to a man, boy, or male animal that has already been mentioned: ",
+                            "examples": [
+                                "Don't ask Andrew, he won't know.",
+                                "There's no need to be frightened - he's a very friendly dog."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a person whose gender is not known or not important in that situation: ",
+                            "examples": [
+                                "The modern traveller can go where he likes.",
+                                "As soon as the baby is born, he'll start to take an interest in the world around him."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hiː"
+                            ],
+                            "us": [
+                                "hiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a male: ",
+                            "examples": [
+                                "How can you tell whether the fish is a he or a she?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

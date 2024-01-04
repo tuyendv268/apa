@@ -1,0 +1,66 @@
+{
+    "word": "damage",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdæm.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈdæm.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to harm or spoil something: ",
+                            "examples": [
+                                "Many buildings were badly damaged during the war.",
+                                "It was a scandal that damaged a lot of reputations."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdæm.ɪdʒ"
+                            ],
+                            "us": [
+                                "ˈdæm.ɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "harm or injury: ",
+                            "examples": [
+                                "Strong winds had caused serious damage to the roof.",
+                                "Recent discoveries about corruption have done serious damage to the company's reputation.",
+                                "The doctors were worried that he might have suffered brain damage."
+                            ]
+                        },
+                        {
+                            "explanation": "money that is paid to someone by a person or organization who has been responsible for causing them some injury or loss: ",
+                            "examples": [
+                                "The politician was awarded £50,000 in damages over false allegations made by the newspaper."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

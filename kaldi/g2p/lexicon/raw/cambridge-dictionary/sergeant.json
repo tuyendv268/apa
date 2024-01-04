@@ -1,0 +1,41 @@
+{
+    "word": "sergeant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɑː.dʒənt"
+                            ],
+                            "us": [
+                                "ˈsɑːr.dʒənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a soldier of middle rank: ",
+                            "examples": [
+                                "Sergeant Lewis/Tom Lewis",
+                                "Dismiss the men, Sergeant."
+                            ]
+                        },
+                        {
+                            "explanation": "in the UK and some other countries, a police officer whose rank is above constable and below inspector, or, in the US, a police officer whose rank is below a captain: ",
+                            "examples": [
+                                "Sergeant Bates/Bill Bates",
+                                "Thank you, Sergeant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

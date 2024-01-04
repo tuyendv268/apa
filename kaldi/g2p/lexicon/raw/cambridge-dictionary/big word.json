@@ -1,0 +1,33 @@
+{
+    "word": "big word",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌbɪɡ ˈwɜːd"
+                            ],
+                            "us": [
+                                "ˌbɪɡ ˈwɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long, difficult word, or a word that expresses a serious or important idea: ",
+                            "examples": [
+                                "He tried to impress his teachers by using big words in all his essays."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

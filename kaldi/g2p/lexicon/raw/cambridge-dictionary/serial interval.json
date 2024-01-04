@@ -1,0 +1,34 @@
+{
+    "word": "serial interval",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪə.ri.əl ˌɪn.tə.vəl"
+                            ],
+                            "us": [
+                                "ˈsɪr.i.əl ˌɪn.t̬ɚ.vəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the time between someone showing symptoms (= signs) of a disease and a person they infect showing symptoms of the disease: ",
+                            "examples": [
+                                "The serial interval for SARS was 7 days.",
+                                "The serial interval is one of the significant epidemiological measures that determine the spread of infectious disease."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

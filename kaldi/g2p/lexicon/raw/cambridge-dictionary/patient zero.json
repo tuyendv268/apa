@@ -1,0 +1,34 @@
+{
+    "word": "patient zero",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpeɪ.ʃənt ˈzɪə.rəʊ"
+                            ],
+                            "us": [
+                                "ˌpeɪ.ʃənt ˈzɪr.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the first person to be infected during an epidemic (= the appearance of a particular disease in a large number of people at the same time): ",
+                            "examples": [
+                                "Scientists were hunting down patient zero who first developed SARS.",
+                                "The little boy was dubbed swine flu patient zero."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

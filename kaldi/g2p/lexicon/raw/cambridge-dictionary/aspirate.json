@@ -1,0 +1,85 @@
+{
+    "word": "aspirate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈæs.pɪ.reɪt"
+                            ],
+                            "us": [
+                                "ˈæs.pə.reɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to breathe in, or to breathe a substance into your lungs by accident: ",
+                            "examples": [
+                                "They lose control over their swallowing reflex and aspirate saliva.",
+                                "Giving the patient food too soon after the procedure can cause the patient to aspirate."
+                            ]
+                        },
+                        {
+                            "explanation": "to remove a liquid or gas from a space in the body using suction (= a sucking action): ",
+                            "examples": [
+                                "If a cyst becomes painful, it can be aspirated or drained of its fluid.",
+                                "Fluid aspirated from the knee is sent to the laboratory for analysis."
+                            ]
+                        },
+                        {
+                            "explanation": "to breathe out air when pronouncing a plosive consonant sound: ",
+                            "examples": [
+                                "Native speakers of Arabic often do not aspirate their Ps when they speak English."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæs.pɪ.rət"
+                            ],
+                            "us": [
+                                "ˈæs.pə.rət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a consonant sound that is pronounced with air being breathed out: ",
+                            "examples": [
+                                "proto-Germanic voiced aspirates"
+                            ]
+                        },
+                        {
+                            "explanation": "the sound represented in English by the letter \"h\", in words such as \"house\": ",
+                            "examples": [
+                                "\"'E is 'orrible!\" she said, forgetting her aspirates in her emotion."
+                            ]
+                        },
+                        {
+                            "explanation": "a substance, usually a liquid, that has been removed from a space in the body using suction: ",
+                            "examples": [
+                                "If the aspirate tests negative for atypical cells, does that mean you do not have breast cancer?",
+                                "Gastric and oesophageal aspirates were collected.",
+                                "the volume of gastric aspirate"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

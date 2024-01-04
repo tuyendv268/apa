@@ -1,0 +1,84 @@
+{
+    "word": "lisp",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "lɪsp"
+                            ],
+                            "us": [
+                                "lɪsp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to pronounce \"s\" and \"z\" sounds like \"th\"",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "lɪsp"
+                            ],
+                            "us": [
+                                "lɪsp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If someone speaks with a lisp, they pronounce \"s\" and \"z\" sounds like \"th\": ",
+                            "examples": [
+                                "I was teased a lot at school because I spoke with a lisp.",
+                                "He has a slight lisp and is conscious of it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "lɪsp"
+                            ],
+                            "us": [
+                                "lɪsp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a computer programming language designed for processing lists of text: ",
+                            "examples": [
+                                "Lisp is the standard research tool of artificial intelligence scientists in the United States."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

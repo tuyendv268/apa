@@ -1,0 +1,33 @@
+{
+    "word": "cube root",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkjuːb ˈruːt"
+                            ],
+                            "us": [
+                                "ˌkjuːb ˈruːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "The cube root of a number is another number that, when multiplied by itself twice, makes the first number: ",
+                            "examples": [
+                                "The cube root of 125 is 5, because 5 x 5 x 5 = 125."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

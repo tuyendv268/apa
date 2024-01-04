@@ -1,0 +1,39 @@
+{
+    "word": "all-you-can-eat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɔːl.jə.kənˈiːt"
+                            ],
+                            "us": [
+                                "ɑːl.jə.kənˈiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe a meal at a restaurant where people can serve themselves as much food as they want: ",
+                            "examples": [
+                                "The bar has an all-you-can-eat buffet lunch for $10."
+                            ]
+                        },
+                        {
+                            "explanation": "used to describe an arrangement in which a company allows customers to use a service as much as they like or to download as much as they like from the internet for a fixed amount of money: ",
+                            "examples": [
+                                "all-you-can-eat packages of voice, video, and internet services"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

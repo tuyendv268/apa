@@ -1,0 +1,65 @@
+{
+    "word": "email",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈiː.meɪl"
+                            ],
+                            "us": [
+                                "ˈiː.meɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the system for using computers to send messages over the internet: ",
+                            "examples": [
+                                "You can contact us by email or fax.",
+                                "What's your email address?"
+                            ]
+                        },
+                        {
+                            "explanation": "a message or document sent using this system: ",
+                            "examples": [
+                                "I got an email from Danielle last week."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈiː.meɪl"
+                            ],
+                            "us": [
+                                "ˈiː.meɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send an email to someone: ",
+                            "examples": [
+                                "Email me when you've got time.",
+                                "Has he emailed you that list of addresses yet?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

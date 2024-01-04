@@ -1,0 +1,59 @@
+{
+    "word": "pedestrian",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəˈdes.tri.ən"
+                            ],
+                            "us": [
+                                "pəˈdes.tri.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who is walking, especially in an area where vehicles go: ",
+                            "examples": [
+                                "A few pedestrians sheltered from the rain in doorways.",
+                                "The death rate for pedestrians hit by cars is unacceptably high."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "pəˈdes.tri.ən"
+                            ],
+                            "us": [
+                                "pəˈdes.tri.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not interesting; showing very little imagination: ",
+                            "examples": [
+                                "Her books, with few exceptions, are workmanlike but pedestrian.",
+                                "His speech was long and pedestrian."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

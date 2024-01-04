@@ -1,0 +1,62 @@
+{
+    "word": "squaring",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsquare ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skweər"
+                            ],
+                            "us": [
+                                "skwer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to multiply a number by itself: ",
+                            "examples": [
+                                "10 squared equals a hundred.",
+                                "42 means four squared, and equals 16."
+                            ]
+                        },
+                        {
+                            "explanation": "to pull your shoulders up and back because you feel determined to do something: ",
+                            "examples": [
+                                "He squared his shoulders and took a deep breath before diving into the pool."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

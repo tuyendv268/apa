@@ -1,0 +1,42 @@
+{
+    "word": "suppress",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səˈpres"
+                            ],
+                            "us": [
+                                "səˈpres"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to end something by force: ",
+                            "examples": [
+                                "The Hungarian uprising in 1956 was suppressed by the Soviet Union."
+                            ]
+                        },
+                        {
+                            "explanation": "to prevent something from being seen or expressed or from operating: ",
+                            "examples": [
+                                "She couldn't suppress her anger/annoyance/delight.",
+                                "His feelings of resentment have been suppressed for years.",
+                                "The British government tried to suppress the book because of the information it contained about the security services.",
+                                "The virus suppresses the body's immune system."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

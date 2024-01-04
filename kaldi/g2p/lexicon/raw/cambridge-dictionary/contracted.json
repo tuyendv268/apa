@@ -1,0 +1,75 @@
+{
+    "word": "contracted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ncontract ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈtrækt"
+                            ],
+                            "us": [
+                                "kənˈtrækt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make or become shorter or narrower or generally smaller in size: ",
+                            "examples": [
+                                "In spoken English, \"do not\" often contracts to \"don't\".",
+                                "As it cooled, the metal contracted."
+                            ]
+                        },
+                        {
+                            "explanation": "to become smaller in amount or quantity: ",
+                            "examples": [
+                                "A recession is a period when the economy is contracting.",
+                                "Agricultural output has contracted by 2.3 percent. "
+                            ]
+                        },
+                        {
+                            "explanation": "to catch or become ill with a disease: ",
+                            "examples": [
+                                "He contracted malaria while he was travelling."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a legal agreement with someone to do work or to have work done for you: ",
+                            "examples": [
+                                "Our company was contracted to build shelters for the homeless."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

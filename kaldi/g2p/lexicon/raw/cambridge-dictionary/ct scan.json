@@ -1,0 +1,34 @@
+{
+    "word": "ct scan",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "siːˈtiː ˌskæn"
+                            ],
+                            "us": [
+                                "siːˈtiː ˌskæn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for computerized tomography scan: a medical test that involves using X-rays to create a three-dimensional image (= appearing to have length, width, and height) of the inside of the body: ",
+                            "examples": [
+                                "She had a CT scan that showed a suspicious mass.",
+                                "A CT scan should probably be done in this case."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

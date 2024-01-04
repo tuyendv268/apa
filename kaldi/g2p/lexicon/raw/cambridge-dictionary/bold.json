@@ -1,0 +1,78 @@
+{
+    "word": "bold",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "bəʊld"
+                            ],
+                            "us": [
+                                "boʊld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not frightened of danger: ",
+                            "examples": [
+                                "The team made the bold move of trading its star player. ",
+                                "The newspaper took the bold step of publishing the names of the men involved.",
+                                "She was a bold and fearless climber."
+                            ]
+                        },
+                        {
+                            "explanation": "strong in colour or shape, and very noticeable to the eye: ",
+                            "examples": [
+                                "They painted the kitchen in bold colours."
+                            ]
+                        },
+                        {
+                            "explanation": "printed in thick dark letters: ",
+                            "examples": [
+                                "This sentence is printed in bold."
+                            ]
+                        },
+                        {
+                            "explanation": "not shy, especially in a way that shows no respect: ",
+                            "examples": [
+                                "He was a bold and defiant little boy."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bəʊld"
+                            ],
+                            "us": [
+                                "boʊld"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to print letters or words in thick dark letters on a page or screen: ",
+                            "examples": [
+                                "I went through the list bolding some of the items.",
+                                "You can click on bolded words to hear their pronunciation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

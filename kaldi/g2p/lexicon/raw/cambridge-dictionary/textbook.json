@@ -1,0 +1,58 @@
+{
+    "word": "textbook",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtekst.bʊk"
+                            ],
+                            "us": [
+                                "ˈtekst.bʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a book that contains detailed information about a subject for people who are studying that subject: ",
+                            "examples": [
+                                "a science textbook"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈtekst.bʊk"
+                            ],
+                            "us": [
+                                "ˈtekst.bʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of an example of something) extremely good, or thought to be usual or typical: ",
+                            "examples": [
+                                "That was a textbook goal from Taylor.",
+                                "It was a textbook example of how to deal with the problem."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

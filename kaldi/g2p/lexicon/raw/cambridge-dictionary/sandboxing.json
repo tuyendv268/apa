@@ -1,0 +1,34 @@
+{
+    "word": "sandboxing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsænd.bɒk.sɪŋ"
+                            ],
+                            "us": [
+                                "ˈsænd.bɑːk.sɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of separating a piece of software on a computer system so it can only use particular programs, files, etc.: ",
+                            "examples": [
+                                "Sandboxing provides a built-in blocker that restricts that code from doing harm.",
+                                "Sandboxing protects a system by limiting what an application can do, such as accessing files on disk or resources."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

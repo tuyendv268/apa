@@ -1,0 +1,34 @@
+{
+    "word": "isothermally",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌaɪ.səˈθɜː.məl.i"
+                            ],
+                            "us": [
+                                "ˌaɪ.səˈθɝː.məl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "without any change in temperature: ",
+                            "examples": [
+                                "We are justified in assuming that the gas behaves isothermally if the thermal penetration depth in the liquid is small compared to the size of the cavity.",
+                                "The column was operated isothermally at 130°C with helium as the carrier gas at 30 ml min 1."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

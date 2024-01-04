@@ -1,0 +1,45 @@
+{
+    "word": "academy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈkæd.ə.mi"
+                            ],
+                            "us": [
+                                "əˈkæd.ə.mi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an organization intended to protect and develop an art, science, language, etc., or a school that teaches a particular subject or trains people for a particular job: ",
+                            "examples": [
+                                "a military/police academy",
+                                "the Royal Academy of Dramatic Art"
+                            ]
+                        },
+                        {
+                            "explanation": "the part of a sports club that trains young players who might one day become part of the first team (= a sports club's best team): ",
+                            "examples": [
+                                "The youth academy starts training talented young players from the age of eight.",
+                                "The club's academy offered players from disadvantaged backgrounds discounts on new equipment. "
+                            ]
+                        },
+                        {
+                            "explanation": "a school in the UK that is not controlled by the local authority and receives its money directly from the central government",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

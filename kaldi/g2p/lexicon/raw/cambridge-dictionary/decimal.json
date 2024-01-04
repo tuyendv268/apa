@@ -1,0 +1,57 @@
+{
+    "word": "decimal",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈdes.ɪ.məl"
+                            ],
+                            "us": [
+                                "ˈdes.ə.məl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to or expressed in a system of counting based on the number ten: ",
+                            "examples": [
+                                "If you calculate the result to two decimal places (= give two numbers after the decimal point, as in 3.65), that should minimize any possible errors."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdes.ɪ.məl"
+                            ],
+                            "us": [
+                                "ˈdes.ə.məl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number expressed using a system of counting based on the number ten: ",
+                            "examples": [
+                                "Three fifths expressed as a decimal is 0.6."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

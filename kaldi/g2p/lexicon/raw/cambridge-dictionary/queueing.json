@@ -1,0 +1,62 @@
+{
+    "word": "queueing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nqueue ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kjuː"
+                            ],
+                            "us": [
+                                "kjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to wait in a line of people, often to buy something: ",
+                            "examples": [
+                                "Dozens of people were queueing up to get tickets.",
+                                "We had to queue for three hours to get in."
+                            ]
+                        },
+                        {
+                            "explanation": "to want very much to do something: ",
+                            "examples": [
+                                "There are thousands of young women queueing up to be models."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

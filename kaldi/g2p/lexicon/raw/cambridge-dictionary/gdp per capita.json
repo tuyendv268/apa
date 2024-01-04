@@ -1,0 +1,33 @@
+{
+    "word": "gdp per capita",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dʒiː.diːˌpiː pɜː ˈkæp.ɪ.tə"
+                            ],
+                            "us": [
+                                "dʒiː.diːˌpiː pɝː ˈkæp.ɪ.t̬ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the total value of all the goods and services produced by a country in a particular year, divided by the number of people living there: ",
+                            "examples": [
+                                "Ireland's GDP per capita is now above the EU average."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

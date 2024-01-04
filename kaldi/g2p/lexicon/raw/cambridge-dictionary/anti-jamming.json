@@ -1,0 +1,42 @@
+{
+    "word": "anti-jamming",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæn.tiˈdʒæm.ɪŋ"
+                            ],
+                            "us": [
+                                "ˌæn.t̬iˈdʒæm.ɪŋ",
+                                "ˌæn.taɪˈdʒæm.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "intended to prevent radio signals from being jammed (= stopped from arriving): ",
+                            "examples": [
+                                "Industry analysts questioned the reliability of the system’s anti-jamming technology.",
+                                "The radar system, with its sophisticated anti-jamming devices, was said to be both unnecessary and too expensive."
+                            ]
+                        },
+                        {
+                            "explanation": "intended to prevent part of a machine from jamming (= becoming unable to move): ",
+                            "examples": [
+                                "The drill has an automatic greasing unit and an anti-jamming device.",
+                                "The QWERTY layout was designed to prevent jamming on old-fashioned typewriters, but electronic keyboards have rendered this anti-jamming rationale defunct."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

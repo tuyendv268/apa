@@ -1,0 +1,41 @@
+{
+    "word": "multiplication",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.tɪ.plɪˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌmʌl.tə.pləˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of adding a number to itself a particular number of times, or a calculation in which this is done: ",
+                            "examples": [
+                                "I was good at maths and had no trouble with multiplication and division.",
+                                "They started doing even longer multiplications."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of increasing in number by a large amount, or of making something increase like this: ",
+                            "examples": [
+                                "This type of drug prevents cell multiplication.",
+                                "The multiplication of good brasseries has been a breath of fresh air to the restaurant industry."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

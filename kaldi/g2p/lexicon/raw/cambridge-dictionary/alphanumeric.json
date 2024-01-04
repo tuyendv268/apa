@@ -1,0 +1,35 @@
+{
+    "word": "alphanumeric",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌæl.fə.njuːˈmer.ɪk"
+                            ],
+                            "us": [
+                                "ˌæl.fə.nuːˈmer.ɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "containing or using letters of the alphabet and numbers: ",
+                            "examples": [
+                                "alphanumeric characters",
+                                "You need an 8-character alphanumeric password.",
+                                "An alphanumerical display alerts the cashier when to insert the vouchers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

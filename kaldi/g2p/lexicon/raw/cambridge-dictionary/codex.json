@@ -1,0 +1,35 @@
+{
+    "word": "codex",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkəʊ.deks"
+                            ],
+                            "us": [
+                                "ˈkoʊ.deks"
+                            ],
+                            "uk_other_tense": [
+                                "ˈkəʊ.dɪ.siːz"
+                            ],
+                            "us_other_tense": [
+                                "ˈkoʊ.dɪ.siːz"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an ancient book that was written by hand",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

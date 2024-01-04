@@ -1,0 +1,58 @@
+{
+    "word": "premiere",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprem.i.eər"
+                            ],
+                            "us": [
+                                "prɪˈmɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the first public performance of a play or any other type of entertainment: ",
+                            "examples": [
+                                "The world premiere of the opera will be at the Metropolitan Opera House in New York."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈprem.i.eər"
+                            ],
+                            "us": [
+                                "prɪˈmɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a show, film, etc. premieres or if it is premiered, the first public performance or showing takes place: ",
+                            "examples": [
+                                "The play was premiered in New York.",
+                                "The film will premiere this weekend."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "the accused",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈkjuːzd"
+                            ],
+                            "us": [
+                                "əˈkjuːzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the person who is on trial in a law court: ",
+                            "examples": [
+                                "The accused protested her innocence.",
+                                "The accused were all found guilty."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

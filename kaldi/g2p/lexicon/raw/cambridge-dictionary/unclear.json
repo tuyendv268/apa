@@ -1,0 +1,42 @@
+{
+    "word": "unclear",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈklɪər"
+                            ],
+                            "us": [
+                                "ʌnˈklɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not obvious or easy to see or know: ",
+                            "examples": [
+                                "The ownership of the painting remains unclear.",
+                                "It's unclear what actually happened that night.",
+                                "It's unclear whether he arrived before or after the shot was fired."
+                            ]
+                        },
+                        {
+                            "explanation": "If you are unclear about something, you are not certain about it: ",
+                            "examples": [
+                                "I'm unclear about a couple of points in your proposal - could you go over them again?",
+                                "I'm unclear (as to) whether we're supposed to stay here or not."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

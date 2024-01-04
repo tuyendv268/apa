@@ -1,0 +1,68 @@
+{
+    "word": "inducing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ninduce ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈdjuːs"
+                            ],
+                            "us": [
+                                "ɪnˈduːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to persuade someone to do something: ",
+                            "examples": [
+                                "They induced her to take the job by promising editorial freedom.",
+                                "Nothing could induce me (= I definitely cannot be persuaded) to climb a mountain/ride a bike."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause something to happen: ",
+                            "examples": [
+                                "Pills for seasickness often induce drowsiness."
+                            ]
+                        },
+                        {
+                            "explanation": "to use a drug to make a pregnant woman start giving birth: ",
+                            "examples": [
+                                "In this hospital, twins are often induced."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "notification",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnəʊ.tɪ.fɪˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌnoʊ.t̬ə.fəˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of telling someone officially about something, or a document, etc. that does this: ",
+                            "examples": [
+                                "You must give the bank (a) written notification if you wish to close your account.",
+                                "The car's owner would receive notification that the vehicle failed inspection. "
+                            ]
+                        },
+                        {
+                            "explanation": "a message that is automatically sent to you on your mobile phone or computer: ",
+                            "examples": [
+                                "You do not get a notification when someone unfollows you.",
+                                "How do I manage notifications on my device?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

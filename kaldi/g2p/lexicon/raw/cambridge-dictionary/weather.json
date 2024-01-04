@@ -1,0 +1,66 @@
+{
+    "word": "weather",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈweð.ər"
+                            ],
+                            "us": [
+                                "ˈweð.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the conditions in the air above the earth such as wind, rain, or temperature, especially at a particular time over a particular area: ",
+                            "examples": [
+                                "bad/good/cold/dry/hot/stormy/warm/wet/etc. weather",
+                                "The weather in the mountains can change very quickly, so take appropriate clothing.",
+                                "We're going to have a picnic, weather permitting (= if the weather is good enough)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈweð.ər"
+                            ],
+                            "us": [
+                                "ˈweð.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to deal successfully with a difficult situation or a problem: ",
+                            "examples": [
+                                "As a small new company they did well to weather the recession."
+                            ]
+                        },
+                        {
+                            "explanation": "to change in colour or form over a period of time because of the effects of sun, wind, or other weather conditions: ",
+                            "examples": [
+                                "Rock is weathered by the action of ice and changes in temperature.",
+                                "The paint on the outside walls has weathered badly (= has changed and been damaged by the weather)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

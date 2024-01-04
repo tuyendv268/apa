@@ -1,0 +1,47 @@
+{
+    "word": "nucleus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnjuː.kli.əs"
+                            ],
+                            "us": [
+                                "ˈnuː.kli.əs"
+                            ],
+                            "uk_other_tense": [
+                                "ˈnjuː.kli.aɪ"
+                            ],
+                            "us_other_tense": [
+                                "ˈnuː.kli.aɪ"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the central part of an atom, usually made up of protons and neutrons",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the part of a cell that controls its growth: ",
+                            "examples": [
+                                "DNA is stored in the nucleus of a cell."
+                            ]
+                        },
+                        {
+                            "explanation": "the group of people or things that are the most important part of something: ",
+                            "examples": [
+                                "These three players will form the nucleus of a revised and stronger team."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

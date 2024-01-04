@@ -1,0 +1,43 @@
+{
+    "word": "refraction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈfræk.ʃən"
+                            ],
+                            "us": [
+                                "rɪˈfræk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of light or sound being caused to change direction or to separate when it travels through water, glass, etc. ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a calculation of the relationship between the speed of light moving through a medium (= substance) and the speed of light in a vacuum (= an area with no matter in it): ",
+                            "examples": [
+                                "So how do you calculate the absolute index of refraction?"
+                            ]
+                        },
+                        {
+                            "explanation": "the angle that a beam of light or other energy that is refracted by a surface makes with a line vertical to that surface: ",
+                            "examples": [
+                                "White light splits into a colour spectrum during refraction because each constituent wavelength's angle of refraction is different."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "word": "latin",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlæt.ɪn"
+                            ],
+                            "us": [
+                                "ˈlæt̬.ɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the language used by ancient Romans and as the language of educated people in many European countries in the past",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈlæt.ɪn"
+                            ],
+                            "us": [
+                                "ˈlæt̬.ɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "written in Latin: ",
+                            "examples": [
+                                "a Latin poem"
+                            ]
+                        },
+                        {
+                            "explanation": "relating to (people or things in) countries that use a language that developed from Latin, such as French or Spanish: ",
+                            "examples": [
+                                "his Latin good looks"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

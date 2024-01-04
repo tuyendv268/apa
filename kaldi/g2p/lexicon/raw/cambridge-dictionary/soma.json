@@ -1,0 +1,43 @@
+{
+    "word": "soma",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsəʊ.mə"
+                            ],
+                            "us": [
+                                "ˈsoʊ.mə"
+                            ],
+                            "uk_other_tense": [
+                                "ˈsəʊ.mə.tə"
+                            ],
+                            "us_other_tense": [
+                                "ˈsoʊ.mə.t̬ə"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the whole of an organism except its reproductive cells (= those connected with the process of producing new life): ",
+                            "examples": [
+                                "A sharp distinction between soma and germ line makes it possible to prevent acquired characters from being transmitted. "
+                            ]
+                        },
+                        {
+                            "explanation": "the central part of a nerve cell that contains the nucleus (= the part of a cell that controls its growth): ",
+                            "examples": [
+                                "These nerve cells have three main structural parts – axon, dendrites and soma."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

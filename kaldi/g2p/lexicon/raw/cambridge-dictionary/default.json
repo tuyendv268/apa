@@ -1,0 +1,69 @@
+{
+    "word": "default",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈfɒlt"
+                            ],
+                            "us": [
+                                "dɪˈfɑːlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fail to do something, such as pay a debt, that you legally have to do: ",
+                            "examples": [
+                                "People who default on their mortgage repayments may have their home repossessed."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈfɒlt",
+                                "ˈdiː.fɒlt"
+                            ],
+                            "us": [
+                                "dɪˈfɑːlt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the thing that exists or happens if you do not change it intentionally by performing an action: ",
+                            "examples": [
+                                "Unless something else is agreed, the default is to meet at the hotel at 7.00 p.m. ",
+                                "The computer will take 0 as the default value, unless you type in something different.",
+                                "In default of (= because there is not) any better alternative, we will have to proceed with the original plan."
+                            ]
+                        },
+                        {
+                            "explanation": "a failure to do something, such as pay a debt, that you legally have to do: ",
+                            "examples": [
+                                "Defaults on loan repayments have reached 52,000 a month.",
+                                "Any default on your mortgage payments may mean you will lose your house.",
+                                "Since they refuse to reply, I think we've won the argument by default (= because of their failure to act).",
+                                "The national student loan default rate (= the number of people failing to pay) is estimated at one in ten."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

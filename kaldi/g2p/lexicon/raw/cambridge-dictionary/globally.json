@@ -1,0 +1,41 @@
+{
+    "word": "globally",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɡləʊ.bəl.i"
+                            ],
+                            "us": [
+                                "ˈɡloʊ.bəl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "across the whole world: ",
+                            "examples": [
+                                "The company has to be able to compete globally.",
+                                "Globally, rates of asthma have been rising for years."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that includes all parts of a situation or subject: ",
+                            "examples": [
+                                "We need to look at this issue globally.",
+                                "This operation can be performed globally on a batch of records."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

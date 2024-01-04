@@ -1,0 +1,72 @@
+{
+    "word": "adding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nadd ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "æd"
+                            ],
+                            "us": [
+                                "æd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put two or more numbers or amounts together to get a total: ",
+                            "examples": [
+                                "If you add (= calculate the total of) three and four you get seven.",
+                                "It's $45 - $50 if you add in (= include) the cost of postage.",
+                                "Don't forget to add on your travelling expenses/add your expenses on."
+                            ]
+                        },
+                        {
+                            "explanation": "to put something with something else to increase the number or amount or to improve the whole: ",
+                            "examples": [
+                                "Beat the butter and sugar together and slowly add the eggs.",
+                                "She's added a Picasso to her collection.",
+                                "Her colleagues' laughter only added to (= increased) her embarrassment."
+                            ]
+                        },
+                        {
+                            "explanation": "to say another thing: ",
+                            "examples": [
+                                "She was sad, she said, but added (= said also) that she felt she had made the right decision.",
+                                "\"Oh, and thank you for all your help!\" he added as he was leaving."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

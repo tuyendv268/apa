@@ -1,0 +1,41 @@
+{
+    "word": "multimode",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌmʌl.tiˈməʊd"
+                            ],
+                            "us": [
+                                "ˌmʌl.tiˈmoʊd",
+                                "ˌmʌl.taɪˈmoʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(especially of a device) able to operate in different modes (= ways): ",
+                            "examples": [
+                                "This is a multimode digital modem.",
+                                "The camera has a built-in multi-mode flash. "
+                            ]
+                        },
+                        {
+                            "explanation": "A multimode optical fibre is a type of wire used to send communication signals. It is able to carry signals as light in different modes (= ways): ",
+                            "examples": [
+                                "The first two generations of commercial fibre-optic systems use multimode fibres."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

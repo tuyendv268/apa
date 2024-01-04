@@ -1,0 +1,45 @@
+{
+    "word": "citation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "saɪˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "saɪˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word or piece of writing taken from a written work: ",
+                            "examples": [
+                                "All citations are taken from the 2007 edition of the text."
+                            ]
+                        },
+                        {
+                            "explanation": "an official request for someone to appear in a law court: ",
+                            "examples": [
+                                "The court issued a contempt citation against city council members who refused to comply with a court order."
+                            ]
+                        },
+                        {
+                            "explanation": "official praise for a person in the armed forces for brave actions: ",
+                            "examples": [
+                                "The four soldiers are to receive citations from the president for their brave actions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

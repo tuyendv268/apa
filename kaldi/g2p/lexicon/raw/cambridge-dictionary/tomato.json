@@ -1,0 +1,35 @@
+{
+    "word": "tomato",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "təˈmɑː.təʊ"
+                            ],
+                            "us": [
+                                "təˈmeɪ.t̬oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a round, red fruit with a lot of seeds, eaten cooked or uncooked as a vegetable, for example in salads or sauces: ",
+                            "examples": [
+                                "a sliced tomato",
+                                "tomato salad/soup",
+                                "pasta with a tomato sauce"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "word": "lost",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "lɒst"
+                            ],
+                            "us": [
+                                "lɑːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not knowing where you are and how to get to a place: ",
+                            "examples": [
+                                "I got lost in the New York subway system.",
+                                "You look lost - can I help you?"
+                            ]
+                        },
+                        {
+                            "explanation": "If something is lost, no one knows where it is: ",
+                            "examples": [
+                                "Things tend to get lost when you move.",
+                                "Lost: black cat with white paws.",
+                                "Mikey turned up with the lost book."
+                            ]
+                        },
+                        {
+                            "explanation": "not confident and not knowing what to do in a particular situation: ",
+                            "examples": [
+                                "It was his first day in the office and he seemed a little lost."
+                            ]
+                        },
+                        {
+                            "explanation": "giving so much attention to what you are doing that you are not conscious of anything else that is happening around you: ",
+                            "examples": [
+                                "Ann was completely lost in her book."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

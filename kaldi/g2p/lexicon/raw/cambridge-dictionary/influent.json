@@ -1,0 +1,61 @@
+{
+    "word": "influent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.fluː.ənt"
+                            ],
+                            "us": [
+                                "ˈɪn.fluː.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a stream that flows into another stream",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "water or other liquid that flows into a waste treatment centre: ",
+                            "examples": [
+                                "There is a desire to evaluate the toxicity of the influent to municipal waste treatment plants."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.fluː.ənt"
+                            ],
+                            "us": [
+                                "ˈɪn.fluː.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "flowing into something: ",
+                            "examples": [
+                                "The influent raw sewage has a high organic concentration."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "autonomous",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɔːˈtɒn.ə.məs"
+                            ],
+                            "us": [
+                                "ɑːˈtɑː.nə.məs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "independent and having the power to make your own decisions",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "an autonomous organization, country, or region is independent and has the freedom to govern itself: ",
+                            "examples": [
+                                "an autonomous region/province/republic/council"
+                            ]
+                        },
+                        {
+                            "explanation": "an autonomous machine or system is able to operate without being controlled directly by humans: ",
+                            "examples": [
+                                "an autonomous vehicle"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

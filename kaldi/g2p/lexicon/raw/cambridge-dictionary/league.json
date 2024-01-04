@@ -1,0 +1,41 @@
+{
+    "word": "league",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "liːɡ"
+                            ],
+                            "us": [
+                                "liːɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of teams playing a sport who take part in competitions between each other: ",
+                            "examples": [
+                                "Who do you think will win the league championship this year?",
+                                "Liverpool were top of the Football League that year.",
+                                "They are currently bottom of the league."
+                            ]
+                        },
+                        {
+                            "explanation": "a group of people or countries who join together because they have the same interest: ",
+                            "examples": [
+                                "the League of Nations"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

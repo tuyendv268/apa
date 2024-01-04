@@ -1,0 +1,64 @@
+{
+    "word": "discount",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɪs.kaʊnt"
+                            ],
+                            "us": [
+                                "ˈdɪs.kaʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a reduction in the usual price: ",
+                            "examples": [
+                                "They usually give you a discount if you buy multiple copies.",
+                                "They offer a ten percent discount on travel for students."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈskaʊnt"
+                            ],
+                            "us": [
+                                "dɪˈskaʊnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to decide that something or someone is not worth considering or giving attention: ",
+                            "examples": [
+                                "You shouldn't discount the possibility of him coming back."
+                            ]
+                        },
+                        {
+                            "explanation": "to reduce the price of something: ",
+                            "examples": [
+                                "discounted goods/rates"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

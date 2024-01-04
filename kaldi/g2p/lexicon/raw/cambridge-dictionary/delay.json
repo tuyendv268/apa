@@ -1,0 +1,73 @@
+{
+    "word": "delay",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈleɪ"
+                            ],
+                            "us": [
+                                "dɪˈleɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something happen at a later time than originally planned or expected: ",
+                            "examples": [
+                                "My plane was delayed by an hour.",
+                                "Heavy snow delayed the start of the game.",
+                                "I think we should delay deciding about this until next year."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause someone or something to be slow or late: ",
+                            "examples": [
+                                "I was delayed by traffic."
+                            ]
+                        },
+                        {
+                            "explanation": "to not act quickly or immediately: ",
+                            "examples": [
+                                "If you delay now, the opportunity might be lost."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈleɪ"
+                            ],
+                            "us": [
+                                "dɪˈleɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the situation in which you have to wait longer than expected for something to happen, or the time that you have to wait: ",
+                            "examples": [
+                                "This situation needs to be tackled without delay.",
+                                "Long delays are predicted on the motorway because of the accident.",
+                                "There has been a delay in the book's publication."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

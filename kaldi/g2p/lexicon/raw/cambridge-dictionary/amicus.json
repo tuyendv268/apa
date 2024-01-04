@@ -1,0 +1,34 @@
+{
+    "word": "amicus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæm.ɪ.kəs"
+                            ],
+                            "us": [
+                                "ˈæm.ɪ.kəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person or organization that gives advice to a court of law on a case in which they are not directly involved: ",
+                            "examples": [
+                                "The court held that the Sheriff was protected by qualified immunity - a holding that disappointed Lee's lawyers and amicus. ",
+                                "Mr John Dunlop, appearing as amicus curiae, made a most helpful summary argument."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "wall street",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwɔːl ˌstriːt"
+                            ],
+                            "us": [
+                                "ˈwɑːl ˌstriːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a street in New York that represents the financial centre of the US: ",
+                            "examples": [
+                                "On Wall Street today, the Dow Jones rose 55 points following good economic figures."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

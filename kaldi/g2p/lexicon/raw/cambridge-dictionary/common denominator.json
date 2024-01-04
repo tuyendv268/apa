@@ -1,0 +1,39 @@
+{
+    "word": "common denominator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒm.ən dɪˈnɒm.ɪ.neɪ.tər"
+                            ],
+                            "us": [
+                                "ˌkɑː.mən dɪˈnɑː.mə.neɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number that can be divided exactly by all the denominators (= numbers under the line) in a group of fractions: ",
+                            "examples": [
+                                "12 is a common denominator of 1/3 and 1/4."
+                            ]
+                        },
+                        {
+                            "explanation": "something that is the same for all the members of a group and might bring them together: ",
+                            "examples": [
+                                "The common denominator was that we had all worked for the same company."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

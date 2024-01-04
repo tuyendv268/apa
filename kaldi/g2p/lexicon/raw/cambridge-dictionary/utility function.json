@@ -1,0 +1,33 @@
+{
+    "word": "utility function",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "juːˈtɪl.ə.ti ˌfʌŋk.ʃən"
+                            ],
+                            "us": [
+                                "juːˈtɪl.ə.t̬i ˌfʌŋk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a mathematical function (= a quantity whose value depends on another value and changes with it) in which different choices are ranked (= put in order) according to how useful they are: ",
+                            "examples": [
+                                "The algorithm has to choose an action whose consequences match the goal. Or choose the action whose probabilistic consequences rank highest in the utility function."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

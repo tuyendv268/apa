@@ -1,0 +1,56 @@
+{
+    "word": "vomited",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nvomit ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈvɒm.ɪt"
+                            ],
+                            "us": [
+                                "ˈvɑː.mɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to empty the contents of the stomach through the mouth: ",
+                            "examples": [
+                                "He came home drunk and vomited all over the kitchen floor.",
+                                "She was vomiting (up) blood."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

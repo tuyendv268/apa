@@ -1,0 +1,57 @@
+{
+    "word": "airball",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈeə.bɔːl"
+                            ],
+                            "us": [
+                                "ˈer.bɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in basketball, an attempt to throw the ball into the basket that completely misses it and the board behind it: ",
+                            "examples": [
+                                "Hughes had a bad game, shooting at least three airballs."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈeə.bɔːl"
+                            ],
+                            "us": [
+                                "ˈer.bɑːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in basketball, to try to throw the ball into the basket but completely miss it and the board behind it: ",
+                            "examples": [
+                                "He airballed the attempt at a three-pointer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

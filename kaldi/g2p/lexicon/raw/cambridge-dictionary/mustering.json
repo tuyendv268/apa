@@ -1,0 +1,64 @@
+{
+    "word": "mustering",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nmuster ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈmʌs.tər"
+                            ],
+                            "us": [
+                                "ˈmʌs.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to produce or encourage something such as an emotion or support: ",
+                            "examples": [
+                                "She managed to muster the courage to ask him to the cinema.",
+                                "The team will need all the strength they can muster to win this game.",
+                                "Opponents are unlikely to be able to muster enough votes to override the veto."
+                            ]
+                        },
+                        {
+                            "explanation": "(especially of soldiers) to come together, especially in preparation for fighting, or to cause to do this: ",
+                            "examples": [
+                                "The twelfth division mustered on the hill.",
+                                "The general mustered his troops."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

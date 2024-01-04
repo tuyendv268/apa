@@ -1,0 +1,44 @@
+{
+    "word": "interpreter",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈtɜː.prə.tər"
+                            ],
+                            "us": [
+                                "ɪnˈtɝː.prə.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone whose job is to change what someone else is saying into another language: ",
+                            "examples": [
+                                "She works as an interpreter in Brussels.",
+                                "Speaking through an interpreter, the president said the terms of the ceasefire were completely unacceptable."
+                            ]
+                        },
+                        {
+                            "explanation": "a computer program that changes the instructions in another program into a form that can be easily understood by a computer",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "someone who performs a piece of music or a part in a play, etc. in a way that expresses their own ideas about its meaning: ",
+                            "examples": [
+                                "He's a noted interpreter of traditional Irish music."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

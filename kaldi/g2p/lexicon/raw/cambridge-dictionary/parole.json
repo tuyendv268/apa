@@ -1,0 +1,60 @@
+{
+    "word": "parole",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəˈrəʊl"
+                            ],
+                            "us": [
+                                "pəˈroʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "permission for a prisoner to be released before their period in prison is finished, with the agreement that they will behave well: ",
+                            "examples": [
+                                "He's been released on parole.",
+                                "She hopes to be eligible for parole in three years.",
+                                "Reynolds was sentenced to life without parole."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pəˈrəʊl"
+                            ],
+                            "us": [
+                                "pəˈroʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give someone parole: ",
+                            "examples": [
+                                "He was paroled from prison last year after serving about four years.",
+                                "I am not happy with the possibility he could be paroled in 20 years."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

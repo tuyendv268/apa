@@ -1,0 +1,41 @@
+{
+    "word": "side effect",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪd ɪˌfekt"
+                            ],
+                            "us": [
+                                "ˈsaɪd ɪˌfekt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an unpleasant effect of a drug, medical treatment, or vaccine (= a substance put into a person's body to stop them getting a disease) that happens in addition to the main intended effect: ",
+                            "examples": [
+                                "Does this drug have any side effects?",
+                                "Chemotherapy can have some very unpleasant side-effects."
+                            ]
+                        },
+                        {
+                            "explanation": "an unexpected result of a situation: ",
+                            "examples": [
+                                "A side effect of the new law is that fewer people will take out insurance.",
+                                "Thousands of passengers along the route constantly suffer the side-effects of the upgrade work."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

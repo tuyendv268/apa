@@ -1,0 +1,41 @@
+{
+    "word": "-cide",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                "-saɪd"
+                            ],
+                            "us": [
+                                "-saɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to form words referring to substances that kill a particular thing: ",
+                            "examples": [
+                                "a natural fungicide (= a substance that kills fungus)",
+                                "a smell of insecticide (= a substance that kills insects)"
+                            ]
+                        },
+                        {
+                            "explanation": "used to form words referring to the killing of a particular type of person, or to a person who does this: ",
+                            "examples": [
+                                "She was accused of infanticide (= the killing of a small baby).",
+                                "a regicide (= a person who kills a king)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

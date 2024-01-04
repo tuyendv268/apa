@@ -1,0 +1,69 @@
+{
+    "word": "reproducing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nreproduce ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌriː.prəˈdʒuːs"
+                            ],
+                            "us": [
+                                "ˌriː.prəˈduːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to produce a copy of something, or to be copied in a production process: ",
+                            "examples": [
+                                "His work was reproduced on leaflets and magazines.",
+                                "They said the printing was too faint to reproduce well."
+                            ]
+                        },
+                        {
+                            "explanation": "to show or do something again: ",
+                            "examples": [
+                                "The new design unfortunately reproduced some of the problems of the earlier model."
+                            ]
+                        },
+                        {
+                            "explanation": "When living things reproduce, they produce young plants, animals, etc.: ",
+                            "examples": [
+                                "These plants can reproduce sexually and asexually.",
+                                "Some creatures were better at surviving and reproducing themselves than others."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

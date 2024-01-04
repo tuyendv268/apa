@@ -1,0 +1,33 @@
+{
+    "word": "algorithm",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæl.ɡə.rɪ.ðəm"
+                            ],
+                            "us": [
+                                "ˈæl.ɡə.rɪ.ðəm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem: ",
+                            "examples": [
+                                "Music apps use algorithms to predict the probability that fans of one particular band will like another. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

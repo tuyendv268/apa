@@ -1,0 +1,39 @@
+{
+    "word": "cylinder",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪl.ɪn.dər"
+                            ],
+                            "us": [
+                                "ˈsɪl.ɪn.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a solid or hollow tube with long straight sides and two circular ends the same size, or an object shaped like this, often used as a container: ",
+                            "examples": [
+                                "Deep-sea divers carry cylinders of oxygen on their backs."
+                            ]
+                        },
+                        {
+                            "explanation": "the tube-shaped device, found especially in an engine, inside which the part of the engine that causes the fuel to produce power moves up and down: ",
+                            "examples": [
+                                "a six-cylinder engine"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

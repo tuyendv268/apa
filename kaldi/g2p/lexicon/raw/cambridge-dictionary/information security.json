@@ -1,0 +1,34 @@
+{
+    "word": "information security",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪn.fəˌmeɪ.ʃən sɪˈkjʊə.rə.ti"
+                            ],
+                            "us": [
+                                "ɪn.fɚˌmeɪ.ʃən səˈkjʊr.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "methods used to prevent electronic information from being illegally obtained or used: ",
+                            "examples": [
+                                "Information security is an essential issue where electronic transactions are concerned.",
+                                "The audit revealed serious information security weaknesses."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

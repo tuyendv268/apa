@@ -1,0 +1,52 @@
+{
+    "word": "itself",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "ɪtˈself"
+                            ],
+                            "us": [
+                                "ɪtˈself"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used when the subject of the verb is \"it\" and the object is the same thing, animal, situation, or idea: ",
+                            "examples": [
+                                "The cat licked itself all over.",
+                                "You have to do something about the problem - it isn't just going to resolve itself."
+                            ]
+                        },
+                        {
+                            "explanation": "used to emphasize the subject when it is a thing, animal, situation, or idea: ",
+                            "examples": [
+                                "The shop itself (= only the shopand nothing else) started 15 years ago but the internet side of the business is new."
+                            ]
+                        },
+                        {
+                            "explanation": "alone or without help: ",
+                            "examples": [
+                                "The animal had been left in the house by itself for a week."
+                            ]
+                        },
+                        {
+                            "explanation": "for its use only: ",
+                            "examples": [
+                                "The committee kept the results of the survey to itself (= did not tell anyone), fearing a bad public reaction."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

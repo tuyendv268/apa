@@ -1,0 +1,61 @@
+{
+    "word": "shepherding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nshepherd ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃep.əd"
+                            ],
+                            "us": [
+                                "ˈʃep.ɚd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a group of people move to where you want them to go, especially in a kind, helpful, and careful way: ",
+                            "examples": [
+                                "He shepherded the old people towards the dining room."
+                            ]
+                        },
+                        {
+                            "explanation": "to move sheep from one place to another: ",
+                            "examples": [
+                                "The dogs shepherded the sheep into the pens."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

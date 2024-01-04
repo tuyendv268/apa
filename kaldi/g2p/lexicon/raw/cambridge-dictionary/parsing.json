@@ -1,0 +1,75 @@
+{
+    "word": "parsing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nparse ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pɑːz"
+                            ],
+                            "us": [
+                                "pɑːrs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to separate a sentence into grammatical parts, such as subject, verb, etc.: ",
+                            "examples": [
+                                "These days, children aren't taught how to parse a sentence."
+                            ]
+                        },
+                        {
+                            "explanation": "to examine computer data and change it into a form that can be easily read or understood : ",
+                            "examples": [
+                                "Before version 3.0, a stream was converted to a string before being parsed."
+                            ]
+                        },
+                        {
+                            "explanation": "to examine or think about something carefully in order to understand it: ",
+                            "examples": [
+                                "We parse every moment for clues to why he took his life.",
+                                "The economist parses the roles of emotion, cognition, and perception in the understanding of business risk."
+                            ]
+                        },
+                        {
+                            "explanation": "to understand something: ",
+                            "examples": [
+                                "Some people know they're gay from an early age, but others don't parse it until much later.",
+                                "For those trying to parse what he thinks about the proposed changes, today's hearing was hard going."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

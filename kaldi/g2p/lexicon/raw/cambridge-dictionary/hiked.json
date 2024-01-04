@@ -1,0 +1,59 @@
+{
+    "word": "hiked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nhike ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "haɪk"
+                            ],
+                            "us": [
+                                "haɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to go for a long walk in the countryside",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to increase the cost of something: ",
+                            "examples": [
+                                "Retailers have hiked (up) prices again."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "word": "fish",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "fɪʃ"
+                            ],
+                            "us": [
+                                "fɪʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an animal that lives in water, is covered with scales, and breathes by taking water in through its mouth, or the flesh of these animals eaten as food: ",
+                            "examples": [
+                                "Several large fish live in the pond.",
+                                "Sanjay caught the biggest fish I've ever seen.",
+                                "I don't like fish (= don't like to eat fish)."
+                            ]
+                        },
+                        {
+                            "explanation": "a strange person: ",
+                            "examples": [
+                                "He's a bit of an odd fish, but I think he's basically sound."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "fɪʃ"
+                            ],
+                            "us": [
+                                "fɪʃ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try to find something, using your fingers to look for it: ",
+                            "examples": [
+                                "She fished in her tool box for the right screwdriver."
+                            ]
+                        },
+                        {
+                            "explanation": "to try to get something, without asking directly: ",
+                            "examples": [
+                                "She was always fishing, hoping I'd say something about Sarah.",
+                                "The director was fishing for information about our strategy.",
+                                "He's always fishing for compliments (= trying to make people say good things about him)."
+                            ]
+                        },
+                        {
+                            "explanation": "in sports such as cricket and baseball, to try to hit a ball that is a long way from the target: ",
+                            "examples": [
+                                "Our captain was caught by the wicketkeeper while fishing outside the off stump."
+                            ]
+                        },
+                        {
+                            "explanation": "to catch fish from a river, sea, lake, etc., or to try to do this: ",
+                            "examples": [
+                                "My dad loves to go fishing.",
+                                "They're fishing for tuna.",
+                                "The sea here has been fished intensely over the last ten years."
+                            ]
+                        },
+                        {
+                            "explanation": "If an area of water has been fished out, all or most of the fish in it have been caught: ",
+                            "examples": [
+                                "There's no point going to an area that's fished out."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

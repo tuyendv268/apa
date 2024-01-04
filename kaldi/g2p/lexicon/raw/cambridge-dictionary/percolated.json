@@ -1,0 +1,65 @@
+{
+    "word": "percolated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npercolate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpɜː.kəl.eɪt"
+                            ],
+                            "us": [
+                                "ˈpɝː.kəl.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a liquid percolates, it moves slowly through a substance with very small holes in it: ",
+                            "examples": [
+                                "Sea water percolates down through the rocks."
+                            ]
+                        },
+                        {
+                            "explanation": "to make coffee using a machine in which hot water passes through crushed coffee beans into a container below",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to spread slowly: ",
+                            "examples": [
+                                "The news has begun to percolate through the staff."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

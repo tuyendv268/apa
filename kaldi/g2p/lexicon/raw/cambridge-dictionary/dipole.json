@@ -1,0 +1,45 @@
+{
+    "word": "dipole",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdaɪ.pəʊl"
+                            ],
+                            "us": [
+                                "ˈdaɪ.poʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "two poles that have opposite and equal electrical charge or magnetic force, with a space between them: ",
+                            "examples": [
+                                "Geomagnetic South Pole represents the axis of the Earth's magnetic dipole. "
+                            ]
+                        },
+                        {
+                            "explanation": "a molecule with an area of negative charge and an area of positive charge that are separated: ",
+                            "examples": [
+                                "Many molecules (such as those of water) are electric dipoles, meaning that they have a partial positive charge at one end and a partial negative charge at the other."
+                            ]
+                        },
+                        {
+                            "explanation": "a simple type of radio aerial (= a structure that receives or sends out radio signals) that is shaped like the letter T: ",
+                            "examples": [
+                                "With most FM radio stations today, a vertical dipole gives as much signal as a horizontal one."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

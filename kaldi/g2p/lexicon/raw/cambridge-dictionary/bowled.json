@@ -1,0 +1,59 @@
+{
+    "word": "bowled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nbowl ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bəʊl"
+                            ],
+                            "us": [
+                                "boʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to roll a ball along a smooth surface during a game of bowls or bowling",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to throw a ball towards a batsman (= the player who hits the ball) using a vertical circular movement of the arm while running: ",
+                            "examples": [
+                                "Pringle was tired after bowling for an hour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

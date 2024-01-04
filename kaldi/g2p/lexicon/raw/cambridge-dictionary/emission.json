@@ -1,0 +1,49 @@
+{
+    "word": "emission",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "iˈmɪʃ.ən"
+                            ],
+                            "us": [
+                                "iˈmɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of sending out gas, heat, light, etc.: ",
+                            "examples": [
+                                "Bioluminescence is the emission of light from living organisms.",
+                                "Excess infrared emission was detected around six of these stars."
+                            ]
+                        },
+                        {
+                            "explanation": "an amount of gas, heat, light, etc. that is sent out: ",
+                            "examples": [
+                                "He uses a night observation device that picks up heat emissions.",
+                                "There is a risk of accidents with large emissions of radioisotopes into the biosphere."
+                            ]
+                        },
+                        {
+                            "explanation": "an amount of a substance that is produced and sent out into the air that is harmful to the environment, especially carbon dioxide: ",
+                            "examples": [
+                                "Reducing the consumption of energy and increasing its efficient use would help control emissions.",
+                                "These health risks are caused by vehicle emissions.",
+                                "The agreement aimed to half the emissions rate in 50 years."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

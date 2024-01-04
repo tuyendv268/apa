@@ -1,0 +1,41 @@
+{
+    "word": "dispersively",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈspɜː.sɪv.li"
+                            ],
+                            "us": [
+                                "dɪˈspɝː.sɪv.li"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that involves or causes dispersion (= the spreading of something across a large area): ",
+                            "examples": [
+                                "What would you expect to see if the DNA had replicated dispersively?",
+                                "Pesticides are often emitted dispersively, for example when spraying them into the air."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that involves or causes dispersion of light (= its separation into different colours): ",
+                            "examples": [
+                                "This paper quantifies the residual errors of dispersively registered images for two types of sensor.",
+                                "The lightning bolt excites a wave that propagates dispersively along the Earth's magnetic field."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

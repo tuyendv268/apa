@@ -1,0 +1,40 @@
+{
+    "word": "exposition",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌek.spəˈzɪʃ.ən"
+                            ],
+                            "us": [
+                                "ˌek.spəˈzɪʃ.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a clear and full explanation of an idea or theory: ",
+                            "examples": [
+                                "It purports to be an exposition of Catholic social teaching."
+                            ]
+                        },
+                        {
+                            "explanation": "a show in which industrial goods, works of art, etc. are shown to the public: ",
+                            "examples": [
+                                "the San Francisco exposition",
+                                "Expo 92 (= a show that happened in 1992)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

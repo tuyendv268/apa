@@ -1,0 +1,33 @@
+{
+    "word": "false friend",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfɒls ˈfrend"
+                            ],
+                            "us": [
+                                "ˌfɑːls ˈfrend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word that is often confused with a word in another language with a different meaning because the two words look or sound similar: ",
+                            "examples": [
+                                "The French word \"actuellement\" and the English word \"actually\" are false friends."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "word": "potential",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "pəˈten.ʃəl"
+                            ],
+                            "us": [
+                                "poʊˈten.ʃəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "possible when the necessary conditions exist: ",
+                            "examples": [
+                                "A number of potential buyers have expressed interest in the company.",
+                                "Many potential customers are waiting for a fall in prices before buying.",
+                                "The accident is a grim reminder of the potential dangers involved in North Sea oil production."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "pəˈten.ʃəl"
+                            ],
+                            "us": [
+                                "poʊˈten.ʃəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone's or something's ability to develop, achieve, or succeed: ",
+                            "examples": [
+                                "The region has enormous potential for economic development.",
+                                "I don't feel I'm achieving my full potential in my present job.",
+                                "You have the potential to reach the top of your profession.",
+                                "I think this room has got a lot of potential (= could be very nice if some changes were made to it)."
+                            ]
+                        },
+                        {
+                            "explanation": "the amount of electricity passing through an electric circuit, measured in volts",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

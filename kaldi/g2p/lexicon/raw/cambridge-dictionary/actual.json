@@ -1,0 +1,40 @@
+{
+    "word": "actual",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.tʃu.əl"
+                            ],
+                            "us": [
+                                "ˈæk.tʃu.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "existing in fact: ",
+                            "examples": [
+                                "We had estimated about 300 visitors, but the actual number was much higher.",
+                                "The exams are in July, but the actual results (= the results themselves) don't appear until September."
+                            ]
+                        },
+                        {
+                            "explanation": "really: ",
+                            "examples": [
+                                "I thought she was Portuguese, but in actual fact she's Brazilian."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

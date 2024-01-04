@@ -1,0 +1,61 @@
+{
+    "word": "dossing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndoss ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɒs"
+                            ],
+                            "us": [
+                                "dɑːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to sleep outside or in an empty building because you have no home and no money: ",
+                            "examples": [
+                                "She was dossing in doorways until the police picked her up."
+                            ]
+                        },
+                        {
+                            "explanation": "to sleep somewhere without a bed: ",
+                            "examples": [
+                                "Can I doss down at your house tonight, after the party?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

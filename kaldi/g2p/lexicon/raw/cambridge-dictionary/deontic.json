@@ -1,0 +1,34 @@
+{
+    "word": "deontic",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "diˈɒn.tɪk"
+                            ],
+                            "us": [
+                                "diˈɑːn.tɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to moral ideas such as responsibility, permission, and obligation: ",
+                            "examples": [
+                                "This paper contains a discussion of deontic modal expressions with \"must\".",
+                                "A three-year-old child is already capable of expressing deontic notions such as obligation and permission."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

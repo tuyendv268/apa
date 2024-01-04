@@ -1,0 +1,34 @@
+{
+    "word": "mastectomy",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mæsˈtek.tə.mi"
+                            ],
+                            "us": [
+                                "mæsˈtek.tə.mi"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a medical operation to remove a woman's breast: ",
+                            "examples": [
+                                "a partial mastectomy (= when part of the breast is removed)",
+                                "a double mastectomy (= when both breasts are removed)"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "word": "happen",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæp.ən"
+                            ],
+                            "us": [
+                                "ˈhæp.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a situation or an event) to have existence or come into existence: ",
+                            "examples": [
+                                "No one knows exactly what happened but several people have been hurt.",
+                                "Anything could happen in the next half hour.",
+                                "A funny thing happened in the office today.",
+                                "I don't want to think about what might have happened if he'd been driving any faster."
+                            ]
+                        },
+                        {
+                            "explanation": "If something happens to someone or something, it has an effect on him, her, or it: ",
+                            "examples": [
+                                "I don't know what I'd do if anything happened to him (= if he was hurt, became ill, or died)."
+                            ]
+                        },
+                        {
+                            "explanation": "to do or be by chance: ",
+                            "examples": [
+                                "They happened to look (= looked by chance) in the right place almost immediately.",
+                                "Fortunately it happened (that) there was no one in the house at the time of the explosion.",
+                                "It just so happens that I have her phone number right here.",
+                                "She happens to like cleaning (= she likes cleaning, although that is surprising).",
+                                "I happen to think he's right (= I do think so, although you do not).",
+                                "As it happened (= although it was not planned), I had a few minutes to spare."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhæp.ən"
+                            ],
+                            "us": [
+                                "ˈhæp.ən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "perhaps: ",
+                            "examples": [
+                                "Happen it'll rain later on."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

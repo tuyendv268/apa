@@ -1,0 +1,41 @@
+{
+    "word": "vocabulary",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "vəˈkæb.jə.lər.i"
+                            ],
+                            "us": [
+                                "voʊˈkæb.jə.ler.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "all the words known and used by a particular person: ",
+                            "examples": [
+                                "a wide/limited vocabulary",
+                                "By the age of two a child will have a vocabulary of about two hundred words."
+                            ]
+                        },
+                        {
+                            "explanation": "all the words that exist in a particular language or subject: ",
+                            "examples": [
+                                "Every week our Spanish teacher gives us a list of vocabulary (= words) to learn.",
+                                "Computing, like any subject, has its own vocabulary."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

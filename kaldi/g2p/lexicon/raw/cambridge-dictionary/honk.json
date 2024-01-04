@@ -1,0 +1,61 @@
+{
+    "word": "honk",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "hɒŋk"
+                            ],
+                            "us": [
+                                "hɑːŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a goose or a car horn honks, it makes a short, loud sound.",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to vomit: ",
+                            "examples": [
+                                "He honked (up) all over the floor."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "hɒŋk"
+                            ],
+                            "us": [
+                                "hɑːŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short, loud sound made by a car horn or a goose: ",
+                            "examples": [
+                                "He gave us a honk on his horn as he drove off."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

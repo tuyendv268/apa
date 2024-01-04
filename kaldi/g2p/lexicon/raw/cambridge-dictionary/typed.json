@@ -1,0 +1,57 @@
+{
+    "word": "typed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntype ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "taɪp"
+                            ],
+                            "us": [
+                                "taɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to write using a machine, either a computer keyboard or a typewriter: ",
+                            "examples": [
+                                "She asked me to type a couple of letters.",
+                                "He can type very quickly.",
+                                "I was typing away into the early hours of the morning just to get it done."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

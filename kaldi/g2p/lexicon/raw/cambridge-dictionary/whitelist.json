@@ -1,0 +1,55 @@
+{
+    "word": "whitelist",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈwaɪt.lɪst"
+                            ],
+                            "us": [
+                                "ˈwaɪt.lɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of people or things that are considered by a particular authority or group to be acceptable and that should be trusted ",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈwaɪt.lɪst"
+                            ],
+                            "us": [
+                                "ˈwaɪt.lɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put the name of someone or something on a whitelist: ",
+                            "examples": [
+                                "The software can be used to handle the \"allow\" and \"block\" lists in order to whitelist and blacklist particular email users and domains."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

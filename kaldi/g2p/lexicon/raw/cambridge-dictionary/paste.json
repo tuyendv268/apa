@@ -1,0 +1,82 @@
+{
+    "word": "paste",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "peɪst"
+                            ],
+                            "us": [
+                                "peɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a thick soft sticky substance made by mixing a liquid with a powder, especially to make a type of glue: ",
+                            "examples": [
+                                "flour-and-water paste",
+                                "wallpaper paste"
+                            ]
+                        },
+                        {
+                            "explanation": "a thick soft substance made by crushing and mixing things such as fish, fruit, or vegetables for food: ",
+                            "examples": [
+                                "tomato/anchovy/curry paste"
+                            ]
+                        },
+                        {
+                            "explanation": "a hard type of glass used to make artificial jewels: ",
+                            "examples": [
+                                "Are these real diamonds or paste?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "peɪst"
+                            ],
+                            "us": [
+                                "peɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to stick something to something, especially with paste: ",
+                            "examples": [
+                                "You can make your own distorting mirror by pasting a sheet of kitchen foil to a piece of thin cardboard."
+                            ]
+                        },
+                        {
+                            "explanation": "to move a piece of text to a particular place in a computer document: ",
+                            "examples": [
+                                "Cut that paragraph and then paste it at the end of the page."
+                            ]
+                        },
+                        {
+                            "explanation": "to move words or pictures from one place to another in a computer document: ",
+                            "examples": [
+                                "It's not enough simply to cut and paste text from the internet."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

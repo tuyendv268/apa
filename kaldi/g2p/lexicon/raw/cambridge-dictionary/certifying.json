@@ -1,0 +1,63 @@
+{
+    "word": "certifying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ncertify ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɜː.tɪ.faɪ"
+                            ],
+                            "us": [
+                                "ˈsɝː.t̬ə.faɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say in a formal or official way, usually in writing, that something is true or correct: ",
+                            "examples": [
+                                "I hereby certify (that) the above information is true and accurate.",
+                                "The driver was certified (as) dead on arrival at the hospital.",
+                                "The meat has been certified (as) fit for human consumption."
+                            ]
+                        },
+                        {
+                            "explanation": "to say officially that someone is mentally ill: ",
+                            "examples": [
+                                "As a young man, he had been certified and sent to a hospital for the mentally ill."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

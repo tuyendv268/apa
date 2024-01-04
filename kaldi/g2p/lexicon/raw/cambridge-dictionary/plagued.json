@@ -1,0 +1,63 @@
+{
+    "word": "plagued",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nplague ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "pleɪɡ"
+                            ],
+                            "us": [
+                                "pleɪɡ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause worry, pain, or difficulty to someone or something over a period of time: ",
+                            "examples": [
+                                "Financial problems have been plaguing their new business partners.",
+                                "My shoulder's been plaguing me all week."
+                            ]
+                        },
+                        {
+                            "explanation": "to annoy someone, especially by asking repeated questions: ",
+                            "examples": [
+                                "The children plagued him with questions all through lunch.",
+                                "He's been plaguing me for a loan of the book."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

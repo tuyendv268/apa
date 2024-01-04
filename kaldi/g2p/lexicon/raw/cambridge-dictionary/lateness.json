@@ -1,0 +1,41 @@
+{
+    "word": "lateness",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈleɪt.nəs"
+                            ],
+                            "us": [
+                                "ˈleɪt.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the fact of happening or arriving after the planned, expected, usual, or necessary time: ",
+                            "examples": [
+                                "He was fired from his job for persistent lateness.",
+                                "Sorry for the lateness of my reply."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of being near the end of the day: ",
+                            "examples": [
+                                "It was no great surprise that you were tired given the lateness of the hour.",
+                                "I'm sorry for the lateness of the call, but I need to speak to you urgently."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

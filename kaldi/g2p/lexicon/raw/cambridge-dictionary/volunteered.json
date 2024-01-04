@@ -1,0 +1,65 @@
+{
+    "word": "volunteered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nvolunteer ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌvɒl.ənˈtɪər"
+                            ],
+                            "us": [
+                                "ˌvɑː.lənˈtɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to offer to do something that you do not have to do, often without having been asked to do it and/or without expecting payment: ",
+                            "examples": [
+                                "During the emergency many staff volunteered to work through the weekend.",
+                                "He volunteered for the army (= he joined even though he did not have to).",
+                                "I volunteered myself for the position of Health and Safety Representative.",
+                                "My friends volunteered me to do the talking."
+                            ]
+                        },
+                        {
+                            "explanation": "to give information without being asked: ",
+                            "examples": [
+                                "If I were you, I wouldn't volunteer any details of what happened.",
+                                "\"I saw her going out of the main entrance half an hour ago,\" he volunteered."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

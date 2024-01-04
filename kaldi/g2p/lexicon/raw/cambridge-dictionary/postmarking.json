@@ -1,0 +1,56 @@
+{
+    "word": "postmarking",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \npostmark ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊst.mɑːk"
+                            ],
+                            "us": [
+                                "ˈpoʊst.mɑːrk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put a postmark on a letter or parcel: ",
+                            "examples": [
+                                "Almost all of the letters were postmarked in Florida.",
+                                "Voter registration forms had to be postmarked by midnight."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

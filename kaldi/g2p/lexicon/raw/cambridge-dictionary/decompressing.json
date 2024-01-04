@@ -1,0 +1,67 @@
+{
+    "word": "decompressing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndecompress ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌdiː.kəmˈpres"
+                            ],
+                            "us": [
+                                "ˌdiː.kəmˈpres"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to reduce in pressure or return to the original lower pressure, or to cause something to do this: ",
+                            "examples": [
+                                "If a plane window breaks, the cabin will rapidly decompress."
+                            ]
+                        },
+                        {
+                            "explanation": "to return to the original size, or to cause something to do this: ",
+                            "examples": [
+                                "The computer chip compresses and decompresses a colour image in less than a second."
+                            ]
+                        },
+                        {
+                            "explanation": "to relax: ",
+                            "examples": [
+                                "After two weeks' hiking we'll need a few days to decompress."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

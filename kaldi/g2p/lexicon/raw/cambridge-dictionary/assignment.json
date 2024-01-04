@@ -1,0 +1,52 @@
+{
+    "word": "assignment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈsaɪn.mənt"
+                            ],
+                            "us": [
+                                "əˈsaɪn.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of work given to someone, typically as part of their studies or job: ",
+                            "examples": [
+                                "a freelance/photo assignment",
+                                "I have a lot of reading assignments to complete before the end of term."
+                            ]
+                        },
+                        {
+                            "explanation": "a job that someone is sent somewhere to do: ",
+                            "examples": [
+                                "a foreign/diplomatic assignment"
+                            ]
+                        },
+                        {
+                            "explanation": "Someone who is on assignment is doing a particular job or piece of work, usually in a particular place where they have been sent for a period of time: ",
+                            "examples": [
+                                "Both journalists were killed while on assignment in the region."
+                            ]
+                        },
+                        {
+                            "explanation": "the process of giving a particular job or piece of work to someone, or of sending someone to a chosen place to do a job: ",
+                            "examples": [
+                                "assignment of the various tasks"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

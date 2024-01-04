@@ -1,0 +1,62 @@
+{
+    "word": "experiment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈsper.ɪ.mənt"
+                            ],
+                            "us": [
+                                "ɪkˈsper.ə.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a test done in order to learn something or to discover if something works or is true: ",
+                            "examples": [
+                                "Some people believe that experiments on animals should be banned.",
+                                "Scientists are conducting/carrying out/doing experiments to test the effectiveness of the new drug.",
+                                "I've bought a different kind of coffee this week as an experiment (= in order to see what it is like).",
+                                "We can only find the best solution by experiment."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈsper.ɪ.ment"
+                            ],
+                            "us": [
+                                "ɪkˈsper.ə.ment"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to try something in order to discover what it is like or find out more about it: ",
+                            "examples": [
+                                "Things would never change if people weren't prepared to experiment.",
+                                "The school is experimenting with new teaching methods.",
+                                "Experimenting on mice can give us an idea of the effect of the disease in humans."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

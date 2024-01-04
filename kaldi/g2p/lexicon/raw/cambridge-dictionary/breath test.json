@@ -1,0 +1,31 @@
+{
+    "word": "breath test",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbreθ ˌtest"
+                            ],
+                            "us": [
+                                "ˈbreθ ˌtest"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a test in which the police ask a driver to blow into a breathalyser (= a device shaped like a bag) to show if they have drunk too much alcohol to be allowed to drive",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "spike protein",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspaɪk ˌprəʊ.tiːn"
+                            ],
+                            "us": [
+                                "ˈspaɪk ˌproʊ.tiːn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a glycoprotein (= a type of protein that contains a carbohydrate group) that forms a structure that sticks out on the outer edge of a virus, which helps the virus to attach itself to a cell in a person's or animal's body and enter the cell: ",
+                            "examples": [
+                                "Members of the coronavirus family have sharp bumps known as spike proteins that protrude from the surface of their outer envelopes. ",
+                                "The emergence of SARS was probably linked to the adaptation of spike protein to bind strongly to human cells."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

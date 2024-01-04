@@ -1,0 +1,33 @@
+{
+    "word": "dataset",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeɪ.tə.set"
+                            ],
+                            "us": [
+                                "ˈdeɪ.t̬ə.set"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a collection of separate sets of information that is treated as a single unit by a computer: ",
+                            "examples": [
+                                "Our dataset is 100 times more extensive than any other published for an extinct species."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

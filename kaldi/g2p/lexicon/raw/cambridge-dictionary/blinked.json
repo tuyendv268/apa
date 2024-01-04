@@ -1,0 +1,59 @@
+{
+    "word": "blinked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nblink ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "blɪŋk"
+                            ],
+                            "us": [
+                                "blɪŋk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When you blink, you close and then open your eyes quickly once or several times, and when an eye blinks, it does this: ",
+                            "examples": [
+                                "You've got something in your eye - try blinking a few times."
+                            ]
+                        },
+                        {
+                            "explanation": "If a light blinks, it flashes on and off.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "common factor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkɒm.ən ˈfæk.tər"
+                            ],
+                            "us": [
+                                "ˌkɑː.mən ˈfæk.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number that a set of two or more different numbers can be divided by exactly: ",
+                            "examples": [
+                                "Three is a common factor of 18 and 24."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

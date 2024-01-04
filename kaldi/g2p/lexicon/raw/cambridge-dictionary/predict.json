@@ -1,0 +1,36 @@
+{
+    "word": "predict",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈdɪkt"
+                            ],
+                            "us": [
+                                "prɪˈdɪkt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say that an event or action will happen in the future, especially as a result of knowledge or experience: ",
+                            "examples": [
+                                "It's still not possible to accurately predict the occurrence of earthquakes.",
+                                "Who could have predicted that within ten years he'd be in charge of the whole company?",
+                                "The hurricane is predicted to reach the coast tomorrow morning.",
+                                "No one can predict when the disease will strike again."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

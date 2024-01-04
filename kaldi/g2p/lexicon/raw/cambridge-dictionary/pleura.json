@@ -1,0 +1,33 @@
+{
+    "word": "pleura",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈplʊə.rə"
+                            ],
+                            "us": [
+                                "ˈplʊr.ə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a thin membrane covering each lung that folds back to make a lining for the chest cavity: ",
+                            "examples": [
+                                "The pleura protects your lungs and helps them slide back and forth as they expand and contract during breathing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

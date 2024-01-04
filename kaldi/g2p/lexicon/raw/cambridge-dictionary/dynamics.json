@@ -1,0 +1,47 @@
+{
+    "word": "dynamics",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "daɪˈnæm.ɪks"
+                            ],
+                            "us": [
+                                "daɪˈnæm.ɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "forces that produce movement: ",
+                            "examples": [
+                                "This software is used for modelling atmospheric dynamics."
+                            ]
+                        },
+                        {
+                            "explanation": "forces or processes that produce change inside a group or system: ",
+                            "examples": [
+                                "The fight for the leadership gave a fascinating insight into the group's dynamics."
+                            ]
+                        },
+                        {
+                            "explanation": "changes in loudness in a piece of music",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the scientific study of the forces that produce movement",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

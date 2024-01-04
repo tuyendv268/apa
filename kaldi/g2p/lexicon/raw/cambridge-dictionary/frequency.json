@@ -1,0 +1,49 @@
+{
+    "word": "frequency",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfriː.kwən.si"
+                            ],
+                            "us": [
+                                "ˈfriː.kwən.si"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number of times something happens within a particular period, or the fact of something happening often or a large number or times: ",
+                            "examples": [
+                                "Complaints about the frequency of buses rose in the last year.",
+                                "the increasing frequency of terrorist attacks",
+                                "It's not the duration of his absences from work so much as the frequency that worries me."
+                            ]
+                        },
+                        {
+                            "explanation": "the number of times that a wave, especially a light, sound, or radio wave, is produced within a particular period, especially one second: ",
+                            "examples": [
+                                "the frequency of light",
+                                "low frequency radiation",
+                                "The human ear cannot hear very high-frequency sounds."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular number of radio waves produced in a second at which a radio signal is broadcast: ",
+                            "examples": [
+                                "Do you know what frequency the BBC World Service is on?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

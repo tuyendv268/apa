@@ -1,0 +1,67 @@
+{
+    "word": "micro",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmaɪ.krəʊ"
+                            ],
+                            "us": [
+                                "ˈmaɪ.kroʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "informal for\nmicrocomputer ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "prefix",
+                        "ipa": {
+                            "uk": [
+                                "maɪ.krəʊ-"
+                            ],
+                            "us": [
+                                "maɪ.kroʊ-"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "very small: ",
+                            "examples": [
+                                "a microorganism",
+                                "microbiology"
+                            ]
+                        },
+                        {
+                            "explanation": "0.000 001 or one millionth of the stated unit: ",
+                            "examples": [
+                                "a micrometre",
+                                "a microgram"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

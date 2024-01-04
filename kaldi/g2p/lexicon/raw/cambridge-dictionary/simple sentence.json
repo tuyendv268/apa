@@ -1,0 +1,31 @@
+{
+    "word": "simple sentence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌsɪm.pəl ˈsen.təns"
+                            ],
+                            "us": [
+                                "ˌsɪm.pəl ˈsen.təns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a sentence that has only one verb",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

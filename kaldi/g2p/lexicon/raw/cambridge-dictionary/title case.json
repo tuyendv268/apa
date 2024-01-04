@@ -1,0 +1,33 @@
+{
+    "word": "title case",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtaɪ.təl ˌkeɪs"
+                            ],
+                            "us": [
+                                "ˈtaɪ.t̬əl ˌkeɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use of capital letters in the most important words of titles of books, films, etc.: ",
+                            "examples": [
+                                "The application allows you to toggle between sentence case and title case."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

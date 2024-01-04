@@ -1,0 +1,93 @@
+{
+    "word": "saw",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sɔː"
+                            ],
+                            "us": [
+                                "sɑː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple of see",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sɔː"
+                            ],
+                            "us": [
+                                "sɑː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "mainly US"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut wood or other hard material using a saw: ",
+                            "examples": [
+                                "They sawed the door in half.",
+                                "He sawed through the pipe."
+                            ]
+                        },
+                        {
+                            "explanation": "to move something backwards and forwards as if using a saw: ",
+                            "examples": [
+                                "He was sawing away at his violin, making a terrible noise!"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɔː"
+                            ],
+                            "us": [
+                                "sɑː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a tool with a blade or sharp cutting points, used for cutting hard materials such as wood or metal: ",
+                            "examples": [
+                                "Cut off the unwanted branches close to the trunk using a saw.",
+                                "Warehouse workers would saw up blocks of salt with a special saw."
+                            ]
+                        },
+                        {
+                            "explanation": "a short sentence that states something that is generally thought to be true, or that gives useful advice: ",
+                            "examples": [
+                                "An old saw says a hospital can be a dangerous place for a healthy person."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "john bull",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdʒɒn ˈbʊl"
+                            ],
+                            "us": [
+                                "ˌdʒɑːn ˈbʊl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a character who represents a typical Englishman or the English people in general: ",
+                            "examples": [
+                                "John Bull is traditionally depicted as a fat man wearing a waistcoat with the British flag on it."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

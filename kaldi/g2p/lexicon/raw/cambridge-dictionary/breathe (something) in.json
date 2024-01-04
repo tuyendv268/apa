@@ -1,0 +1,37 @@
+{
+    "word": "breathe (something) in",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "collocation",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move air into the lungs: ",
+                            "examples": [
+                                "The doctor told me to breathe in and hold it for three seconds. ",
+                                "Breathe in for five seconds, then hold your breath before breathing out."
+                            ]
+                        },
+                        {
+                            "explanation": "If you breathe something in, you move it into your lungs: ",
+                            "examples": [
+                                "Breathing in just a small amount of the gas can cause serious damage.",
+                                "She tilted her head back, breathing in the scent of the rose bushes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

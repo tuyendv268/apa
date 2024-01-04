@@ -1,0 +1,84 @@
+{
+    "word": "differentiating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndifferentiate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌdɪf.əˈren.ʃi.eɪt"
+                            ],
+                            "us": [
+                                "ˌdɪf.əˈren.ʃi.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to show or find the difference between things that are compared: ",
+                            "examples": [
+                                "We do not differentiate between our employees on the basis of their race, religion, or national origin.",
+                                "Most consumers have no trouble differentiating our brand's cereal from our leading competitor's.",
+                                "Service providers are all keen to differentiate themselves from their competitors."
+                            ]
+                        },
+                        {
+                            "explanation": "to make someone or something different: ",
+                            "examples": [
+                                "The slate roof differentiates this house from others in the area.",
+                                "We look for features that differentiate the products."
+                            ]
+                        },
+                        {
+                            "explanation": "(of cells or tissue) to develop specialized structures or functions: ",
+                            "examples": [
+                                "The cell divides and differentiates to form new, specialized tissue.",
+                                "Embryonic stem cells are able to differentiate into any cell type. ",
+                                "Such cell lines can be induced to differentiate to cells that produce insulin. "
+                            ]
+                        },
+                        {
+                            "explanation": "to calculate the derivative of a function: ",
+                            "examples": [
+                                "Differentiate the following functions with respect to x."
+                            ]
+                        },
+                        {
+                            "explanation": "to use different teaching materials and methods within the same lesson to suit the abilities and needs of different students: ",
+                            "examples": [
+                                "This approach allows me to differentiate my instruction for all my students."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

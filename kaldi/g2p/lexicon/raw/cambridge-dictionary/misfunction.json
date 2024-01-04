@@ -1,0 +1,59 @@
+{
+    "word": "misfunction",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɪsˈfʌŋk.ʃən"
+                            ],
+                            "us": [
+                                "ˌmɪsˈfʌŋk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to fail to work or operate correctly: ",
+                            "examples": [
+                                "The pause button seems to be misfunctioning.",
+                                "The aim was for the drugs to target the misfunctioning cells."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mɪsˈfʌŋk.ʃən"
+                            ],
+                            "us": [
+                                "ˌmɪsˈfʌŋk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a failure to work or operate correctly: ",
+                            "examples": [
+                                "If no misfunction is sensed, the system will reboot.",
+                                "The aim was to further scientists' understanding of brain function and misfunction."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

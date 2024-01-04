@@ -1,0 +1,62 @@
+{
+    "word": "pared",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npare ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "peər"
+                            ],
+                            "us": [
+                                "per"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cut away the outer layer from something, especially a fruit or a vegetable: ",
+                            "examples": [
+                                "He was busy paring apples in the kitchen.",
+                                "Pare off any bits of the carrots that don't look very nice."
+                            ]
+                        },
+                        {
+                            "explanation": "to reduce something, especially by a large amount: ",
+                            "examples": [
+                                "The three-hour play has been pared (down/back) to two hours."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "word": "director",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "daɪˈrek.tər",
+                                "dɪˈrek.tər"
+                            ],
+                            "us": [
+                                "daɪˈrek.tɚ",
+                                "dɪˈrek.tɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a manager of an organization, company, college, etc.: ",
+                            "examples": [
+                                "the board of directors",
+                                "She has become the director of the new information centre."
+                            ]
+                        },
+                        {
+                            "explanation": "someone in charge of a school for very young children",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a person who is in charge of a film or play and tells the actors how to play their parts: ",
+                            "examples": [
+                                "a famous film/movie director"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

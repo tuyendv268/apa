@@ -1,0 +1,60 @@
+{
+    "word": "premise",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprem.ɪs"
+                            ],
+                            "us": [
+                                "ˈprem.ɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an idea or theory on which a statement or action is based: ",
+                            "examples": [
+                                "They had started with the premise that all men are created equal.",
+                                "The research project is based on the premise stated earlier."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "prɪˈmaɪz",
+                                "ˈprem.ɪs"
+                            ],
+                            "us": [
+                                "prɪˈmaɪz",
+                                "ˈprem.ɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to base a theory, argument, etc. on an idea, thought, or belief: ",
+                            "examples": [
+                                "He premised his argument on several incorrect assumptions."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

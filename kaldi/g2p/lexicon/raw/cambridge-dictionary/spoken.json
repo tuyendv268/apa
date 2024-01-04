@@ -1,0 +1,66 @@
+{
+    "word": "spoken",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈspəʊ.kən"
+                            ],
+                            "us": [
+                                "ˈspoʊ.kən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past participle of speak",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "language that is spoken, not written or sung: ",
+                            "examples": [
+                                "The library holds recordings of the spoken word as well as music."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -spəʊ.kən"
+                            ],
+                            "us": [
+                                " -spoʊ.kən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "speaking in a particular way: ",
+                            "examples": [
+                                "a softly-spoken young man",
+                                "a well-spoken lady"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "word": "blame",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "bleɪm"
+                            ],
+                            "us": [
+                                "bleɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to say or think that someone or something did something wrong or is responsible for something bad happening: ",
+                            "examples": [
+                                "Don't blame me (= it is not my fault) if you miss the bus!",
+                                "Hugh blames his mother for his lack of confidence.",
+                                "Hugh blames his lack of confidence on his mother."
+                            ]
+                        },
+                        {
+                            "explanation": "said in order to tell someone that you understand why they are doing something and that you agree with the reason for doing it: ",
+                            "examples": [
+                                "I don't blame him for getting angry - she's being really annoying."
+                            ]
+                        },
+                        {
+                            "explanation": "to be the reason for something bad that happens: ",
+                            "examples": [
+                                "The hot weather is partly to blame for the water shortage."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "bleɪm"
+                            ],
+                            "us": [
+                                "bleɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the situation in which people say or think that someone or something did something wrong or is responsible for something bad happening: ",
+                            "examples": [
+                                "Health officials put the blame for the disease on (= say that the reason for the disease is) poor housing conditions.",
+                                "They tried to pin (= put) the blame for the killing on an innocent army officer.",
+                                "We want to find out what happened, not to apportion blame (= to say someone or something was wrong)."
+                            ]
+                        },
+                        {
+                            "explanation": "If you take the blame for something, you say that you did it or that it is your fault: ",
+                            "examples": [
+                                "If anything goes wrong, I'll take the blame."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

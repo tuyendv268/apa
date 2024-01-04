@@ -1,0 +1,80 @@
+{
+    "word": "ad",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "æd"
+                            ],
+                            "us": [
+                                "æd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "informal for an advertisement: ",
+                            "examples": [
+                                "I often prefer the ads on TV to the actual programmes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌeɪˈdiː"
+                            ],
+                            "us": [
+                                "ˌeɪˈdiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for \nAnno Domini : a Latin phrase meaning \"in the year of the Lord\", which is used when referring to a year after Jesus Christ was born: ",
+                            "examples": [
+                                "in 1215 AD/AD 1215",
+                                "during the seventh century AD"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for \nAlzheimer's Disease ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

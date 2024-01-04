@@ -1,0 +1,33 @@
+{
+    "word": "fallback",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɔːl.bæk"
+                            ],
+                            "us": [
+                                "ˈfɑːl.bæk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "A fallback plan or position can be used if other plans do not succeed or other things are not available: ",
+                            "examples": [
+                                "Do we have a fallback position for these negotiations?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

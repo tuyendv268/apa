@@ -1,0 +1,41 @@
+{
+    "word": "makeup",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmeɪk.ʌp"
+                            ],
+                            "us": [
+                                "ˈmeɪk.ʌp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "colored substances used on your face to improve or change your appearance: ",
+                            "examples": [
+                                "I put on a little eye makeup.",
+                                "She wears a lot of makeup."
+                            ]
+                        },
+                        {
+                            "explanation": "The makeup of something or someone is the combination of things that form it: ",
+                            "examples": [
+                                "They argue that the membership of the Council does not reflect the racial makeup of the city.",
+                                "Organizational ability is not one of the most obvious parts of his makeup."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

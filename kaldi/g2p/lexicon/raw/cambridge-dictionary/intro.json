@@ -1,0 +1,34 @@
+{
+    "word": "intro",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.trəʊ"
+                            ],
+                            "us": [
+                                "ˈɪn.troʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an \nintroduction : ",
+                            "examples": [
+                                "This song has a brilliant piano intro.",
+                                "Would you mind doing the intros, Martha, while I pour some drinks?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

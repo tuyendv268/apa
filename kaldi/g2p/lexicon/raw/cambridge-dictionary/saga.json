@@ -1,0 +1,45 @@
+{
+    "word": "saga",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɑː.ɡə"
+                            ],
+                            "us": [
+                                "ˈsɑː.ɡə"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a long story about Scandinavian history, written in the Old Norse language in the Middle Ages, mainly in Iceland: ",
+                            "examples": [
+                                "Norse sagas"
+                            ]
+                        },
+                        {
+                            "explanation": "a long story about past events over a long period of time: ",
+                            "examples": [
+                                "Her new novel is a lengthy and compelling family saga."
+                            ]
+                        },
+                        {
+                            "explanation": "a long complicated series of related, usually negative, events: ",
+                            "examples": [
+                                "It was just another episode in the ongoing saga of their marriage problems."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "word": "subsided",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsubside ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "səbˈsaɪd"
+                            ],
+                            "us": [
+                                "səbˈsaɪd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a condition subsides, it becomes less strong or extreme: ",
+                            "examples": [
+                                "The police are hoping that the violence will soon subside.",
+                                "As the pain in my foot subsided, I was able to walk the short distance to the car."
+                            ]
+                        },
+                        {
+                            "explanation": "If a building, land, or water subsides, it goes down to a lower level: ",
+                            "examples": [
+                                "There is a danger that many homes will subside because of the drought.",
+                                "Eventually the flood waters began to subside."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

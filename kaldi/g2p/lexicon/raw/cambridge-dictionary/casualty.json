@@ -1,0 +1,47 @@
+{
+    "word": "casualty",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkæʒ.ju.əl.ti"
+                            ],
+                            "us": [
+                                "ˈkæʒ.uː.əl.ti"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person injured or killed in a serious accident or war: ",
+                            "examples": [
+                                "The rebels suffered heavy casualties.",
+                                "The train was derailed but there were no casualties, police said."
+                            ]
+                        },
+                        {
+                            "explanation": "a person or thing that suffers as a result of something else happening: ",
+                            "examples": [
+                                "She lost her job in 2011, a casualty of the recession.",
+                                "The first casualty of the reorganization will be the bus service, which will be stopped altogether."
+                            ]
+                        },
+                        {
+                            "explanation": "the part of a hospital where people who are hurt in accidents or suddenly become ill are taken for urgent treatment: ",
+                            "examples": [
+                                "She had to be rushed to casualty."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

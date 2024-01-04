@@ -1,0 +1,46 @@
+{
+    "word": "verse",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "vɜːs"
+                            ],
+                            "us": [
+                                "vɝːs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "writing that is arranged in short lines with a regular rhythm; poetry: ",
+                            "examples": [
+                                "comic/light/satirical verse",
+                                "Shakespeare wrote mostly in verse."
+                            ]
+                        },
+                        {
+                            "explanation": "one of the parts that a poem or song is divided into: ",
+                            "examples": [
+                                "Each verse was sung as a solo and then everyone joined in on the chorus."
+                            ]
+                        },
+                        {
+                            "explanation": "one of the series of short parts that the writing of a holy book is divided into: ",
+                            "examples": [
+                                "She recited a verse from the Bible/the Koran."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

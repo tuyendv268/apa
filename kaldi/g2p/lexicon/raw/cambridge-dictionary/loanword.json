@@ -1,0 +1,33 @@
+{
+    "word": "loanword",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈləʊn.wɜːd"
+                            ],
+                            "us": [
+                                "ˈloʊn.wɝːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word taken from one language and used in another: ",
+                            "examples": [
+                                "diacritic marks used in loan words like the French \"naïveté\" "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

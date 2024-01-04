@@ -1,0 +1,34 @@
+{
+    "word": "referentially",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌref.əˈren.ʃəl.i"
+                            ],
+                            "us": [
+                                "ˌref.əˈren.ʃəl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that refers to a particular person or thing: ",
+                            "examples": [
+                                "The first sentence is referentially ambiguous.",
+                                "The texts are not always referentially transparent."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

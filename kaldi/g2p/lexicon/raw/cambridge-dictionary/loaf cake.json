@@ -1,0 +1,34 @@
+{
+    "word": "loaf cake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈləʊf ˌkeɪk"
+                            ],
+                            "us": [
+                                "ˈloʊf ˌkeɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a cake baked in a rectangular tin: ",
+                            "examples": [
+                                "I'm making a banana and walnut loaf cake.",
+                                "We like a slice of loaf cake with our morning coffee."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

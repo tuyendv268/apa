@@ -1,0 +1,58 @@
+{
+    "word": "instance",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.stəns"
+                            ],
+                            "us": [
+                                "ˈɪn.stəns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a particular situation, event, or fact, especially an example of something that happens generally: ",
+                            "examples": [
+                                "There have been several instances of violence at the school.",
+                                "I don't usually side with the management, but in this instance I agree with what they're saying."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɪn.stəns"
+                            ],
+                            "us": [
+                                "ˈɪn.stəns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give something as an example: ",
+                            "examples": [
+                                "She argued the need for legal reform and instanced several recent cases with grossly unfair verdicts."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

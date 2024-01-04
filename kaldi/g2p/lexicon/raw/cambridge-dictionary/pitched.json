@@ -1,0 +1,65 @@
+{
+    "word": "pitched",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "pɪtʃt"
+                            ],
+                            "us": [
+                                "pɪtʃt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "sloping and not flat: ",
+                            "examples": [
+                                "The garage has a pitched roof, not a flat one."
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to percussion instruments that produce musical notes of one or more definite pitches",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [
+                                " -pɪtʃt"
+                            ],
+                            "us": [
+                                " -pɪtʃt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "at the stated level or degree: ",
+                            "examples": [
+                                "a high-pitched voice/scream"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

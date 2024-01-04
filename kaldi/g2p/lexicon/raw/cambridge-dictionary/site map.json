@@ -1,0 +1,41 @@
+{
+    "word": "site map",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪt ˌmæp"
+                            ],
+                            "us": [
+                                "ˈsaɪt ˌmæp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a map of an area that is difficult to find your way around, for example a university campus or factory buildings: ",
+                            "examples": [
+                                "They consulted the festival site map to locate the main stage.",
+                                "At the entrance to the theme park you are given a site map."
+                            ]
+                        },
+                        {
+                            "explanation": "a plan of the different pages on a website that can be used by users to find their way around the website or by programs that automatically browse the internet: ",
+                            "examples": [
+                                "You can also navigate through the home page and site map.",
+                                "The software is a free sitemap creator that exports directory structure to an html file."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

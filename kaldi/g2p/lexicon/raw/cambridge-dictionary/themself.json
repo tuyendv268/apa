@@ -1,0 +1,40 @@
+{
+    "word": "themself",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "ðəmˈself"
+                            ],
+                            "us": [
+                                "ðəmˈself"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used when the subject of the verb is \"they\" used as a singular pronoun, or a single person who could be any gender, and the object is the same person: ",
+                            "examples": [
+                                "It's all about letting someone be themself.",
+                                "Our publication uses singular \"they\" and \"them\" when discussing a nonbinary, agender or gender-fluid person who uses those pronouns for themself."
+                            ]
+                        },
+                        {
+                            "explanation": "used for emphasis when the subject is \"they\" used as a singular pronoun, or a single person who could be any gender: ",
+                            "examples": [
+                                "Each parent/child relationship is different and the only expert on that specific child is the parent themself. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

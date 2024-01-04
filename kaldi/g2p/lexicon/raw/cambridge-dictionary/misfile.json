@@ -1,0 +1,41 @@
+{
+    "word": "misfile",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "mɪsˈfaɪl"
+                            ],
+                            "us": [
+                                "ˌmɪsˈfaɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to store or record information in the wrong place : ",
+                            "examples": [
+                                "These papers could have been misfiled in any box.",
+                                "Invoices sent electronically can't get lost in the post or mis-filed. "
+                            ]
+                        },
+                        {
+                            "explanation": "to provide wrong or false information to be considered officially, especially by a court of law, or to provide information in the wrong way: ",
+                            "examples": [
+                                "The summons was misfiled. ",
+                                "Immigrants were warned that misfiling applications could result in deportation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

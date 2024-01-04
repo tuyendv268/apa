@@ -1,0 +1,63 @@
+{
+    "word": "overcooked",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \novercook ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˌəʊ.vəˈkʊk"
+                            ],
+                            "us": [
+                                "ˌoʊ.vɚˈkʊk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cook food for longer than necessary, reducing its quality as a result: ",
+                            "examples": [
+                                "Be careful not to overcook the pasta.",
+                                "The chicken was overcooked and dry."
+                            ]
+                        },
+                        {
+                            "explanation": "to do or use something too much: ",
+                            "examples": [
+                                "Occasionally he overcooks the metaphors (\"the wind howled like a gut-shot wolf\").",
+                                "People are fed up with overcooked TV tropes."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "word": "artificial intelligence",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌɑː.tɪ.fɪʃ.əl ɪnˈtel.ɪ.dʒəns"
+                            ],
+                            "us": [
+                                "ˌɑːr.t̬ə.fɪʃ.əl ɪnˈtel.ə.dʒəns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the use or study of computer systems or machines that have some of the qualities that the human brain has, such as the ability to interpret and produce language in a way that seems human, recognize or create images, solve problems, and learn from data supplied to them: ",
+                            "examples": [
+                                "Can artificial intelligence really create better art than a human artist?",
+                                "For her postgraduate degree, she specialized in artificial intelligence.",
+                                "Researchers have built an artificial intelligence model that can accurately identify cancer."
+                            ]
+                        },
+                        {
+                            "explanation": "a particular computer system or machine that has some of the qualities that the human brain has, such as the ability to interpret and produce language in a way that seems human, recognize or create images, solve problems, and learn from data supplied to it: ",
+                            "examples": [
+                                "What happens when we set out to build artificial intelligences in real life rather than in films?",
+                                "An artificial intelligence has beaten eight world champions at the game of bridge."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

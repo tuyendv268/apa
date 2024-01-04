@@ -1,0 +1,39 @@
+{
+    "word": "pancake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpæn.keɪk"
+                            ],
+                            "us": [
+                                "ˈpæn.keɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a thin, flat, round cake made from a mixture of flour, milk, and egg, fried on both sides: ",
+                            "examples": [
+                                "Do you want a sweet pancake or a savoury one?"
+                            ]
+                        },
+                        {
+                            "explanation": "a thin, flat, round cake made from flour, sugar, milk, and eggs, cooked in a pan and usually eaten with maple syrup for breakfast: ",
+                            "examples": [
+                                "a stack of pancakes"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

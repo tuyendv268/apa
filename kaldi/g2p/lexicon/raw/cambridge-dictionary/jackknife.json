@@ -1,0 +1,55 @@
+{
+    "word": "jackknife",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒæk.naɪf"
+                            ],
+                            "us": [
+                                "ˈdʒæk.naɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a truck that has two parts jackknifes, one part moves around so far towards the other part that it cannot be driven: ",
+                            "examples": [
+                                "The oil tanker jackknifed after skidding on the ice."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒæk.naɪf"
+                            ],
+                            "us": [
+                                "ˈdʒæk.naɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a large knife with a blade that folds into the handle",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "applicative",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈplɪk.ə.tɪv"
+                            ],
+                            "us": [
+                                "əˈplɪk.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "using or showing a grammatical voice (= a form of a word that shows the relationship between the action described by a verb and its subject) that exists in some languages and that relates to transitivity (= the relationship between a verb and any of its objects): ",
+                            "examples": [
+                                "They studied Sesotho double object applicative constructions.",
+                                "In this sentence, the verb is suffixed by -pii, the applicative marker. "
+                            ]
+                        },
+                        {
+                            "explanation": "relating to a subject of study, especially a science, that has a practical use: ",
+                            "examples": [
+                                "Machine learning is an applicative science that has optimized algorithms and models for data analysis."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈplɪk.ə.tɪv"
+                            ],
+                            "us": [
+                                "əˈplɪk.ə.t̬ɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a grammatical voice (= a form of a word that shows the relationship between the action described by a verb and its subject) that exists in some languages and that relates to transitivity (= the relationship between a verb and any of its objects): ",
+                            "examples": [
+                                "A language may have multiple applicatives.",
+                                "common Sesotho verbs used in the applicative"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "lemmatize",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈlem.ə.taɪz"
+                            ],
+                            "us": [
+                                "ˈlem.ə.taɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to reduce the different forms of a word to one single form, for example, reducing \"builds\", \"building\",or \"built\" to the lemma \"build\": ",
+                            "examples": [
+                                "Compounds were lemmatized, that is, inflectional differences were disregarded.",
+                                "We used a lemmatised frequency list for the 8000 most frequent words in English."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

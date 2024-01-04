@@ -1,0 +1,79 @@
+{
+    "word": "the first person",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌfɜːst ˈpɜː.sən"
+                            ],
+                            "us": [
+                                "ˌfɝːst ˈpɝː.sən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the form of a verb or pronoun that is used when people are speaking or writing about themselves: ",
+                            "examples": [
+                                "Autobiographies are written in the first person."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɜːstˌpɜː.sən"
+                            ],
+                            "us": [
+                                "ˈfɜ˞ːstˌpɜ˞ː.sən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "showing that someone is speaking or writing about themselves : ",
+                            "examples": [
+                                "The writer is deliberately personal, using the first-person pronoun throughout."
+                            ]
+                        },
+                        {
+                            "explanation": "telling a story using the form \"I\" or \"we\": ",
+                            "examples": [
+                                "The nameless first-person narrator is the focus of the story."
+                            ]
+                        },
+                        {
+                            "explanation": "described by someone who was actually present somewhere or who actually experienced something, rather than by someone reporting what they said: ",
+                            "examples": [
+                                "a collection of first-person accounts of former slaves"
+                            ]
+                        },
+                        {
+                            "explanation": "used to refer to a video game that you play as though you are the person in the game: ",
+                            "examples": [
+                                "Doom is the orginal first-person shooter video game."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

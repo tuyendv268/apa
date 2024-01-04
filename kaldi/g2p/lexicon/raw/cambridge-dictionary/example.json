@@ -1,0 +1,59 @@
+{
+    "word": "example",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪɡˈzɑːm.pəl"
+                            ],
+                            "us": [
+                                "ɪɡˈzæm.pəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "something that is typical of the group of things that it is a member of: ",
+                            "examples": [
+                                "Could you give me an example of the improvements you have mentioned?",
+                                "This painting is a marvellous example of her work."
+                            ]
+                        },
+                        {
+                            "explanation": "a way of helping someone to understand something by showing them how it is used: ",
+                            "examples": [
+                                "Study the examples first of all, then attempt the exercises on the next page."
+                            ]
+                        },
+                        {
+                            "explanation": "used when giving an example of the type of thing you mean: ",
+                            "examples": [
+                                "Offices can easily become more environmentally friendly by, for example, using recycled paper."
+                            ]
+                        },
+                        {
+                            "explanation": "a person or a way of behaving that is considered suitable to be copied: ",
+                            "examples": [
+                                "He's a very good example to the rest of the class.",
+                                "He's decided to follow the example of his father and study law."
+                            ]
+                        },
+                        {
+                            "explanation": "a punishment that is intended to warn others against doing the thing that is being punished, or a person who receives such a punishment: ",
+                            "examples": [
+                                "The judge made an example of him and gave him the maximum possible sentence."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

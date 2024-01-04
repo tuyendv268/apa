@@ -1,0 +1,98 @@
+{
+    "word": "high street",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhaɪ ˌstriːt"
+                            ],
+                            "us": [
+                                "ˈhaɪ ˌstriːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a street where the most important shops and businesses in a town are: ",
+                            "examples": [
+                                "There's a new Italian restaurant opening on the high street."
+                            ]
+                        },
+                        {
+                            "explanation": "business done in shops: ",
+                            "examples": [
+                                "There are signs of economic recovery in the high street."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈhaɪ ˌstriːt"
+                            ],
+                            "us": [
+                                "ˈhaɪ ˌstriːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to describe clothes that can be bought in ordinary shops in ordinary cities and towns, rather than being specially made by fashion designers: ",
+                            "examples": [
+                                "Her clothes are a mixture of haute couture and high street.",
+                                "high-street fashion"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈhaɪ.striːt"
+                            ],
+                            "us": [
+                                "ˈhaɪ.striːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to business done in shops: ",
+                            "examples": [
+                                "There was a modest rise in high-street spending last month."
+                            ]
+                        },
+                        {
+                            "explanation": "High-street products, especially clothes, are intended for the ordinary public and not for rich people: ",
+                            "examples": [
+                                "high-street fashions"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

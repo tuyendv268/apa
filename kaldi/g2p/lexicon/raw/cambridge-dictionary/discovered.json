@@ -1,0 +1,66 @@
+{
+    "word": "discovered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ndiscover ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈskʌv.ər"
+                            ],
+                            "us": [
+                                "dɪˈskʌv.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to find information, a place, or an object, especially for the first time: ",
+                            "examples": [
+                                "Who discovered America?",
+                                "We searched all morning for the missing papers and finally discovered them in a drawer.",
+                                "Scientists have discovered how to predict an earthquake.",
+                                "She discovered (that) her husband was having an affair.",
+                                "Following a routine check-up, Mrs Mason was discovered to have heart disease.",
+                                "The boss discovered him stealing money from the cash register."
+                            ]
+                        },
+                        {
+                            "explanation": "to notice that a person has a special ability or quality and to help them to become successful: ",
+                            "examples": [
+                                "Los Angeles is full of young actors working as waiters, hoping to be discovered by a movie agent."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

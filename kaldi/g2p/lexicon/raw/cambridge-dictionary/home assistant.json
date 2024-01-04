@@ -1,0 +1,29 @@
+{
+    "word": "home assistant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a brand name for a computer program that can be used to control devices in your home such as lights and heating: ",
+                            "examples": [
+                                "You can use mobile apps to control Home Assistant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

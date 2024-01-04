@@ -1,0 +1,35 @@
+{
+    "word": "ranked choice voting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌræŋkt ˌtʃɔɪs ˈvəʊ.tɪŋ"
+                            ],
+                            "us": [
+                                "ˌræŋkt ˌtʃɔɪs ˈvoʊ.t̬ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a voting system where, if your preferred candidate (= a person competing to be elected) does not get enough votes to stay in the election, your vote can be given to your second choice of candidate: ",
+                            "examples": [
+                                "It is the city's first mayoral election involving ranked choice voting, in which voters can select their three favourite candidates for mayor.",
+                                "The voting machine company was late getting approval of its ranked choice voting system.",
+                                "The state of Maine was the first to bring in RCV for state level elections."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "word": "escalated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nescalate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈes.kə.leɪt"
+                            ],
+                            "us": [
+                                "ˈes.kə.leɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to become or make something become greater or more serious: ",
+                            "examples": [
+                                "His financial problems escalated after he became unemployed.",
+                                "The row could escalate into full-blown conflict.",
+                                "The decision to escalate UN involvement has been made in the hopes of a swift end to the hostilities.",
+                                "The escalating rate of inflation will almost certainly bring escalating prices."
+                            ]
+                        },
+                        {
+                            "explanation": "to involve someone more important or higher in rank in a situation or problem: ",
+                            "examples": [
+                                "You might need to escalate the issue to the next highest level management team.",
+                                "The customer is threatening to escalate his complaint."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

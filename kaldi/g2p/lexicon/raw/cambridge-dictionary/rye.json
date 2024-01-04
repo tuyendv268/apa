@@ -1,0 +1,39 @@
+{
+    "word": "rye",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "raɪ"
+                            ],
+                            "us": [
+                                "raɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type of grain, the seeds of which are used to make flour or whisky or to feed animals: ",
+                            "examples": [
+                                "rye bread"
+                            ]
+                        },
+                        {
+                            "explanation": "whisky made with rye: ",
+                            "examples": [
+                                "a glass of rye"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

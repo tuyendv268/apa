@@ -1,0 +1,30 @@
+{
+    "word": "bob up",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "collocation",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If something bobs up, it moves quickly in an upwards direction, especially so that it appears on the surface of water or liquid: ",
+                            "examples": [
+                                "I dropped the bottle into the water and watched it bob up to the surface a moment later.",
+                                "The dogs inside the car kept bobbing up at the rear window."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

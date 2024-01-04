@@ -1,0 +1,72 @@
+{
+    "word": "online",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒn.laɪn"
+                            ],
+                            "us": [
+                                "ˈɑːn.laɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Online products, services, or information can be bought or used on the internet: ",
+                            "examples": [
+                                "an online newspaper/magazine/dictionary",
+                                "online banking/shopping"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˌɒnˈlaɪn"
+                            ],
+                            "us": [
+                                "ˌɑːnˈlaɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "bought, used, etc. using the internet: ",
+                            "examples": [
+                                "Do you like to shop online?",
+                                "This dictionary went online in 1999."
+                            ]
+                        },
+                        {
+                            "explanation": "to be able to use email or the internet: ",
+                            "examples": [
+                                "I'll send you my email address once I'm online."
+                            ]
+                        },
+                        {
+                            "explanation": "connected to a system: ",
+                            "examples": [
+                                "The new power station is expected to be online by July.",
+                                "When will the new factory come online (= start production)?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

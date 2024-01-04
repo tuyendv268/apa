@@ -1,0 +1,33 @@
+{
+    "word": "linear function",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌlɪn.i.ə ˈfʌŋk.ʃən"
+                            ],
+                            "us": [
+                                "ˌlɪn.i.ɚ ˈfʌŋk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a function (= a quantity whose value depends on another value and changes with that value) that has one or two variables (= numbers or amounts that can change): ",
+                            "examples": [
+                                "This chapter studies the distribution of linear functions and linear combinations of random variables."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

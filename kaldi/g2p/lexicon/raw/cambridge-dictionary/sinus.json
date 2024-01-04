@@ -1,0 +1,41 @@
+{
+    "word": "sinus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsaɪ.nəs"
+                            ],
+                            "us": [
+                                "ˈsaɪ.nəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "any of the spaces inside the head that are connected to the back of the nose",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a space or passage filled with pus (= a thick yellow liquid) that flows to the surface of the skin",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the sinoatrial node (= tissue in the heart responsible for the heart's rhythm): ",
+                            "examples": [
+                                "The electrocardiogram will confirm sinus bradycardia."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

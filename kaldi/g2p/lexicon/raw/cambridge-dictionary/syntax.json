@@ -1,0 +1,41 @@
+{
+    "word": "syntax",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪn.tæks"
+                            ],
+                            "us": [
+                                "ˈsɪn.tæks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the grammatical arrangement of words in a sentence: ",
+                            "examples": [
+                                "The examples should always illustrate correct syntax.",
+                                "The president's tortured syntax was often satirized."
+                            ]
+                        },
+                        {
+                            "explanation": "the structure of statements or elements in a computer language: ",
+                            "examples": [
+                                "This syntax limits the search to records harvested from the organization's own server.",
+                                "The web references for all our web services use the same syntax."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

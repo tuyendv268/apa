@@ -1,0 +1,66 @@
+{
+    "word": "exhaust",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪɡˈzɔːst"
+                            ],
+                            "us": [
+                                "ɪɡˈzɑːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make someone extremely tired: ",
+                            "examples": [
+                                "The long journey exhausted the children.",
+                                "I've exhausted myself with all that cleaning."
+                            ]
+                        },
+                        {
+                            "explanation": "to use something completely: ",
+                            "examples": [
+                                "How long will it be before the world's fuel supplies are exhausted?",
+                                "I'm afraid he's exhausted my patience.",
+                                "We seem to have exhausted this topic of conversation (= we have nothing new to say about it)."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪɡˈzɔːst"
+                            ],
+                            "us": [
+                                "ɪɡˈzɑːst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the waste gas from an engine, especially a car's, or the pipe the gas flows through: ",
+                            "examples": [
+                                "Car exhaust is the main reason for the city's pollution."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

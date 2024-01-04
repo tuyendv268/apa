@@ -1,0 +1,38 @@
+{
+    "word": "scholium",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈskəʊ.li.əm"
+                            ],
+                            "us": [
+                                "ˈskoʊ.li.əm"
+                            ],
+                            "uk_other_tense": [
+                                "ˈskəʊ.li.ə"
+                            ],
+                            "us_other_tense": [
+                                "ˈskoʊ.li.ə"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a note on or explanation of an academic or literary text, written by someone who has studied it: ",
+                            "examples": [
+                                "The third edition contained another feature, a scholium to Problem 5. ",
+                                "The commentaries consist chiefly of scholia and expositions of the classic text."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

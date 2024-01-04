@@ -1,0 +1,45 @@
+{
+    "word": "quotation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kwəʊˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "kwoʊˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a phrase or short piece of writing taken from a longer work of literature, poetry, etc. or what someone else has said: ",
+                            "examples": [
+                                "At the beginning of the book there's a quotation from Abraham Lincoln."
+                            ]
+                        },
+                        {
+                            "explanation": "the price that a person or company says they will charge to do a piece of work: ",
+                            "examples": [
+                                "We decided to go with the lowest quotation."
+                            ]
+                        },
+                        {
+                            "explanation": "the fact that a company's shares are being traded on a particular stock market: ",
+                            "examples": [
+                                "Changes in the listing rules have reduced the advantage of obtaining a quotation on this stock market."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

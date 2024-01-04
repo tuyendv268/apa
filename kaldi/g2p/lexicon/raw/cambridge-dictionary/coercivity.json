@@ -1,0 +1,34 @@
+{
+    "word": "coercivity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌkəʊ.ɜːˈsɪv.ə.ti"
+                            ],
+                            "us": [
+                                "ˌkoʊ.ɝːˈsɪv.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the strength of magnetic field (= an area around something magnetic) that is required to reduce the magnetization of a magnetized material to zero after it has been made as magnetic as possible : ",
+                            "examples": [
+                                "Once the coating is applied, it is checked for thickness, durability, and coercivity.",
+                                "Making a core from thin iron sheets, interleaved with an insulating material, brings the coercivity of the core down without harming its useful properties."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

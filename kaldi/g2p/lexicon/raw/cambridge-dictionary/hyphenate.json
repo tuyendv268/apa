@@ -1,0 +1,56 @@
+{
+    "word": "hyphenate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈhaɪ.fən.eɪt"
+                            ],
+                            "us": [
+                                "ˈhaɪ.fən.eɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to use a hyphen to join two words or two parts of a word",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhaɪ.fə.nət"
+                            ],
+                            "us": [
+                                "ˈhaɪ.fə.nət"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who has two or more different jobs, especially in the entertainment industry: ",
+                            "examples": [
+                                "Of course, MTV didn't invent the singer-actor hyphenate.",
+                                "These writers also took credit as producers, which made them hyphenates."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "word": "prayer",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "preər"
+                            ],
+                            "us": [
+                                "prer"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the words that someone says or thinks when they are praying: ",
+                            "examples": [
+                                "a prayer of thanks",
+                                "She always says her prayers (= prays) before she goes to sleep.",
+                                "We thought he'd been killed, but our prayers were answered when he arrived home unexpectedly.",
+                                "a prayer book"
+                            ]
+                        },
+                        {
+                            "explanation": "the act or ceremony in which someone prays: ",
+                            "examples": [
+                                "I found her kneeling in prayer at the back of the church.",
+                                "The prisoners find their only solace in prayer."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

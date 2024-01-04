@@ -1,0 +1,61 @@
+{
+    "word": "prejudicing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nprejudice ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈpredʒ.ə.dɪs"
+                            ],
+                            "us": [
+                                "ˈpredʒ.ə.dɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "Someone or something that prejudices you influences you unfairly so that you form an unreasonable opinion about something: ",
+                            "examples": [
+                                "His comments may have prejudiced the voters against her."
+                            ]
+                        },
+                        {
+                            "explanation": "Something or someone that prejudices something else has a harmful influence on it: ",
+                            "examples": [
+                                "The fact that you were late all this week may prejudice your chances of getting a promotion."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

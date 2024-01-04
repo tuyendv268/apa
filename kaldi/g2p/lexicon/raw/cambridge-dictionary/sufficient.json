@@ -1,0 +1,40 @@
+{
+    "word": "sufficient",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "səˈfɪʃ.ənt"
+                            ],
+                            "us": [
+                                "səˈfɪʃ.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "enough for a particular purpose: ",
+                            "examples": [
+                                "This recipe should be sufficient for five people.",
+                                "It was thought that he'd committed the crime but there wasn't sufficient evidence to convict him."
+                            ]
+                        },
+                        {
+                            "explanation": "to have eaten enough: ",
+                            "examples": [
+                                "\"Would you like some more stew?\" \"No thanks, I've had sufficient.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

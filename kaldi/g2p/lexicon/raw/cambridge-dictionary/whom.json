@@ -1,0 +1,36 @@
+{
+    "word": "whom",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "pronoun",
+                        "ipa": {
+                            "uk": [
+                                "huːm"
+                            ],
+                            "us": [
+                                "huːm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used instead of \"who\" as the object of a verb or preposition: ",
+                            "examples": [
+                                "I met a man with whom I used to work.",
+                                "He took out a photo of his son, whom he adores.",
+                                "There were 500 passengers, of whom 121 drowned.",
+                                "To whom do you wish to speak?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

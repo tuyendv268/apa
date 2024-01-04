@@ -1,0 +1,77 @@
+{
+    "word": "suffix",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌf.ɪks"
+                            ],
+                            "us": [
+                                "ˈsʌf.ɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a letter or group of letters added at the end of a word to make a new word: ",
+                            "examples": [
+                                "The suffix \"-ness\" added to the end of the word \"sweet\" forms the word \"sweetness\", changing an adjective into a noun."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌf.ɪks"
+                            ],
+                            "us": [
+                                "ˈsʌf.ɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to add a letter or group of letters to the end of a word to make a new word: ",
+                            "examples": [
+                                "\"Generalize\" is a verb because it is suffixed with \"-ize\" and \"generalization\" is a noun because it is suffixed with \"-tion\".",
+                                "In Arabic, possessive pronouns are suffixed to nouns that have the structural status of possessed nouns."
+                            ]
+                        },
+                        {
+                            "explanation": "to use a word after the word for something, for example to describe it : ",
+                            "examples": [
+                                "It's difficult to write \"pensions\" these days without suffixing the word with \"mis-selling\"."
+                            ]
+                        },
+                        {
+                            "explanation": "to add a group of numbers, letters, or symbols to the end of an internet address or piece of computer code: ",
+                            "examples": [
+                                "The program searches the hard drive for files that are suffixed with .jpeg or .jpg.",
+                                "The base URL is suffixed with a unique numeric code."
+                            ]
+                        },
+                        {
+                            "explanation": "to add something to another thing: ",
+                            "examples": [
+                                "The data has been collected online and the anonymous texts have been suffixed to this report."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

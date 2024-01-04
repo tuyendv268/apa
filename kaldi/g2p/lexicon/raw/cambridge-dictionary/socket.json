@@ -1,0 +1,43 @@
+{
+    "word": "socket",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɒk.ɪt"
+                            ],
+                            "us": [
+                                "ˈsɑː.kɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the part of a piece of equipment, especially electrical equipment, into which another part fits: ",
+                            "examples": [
+                                "an electrical socket",
+                                "a light socket",
+                                "He had forgotten to plug the television into the mains socket.",
+                                "The air freshener plugs into a car's lighter socket."
+                            ]
+                        },
+                        {
+                            "explanation": "a part of the body into which another part fits: ",
+                            "examples": [
+                                "a tooth/eye socket",
+                                "a ball-and-socket joint like the hip joint"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

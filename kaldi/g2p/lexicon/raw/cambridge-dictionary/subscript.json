@@ -1,0 +1,35 @@
+{
+    "word": "subscript",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌb.skrɪpt"
+                            ],
+                            "us": [
+                                "ˈsʌb.skrɪpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word, letter, number, or symbol written or printed just below another word, letter, number, or symbol, usually in a smaller size: ",
+                            "examples": [
+                                "Format the figure one in superscript and the figure three in subscript.",
+                                "The subscripts s and m denote respectively quantities downstream and upstream of the shock.",
+                                "subscript figures"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

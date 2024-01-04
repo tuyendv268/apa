@@ -1,0 +1,42 @@
+{
+    "word": "council",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkaʊn.səl"
+                            ],
+                            "us": [
+                                "ˈkaʊn.səl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a group of people elected or chosen to make decisions or give advice on a particular subject, to represent a particular group of people, or to run a particular organization: ",
+                            "examples": [
+                                "the United Nations Security Council",
+                                "This play is supported by a grant from the local arts council."
+                            ]
+                        },
+                        {
+                            "explanation": "the group of people elected to govern a particular area, town, or city, and organize services for it: ",
+                            "examples": [
+                                "Edinburgh City Council",
+                                "The town/city council is/are responsible for keeping the streets clean.",
+                                "The local council has/have decided not to allocate funds for the project."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

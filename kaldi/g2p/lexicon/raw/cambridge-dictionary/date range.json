@@ -1,0 +1,33 @@
+{
+    "word": "date range",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdeɪt ˌreɪndʒ"
+                            ],
+                            "us": [
+                                "ˈdeɪt ˌreɪndʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a number of dates that includes a particular start and finish date and all dates in between: ",
+                            "examples": [
+                                "You can specify a date range when you search."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

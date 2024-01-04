@@ -1,0 +1,61 @@
+{
+    "word": "nosedived",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nnosedive ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈnəʊz.daɪv"
+                            ],
+                            "us": [
+                                "ˈnoʊz.daɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to suddenly fall to the ground with the front pointing down: ",
+                            "examples": [
+                                "Spectators in the crowd watched in horror as the plane nosedived."
+                            ]
+                        },
+                        {
+                            "explanation": "to suddenly fall in value, quickly and by a large amount: ",
+                            "examples": [
+                                "House prices nosedived without warning."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

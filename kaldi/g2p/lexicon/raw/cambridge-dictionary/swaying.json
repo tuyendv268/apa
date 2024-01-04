@@ -1,0 +1,69 @@
+{
+    "word": "swaying",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nsway ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sweɪ"
+                            ],
+                            "us": [
+                                "sweɪ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move slowly from side to side: ",
+                            "examples": [
+                                "The trees were swaying in the wind.",
+                                "The movement of the ship caused the mast to sway from side to side/back and forth.",
+                                "A drunk was standing in the middle of the street, swaying uncertainly and trying hard to stay upright."
+                            ]
+                        },
+                        {
+                            "explanation": "to cause something to move or change: ",
+                            "examples": [
+                                "Recent developments have swayed the balance of power in the region."
+                            ]
+                        },
+                        {
+                            "explanation": "to persuade someone to believe or do one thing rather than another: ",
+                            "examples": [
+                                "Her speech failed to sway her colleagues into supporting the plan."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "word": "reciprocated",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nreciprocate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "rɪˈsɪp.rə.keɪt"
+                            ],
+                            "us": [
+                                "rɪˈsɪp.rə.keɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to share the same feelings as someone else, or to behave in the same way as someone else: ",
+                            "examples": [
+                                "Sadly, my feelings for him were not reciprocated.",
+                                "We invited them to dinner and a week later they reciprocated."
+                            ]
+                        },
+                        {
+                            "explanation": "If a part of a machine reciprocates, it moves backwards and forwards: ",
+                            "examples": [
+                                "Some electric razors have reciprocating heads."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "word": "tamper",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæm.pər"
+                            ],
+                            "us": [
+                                "ˈtæm.pɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to touch or make changes to something that you should not, usually without enough knowledge of how it works or when you are trying to damage it: ",
+                            "examples": [
+                                "I could see immediately that the lock had been tampered with.",
+                                "Tampering with pipelines could result in ruptures or fires."
+                            ]
+                        },
+                        {
+                            "explanation": "to speak to and try to influence someone involved in a legal case: ",
+                            "examples": [
+                                "She is charged with official misconduct and tampering with witnesses.",
+                                "A previous trial was stopped owing to fears of someone tampering with the jury."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

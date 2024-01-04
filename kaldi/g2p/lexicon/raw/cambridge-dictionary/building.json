@@ -1,0 +1,40 @@
+{
+    "word": "building",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɪl.dɪŋ"
+                            ],
+                            "us": [
+                                "ˈbɪl.dɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a structure with walls and a roof, such as a house or factory: ",
+                            "examples": [
+                                "The once-empty site was now covered with buildings."
+                            ]
+                        },
+                        {
+                            "explanation": "the process or business of making structures such as houses or factories: ",
+                            "examples": [
+                                "building costs",
+                                "He started off in the building trade before opening his own restaurant."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

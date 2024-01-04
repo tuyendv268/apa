@@ -1,0 +1,46 @@
+{
+    "word": "profiler",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈprəʊ.faɪ.lər"
+                            ],
+                            "us": [
+                                "ˈproʊ.faɪ.lɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who predicts the likely behaviour or description of someone such as a criminal, based on the information that is available about them: ",
+                            "examples": [
+                                "Police are liaising closely with a criminal profiler who is advising them of the potential motives, lifestyles, and psychology of possible abductors.",
+                                "In all his years as a psychological profiler, he had rarely come across a spy whose outward life seemed so free of crisis or conflict."
+                            ]
+                        },
+                        {
+                            "explanation": "a device, program, etc. that finds out information about people or things in order to create a description of what they are like: ",
+                            "examples": [
+                                "They use a facility called the \"investor profiler\" that asks questions about the customer's financial circumstances to build a picture of his or her attitude to risk and the purpose of the investment."
+                            ]
+                        },
+                        {
+                            "explanation": "a computer program that checks and reports on how another program is working: ",
+                            "examples": [
+                                "A coverage profiler lets you analyse the performance of your code, and detect code that is never called."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "avionics",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌeɪ.viˈɒn.ɪks"
+                            ],
+                            "us": [
+                                "ˌeɪ.viˈɑː.nɪks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the science and technology of the electronic devices used in aeronautics and astronautics: ",
+                            "examples": [
+                                "Avionics forms an important part of the defence industry."
+                            ]
+                        },
+                        {
+                            "explanation": "the electronic devices of an aircraft or spacecraft: ",
+                            "examples": [
+                                "The sophisticated avionics enable the helicopter to operate at night."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

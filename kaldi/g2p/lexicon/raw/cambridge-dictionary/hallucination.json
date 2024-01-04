@@ -1,0 +1,56 @@
+{
+    "word": "hallucination",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "həˌluː.sɪˈneɪ.ʃən"
+                            ],
+                            "us": [
+                                "həˌluː.səˈneɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the experience of seeing, hearing, feeling, or smelling something that does not exist, usually because of a health condition or because you have taken a drug: ",
+                            "examples": [
+                                "A high temperature can cause hallucinations.",
+                                "Auditory hallucination is more common than people think.",
+                                "He was suffering from drug-induced hallucination."
+                            ]
+                        },
+                        {
+                            "explanation": "something that you see, hear, feel or smell that does not exist: ",
+                            "examples": [
+                                "She had been alone for so long that when she saw the boat coming to rescue her she was convinced it was a hallucination."
+                            ]
+                        },
+                        {
+                            "explanation": "false information that is produced by an artificial intelligence (= a computer system that has some of the qualities that the human brain has, such as the ability to produce language in a way that seems human): ",
+                            "examples": [
+                                "If the chatbot is used in the classroom as a teaching aid, there is a risk that its hallucinations will enter the permanent record.",
+                                "Because large language models are designed to produce coherent text, their hallucinations often appear plausible.",
+                                "She discovered that the articles cited in the essay did not exist, but were hallucinations that had been invented by the AI. "
+                            ]
+                        },
+                        {
+                            "explanation": "the fact of an artificial intelligence (= a computer system that has some of the qualities that the human brain has, such as the ability to produce language in a way that seems human) producing false information: ",
+                            "examples": [
+                                "The system tends to make up information when it doesn’t know the exact answer – an issue known as hallucination.",
+                                "Is it possible to solve the problem of AI hallucination?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "wham",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "exclamation",
+                        "ipa": {
+                            "uk": [
+                                "wæm"
+                            ],
+                            "us": [
+                                "wæm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "used to suggest the sound of a sudden hit: ",
+                            "examples": [
+                                "The boys in the cartoon were punching each other - wham, zap!"
+                            ]
+                        },
+                        {
+                            "explanation": "used to show that something you are describing happened suddenly: ",
+                            "examples": [
+                                "Everything was fine until, wham, the wire snapped."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "container",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˈteɪ.nər"
+                            ],
+                            "us": [
+                                "kənˈteɪ.nɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a hollow object, such as a box or a bottle, that can be used for holding something, especially to carry or store it: ",
+                            "examples": [
+                                "an airtight container",
+                                "a plastic drinks container"
+                            ]
+                        },
+                        {
+                            "explanation": "a very large metal box used for transporting goods: ",
+                            "examples": [
+                                "a container ship/lorry"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

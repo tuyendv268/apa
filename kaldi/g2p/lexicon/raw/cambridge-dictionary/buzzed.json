@@ -1,0 +1,40 @@
+{
+    "word": "buzzed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "bʌzd"
+                            ],
+                            "us": [
+                                "bʌzd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "excited: ",
+                            "examples": [
+                                "He's buzzed about the film he's planning to direct.",
+                                "After all these years, I'm still buzzed up about the work that we do."
+                            ]
+                        },
+                        {
+                            "explanation": "drunk or under the influence of a drug: ",
+                            "examples": [
+                                "I was arrested just because my friend was driving a little buzzed and I was the passenger."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "usb",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌjuː.esˈbiː"
+                            ],
+                            "us": [
+                                "ˌjuː.esˈbiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for Universal Serial Bus: the system for connecting electronic equipment to devices such as computers, smartphones, etc. and moving data between them, or the part of a device or connecting part on a cable that allows you to attach a piece of equipment like this : ",
+                            "examples": [
+                                "The device plugs directly into a USB port on your computer.",
+                                "The blocker enables you to disable USB across the network.",
+                                "Around the netbook are the standard ports, including three USBs.",
+                                "Once the software package is loaded, it allows the user to change the monitor's audio, visual, and hardware settings through the USB connection to the PC.",
+                                "Have you got a USB charger I could use?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

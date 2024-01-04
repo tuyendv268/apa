@@ -1,0 +1,66 @@
+{
+    "word": "placeholder",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpleɪsˌhəʊl.dər"
+                            ],
+                            "us": [
+                                "ˈpleɪsˌhoʊl.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of text or an image that is put in a document temporarily before the final text or image is added later: ",
+                            "examples": [
+                                "Currently we are using a stock image we found as a placeholder.",
+                                "You can replace the placeholder text manually."
+                            ]
+                        },
+                        {
+                            "explanation": "an object that is put somewhere temporarily before the final thing is added later: ",
+                            "examples": [
+                                "Surgeons had cleaned the eye socket and fitted it with a foam placeholder ready for a prosthetic eye."
+                            ]
+                        },
+                        {
+                            "explanation": "a symbol or piece of text in a mathematical expression or computer instruction that can be replaced by particular pieces of information: ",
+                            "examples": [
+                                "A placeholder variable p represents the result of a computation in progress.",
+                                "If you use a ? as a placeholder, it adds spaces for insignificant zeros on either side of the decimal point, so decimal points align."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who does another more important person's job temporarily: ",
+                            "examples": [
+                                "Ted may or may not be a placeholder for Beau.",
+                                "After being named interim president of California's stem cell institute, Murphy said he had no intention of serving merely as a placeholder until a permanent president is found."
+                            ]
+                        },
+                        {
+                            "explanation": "someone who has an official or government position, especially because they supported the people in power, rather than because they deserved to get the position: ",
+                            "examples": [
+                                "At the start of his time in office, analysts were asking if he was a placeholder or a real Prime Minister."
+                            ]
+                        },
+                        {
+                            "explanation": "in American football, a player who holds the ball in a vertical position on the ground so another player can kick it: ",
+                            "examples": [
+                                "The placeholder's job is to call for the ball, catch it, and place it just right for the kicker."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

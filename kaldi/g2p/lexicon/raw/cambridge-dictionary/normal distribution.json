@@ -1,0 +1,34 @@
+{
+    "word": "normal distribution",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌnɔː.məl dɪs.trɪˈbjuː.ʃən"
+                            ],
+                            "us": [
+                                "ˌnɔːr.məl dɪs.trɪˈbjuː.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an arrangement of data in which most values are near the centre of the range and gradually become fewer towards each end, shown in a graph as the shape of a bell : ",
+                            "examples": [
+                                "The resulting variable has a nearly normal distribution.",
+                                "Normal distributions consistently occur only when they involve random events and a large sample."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "postscript",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpəʊst.skrɪpt"
+                            ],
+                            "us": [
+                                "ˈpoʊst.skrɪpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a short remark or message added to the bottom of a letter after you have signed your name, usually introduced by the abbreviation PS: ",
+                            "examples": [
+                                "There was the usual romantic postscript at the end of his letter - PS I love you."
+                            ]
+                        },
+                        {
+                            "explanation": "any written or spoken addition to something already finished: ",
+                            "examples": [
+                                "As a postscript to that story I told you last week, it turned out that the woman was his sister-in-law."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

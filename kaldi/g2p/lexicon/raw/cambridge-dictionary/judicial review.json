@@ -1,0 +1,40 @@
+{
+    "word": "judicial review",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dʒuːˌdɪʃ.əl rɪˈvjuː"
+                            ],
+                            "us": [
+                                "dʒuːˌdɪʃ.əl rɪˈvjuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(in the UK) the process in which a decision made by a government department or other public organization is examined by a court of law to decide whether it was right or not: ",
+                            "examples": [
+                                "Decisions made by public bodies may be subject to judicial review.",
+                                "There will be a judicial review of the Environment Department's decision to give planning permission for a new superstore on the site."
+                            ]
+                        },
+                        {
+                            "explanation": "(in the US) the process by which the Supreme Court decides whether something can be allowed according to the Constitution (= the set of political principles by which the United States is governed): ",
+                            "examples": [
+                                "One of the Court's most fundamental powers is judicial review – the power to judge the constitutionality of any act or law of the executive or legislative branch."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

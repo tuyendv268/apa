@@ -1,0 +1,34 @@
+{
+    "word": "spreadsheet",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈspred.ʃiːt"
+                            ],
+                            "us": [
+                                "ˈspred.ʃiːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an electronic document in which information is arranged in rows and columns, and can be used to do financial calculations and plans: ",
+                            "examples": [
+                                "I have created a spreadsheet listing the call charges for various telephone companies.",
+                                "Would it be possible to get an updated spreadsheet with this extra info?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

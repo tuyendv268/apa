@@ -1,0 +1,43 @@
+{
+    "word": "solidus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɒl.ɪ.dəs"
+                            ],
+                            "us": [
+                                "ˈsɑː.lɪ.dəs"
+                            ],
+                            "uk_other_tense": [
+                                "ˈsɒl.ɪ.daɪ"
+                            ],
+                            "us_other_tense": [
+                                "ˈsɑː.lɪ.daɪ"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a gold coin from the ancient Roman empire: ",
+                            "examples": [
+                                "The Emperor Constantine is recognisable from a solidus, a gold coin dating from AD316."
+                            ]
+                        },
+                        {
+                            "explanation": "the symbol / used in writing to separate numbers, letters, or words: ",
+                            "examples": [
+                                "Use a solidus between two numbers to indicate a fraction or ratio."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

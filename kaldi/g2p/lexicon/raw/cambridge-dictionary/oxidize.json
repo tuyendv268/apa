@@ -1,0 +1,38 @@
+{
+    "word": "oxidize",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈɒk.sɪ.daɪz"
+                            ],
+                            "us": [
+                                "ˈɑːk.sə.daɪz"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If a substance oxidizes, it combines with oxygen and loses hydrogen to form another substance, and if something oxidizes a substance, it causes it to do this: ",
+                            "examples": [
+                                "Iron oxidizes to form rust.",
+                                "When you heat fat, it oxidizes easily."
+                            ]
+                        },
+                        {
+                            "explanation": "If a chemical element oxidizes, it loses electrons (= very small pieces of matter with negative electrical charge) and if you oxidize it, you cause it to do this.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

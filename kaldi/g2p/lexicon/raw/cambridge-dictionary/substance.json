@@ -1,0 +1,53 @@
+{
+    "word": "substance",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌb.stəns"
+                            ],
+                            "us": [
+                                "ˈsʌb.stəns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "material with particular physical characteristics: ",
+                            "examples": [
+                                "an organic/chemical substance",
+                                "What sort of substance could withstand those temperatures?"
+                            ]
+                        },
+                        {
+                            "explanation": "an illegal drug: ",
+                            "examples": [
+                                "All athletes are tested for illegal substances."
+                            ]
+                        },
+                        {
+                            "explanation": "the most important part of what someone has said or written: ",
+                            "examples": [
+                                "Later that year, the substance of their secret conversation appeared in a newspaper article."
+                            ]
+                        },
+                        {
+                            "explanation": "importance, seriousness, or relationship to real facts: ",
+                            "examples": [
+                                "There is no substance in/to the allegation.",
+                                "This new information gives substance to the stories we have heard."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

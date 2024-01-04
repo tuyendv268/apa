@@ -1,0 +1,67 @@
+{
+    "word": "brake",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "breɪk"
+                            ],
+                            "us": [
+                                "breɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a device that makes a vehicle go slower or stop, or a pedal, bar, or handle that makes this device work: ",
+                            "examples": [
+                                "She had no brakes on her bicycle.",
+                                "The driver suddenly put on his brakes.",
+                                "I slammed on (= quickly used) the brakes, but it was too late.",
+                                "All our new models have anti-lock brakes."
+                            ]
+                        },
+                        {
+                            "explanation": "the loud, unpleasant noise of a car suddenly stopping: ",
+                            "examples": [
+                                "Suddenly we heard a screech of brakes and saw the car swerve to miss the bicycle."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "breɪk"
+                            ],
+                            "us": [
+                                "breɪk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a vehicle go slower or stop, using its brake or brakes: ",
+                            "examples": [
+                                "When it's icy, brake gently.",
+                                "He would drive very fast and brake hard/sharply at the last minute."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

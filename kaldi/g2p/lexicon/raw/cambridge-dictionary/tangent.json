@@ -1,0 +1,35 @@
+{
+    "word": "tangent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtæn.dʒənt"
+                            ],
+                            "us": [
+                                "ˈtæn.dʒənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a straight line that touches but does not cut into a curve",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(in a triangle that has one angle of 90°) the ratio of the length of the side opposite an angle less than 90° divided by the length of the shorter of the two sides that are next to the angle",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

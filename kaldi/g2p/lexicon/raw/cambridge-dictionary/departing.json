@@ -1,0 +1,56 @@
+{
+    "word": "departing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndepart ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈpɑːt"
+                            ],
+                            "us": [
+                                "dɪˈpɑːrt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to go away or leave, especially on a journey: ",
+                            "examples": [
+                                "The plane departs at 6 a.m.",
+                                "The bus for Dallas departs from the Greyhound-Trailways Terminal."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

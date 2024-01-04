@@ -1,0 +1,41 @@
+{
+    "word": "painting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈpeɪn.tɪŋ"
+                            ],
+                            "us": [
+                                "ˈpeɪn.t̬ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a picture made using paint: ",
+                            "examples": [
+                                "The walls are covered in oil paintings.",
+                                "an exhibition of 19th-century French painting"
+                            ]
+                        },
+                        {
+                            "explanation": "the skill or activity of making a picture or putting paint on a wall: ",
+                            "examples": [
+                                "We were taught painting and drawing at art college.",
+                                "When we bought the house, we had to do a lot of painting and redecorating."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

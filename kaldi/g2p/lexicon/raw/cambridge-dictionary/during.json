@@ -1,0 +1,40 @@
+{
+    "word": "during",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "ˈdʒʊə.rɪŋ"
+                            ],
+                            "us": [
+                                "ˈdʊr.ɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "from the beginning to the end of a particular period: ",
+                            "examples": [
+                                "They work during the night and sleep by day.",
+                                "There were huge advances in aviation technology during the Second World War."
+                            ]
+                        },
+                        {
+                            "explanation": "at some time between the beginning and the end of a period: ",
+                            "examples": [
+                                "I woke up several times during the night."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "word": "tested",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \ntest ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "test"
+                            ],
+                            "us": [
+                                "test"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to do something in order to discover if something is safe, works correctly, etc., or if something is present: ",
+                            "examples": [
+                                "The manufacturers are currently testing the new engine.",
+                                "They tested her blood for signs of the infection."
+                            ]
+                        },
+                        {
+                            "explanation": "to give someone a set of questions, in order to measure their knowledge or ability: ",
+                            "examples": [
+                                "Will you test me on the chemistry I've been learning?"
+                            ]
+                        },
+                        {
+                            "explanation": "If a situation tests someone, it proves how good, strong, etc. they are: ",
+                            "examples": [
+                                "That lecture really tested my powers of endurance, it was so boring."
+                            ]
+                        },
+                        {
+                            "explanation": "to do a medical examination of part of someone's body or of a particular physical ability",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "word": "peeled",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npeel ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "piːl"
+                            ],
+                            "us": [
+                                "piːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to remove the skin of fruit and vegetables: ",
+                            "examples": [
+                                "Peel, core, and chop the apples."
+                            ]
+                        },
+                        {
+                            "explanation": "If a layer or covering peels, it slowly comes off, and if you peel a layer or covering, you remove it slowly and carefully: ",
+                            "examples": [
+                                "We peeled the wallpaper off the walls.",
+                                "Peel off the backing strip and press the label down firmly.",
+                                "The posters were peeling away from the damp walls.",
+                                "The new paint is already starting to crack and peel."
+                            ]
+                        },
+                        {
+                            "explanation": "If you peel, or part of your body or your skin peels, parts of the top layer of your skin comes off because you are burned from being in the sun: ",
+                            "examples": [
+                                "My back is peeling."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

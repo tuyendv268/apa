@@ -1,0 +1,56 @@
+{
+    "word": "mailed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nmail ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "meɪl"
+                            ],
+                            "us": [
+                                "meɪl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to send a letter, etc. or to email something: ",
+                            "examples": [
+                                "She mailed it last week but it still hasn't arrived.",
+                                "I promised to mail him the article/mail the article to him."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "word": "assistant",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈsɪs.tənt"
+                            ],
+                            "us": [
+                                "əˈsɪs.tənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who helps someone else to do a job: ",
+                            "examples": [
+                                "an administrative/office assistant",
+                                "an assistant editor/manager"
+                            ]
+                        },
+                        {
+                            "explanation": "someone who works in a shop, selling goods to customers and giving advice about the goods sold in the shop: ",
+                            "examples": [
+                                "a sales/shop assistant"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

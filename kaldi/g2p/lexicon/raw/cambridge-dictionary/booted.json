@@ -1,0 +1,59 @@
+{
+    "word": "booted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nboot ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "buːt"
+                            ],
+                            "us": [
+                                "buːt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to kick someone or something hard with the foot: ",
+                            "examples": [
+                                "They booted him in the head."
+                            ]
+                        },
+                        {
+                            "explanation": "When a computer boots (up), it becomes ready for use by getting the necessary information into its memory, and when you boot (up) a computer, you cause it to do this.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

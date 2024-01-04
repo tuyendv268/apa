@@ -1,0 +1,40 @@
+{
+    "word": "lab rat",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈlæb ˌræt"
+                            ],
+                            "us": [
+                                "ˈlæb ˌræt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a rat (= an animal like a large mouse) that is used in a scientific experiment: ",
+                            "examples": [
+                                "At very high levels, the chemical has killed lab rats who breathed it. "
+                            ]
+                        },
+                        {
+                            "explanation": "a person or thing that is used as part of a scientific experiment or to test something new: ",
+                            "examples": [
+                                "She felt the medical profession had used her mother as a lab rat.",
+                                "The state can be a good lab rat so that others can see how deregulation could work."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

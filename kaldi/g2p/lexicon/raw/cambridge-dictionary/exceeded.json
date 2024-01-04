@@ -1,0 +1,57 @@
+{
+    "word": "exceeded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nexceed ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈsiːd"
+                            ],
+                            "us": [
+                                "ɪkˈsiːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to be greater than a number or amount, or to go past an allowed limit: ",
+                            "examples": [
+                                "The final cost should not exceed $5,000.",
+                                "The success of our campaign has exceeded our wildest expectations.",
+                                "She was found guilty on three charges of exceeding the speed limit."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

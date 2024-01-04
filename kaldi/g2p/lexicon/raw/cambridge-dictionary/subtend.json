@@ -1,0 +1,33 @@
+{
+    "word": "subtend",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "sʌbˈtend"
+                            ],
+                            "us": [
+                                "sʌbˈtend"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When a line subtends an angle, lines drawn from its ends form that angle at the point where they meet: ",
+                            "examples": [
+                                "It can be proved that the angle subtended by an arc of a circle at the centre of a circle is twice the angle subtended by that arc at a point on the circumference of the circle."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

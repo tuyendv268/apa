@@ -1,0 +1,51 @@
+{
+    "word": "strange",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "streɪndʒ"
+                            ],
+                            "us": [
+                                "streɪndʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "unusual and unexpected, or difficult to understand: ",
+                            "examples": [
+                                "He has some very strange ideas about women!",
+                                "You say the strangest things sometimes.",
+                                "I had a strange feeling that we'd met before.",
+                                "It's strange that tourists almost never visit this village.",
+                                "That's strange - I'm sure I put my glasses in my bag, but they're not there."
+                            ]
+                        },
+                        {
+                            "explanation": "to feel uncomfortable and not normal or correct: ",
+                            "examples": [
+                                "I hope that fish was all right - my stomach feels a little strange."
+                            ]
+                        },
+                        {
+                            "explanation": "not known or familiar: ",
+                            "examples": [
+                                "I don't accept rides from strange men.",
+                                "With so many strange faces around her, the baby started to cry.",
+                                "I've never been here before either, so it's all strange to me too."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

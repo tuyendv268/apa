@@ -1,0 +1,56 @@
+{
+    "word": "opted",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nopt ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɒpt"
+                            ],
+                            "us": [
+                                "ɑːpt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make a choice, especially of one thing or possibility instead of others: ",
+                            "examples": [
+                                "Mike opted for early retirement.",
+                                "Most people opt to have the operation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "word": "client",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈklaɪ.ənt"
+                            ],
+                            "us": [
+                                "ˈklaɪ.ənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a customer or someone who receives services: ",
+                            "examples": [
+                                "Mr Black has been a client of this firm for many years.",
+                                "We always aim to give our clients personal attention."
+                            ]
+                        },
+                        {
+                            "explanation": "a computer that is connected to a server (= large central computer) from which it gets information",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

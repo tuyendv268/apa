@@ -1,0 +1,92 @@
+{
+    "word": "schedule",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃedʒ.uːl"
+                            ],
+                            "us": [
+                                "ˈskedʒ.uːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a list of planned activities or things to be done showing the times or dates when they are intended to happen or be done: ",
+                            "examples": [
+                                "a production schedule",
+                                "a hectic/tight (= very busy) schedule",
+                                "Everything went according to schedule (= as had been planned)."
+                            ]
+                        },
+                        {
+                            "explanation": "a list of the times when events are planned to happen, for example the times when classes happen or when buses, etc. leave and arrive: ",
+                            "examples": [
+                                "The class schedule is available on the website.",
+                                "a bus schedule",
+                                "a schedule of talks at the convention"
+                            ]
+                        },
+                        {
+                            "explanation": "an official list of things: ",
+                            "examples": [
+                                "a schedule of business expenses"
+                            ]
+                        },
+                        {
+                            "explanation": "early: ",
+                            "examples": [
+                                "We expect the building work to be completed ahead of schedule."
+                            ]
+                        },
+                        {
+                            "explanation": "not early or late: ",
+                            "examples": [
+                                "Managers need to know whether work is proceeding on schedule."
+                            ]
+                        },
+                        {
+                            "explanation": "to do less work than you planned to do by a particular point in time: ",
+                            "examples": [
+                                "I'm afraid we've fallen behind schedule in recent weeks."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃedʒ.uːl"
+                            ],
+                            "us": [
+                                "ˈskedʒ.uːl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to arrange that an event or activity will happen at a particular time: ",
+                            "examples": [
+                                "The meeting has been scheduled for tomorrow afternoon.",
+                                "The flight is scheduled to arrive at 8.45, but it's running 20 minutes late."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

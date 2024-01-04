@@ -1,0 +1,40 @@
+{
+    "word": "evaporate",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈvæp.ər.eɪt"
+                            ],
+                            "us": [
+                                "ɪˈvæp.ə.reɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to cause a liquid to change to a gas, especially by heating: ",
+                            "examples": [
+                                "The high concentration of sugars forms a syrup when the sap evaporates.",
+                                "Plants keep cool during the summer by evaporating water from their leaves."
+                            ]
+                        },
+                        {
+                            "explanation": "to disappear: ",
+                            "examples": [
+                                "Halfway through the movie reality evaporates and we enter a world of pure fantasy."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

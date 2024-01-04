@@ -1,0 +1,67 @@
+{
+    "word": "thundered",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nthunder ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ˈθʌn.dər"
+                            ],
+                            "us": [
+                                "ˈθʌn.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "When it thunders, a loud noise comes from the sky: ",
+                            "examples": [
+                                "The sky grew dark and it started to thunder."
+                            ]
+                        },
+                        {
+                            "explanation": "to move, making a lot of noise: ",
+                            "examples": [
+                                "The train thundered past, shaking the whole house."
+                            ]
+                        },
+                        {
+                            "explanation": "to shout angrily: ",
+                            "examples": [
+                                "\"I never want to see you here again!\" he thundered."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

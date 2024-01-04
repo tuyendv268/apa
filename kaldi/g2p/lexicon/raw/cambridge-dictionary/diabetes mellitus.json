@@ -1,0 +1,35 @@
+{
+    "word": "diabetes mellitus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "daɪ.əˌbiː.tiːz ˈmel.ɪ.təs",
+                                "daɪ.əˌbiː.tiːz məˈlaɪ.təs"
+                            ],
+                            "us": [
+                                "daɪ.əˌbiː.t̬iz məˈlaɪ.t̬əs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a severe form of diabetes in which the body cannot use glucose (= sugar as it is normally used in the body): ",
+                            "examples": [
+                                "Insulin products are widely used in the treatment of diabetes mellitus.",
+                                "Someone with newly diagnosed diabetes mellitus has to learn to recognize the symptoms of hypoglycaemia."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

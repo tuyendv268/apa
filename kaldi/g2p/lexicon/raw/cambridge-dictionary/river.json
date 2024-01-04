@@ -1,0 +1,52 @@
+{
+    "word": "river",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈrɪv.ər"
+                            ],
+                            "us": [
+                                "ˈrɪv.ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a natural wide flow of fresh water across the land into the sea, a lake, or another river: ",
+                            "examples": [
+                                "We sailed slowly down the river."
+                            ]
+                        },
+                        {
+                            "explanation": "used before or after the name of a river: ",
+                            "examples": [
+                                "the River Thames/Seine/Nile",
+                                "the Hudson/Mississippi/Yangzte River"
+                            ]
+                        },
+                        {
+                            "explanation": "in the opposite direction to the flow of water in the river: ",
+                            "examples": [
+                                "We sailed up river."
+                            ]
+                        },
+                        {
+                            "explanation": "in the same direction as the flow of water in the river: ",
+                            "examples": [
+                                "We set off down the river."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

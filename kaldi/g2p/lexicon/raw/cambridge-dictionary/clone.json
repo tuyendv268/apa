@@ -1,0 +1,66 @@
+{
+    "word": "clone",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kləʊn"
+                            ],
+                            "us": [
+                                "kloʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a plant or animal that has the same genes as the original from which it was produced",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "someone or something that looks very much like someone or something else: ",
+                            "examples": [
+                                "Most people saw her as just another blond-haired, red-lipped Marilyn Monroe clone."
+                            ]
+                        },
+                        {
+                            "explanation": "a computer that operates in a very similar way to the one that it was copied from",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kləʊn"
+                            ],
+                            "us": [
+                                "kloʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to create a clone of a plant or animal: ",
+                            "examples": [
+                                "Scientists have already cloned a sheep.",
+                                "Experiments to try to clone human embryos have met with hostility from some sections of the public."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

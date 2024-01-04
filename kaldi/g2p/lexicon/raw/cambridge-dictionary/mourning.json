@@ -1,0 +1,44 @@
+{
+    "word": "mourning",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmɔː.nɪŋ"
+                            ],
+                            "us": [
+                                "ˈmɔːr.nɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "great sadness felt because someone has died: ",
+                            "examples": [
+                                "Shops were closed as a sign of mourning for the king.",
+                                "He was in mourning for his wife."
+                            ]
+                        },
+                        {
+                            "explanation": "the usually black clothes that are worn in some countries as an expression of sadness about someone's death",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a loud crying that people in some countries make when someone dies: ",
+                            "examples": [
+                                "The mourning could be heard all day and all night."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

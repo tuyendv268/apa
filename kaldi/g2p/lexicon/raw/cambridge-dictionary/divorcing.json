@@ -1,0 +1,61 @@
+{
+    "word": "divorcing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ndivorce ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈvɔːs"
+                            ],
+                            "us": [
+                                "dɪˈvɔːrs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to end your marriage by an official or legal process: ",
+                            "examples": [
+                                "She's divorcing her husband."
+                            ]
+                        },
+                        {
+                            "explanation": "to separate two subjects: ",
+                            "examples": [
+                                "How can you divorce the issues of environmental protection and overpopulation?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

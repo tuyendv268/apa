@@ -1,0 +1,66 @@
+{
+    "word": "paced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \npace ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "peɪs"
+                            ],
+                            "us": [
+                                "peɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to get someone to run a race at a particular speed, for example by running with them",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to be careful not to do something too quickly, so that you do not get too tired to finish it: ",
+                            "examples": [
+                                "No more soup, thank you. I'm pacing myself so that I have room for a dessert."
+                            ]
+                        },
+                        {
+                            "explanation": "to walk with regular steps in one direction and then back again, usually because you are worried or nervous: ",
+                            "examples": [
+                                "He paced the room nervously.",
+                                "He paced up and down, waiting for the doctor to call."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

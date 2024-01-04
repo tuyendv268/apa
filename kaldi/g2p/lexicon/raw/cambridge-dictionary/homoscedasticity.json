@@ -1,0 +1,38 @@
+{
+    "word": "homoscedasticity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌhəʊ.məʊ.skɪ.dæsˈtɪs.ə.ti"
+                            ],
+                            "us": [
+                                "ˌhoʊ.moʊ.sɪˌdæsˈtɪs.ə.t̬i",
+                                "ˌhoʊ.moʊ.skɪˌdæsˈtɪs.ə.t̬i",
+                                "ˌhɑː.mə.sɪˌdæsˈtɪs.ə.t̬i",
+                                "ˌhɑː.mə.skɪˌdæsˈtɪs.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in statistics (= the science of using information discovered from studying numbers), a situation in which all the variables (= things that can change) in a sequence (= a series of related things) are equal: ",
+                            "examples": [
+                                "We test for homoscedasticity by use of the Breusch-Pagan test.",
+                                "In several cases, the homoscedasticity assumption could not be met.",
+                                "It is possible to estimate this model to ensure homoskedasticity."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

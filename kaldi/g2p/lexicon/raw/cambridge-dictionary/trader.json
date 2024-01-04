@@ -1,0 +1,41 @@
+{
+    "word": "trader",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtreɪ.dər"
+                            ],
+                            "us": [
+                                "ˈtreɪ.dɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who buys and sells things: ",
+                            "examples": [
+                                "a wool/sugar trader",
+                                "His father is a market trader, selling fruit and vegetables."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who buys and sells company shares or money: ",
+                            "examples": [
+                                "a stock/currency/futures trader",
+                                "He is a well-known trader on the floor of the New York Stock Exchange."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

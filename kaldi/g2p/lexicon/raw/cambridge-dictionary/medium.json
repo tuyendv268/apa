@@ -1,0 +1,75 @@
+{
+    "word": "medium",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈmiː.di.əm"
+                            ],
+                            "us": [
+                                "ˈmiː.di.əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "being in the middle between an upper and lower amount, size, degree, or value: ",
+                            "examples": [
+                                "a girl of medium height",
+                                "a medium-sized book"
+                            ]
+                        },
+                        {
+                            "explanation": "(of meat) cooked so that it is no longer red in the middle: ",
+                            "examples": [
+                                "Would you like your steak rare, medium, or well done?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmiː.di.əm"
+                            ],
+                            "us": [
+                                "ˈmiː.di.əm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a method or way of expressing something: ",
+                            "examples": [
+                                "the broadcasting/print medium",
+                                "They told the story through the medium of dance."
+                            ]
+                        },
+                        {
+                            "explanation": "a person who says that they can receive messages from people who are dead",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a substance that something grows in, lives in, or moves through: ",
+                            "examples": [
+                                "Compost is an excellent growing medium."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "word": "relative pronoun",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌrel.ə.tɪv ˈprəʊ.naʊn"
+                            ],
+                            "us": [
+                                "ˌrel.ə.t̬ɪv ˈproʊ.naʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a pronoun such as which, who, or that, used to begin a relative clause: ",
+                            "examples": [
+                                "In the sentence \"The woman who stole my phone was wearing a brown jacket\", \"who\" is a relative pronoun."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

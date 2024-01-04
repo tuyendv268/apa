@@ -1,23 +1,23 @@
 data-dir: "data/"
 
-trans-dir: 'exps/trans'
-num_senones: 6112
-device: 'cuda:0'
+trans-dir: 'exp/kaldi/trans'
+num_senones: 6152
+device: 'cuda'
 
-kaldi-models-path: "exps/kaldi/"
-conf-path: "exps/kaldi/conf"
-torch-models-path: "exps/kaldi/torch"
-kaldi-chain-mdl-path: "exps/kaldi/exp/chain_cleaned/tdnn_1d_sp_1k6/final.mdl"
-kaldi-chain-txt-path: "exps/kaldi/exp/chain_cleaned/tdnn_1d_sp_1k6/final.txt"
-transition-model-path: "exps/kaldi/exp/chain_cleaned/tdnn_1d_sp_1k6/final.mdl"
-tree-path: "exps/kaldi/exp/chain_cleaned/tdnn_1d_sp_1k6/tree"
-kaldi-phones-path: "exps/kaldi/exp/chain_cleaned/tdnn_1d_sp_1k6/phones.txt"
+kaldi-models-path: "exp/kaldi/"
+conf-path: "exp/kaldi/conf"
+torch-models-path: "exp/kaldi/torch"
+kaldi-chain-mdl-path: "exp/kaldi/exp/chain_cleaned/tdnn_1d_sp_2k1/final.mdl"
+kaldi-chain-txt-path: "exp/kaldi/exp/chain_cleaned/tdnn_1d_sp_2k1/final.txt"
+transition-model-path: "exp/kaldi/exp/chain_cleaned/tdnn_1d_sp_2k1/final.mdl"
+tree-path: "exp/kaldi/exp/chain_cleaned/tdnn_1d_sp_2k1/tree"
+kaldi-phones-path: "exp/kaldi/exp/chain_cleaned/tdnn_1d_sp_2k1/phones.txt"
 
-disambig-path: "exps/kaldi/data/lang_test_tgsmall/phones/disambig.int"
-word-boundary-path: "exps/kaldi/data/lang_test_tgsmall/phones/word_boundary.int"
-lang-graph-path: "exps/kaldi/data/lang_test_tgsmall/L.fst"
-words-path: "exps/kaldi/data/lang_test_tgsmall/words.txt"
-phones-pure-path: "exps/kaldi/data/phones/phones-list.txt"
-phone-to-pure-phone-path: "exps/kaldi/data/phones/phone-to-pure-phone.int"
+disambig-path: "exp/kaldi/data/lang_test_tgsmall/phones/disambig.int"
+word-boundary-path: "exp/kaldi/data/lang_test_tgsmall/phones/word_boundary.int"
+lang-graph-path: "exp/kaldi/data/lang_test_tgsmall/L.fst"
+words-path: "exp/kaldi/data/lang_test_tgsmall/words.txt"
+phones-pure-path: "exp/kaldi/data/phones/phones-list.txt"
+phone-to-pure-phone-path: "exp/kaldi/data/phones/phone-to-pure-phone.int"
 lexicon-path: "resources/lexicon.txt"
-acoustic-model-path: "exps/kaldi/torch/acoustic_model.pt"
+acoustic-model-path: "exp/kaldi/torch/acoustic_model.pt"

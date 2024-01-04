@@ -1,0 +1,34 @@
+{
+    "word": "fps",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "ˌef.piːˈes"
+                            ],
+                            "us": [
+                                "ˌef.piːˈes"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for frames per second: the rate at which different frames (= single pictures that together form a film or video game) appear on a screen: ",
+                            "examples": [
+                                "The frame rate is close to 30 fps, making the game very smooth.",
+                                "Higher fps are better, naturally. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

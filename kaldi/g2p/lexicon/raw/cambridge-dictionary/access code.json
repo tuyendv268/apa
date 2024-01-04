@@ -1,0 +1,41 @@
+{
+    "word": "access code",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.ses ˌkəʊd"
+                            ],
+                            "us": [
+                                "ˈæk.ses ˌkoʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a series of numbers and/or letters that allow the user to get into a place or to use a computer system or website: ",
+                            "examples": [
+                                "When you subscribe, you will be emailed an access code which will allow you to gain entry to the subscription site. ",
+                                "Even the low-security areas like this one required an access code."
+                            ]
+                        },
+                        {
+                            "explanation": "a series of numbers used before the main phone number when you call someone outside your own area or country: ",
+                            "examples": [
+                                "The international access code for Egypt is +20.",
+                                "First dial the access code from your country to the UK."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

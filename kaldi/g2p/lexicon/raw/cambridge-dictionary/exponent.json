@@ -1,0 +1,40 @@
+{
+    "word": "exponent",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪkˈspəʊ.nənt"
+                            ],
+                            "us": [
+                                "ɪkˈspoʊ.nənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a person who supports an idea or belief or performs an activity: ",
+                            "examples": [
+                                "Adam Smith was an exponent of free trade.",
+                                "Jacqueline du Pré was a leading exponent of the cello."
+                            ]
+                        },
+                        {
+                            "explanation": "a number or sign that shows how many times another number is to be multiplied by itself: ",
+                            "examples": [
+                                "In 64 and yn, 4 and n are the exponents."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

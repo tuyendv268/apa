@@ -1,0 +1,34 @@
+{
+    "word": "news broadcast",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈnjuːz ˌbrɔːd.kɑːst"
+                            ],
+                            "us": [
+                                "ˈnuːz ˌbrɑːd.kæst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a television or radio programme consisting of reports about recent events: ",
+                            "examples": [
+                                "Millions tuned in to hear the news broadcast.",
+                                "His nightly news broadcasts are watched by millions of viewers around the country."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

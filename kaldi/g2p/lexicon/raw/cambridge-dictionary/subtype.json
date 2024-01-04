@@ -1,0 +1,34 @@
+{
+    "word": "subtype",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌb.taɪp"
+                            ],
+                            "us": [
+                                "ˈsʌb.taɪp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a type that forms part of a more general type: ",
+                            "examples": [
+                                "More than 60 subtypes of the virus have been identified.",
+                                "Products are listed by manufacturer and then by sub-type."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

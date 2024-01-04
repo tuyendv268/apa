@@ -1,0 +1,47 @@
+{
+    "word": "interpolation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˌtɜː.pəˈleɪ.ʃən"
+                            ],
+                            "us": [
+                                "ɪnˌtɝː.pəˈleɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the addition of something different in the middle of a text, piece of music, etc. or the thing that is added: ",
+                            "examples": [
+                                "An actor reads the poems in English translation, with brief musical interpolations.",
+                                "The play is based on factual accounts with creative interpolation."
+                            ]
+                        },
+                        {
+                            "explanation": "the addition of a number or item into the middle of a series, calculated based on the numbers or items before and after it; a number or item added like this: ",
+                            "examples": [
+                                "Sometimes the data were years apart and interpolations were made for all months in between.",
+                                "For other years estimates were made by interpolation."
+                            ]
+                        },
+                        {
+                            "explanation": "a remark that interrupts someone or something: ",
+                            "examples": [
+                                "They were not amused by his comical interpolations."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "word": "dismiss",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "dɪˈsmɪs"
+                            ],
+                            "us": [
+                                "dɪˈsmɪs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to decide that something or someone is not important and not worth considering: ",
+                            "examples": [
+                                "I think he'd dismissed me as an idiot within five minutes of meeting me.",
+                                "Let's not just dismiss the idea before we've even thought about it.",
+                                "Just dismiss those thoughts from your mind - they're crazy and not worth thinking about."
+                            ]
+                        },
+                        {
+                            "explanation": "to remove someone from their job, especially because they have done something wrong: ",
+                            "examples": [
+                                "He has been dismissed from his job for incompetence."
+                            ]
+                        },
+                        {
+                            "explanation": "to formally ask or order someone to leave: ",
+                            "examples": [
+                                "The professor dismissed the class early because she had a meeting."
+                            ]
+                        },
+                        {
+                            "explanation": "When a judge dismisses a court case, he or she formally stops the trial, often because there is not enough proof that someone is guilty: ",
+                            "examples": [
+                                "The defending lawyer asked that the charge against his client be dismissed."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

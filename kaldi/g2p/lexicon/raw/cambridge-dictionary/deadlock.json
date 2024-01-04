@@ -1,0 +1,39 @@
+{
+    "word": "deadlock",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈded.lɒk"
+                            ],
+                            "us": [
+                                "ˈded.lɑːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a situation in which agreement in an argument cannot be reached because neither side will change its demands or accept any of the demands of the other side: ",
+                            "examples": [
+                                "Somebody will have to compromise if we are to break (= end) the deadlock between the two warring factions.",
+                                "Once again the talks have ended in deadlock.",
+                                "Deadlock over wage levels has prevented an agreement being reached."
+                            ]
+                        },
+                        {
+                            "explanation": "a lock that is inside the edge of a door, so that it cannot be seen or removed when the door is closed",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

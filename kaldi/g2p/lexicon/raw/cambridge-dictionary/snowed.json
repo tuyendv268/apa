@@ -1,0 +1,63 @@
+{
+    "word": "snowed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nsnow ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "snəʊ"
+                            ],
+                            "us": [
+                                "snoʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "If it snows, snow falls from the sky: ",
+                            "examples": [
+                                "It's snowing.",
+                                "It's starting to snow.",
+                                "It had snowed overnight and a thick white layer covered the ground."
+                            ]
+                        },
+                        {
+                            "explanation": "to deceive or trick someone by talking a lot or by giving them a lot of information: ",
+                            "examples": [
+                                "It felt like she was snowing us with statistics."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

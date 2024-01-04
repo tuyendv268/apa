@@ -1,0 +1,53 @@
+{
+    "word": "billion",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "number",
+                        "ipa": {
+                            "uk": [
+                                "ˈbɪl.jən"
+                            ],
+                            "us": [
+                                "ˈbɪl.jən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the number 1,000,000,000: ",
+                            "examples": [
+                                "The population of China is over a/one billion.",
+                                "Cosmetics is a billion-dollar industry.",
+                                "The government has invested billions of dollars in the project."
+                            ]
+                        },
+                        {
+                            "explanation": "1,000,000,000,000",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a very large number: ",
+                            "examples": [
+                                "There were billions of flies everywhere."
+                            ]
+                        },
+                        {
+                            "explanation": "numbers or amounts of money between 1,000,000,000 and 1,000,000,000,000: ",
+                            "examples": [
+                                "The cost of the damage is reckoned to be in the billions.",
+                                "The number of interactions they will need to analyze could easily reach into the billions. ",
+                                "The governor said that the state could not afford a school construction plan in the billions of dollars."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

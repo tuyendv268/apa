@@ -1,0 +1,34 @@
+{
+    "word": "continuous variable",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kənˌtɪn.ju.əs ˈveə.ri.ə.bəl"
+                            ],
+                            "us": [
+                                "kənˌtɪn.ju.əs ˈver.i.ə.bəl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a variable (= number, amount, or situation that can change) whose value has to be measured, because its set of possible values is unlimited. Speed and distance are examples of continuous variables. : ",
+                            "examples": [
+                                "For continuous variables, medians were used because the results lacked normal distribution.",
+                                "Time is a continuous variable."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

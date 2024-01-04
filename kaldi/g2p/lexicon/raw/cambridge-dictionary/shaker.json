@@ -1,0 +1,43 @@
+{
+    "word": "shaker",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈʃeɪ.kər"
+                            ],
+                            "us": [
+                                "ˈʃeɪ.kɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a container with a tightly fitting lid in which liquids can be mixed together by moving the container quickly from side to side: ",
+                            "examples": [
+                                "a cocktail shaker"
+                            ]
+                        },
+                        {
+                            "explanation": "a container with holes in its lid from which a powder can be put onto a surface, by holding the container upside down and shaking it: ",
+                            "examples": [
+                                "a salt/pepper shaker"
+                            ]
+                        },
+                        {
+                            "explanation": "a container into which dice are put and moved quickly from side to side before being thrown onto a flat surface, usually during a game involving chance",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

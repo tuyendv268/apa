@@ -1,0 +1,71 @@
+{
+    "word": "inoculating",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \ninoculate ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈnɒk.jə.leɪt"
+                            ],
+                            "us": [
+                                "ɪˈnɑː.kjə.leɪt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to give a weak form of a disease to a person or animal, usually by injection, as a protection against that disease: ",
+                            "examples": [
+                                "My children have been inoculated against polio.",
+                                "Louis Pasteur inoculated an 8-year-old boy with cowpox and then exposed him to smallpox to test his theory. ",
+                                "There may be a shortage of flu vaccine to inoculate the elderly and other vulnerable groups."
+                            ]
+                        },
+                        {
+                            "explanation": "to introduce something such as bacteria, a virus, or a fungus into an animal or plant as part of an experiment or to encourage it to grow there: ",
+                            "examples": [
+                                "Researchers inoculated some rabbits with the antigen and measured the amount of antibodies the animals produced.",
+                                "Shiitake mushroom logs are wooden logs inoculated with spores for growing your own crop of mushrooms."
+                            ]
+                        },
+                        {
+                            "explanation": "to protect someone from being badly affected by something, usually by giving them some experience of it: ",
+                            "examples": [
+                                "Psychologists recognize that stressful life events may inoculate an individal against trauma.",
+                                "Unfortunately, age does not inoculate against a broken heart."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

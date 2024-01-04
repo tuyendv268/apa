@@ -1,0 +1,41 @@
+{
+    "word": "timeline",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈtaɪm.laɪn"
+                            ],
+                            "us": [
+                                "ˈtaɪm.laɪn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a line that shows the time and the order in which events have happened",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "a plan that shows how long something will take or when things will happen",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "the part of a social media website where items that have been added by you, or that relate to you, are shown: ",
+                            "examples": [
+                                "You can use these tools to control what you share on your profile and timeline."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

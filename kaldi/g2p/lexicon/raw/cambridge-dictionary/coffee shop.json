@@ -1,0 +1,37 @@
+{
+    "word": "coffee shop",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒf.i ˌʃɒp"
+                            ],
+                            "us": [
+                                "ˈkɑː.fi ˌʃɑːp"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a small, informal restaurant where drinks and small meals are served, sometimes in a larger shop or building: ",
+                            "examples": [
+                                "the hospital/theatre coffee shop"
+                            ]
+                        },
+                        {
+                            "explanation": "a shop where different types of coffee are sold, either to drink or as beans or powder",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

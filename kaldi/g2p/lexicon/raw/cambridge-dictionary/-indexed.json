@@ -1,0 +1,30 @@
+{
+    "word": "-indexed",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "suffix",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "having a value that is connected to the thing mentioned, so that the value becomes bigger or smaller as the other thing changes: ",
+                            "examples": [
+                                "a wage-indexed pension",
+                                "inflation-indexed securities issued by the U.S. Treasury"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

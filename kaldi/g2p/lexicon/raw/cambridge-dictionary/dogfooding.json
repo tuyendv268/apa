@@ -1,0 +1,33 @@
+{
+    "word": "dogfooding",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈdɒɡ.fuː.dɪŋ"
+                            ],
+                            "us": [
+                                "ˈdɑːɡ.fuː.dɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a company's use of its own product, as a way of testing and helping to sell it: ",
+                            "examples": [
+                                "Most software companies understand the benefits of dogfooding."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

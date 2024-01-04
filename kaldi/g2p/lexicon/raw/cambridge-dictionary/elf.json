@@ -1,0 +1,61 @@
+{
+    "word": "elf",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "elf"
+                            ],
+                            "us": [
+                                "elf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an imaginary being, often like a small person with pointed ears, in popular stories",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌiː.elˈef"
+                            ],
+                            "us": [
+                                "ˌiː.elˈef"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "abbreviation for English as a lingua franca: the type of English used by speakers of other languages as a way of communicating among themselves",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "abbreviation for executable and linkable format: a system for storing and moving computer files that contain programs",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

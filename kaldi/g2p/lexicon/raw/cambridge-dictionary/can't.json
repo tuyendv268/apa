@@ -1,0 +1,39 @@
+{
+    "word": "can't",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [
+                                "kɑːnt"
+                            ],
+                            "us": [
+                                "kænt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short form of cannot: ",
+                            "examples": [
+                                "Speak up! I can't hear you."
+                            ]
+                        },
+                        {
+                            "explanation": "often used to suggest that someone should do a particular thing, especially when it seems the obvious thing to do: ",
+                            "examples": [
+                                "Can't you just take the dress back to the shop if it doesn't fit?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

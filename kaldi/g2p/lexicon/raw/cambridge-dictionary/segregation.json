@@ -1,0 +1,48 @@
+{
+    "word": "segregation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌseɡ.rɪˈɡeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌseɡ.rəˈɡeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the policy of keeping one group of people apart from another and treating them differently, especially because of race, sex, or religion: ",
+                            "examples": [
+                                "The system of racial segregation that used to exist in South Africa was called apartheid.",
+                                "The community fought to end segregation in schools and housing.",
+                                "the segregation of employment by gender"
+                            ]
+                        },
+                        {
+                            "explanation": "the act of keeping one person or thing separate from another person or thing: ",
+                            "examples": [
+                                "the segregation of the healthy from the sick"
+                            ]
+                        },
+                        {
+                            "explanation": "the separation of pairs of alleles (= different forms of the same gene) during meiosis (= the cell division that happens as part of the process of producing young animals or plants) so that they pass separately to separate gametes (= reproductive cells): ",
+                            "examples": [
+                                "Mendel's first law states that genes do not blend, but pass intact from one generation to the next, after segregation.",
+                                "Fertilization triggers segregation of chromosomes. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "word": "coauthor",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "kəʊˈɔː.θər"
+                            ],
+                            "us": [
+                                "koʊˈɑː.θɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of two or more people who write a book, article, report, etc. together",
+                            "examples": []
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kəʊˈɔː.θər"
+                            ],
+                            "us": [
+                                "koʊˈɑː.θɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to write a book, article, report, etc. together with another person or other people: ",
+                            "examples": [
+                                "Robert and his daughter have coauthored a diet book specifically written for young women."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

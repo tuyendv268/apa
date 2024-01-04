@@ -1,0 +1,69 @@
+{
+    "word": "blasting",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "present participle of \nblast ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "blɑːst"
+                            ],
+                            "us": [
+                                "blæst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to explode or destroy something or someone with explosives, or to break through or hit something with a similar, very strong force: ",
+                            "examples": [
+                                "A tunnel was to be blasted through the mountains.",
+                                "They heard the guns blasting away all night.",
+                                "Their latest album blasted (its way) up the charts (= moved very quickly because of its popularity)."
+                            ]
+                        },
+                        {
+                            "explanation": "to make a very loud and unpleasant noise: ",
+                            "examples": [
+                                "guns/music blasting (away/out)"
+                            ]
+                        },
+                        {
+                            "explanation": "to criticize someone or something severely: ",
+                            "examples": [
+                                "The administration was blasted for failing to create jobs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

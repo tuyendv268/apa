@@ -1,0 +1,35 @@
+{
+    "word": "cross-action",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkrɒsˌæk.ʃən"
+                            ],
+                            "us": [
+                                "ˈkrɑːsˌæk.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a legal process in a law court that is brought by one defendant (= a person in a law case who is accused of having done something illegal) against another defendant in the same case, or against another person involved in the same case: ",
+                            "examples": [
+                                "Cross-actions allow inter-related disputes to be considered in one proceeding.",
+                                "The defendant admitted the allegations in the complaint and in cross-action.",
+                                "If A brings an action against B, and B then brings an action against A in the same matter, this second action is called a cross action."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

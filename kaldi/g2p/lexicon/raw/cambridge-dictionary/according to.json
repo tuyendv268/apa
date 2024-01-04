@@ -1,0 +1,46 @@
+{
+    "word": "according to",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "preposition",
+                        "ipa": {
+                            "uk": [
+                                "əˈkɔː.dɪŋ ˌtuː"
+                            ],
+                            "us": [
+                                "əˈkɔːr.dɪŋ ˌtuː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "as stated by: ",
+                            "examples": [
+                                "According to Sarah they're not getting on very well at the moment.",
+                                "According to our records you owe us $130."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that agrees with: ",
+                            "examples": [
+                                "Students are all put in different groups according to their ability."
+                            ]
+                        },
+                        {
+                            "explanation": "Something that happens according to plan happens in the way it was intended to: ",
+                            "examples": [
+                                "Did it all go according to plan?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

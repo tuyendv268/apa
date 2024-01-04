@@ -1,0 +1,46 @@
+{
+    "word": "tokenization",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌtəʊ.kən.aɪˈzeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌtoʊ.kən.əˈzeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of dividing a series of characters (= letters, numbers, or other marks or signs used in writing or printing) into separate tokens (= units) that have a meaning: ",
+                            "examples": [
+                                "Tokenization shows the text as a series of tokens or useful meaningful units that are larger than individual characters, but smaller than phrases and sentences. ",
+                                "The lowest-level form of annotation is tokenisation. "
+                            ]
+                        },
+                        {
+                            "explanation": "the process of replacing a private piece of data with a token (= a different piece of data that represents the first one), in order to prevent private information being seen by someone who is not allowed to do so: ",
+                            "examples": [
+                                "Tokenization protects sensitive cardholder data by removing it from merchant systems entirely."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of doing something that seems to support or help a group of people who are treated unfairly in society, such as giving a member of that group an important or public position, but that does not make changes that would help that group of people in a lasting way: ",
+                            "examples": [
+                                "Research shows that groups who experience minority status often encounter tokenisation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

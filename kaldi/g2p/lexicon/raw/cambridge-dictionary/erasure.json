@@ -1,0 +1,54 @@
+{
+    "word": "erasure",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ɪˈreɪ.ʒər"
+                            ],
+                            "us": [
+                                "ɪˈreɪ.ʒɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the act of removing a pencil mark by rubbing it: ",
+                            "examples": [
+                                "What happens when a voter marks more than one candidate, then tries to correct the mistake through erasure?",
+                                "The artist takes photos of his drawings as he makes them, creating a visual record of every line and erasure."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of removing recordings or information from a magnetic tape or disk: ",
+                            "examples": [
+                                "the erasure of police audiotapes",
+                                "Common causes of data loss include accidental erasure, worms, and viruses.",
+                                "The software protects data from overwrites or erasures. "
+                            ]
+                        },
+                        {
+                            "explanation": "the act of causing a feeling, memory, or period of time to be completely forgotten: ",
+                            "examples": [
+                                "He laments Virginia's erasure from popular history as the birthplace of English America."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of removing or destroying something, especially something that shows that that person or thing ever existed or happened: ",
+                            "examples": [
+                                "the nuclear erasure of entire populations"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "word": "unscrew",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈskruː"
+                            ],
+                            "us": [
+                                "ʌnˈskruː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to take the lid or top off something by twisting it round: ",
+                            "examples": [
+                                "I can't unscrew the top of this jar - it's really tight."
+                            ]
+                        },
+                        {
+                            "explanation": "to remove something by taking the screws out of it",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

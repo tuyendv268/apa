@@ -1,0 +1,60 @@
+{
+    "word": "ski",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "skiː"
+                            ],
+                            "us": [
+                                "skiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of a pair of long, flat narrow pieces of wood or plastic that curve up at the front and are fastened to boots so that the wearer can move quickly and easily over snow: ",
+                            "examples": [
+                                "a pair of skis",
+                                "ski boots",
+                                "a ski club/resort"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "skiː"
+                            ],
+                            "us": [
+                                "skiː"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to move over snow on skis: ",
+                            "examples": [
+                                "He skied down the hill.",
+                                "Let's go skiing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

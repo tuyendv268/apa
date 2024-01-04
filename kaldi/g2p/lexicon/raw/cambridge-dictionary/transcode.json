@@ -1,0 +1,34 @@
+{
+    "word": "transcode",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "trænˈskəʊd"
+                            ],
+                            "us": [
+                                "trænˈskoʊd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to change computer information that is stored in a particular code (= a language used to program computers) into another code: ",
+                            "examples": [
+                                "Users have to transcode video files using special software before they can view movies.",
+                                "You want to transcode on this machine in real time."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "word": "opus",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈəʊ.pəs"
+                            ],
+                            "us": [
+                                "ˈoʊ.pəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of music written by a particular musician and given a number relating to the order in which it was published: ",
+                            "examples": [
+                                "Carl Nielsen's Opus 43 quintet"
+                            ]
+                        },
+                        {
+                            "explanation": "any work of art: ",
+                            "examples": [
+                                "He showed us his latest opus, a truly awful painting of a vase of flowers."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

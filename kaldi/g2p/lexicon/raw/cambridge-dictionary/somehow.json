@@ -1,0 +1,40 @@
+{
+    "word": "somehow",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌm.haʊ"
+                            ],
+                            "us": [
+                                "ˈsʌm.haʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way or by some means that is not known or not stated: ",
+                            "examples": [
+                                "It won't be easy, but we'll get across the river somehow.",
+                                "I'm not sure how, but somehow or other we'll raise the money."
+                            ]
+                        },
+                        {
+                            "explanation": "for a reason that is not clear: ",
+                            "examples": [
+                                "I know what we're doing is legal, but somehow it doesn't feel right."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

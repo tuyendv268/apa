@@ -1,0 +1,68 @@
+{
+    "word": "concluded",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \nconclude ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "kənˈkluːd"
+                            ],
+                            "us": [
+                                "kənˈkluːd"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to end a speech, meeting, or piece of writing: ",
+                            "examples": [
+                                "She concluded the speech by reminding us of our responsibility.",
+                                "Before I conclude, I'd like to thank you all for coming.",
+                                "The concert concluded with a rousing chorus."
+                            ]
+                        },
+                        {
+                            "explanation": "to complete an official agreement or task, or arrange a business deal",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "to judge or decide something after thinking carefully about it: ",
+                            "examples": [
+                                "The jury concluded from the evidence that the defendant was innocent.",
+                                "The discussions continued late into the night, but nothing was concluded."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

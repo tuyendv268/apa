@@ -1,0 +1,40 @@
+{
+    "word": "homonym",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈhɒm.ə.nɪm"
+                            ],
+                            "us": [
+                                "ˈhɑː.mə.nɪm"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a word that sounds the same or is spelled the same as another word but has a different meaning: ",
+                            "examples": [
+                                "\"No\" and \"know\" are homonyms.",
+                                "\"Bow\" (bend at the waist) and \"bow\" (weapon) are also homonyms."
+                            ]
+                        },
+                        {
+                            "explanation": "a word that has the same spelling and pronunciation as another word but a different meaning: ",
+                            "examples": [
+                                "Jokes and wordplay often rely on homonyms, for example \"I cannot bear to see a bear.\""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

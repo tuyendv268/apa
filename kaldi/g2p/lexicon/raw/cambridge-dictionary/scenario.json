@@ -1,0 +1,38 @@
+{
+    "word": "scenario",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "sɪˈnɑː.ri.əʊ"
+                            ],
+                            "us": [
+                                "səˈner.i.oʊ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a description of possible actions or events in the future: ",
+                            "examples": [
+                                "There are several possible scenarios.",
+                                "a horrific/nightmare scenario such as a Third World War"
+                            ]
+                        },
+                        {
+                            "explanation": "a written plan of the characters and events in a play or film",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

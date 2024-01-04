@@ -1,0 +1,46 @@
+{
+    "word": "precipitation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "prɪˌsɪp.ɪˈteɪ.ʃən"
+                            ],
+                            "us": [
+                                "priːˌsɪp.əˈteɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "water that falls from the clouds towards the ground, especially as rain or snow: ",
+                            "examples": [
+                                "Hail and sleet are types of precipitation.",
+                                "The forecast is for dry, cloudy weather with no precipitation expected."
+                            ]
+                        },
+                        {
+                            "explanation": "a way of behaving too quickly and without thinking: ",
+                            "examples": [
+                                "The prime minister has been accused of acting with precipitation over the crisis."
+                            ]
+                        },
+                        {
+                            "explanation": "a chemical process in which a solid substance is produced from a liquid: ",
+                            "examples": [
+                                "The compound is finally obtained by precipitation."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

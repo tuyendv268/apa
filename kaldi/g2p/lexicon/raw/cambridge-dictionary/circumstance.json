@@ -1,0 +1,51 @@
+{
+    "word": "circumstance",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɜː.kəm.stɑːns"
+                            ],
+                            "us": [
+                                "ˈsɝː.kəm.stæns"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a fact or event that makes a situation the way it is: ",
+                            "examples": [
+                                "I think she coped very well under the circumstances.",
+                                "Obviously we can't deal with the problem until we know all the circumstances.",
+                                "She died in suspicious circumstances.",
+                                "We oppose capital punishment in/under any circumstances.",
+                                "Under no circumstances should you (= you should not) approach the man.",
+                                "The meeting has been cancelled due to circumstances beyond our control."
+                            ]
+                        },
+                        {
+                            "explanation": "events that change your life, over which you have no control: ",
+                            "examples": [
+                                "They were victims of circumstance.",
+                                "We were obliged to go by force of circumstance."
+                            ]
+                        },
+                        {
+                            "explanation": "how much money someone has: ",
+                            "examples": [
+                                "Grants are available depending on your circumstances."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

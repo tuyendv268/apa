@@ -1,0 +1,39 @@
+{
+    "word": "unvoiced",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ʌnˈvɔɪst"
+                            ],
+                            "us": [
+                                "ʌnˈvɔɪst"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "not spoken or expressed, although thought of or felt: ",
+                            "examples": [
+                                "He takes a long time to realize that his unvoiced fears are groundless."
+                            ]
+                        },
+                        {
+                            "explanation": "(of a speech sound) produced without making the vocal cords move: ",
+                            "examples": [
+                                "The voiced plosives [b], [d], and [g] are produced in the same way as their unvoiced counterparts [p], [t], and [k]; the only difference is the voicing."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

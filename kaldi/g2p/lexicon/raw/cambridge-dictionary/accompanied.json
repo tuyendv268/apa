@@ -1,0 +1,76 @@
+{
+    "word": "accompanied",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "_",
+                        "ipa": {
+                            "uk": [],
+                            "us": [],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "past simple and past participle of \naccompany ",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "əˈkʌm.pə.ni"
+                            ],
+                            "us": [
+                                "əˈkʌm.pə.ni"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to go with someone or to be provided or exist at the same time as something: ",
+                            "examples": [
+                                "The course books are accompanied by four CDs.",
+                                "Depression is almost always accompanied by insomnia.",
+                                "The salmon was accompanied by (= served with) a fresh green salad."
+                            ]
+                        },
+                        {
+                            "explanation": "to show someone how to get to somewhere: ",
+                            "examples": [
+                                "Would you like me to accompany you to your room?"
+                            ]
+                        },
+                        {
+                            "explanation": "to go with someone to a social event or to an entertainment: ",
+                            "examples": [
+                                "\"May I accompany you to the ball?\" he asked her.",
+                                "I have two tickets for the theatre on Saturday evening - would you like to accompany me?"
+                            ]
+                        },
+                        {
+                            "explanation": "to sing or play an instrument with another musician or singer: ",
+                            "examples": [
+                                "Miss Jessop accompanied Mr Bentley on the piano."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

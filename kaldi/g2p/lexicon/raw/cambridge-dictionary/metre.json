@@ -1,0 +1,45 @@
+{
+    "word": "metre",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈmiː.tər"
+                            ],
+                            "us": [
+                                "ˈmiː.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a unit of measurement equal to 100 centimetres: ",
+                            "examples": [
+                                "The bomb shelter has concrete walls that are three metres thick.",
+                                "a 15-metre yacht",
+                                "She won the 100 metres (= a race run over this distance) at the Olympics.",
+                                "He is 1 m 75 tall.",
+                                "The price of water rose to 48p per cubic metre (= a unit of volume equal to 1,000 litres).",
+                                "The room is six metres square."
+                            ]
+                        },
+                        {
+                            "explanation": "the regular arrangement of syllables in poetry according to the number and type of beats in a line: ",
+                            "examples": [
+                                "He composes poems in a classical style and in strict metre.",
+                                "Many hymns have a firm, regular metre."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

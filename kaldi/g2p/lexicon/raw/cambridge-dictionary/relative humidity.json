@@ -1,0 +1,33 @@
+{
+    "word": "relative humidity",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌrel.ə.tɪv hjuːˈmɪd.ɪ.ti"
+                            ],
+                            "us": [
+                                "ˌrel.ə.t̬ɪv hjuːˈmɪd.ə.t̬i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "The relative humidity of the air is the amount of water that is present in the air compared to the greatest amount it would be possible for the air to hold at that temperature: ",
+                            "examples": [
+                                "The relative humidity will be about 80 percent today."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

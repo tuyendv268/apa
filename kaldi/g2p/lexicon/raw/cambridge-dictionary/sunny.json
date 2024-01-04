@@ -1,0 +1,39 @@
+{
+    "word": "sunny",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˈsʌn.i"
+                            ],
+                            "us": [
+                                "ˈsʌn.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "bright because of light from the sun: ",
+                            "examples": [
+                                "We're having the party in the garden, so I'm praying it'll be sunny."
+                            ]
+                        },
+                        {
+                            "explanation": "A sunny person is usually happy and relaxed and does not usually get worried or angry: ",
+                            "examples": [
+                                "She has a very sunny disposition."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

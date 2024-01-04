@@ -1,0 +1,40 @@
+{
+    "word": "elimination",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "iˌlɪm.ɪˈneɪ.ʃən"
+                            ],
+                            "us": [
+                                "iˌlɪm.əˈneɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of removing something: ",
+                            "examples": [
+                                "the elimination of disease/pain",
+                                "their elimination from the competition"
+                            ]
+                        },
+                        {
+                            "explanation": "by removing from several possible answers the ones that are unlikely to be correct until only one is left: ",
+                            "examples": [
+                                "We eventually found the answer by a process of elimination."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

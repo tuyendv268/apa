@@ -1,0 +1,42 @@
+{
+    "word": "frontier",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈfrʌn.tɪər",
+                                "frʌnˈtɪər"
+                            ],
+                            "us": [
+                                "frʌnˈtɪr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a border between two countries: ",
+                            "examples": [
+                                "Some of the frontier between Germany and Poland follows the course of the river Oder.",
+                                "Nepal has frontiers with both India and China.",
+                                "They lived in a town close to the frontier."
+                            ]
+                        },
+                        {
+                            "explanation": "the western US where settlers began to move to live in the 19th century: ",
+                            "examples": [
+                                "The Homestead Act of 1862 gave free land to pioneers who settled the frontier."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

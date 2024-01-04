@@ -1,0 +1,42 @@
+{
+    "word": "alive",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "əˈlaɪv"
+                            ],
+                            "us": [
+                                "əˈlaɪv"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "living, not dead: ",
+                            "examples": [
+                                "She's alive and well and living in New Zealand.",
+                                "Doctors kept him alive on a life-support machine.",
+                                "The lost hikers were able to stay alive by finding shelter in a cave in the side of the mountain. ",
+                                "He must be 90 if he's still alive."
+                            ]
+                        },
+                        {
+                            "explanation": "If something is alive, it continues to exist: ",
+                            "examples": [
+                                "Relatives of the missing sailors are struggling to keep their hopes alive."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

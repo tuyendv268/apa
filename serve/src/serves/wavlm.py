@@ -18,7 +18,7 @@ class WavLM_Model:
     def __init__(self, pretrained_path):        
         wavlm_model, wavlm_config = self.init_models(pretrained_path)
 
-        self.wavlm_model = wavlm_model.half().eval().cuda()
+        self.wavlm_model = wavlm_model.eval()
         self.wavlm_config = wavlm_config
 
     def init_models(self, wavlm_ckpt_path=None):
@@ -45,13 +45,11 @@ class WavLM_Model:
             pad_value=0.0
         )
 
-        return waveforms.cuda()
+        return waveforms
 
     @serve.batch(max_batch_size=32, batch_wait_timeout_s=0.1)
     async def run(self, batch):
         waveforms = self.preprocess(batch)
-
-        waveforms = waveforms.half()
 
         with torch.no_grad():
             features = self.wavlm_model.extract_features(waveforms)

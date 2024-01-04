@@ -1,0 +1,34 @@
+{
+    "word": "magnetic north",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "mæɡˌnet.ɪk ˈnɔːθ"
+                            ],
+                            "us": [
+                                "mæɡˌnet̬.ɪk ˈnɔːrθ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the direction towards north that the needle of a compass shows: ",
+                            "examples": [
+                                "There is a difference between magnetic north and true north.",
+                                "A compass needle always points to magnetic north. "
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

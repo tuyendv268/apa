@@ -1,0 +1,38 @@
+{
+    "word": "person of colour",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌpɜː.sən əv ˈkʌl.ər"
+                            ],
+                            "us": [
+                                "ˌpɝː.sən əv ˈkʌl.ɚ"
+                            ],
+                            "uk_other_tense": [
+                                "ˌpiː.pəl əv ˈkʌl.ər"
+                            ],
+                            "us_other_tense": [
+                                "ˌpiː.pəl əv ˈkʌl.ɚ"
+                            ],
+                            "other_tense": "plural"
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "someone who does not consider themselves to be white: ",
+                            "examples": [
+                                "He realized he was the only person of colour there.",
+                                "Fairbanks become a pioneer in the skating world for people of colour."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

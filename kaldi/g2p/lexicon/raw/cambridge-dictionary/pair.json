@@ -1,0 +1,75 @@
+{
+    "word": "pair",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "peər"
+                            ],
+                            "us": [
+                                "per"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "two things of the same appearance and size that are intended to be used together, or something that consists of two parts joined together: ",
+                            "examples": [
+                                "a pair of shoes/gloves",
+                                "a pair of scissors/glasses",
+                                "I can't find a matching pair of socks.",
+                                "He packed two pairs of trousers and four shirts.",
+                                "I'd like you to do this exercise in pairs (= in groups of two)."
+                            ]
+                        },
+                        {
+                            "explanation": "two people who have a romantic relationship or are doing something together: ",
+                            "examples": [
+                                "They seem a very happy pair.",
+                                "What have the pair of you been up to?"
+                            ]
+                        },
+                        {
+                            "explanation": "two animals that come together to have sex and produce young: ",
+                            "examples": [
+                                "a breeding pair",
+                                "a mated pair of swans"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "peər"
+                            ],
+                            "us": [
+                                "per"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to make something one of a pair, or to become one of a pair: ",
+                            "examples": [
+                                "Famous paintings have been paired with poems by Sandburg, Angelou, and others."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

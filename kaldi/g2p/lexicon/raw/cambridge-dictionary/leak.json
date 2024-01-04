@@ -1,0 +1,75 @@
+{
+    "word": "leak",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "liːk"
+                            ],
+                            "us": [
+                                "liːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a liquid or gas) to escape from a hole or crack in a pipe or container; (of a container) to allow liquid or gas to escape: ",
+                            "examples": [
+                                "Water was leaking from the pipe.",
+                                "Oil leaked out of the car.",
+                                "The car leaked oil all over the drive.",
+                                "The tin was leaking."
+                            ]
+                        },
+                        {
+                            "explanation": "to allow secret information to become generally known: ",
+                            "examples": [
+                                "He leaked the names to the press.",
+                                "News of the pay cuts had somehow leaked out."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "liːk"
+                            ],
+                            "us": [
+                                "liːk"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a hole or crack through which a liquid or gas can flow out of a container, or the liquid or gas that comes out: ",
+                            "examples": [
+                                "There's water on the floor - we must have a leak.",
+                                "If you suspect a gas leak, phone the emergency number."
+                            ]
+                        },
+                        {
+                            "explanation": "the origin of secret information that becomes known, or the act of making it known: ",
+                            "examples": [
+                                "There have been several security leaks recently.",
+                                "They traced the leak to a secretary in the finance department."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "word": "downtown",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaʊnˈtaʊn"
+                            ],
+                            "us": [
+                                "ˌdaʊnˈtaʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in or to the central part of a city: ",
+                            "examples": [
+                                "downtown Los Angeles",
+                                "a downtown address",
+                                "I work downtown, but I live in the suburbs."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌdaʊnˈtaʊn"
+                            ],
+                            "us": [
+                                "ˌdaʊnˈtaʊn"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the central part of a city: ",
+                            "examples": [
+                                "The hotel is situated two miles north of downtown."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

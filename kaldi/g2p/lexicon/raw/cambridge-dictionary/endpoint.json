@@ -1,0 +1,38 @@
+{
+    "word": "endpoint",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈendˌpɔɪnt"
+                            ],
+                            "us": [
+                                "ˈendˌpɔɪnt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the end of something or something that you are trying to achieve: ",
+                            "examples": [
+                                "I don't feel like I'm at an endpoint or even at a midpoint in my career.",
+                                "We’ve reached an acceptable endpoint in this litigation."
+                            ]
+                        },
+                        {
+                            "explanation": "a point at which a line segment ends",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

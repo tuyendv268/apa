@@ -1,0 +1,74 @@
+{
+    "word": "segment",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈseɡ.mənt"
+                            ],
+                            "us": [
+                                "ˈseɡ.mənt"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "one of the smaller groups or amounts that a larger group or amount can be divided into: ",
+                            "examples": [
+                                "People over the age of 85 make up the fastest-growing segment of the population.",
+                                "Each of these products is aimed at a specific market segment."
+                            ]
+                        },
+                        {
+                            "explanation": "part of a circle that is divided from the rest by a line, or part of a sphere that is divided from the rest by two planes",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "one of the small parts that a fruit such as an orange is naturally divided into: ",
+                            "examples": [
+                                "The salad was decorated with segments of orange."
+                            ]
+                        },
+                        {
+                            "explanation": "a short piece of film that forms part of a television or radio programme, or that is broadcast on the internet: ",
+                            "examples": [
+                                "CNN last week broadcast a segment on homicides in the city."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "seɡˈment"
+                            ],
+                            "us": [
+                                "ˈseɡ.ment"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to divide something into different parts: ",
+                            "examples": [
+                                "The market is segmented by price into three general categories."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "word": "actuator",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈæk.tʃu.eɪ.tər"
+                            ],
+                            "us": [
+                                "ˈæk.tʃu.eɪ.t̬ɚ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "part of a machine or system that moves something or makes something work: ",
+                            "examples": [
+                                "the cruise control actuator",
+                                "The actuators are powered by wires and controlled by three circuits connected to a power supply."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

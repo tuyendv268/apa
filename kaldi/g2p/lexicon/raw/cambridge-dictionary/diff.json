@@ -1,0 +1,70 @@
+{
+    "word": "diff",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "dɪf"
+                            ],
+                            "us": [
+                                "dɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \ndifference : ",
+                            "examples": [
+                                "OK, I'm stupid. What's the diff between an en-dash and a hyphen?"
+                            ]
+                        },
+                        {
+                            "explanation": "a computer program that can show the differences between computer files: ",
+                            "examples": [
+                                "A diff of the two files will show the sequences that are invalid.",
+                                "You can use the \"diff\" command to show differences between two files, or each corresponding file in two directories."
+                            ]
+                        },
+                        {
+                            "explanation": "short for \ndifferential gear : ",
+                            "examples": [
+                                "The passenger seat rattled, and a wonky diff meant that in a slow right-angled turn the whole rear end juddered."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "dɪf"
+                            ],
+                            "us": [
+                                "dɪf"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "short for \ndifferent : ",
+                            "examples": [
+                                "I told her that my previous salary was irrelevant because it was a totally diff job in a diff industry."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

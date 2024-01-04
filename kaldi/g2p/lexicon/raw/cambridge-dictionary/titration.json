@@ -1,0 +1,43 @@
+{
+    "word": "titration",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "taɪˈtreɪ.ʃən"
+                            ],
+                            "us": [
+                                "taɪˈtreɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a method or the activity of finding exactly how much of a substance there is in a solution by gradually adding measured amounts of another substance that reacts to it in a known way, for example by causing a colour change: ",
+                            "examples": [
+                                "The acid content of the gastric juice was determined by titration to pH 7.4 with NaOH.",
+                                "We described above the titration procedure for determining the amount of acid required to neutralize an alkali.",
+                                "In the practical session we tackled about ten titrations each in three hours."
+                            ]
+                        },
+                        {
+                            "explanation": "the act of calculating and, if necessary, changing how much of a drug, etc. is given to a patient in order to produce the best result, without causing too many side effects (= unpleasant effects that happen in addition to the main intended effect): ",
+                            "examples": [
+                                "Despite careful titration of sedative doses, individual patient responses are variable.",
+                                "Too rapid titration for the patient’s sensitivity may produce adverse effects.",
+                                "Insulin acts rapidly and responds quickly to dose titrations."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

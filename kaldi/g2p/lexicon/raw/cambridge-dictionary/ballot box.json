@@ -1,0 +1,37 @@
+{
+    "word": "ballot box",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈbæl.ət ˌbɒks"
+                            ],
+                            "us": [
+                                "ˈbæl.ət ˌbɑːks"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a box into which people put their voting slips when voting ",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "used to refer to elections or other occasions when people officially vote: ",
+                            "examples": [
+                                "Despite the scandal, the leader's opponents could not win at the ballot box."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

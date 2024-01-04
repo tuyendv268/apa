@@ -1,0 +1,41 @@
+{
+    "word": "allocation",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˌæl.əˈkeɪ.ʃən"
+                            ],
+                            "us": [
+                                "ˌæl.əˈkeɪ.ʃən"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the process of giving someone their part of a total amount of something to use in a particular way: ",
+                            "examples": [
+                                "the allocation of resources/funds/time",
+                                "Allocation of the grants was handled by a charity that provides support and advocacy for disabled children. "
+                            ]
+                        },
+                        {
+                            "explanation": "the part of a total amount of something that someone is given to use in a particular way: ",
+                            "examples": [
+                                "The university is offering moving allocations to anyone who is being displaced from properties it acquires. ",
+                                "Higher budgetary allocations for education mean more teachers can be hired and classes can be smaller."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

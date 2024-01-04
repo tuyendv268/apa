@@ -1,0 +1,41 @@
+{
+    "word": "phonically",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adverb",
+                        "ipa": {
+                            "uk": [
+                                "ˈfɒn.ɪ.kəl.i"
+                            ],
+                            "us": [
+                                "ˈfɑː.nɪ.kəl.i"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "in a way that relates to the sounds made in speech, or to the study of these sounds: ",
+                            "examples": [
+                                "The English language is not phonically regular.",
+                                "The speech may be analyzed phonically."
+                            ]
+                        },
+                        {
+                            "explanation": "in a way that uses phonics (= a method of teaching people to read, based on learning the sounds that letters represent): ",
+                            "examples": [
+                                "They compared the advances made by children taught phonically with those taught by the whole-word method.",
+                                "The students made reasonable progress when they were taught phonically."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

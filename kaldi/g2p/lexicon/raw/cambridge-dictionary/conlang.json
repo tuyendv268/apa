@@ -1,0 +1,33 @@
+{
+    "word": "conlang",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈkɒn.læŋ"
+                            ],
+                            "us": [
+                                "ˈkɑːn.læŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "an artificial language, for example one invented for a film, TV series, or book: ",
+                            "examples": [
+                                "He is a conlang expert, who invented Dothraki for \"Game of Thrones\"."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

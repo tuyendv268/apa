@@ -1,0 +1,45 @@
+{
+    "word": "terrestrial",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "təˈres.tri.əl"
+                            ],
+                            "us": [
+                                "təˈres.tri.əl"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "relating to the earth",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "(of a planet) similar to Earth: ",
+                            "examples": [
+                                "the search for terrestrial planets"
+                            ]
+                        },
+                        {
+                            "explanation": "(of animals) living on the land rather than in the water or air",
+                            "examples": []
+                        },
+                        {
+                            "explanation": "Terrestrial television channels are broadcast from stations on the ground and do not use satellites.",
+                            "examples": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

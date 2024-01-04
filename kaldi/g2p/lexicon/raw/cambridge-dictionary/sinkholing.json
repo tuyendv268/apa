@@ -1,0 +1,34 @@
+{
+    "word": "sinkholing",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "ˈsɪŋk.həʊ.lɪŋ"
+                            ],
+                            "us": [
+                                "ˈsɪŋk.hoʊ.lɪŋ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "the activity of directing internet activity to a different part of a network or server, so that it cannot damage the part it is being aimed at: ",
+                            "examples": [
+                                "Sinkholing is a powerful technique for neutralizing botnets. ",
+                                "DNS sinkholing has a number of limitations."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "word": "infectious",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "adjective",
+                        "ipa": {
+                            "uk": [
+                                "ɪnˈfek.ʃəs"
+                            ],
+                            "us": [
+                                "ɪnˈfek.ʃəs"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "(of a disease) able to be passed from one person, animal, or plant to another: ",
+                            "examples": [
+                                "an infectious disease"
+                            ]
+                        },
+                        {
+                            "explanation": "able to pass a disease from one person, animal, or plant to another: ",
+                            "examples": [
+                                "an infectious patient",
+                                "After the 21-day isolation period, Ebola survivors are no longer infectious."
+                            ]
+                        },
+                        {
+                            "explanation": "Something that is infectious has an effect on everyone who is present and makes them want to join in: ",
+                            "examples": [
+                                "an infectious laugh",
+                                "infectious enthusiasm"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

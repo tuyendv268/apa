@@ -1,0 +1,34 @@
+{
+    "word": "address bar",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "əˈdres ˌbɑːr"
+                            ],
+                            "us": [
+                                "ˈæd.res ˌbɑːr"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a space on a screen where you can type words or symbols in order to visit a website or find something on the internet, and that shows a website's address when you are looking at it: ",
+                            "examples": [
+                                "You can see the picture by pasting the link into your address bar.",
+                                "When the page loads, the address bar contains a complex URL."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

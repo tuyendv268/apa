@@ -1,0 +1,58 @@
+{
+    "word": "fridge",
+    "meaning_cases": [
+        {
+            "word_type_cases": [
+                {
+                    "head_content": {
+                        "word_type": "noun",
+                        "ipa": {
+                            "uk": [
+                                "frɪdʒ"
+                            ],
+                            "us": [
+                                "frɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "a piece of kitchen equipment that uses electricity to preserve food at a cold temperature: ",
+                            "examples": [
+                                "Don't forget to put the milk back in the fridge."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "head_content": {
+                        "word_type": "verb",
+                        "ipa": {
+                            "uk": [
+                                "frɪdʒ"
+                            ],
+                            "us": [
+                                "frɪdʒ"
+                            ],
+                            "uk_other_tense": [],
+                            "us_other_tense": [],
+                            "other_tense": ""
+                        }
+                    },
+                    "body_content": [
+                        {
+                            "explanation": "to put something into a fridge to preserve it at a cold temperature: ",
+                            "examples": [
+                                "I do drink beer, but I have to fridge it first.",
+                                "If we're talking about fridged leftovers, who doesn't love cold pizza?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
