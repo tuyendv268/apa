@@ -200,9 +200,12 @@ class PrepModel(nn.Module):
         self.utt_addi = AdditiveAttention(hidden_dim=embed_dim)
 
         self.phone_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
-        self.utt_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
         self.word_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
 
+        self.utt_acc_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
+        self.utt_int_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
+        self.utt_flu_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
+        
     def forward(self, x, phn, rel_pos):
         batch_size, seq_length, embedd_dim = x.shape[0], x.shape[1], x.shape[2]
 
@@ -231,7 +234,39 @@ class PrepModel(nn.Module):
         u_x = p_x + w_x
 
         u_x, attn = self.utt_addi(query=u_x, key=u_x, value=u_x)
-        utt_score = self.utt_head(u_x.squeeze(1))
+        
+        utt_score = self.utt_acc_head(u_x.squeeze(1))
+        flu_score = self.utt_flu_head(u_x.squeeze(1))
+        int_score = self.utt_int_head(u_x.squeeze(1))
 
-        return utt_score, phone_score, word_score
+        return utt_score, phone_score, word_score, flu_score, int_score
     
+    def extract_embedding(self, x, phn, rel_pos=None):
+        phn_one_hot = torch.nn.functional.one_hot(
+            phn.long()+1, num_classes=self.num_phone).float()
+        
+        phn_embed = self.phn_proj(phn_one_hot)
+        if self.embed_dim != self.input_dim:
+            x = self.in_proj(x)
+
+        p_x = x + phn_embed + self.pos_embed(x)
+        for block in self.phone_encoders:
+            p_x = block(p_x)
+
+        return p_x
+    
+    def forwar_phn(self, x, phn, rel_pos=None):
+        phn_one_hot = torch.nn.functional.one_hot(
+            phn.long()+1, num_classes=self.num_phone).float()
+        
+        phn_embed = self.phn_proj(phn_one_hot)
+        if self.embed_dim != self.input_dim:
+            x = self.in_proj(x)
+
+        p_x = x + phn_embed + self.pos_embed(x)
+        for block in self.phone_encoders:
+            p_x = block(p_x)
+
+        phone_score = self.phone_head(p_x)
+        
+        return phone_score

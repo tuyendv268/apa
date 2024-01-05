@@ -24,22 +24,24 @@ def load_id(path):
     return lines
 
 def load_data(data_dir):
-    ids = load_id(f'{data_dir}/id')
-    phone_ids = np.load(f'{data_dir}/phone_ids.npy')
-    word_ids = np.load(f'{data_dir}/word_ids.npy')
-    
-    phone_scores = np.load(f'{data_dir}/phone_scores.npy')
-    word_scores = np.load(f'{data_dir}/word_scores.npy')
-    sentence_scores = np.load(f'{data_dir}/sentence_scores.npy')
-
-    durations = np.load(f'{data_dir}/duration.npy')
-    gops = np.load(f'{data_dir}/gop.npy')
+    ids_path = f'{data_dir}/id'
+    phone_ids_path = f'{data_dir}/phone_ids'
+    word_ids_path = f'{data_dir}/word_ids'
+    phone_scores_path = f'{data_dir}/phone_scores'
+    word_scores_path = f'{data_dir}/word_scores'
+    sentence_scores_path = f'{data_dir}/sentence_scores'
+    fluency_score_path = f'{data_dir}/fluency_score'
+    intonation_score_path = f'{data_dir}/intonation_score'
+    durations_path = f'{data_dir}/duration'
+    gops_path = f'{data_dir}/gop'
+    relative_positions_path = f'{data_dir}/relative_positions'
     wavlm_features_path = f'{data_dir}/wavlm_features'
 
-    relative_positions = np.load(f'{data_dir}/relative_positions.npy')
+    ids = load_id(ids_path)
 
-    return ids, phone_ids, word_ids, phone_scores, word_scores, \
-        sentence_scores, durations, gops, relative_positions, wavlm_features_path
+    return ids, phone_ids_path, word_ids_path, \
+        phone_scores_path, word_scores_path, sentence_scores_path, fluency_score_path, intonation_score_path, \
+        durations_path, gops_path, relative_positions_path, wavlm_features_path
 
 def to_device(batch, device):
     ids = batch["ids"]
@@ -52,8 +54,12 @@ def to_device(batch, device):
     word_labels = batch["word_scores"].to(device)
     utterance_labels = batch["sentence_scores"].to(device)
 
+    fluency_scores = batch["fluency_scores"].to(device)
+    intonation_scores = batch["intonation_scores"].to(device)
+
     return ids, features, phone_ids, word_ids, relative_positions, \
-        phone_labels, word_labels, utterance_labels
+        phone_labels, word_labels, utterance_labels, \
+        fluency_scores, intonation_scores
 
 def convert_score_to_color(score, YELLOW_GREEN=80/50, RED_YELLOW=30/50):
     if RED_YELLOW is not None:
@@ -210,7 +216,7 @@ def save(epoch, output_dir, model, optimizer, phone_desicion_result, \
 
     save_confusion_matrix_figure(
         three_class_fig_path, phone_predict_path, phone_label_path, 
-        YELLOW_GREEN=80/50, RED_YELLOW=40/50
+        YELLOW_GREEN=80/50, RED_YELLOW=30/50
     )
     
     save_confusion_matrix_figure(
@@ -221,23 +227,31 @@ def save(epoch, output_dir, model, optimizer, phone_desicion_result, \
     print(f'Save state dict and result to {output_dir}')
 
 @torch.no_grad()
-def validate(epoch, gopt_model, optimizer, testloader, best_mse, ckpt_dir, device="cuda"):
+def validate(epoch, gopt_model, optimizer, testloader, best_mse, ckpt_dir, is_save=True, device="cuda"):
     gopt_model.eval()
     A_phn, A_phn_target = [], []
     A_utt, A_utt_target = [], []
     A_wrd, A_wrd_target, A_wrd_id = [], [], []
+    A_utt_int, A_utt_int_target = [], []
+    A_utt_flu, A_utt_flu_target = [], []
 
     for batch in testloader:
-        ids, features, phone_ids, word_ids, relative_positions,\
-            phone_labels, word_labels, utterance_labels = to_device(batch, device)
+        ids, features, phone_ids, word_ids, relative_positions, \
+            phone_labels, word_labels, utterance_labels, \
+            fluency_labels, intonation_labels = to_device(batch, device)
         
-        utterance_preds, phone_preds, word_preds = gopt_model(
+        utterance_preds, phone_preds, word_preds, flu_preds, int_preds = gopt_model(
             x=features.float(), phn=phone_ids.long(), rel_pos=relative_positions.long())
         
         phone_preds, phone_labels = to_cpu(phone_preds, phone_labels)
         word_preds, word_labels = to_cpu(word_preds, word_labels)
         utterance_preds, utterance_labels = to_cpu(utterance_preds, utterance_labels)
+
+        flu_preds, fluency_labels = to_cpu(flu_preds, fluency_labels)
+        int_preds, intonation_labels = to_cpu(int_preds, intonation_labels)
         
+        A_utt_flu.append(flu_preds), A_utt_flu_target.append(fluency_labels)
+        A_utt_int.append(int_preds), A_utt_int_target.append(intonation_labels)
         A_phn.append(phone_preds), A_phn_target.append(phone_labels)
         A_utt.append(utterance_preds), A_utt_target.append(utterance_labels)
         A_wrd.append(word_preds), A_wrd_target.append(word_labels), A_wrd_id.append(word_ids)
@@ -252,40 +266,51 @@ def validate(epoch, gopt_model, optimizer, testloader, best_mse, ckpt_dir, devic
 
     # utterance level
     A_utt, A_utt_target = torch.vstack(A_utt), torch.vstack(A_utt_target)
+    A_utt_int, A_utt_int_target = torch.vstack(A_utt_int), torch.vstack(A_utt_int_target)
+    A_utt_flu, A_utt_flu_target = torch.vstack(A_utt_flu), torch.vstack(A_utt_flu_target)
 
     # valid_token_mse, mae, corr
     phn_mse, phn_mae, phn_corr = valid_phn(A_phn, A_phn_target)
     word_mse, wrd_mae, word_corr = valid_wrd(A_word, A_word_target, A_word_id)
     utt_mse, utt_mae, utt_corr = valid_utt(A_utt, A_utt_target)
 
+    utt_int_mse, utt_int_mae, utt_int_corr = valid_utt(A_utt_int, A_utt_int_target)
+    utt_flu_mse, utt_flu_mae, utt_flu_corr = valid_utt(A_utt_flu, A_utt_flu_target)
+
     if phn_mse < best_mse:
         best_mse = phn_mse
-    ckpt_dir = f'{ckpt_dir}/ckpts-eph={epoch}-mse={round(phn_mse, 4)}'
-    os.makedirs(ckpt_dir)
-    
-    save(
-        epoch=epoch,
-        output_dir=ckpt_dir, 
-        model=gopt_model, 
-        optimizer=optimizer, 
-        phone_desicion_result=decision_result,
-        phone_predicts=A_phn.numpy(), 
-        phone_labels=A_phn_target.numpy(), 
-        word_predicts=A_word.numpy(), 
-        word_labels=A_word_target.numpy(), 
-        utterance_predicts=A_utt.numpy(), 
-        utterance_labels=A_utt_target.numpy()
-    )
-    
-    with open(f'{ckpt_dir}/pcc', "w") as f:
-        f.write("Phone level:  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} \n".format(phn_mse, phn_mae, phn_corr))
-        f.write("Word level:  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} \n".format(word_mse, wrd_mae, word_corr))
-        f.write("Utt level:  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} \n".format(utt_mse, utt_mae, utt_corr))
+
+    if is_save:
+        ckpt_dir = f'{ckpt_dir}/ckpts-eph={epoch}-mse={round(phn_mse, 4)}'
+        os.makedirs(ckpt_dir)
+        
+        save(
+            epoch=epoch,
+            output_dir=ckpt_dir, 
+            model=gopt_model, 
+            optimizer=optimizer, 
+            phone_desicion_result=decision_result,
+            phone_predicts=A_phn.numpy(), 
+            phone_labels=A_phn_target.numpy(), 
+            word_predicts=A_word.numpy(), 
+            word_labels=A_word_target.numpy(), 
+            utterance_predicts=A_utt.numpy(), 
+            utterance_labels=A_utt_target.numpy()
+        )
+        
+        with open(f'{ckpt_dir}/pcc', "w") as f:
+            f.write("Phone level (ACC):  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} \n".format(phn_mse, phn_mae, phn_corr))
+            f.write("Word level (ACC):  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} \n".format(word_mse, wrd_mae, word_corr))
+            f.write("Utt level (ACC):  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} \n".format(utt_mse, utt_mae, utt_corr))
+            f.write("Utt level (Intonation):  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} \n".format(utt_int_mse, utt_int_mae, utt_int_corr))
+            f.write("Utt level (Fluency):  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} \n".format(utt_flu_mse, utt_flu_mae, utt_flu_corr))
 
     print(f"### Validation result (epoch={epoch})")
-    print("  Phone level:  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} ".format(phn_mse, phn_mae, phn_corr))
-    print("   Word level:  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} ".format(word_mse, wrd_mae, word_corr))
-    print("    Utt level:  MSE={:.3f}  MAE={:.3f}  PCC={:.3f} ".format(utt_mse, utt_mae, utt_corr))
+    print("  Phone level (ACC): MSE={:.3f}  MAE={:.3f}  PCC={:.3f} ".format(phn_mse, phn_mae, phn_corr))
+    print("   Word level (ACC): MSE={:.3f}  MAE={:.3f}  PCC={:.3f} ".format(word_mse, wrd_mae, word_corr))
+    print("    Utt level (ACC): MSE={:.3f}  MAE={:.3f}  PCC={:.3f} ".format(utt_mse, utt_mae, utt_corr))
+    print("    Utt level (Intonation):  MSE={:.3f}  MAE={:.3f}  PCC={:.3f}".format(utt_int_mse, utt_int_mae, utt_int_corr))
+    print("    Utt level (Fluency):  MSE={:.3f}  MAE={:.3f}  PCC={:.3f}\n".format(utt_flu_mse, utt_flu_mae, utt_flu_corr))
 
     return {
         "phn_mse": phn_mse, 

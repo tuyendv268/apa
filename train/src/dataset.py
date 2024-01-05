@@ -63,53 +63,103 @@ class IndexedDatasetBuilder:
         np.save(open(f"{self.path}.idx", 'wb'), {'offsets': self.byte_offsets})
     
 class PrepDataset(Dataset):
-    def __init__(self, ids, phone_ids, word_ids, phone_scores, word_scores, \
-            sentence_scores, durations, gops, relative_positions, wavlm_features_path):
+    def __init__(
+        self, ids, phone_ids_path, word_ids_path, \
+        phone_scores_path, word_scores_path, sentence_scores_path, fluency_score_path, intonation_scores_path, \
+        durations_path, gops_path, relative_positions_path, wavlm_features_path, relative2id_path, phone2id_path, max_length=128
+    ):
         
         self.ids = ids
-        self.phone_ids = phone_ids
-        self.word_ids = word_ids
+        self.phone_ids = IndexedDataset(phone_ids_path)
+        self.word_ids = IndexedDataset(word_ids_path)
 
-        self.phone_scores = phone_scores
-        self.word_scores = word_scores
-        self.sentence_scores = sentence_scores
+        self.phone_scores = IndexedDataset(phone_scores_path)
+        self.word_scores = IndexedDataset(word_scores_path)
+        self.sentence_scores = IndexedDataset(sentence_scores_path)
+        self.fluency_scores = IndexedDataset(fluency_score_path)
+        self.intonation_scores = IndexedDataset(intonation_scores_path)
 
-        self.gops = gops
-        self.durations = durations
+        self.gops = IndexedDataset(gops_path)
+        self.durations = IndexedDataset(durations_path)
         self.wavlm_features = IndexedDataset(wavlm_features_path)
-        self.relative_positions = relative_positions
+        self.relative_positions = IndexedDataset(relative_positions_path)
+        self.max_length = max_length
+
+        self.relative2id = json.load(open(relative2id_path, "r", encoding="utf-8"))
+        self.phone2id = json.load(open(phone2id_path, "r", encoding="utf-8"))
 
     def __len__(self):
-        return self.phone_ids.shape[0]
+        return len(self.ids)
+
+    def pad_1d(self, inputs, pad_value=0):
+        padding = pad_value*torch.ones(self.max_length-inputs.shape[0])
+        inputs = torch.concat([inputs, padding], axis=0)
+
+        return inputs
+
+    def pad_2d(self, inputs, pad_value=0):
+        padding = pad_value * torch.ones(self.max_length-inputs.shape[0], inputs.shape[-1])
+        inputs = torch.concat([inputs, padding], axis=0)
+
+        return inputs
+
+    def padding(self, phone_ids, word_ids, phone_scores, word_scores, \
+            sentence_scores, durations, gops, wavlm_features, relative_positions):
+
+        phone_ids = self.pad_1d(phone_ids, pad_value=self.phone2id["PAD"])
+        word_ids = self.pad_1d(word_ids, pad_value=-1)
+        phone_scores = self.pad_1d(phone_scores, pad_value=-1)
+        word_scores = self.pad_1d(word_scores, pad_value=-1)
+        durations = self.pad_1d(durations, pad_value=0)
+        relative_positions = self.pad_1d(relative_positions, pad_value=self.relative2id["PAD"])
+
+        gops = self.pad_2d(gops, pad_value=0)
+        wavlm_features = self.pad_2d(wavlm_features, pad_value=0)
+
+        return phone_ids, word_ids, phone_scores, word_scores, \
+            sentence_scores, durations, gops, wavlm_features, relative_positions
     
     def parse_data(self, ids, phone_ids, word_ids, phone_scores, word_scores, \
-            sentence_scores, durations, gops, wavlm_features, relative_positions):
+            sentence_scores, fluency_scores, intonation_scores, durations, gops, wavlm_features, relative_positions):
         
-        phone_ids = torch.tensor(phone_ids)
-        word_ids = torch.tensor(word_ids)
+        phone_ids = torch.from_numpy(phone_ids)
+        word_ids = torch.from_numpy(word_ids)
 
-        phone_scores = torch.tensor(phone_scores).float().clone()
-        word_scores = torch.tensor(word_scores).float().clone()
+        phone_scores = torch.from_numpy(phone_scores).float().clone()
+        word_scores = torch.from_numpy(word_scores).float().clone()
         sentence_scores = torch.tensor(sentence_scores).float().clone()
+        fluency_scores = torch.tensor(fluency_scores).float().clone()
+        intonation_scores = torch.tensor(intonation_scores).float().clone()
+
+        durations = torch.from_numpy(durations).float()
+        gops = torch.from_numpy(gops).float()
+        wavlm_features = torch.from_numpy(wavlm_features).float()
+        relative_positions = torch.from_numpy(relative_positions)
+
+        phone_ids, word_ids, phone_scores, word_scores, \
+            sentence_scores, durations, gops, wavlm_features, relative_positions = self.padding(
+                phone_ids, word_ids, phone_scores, word_scores, \
+                sentence_scores, durations, gops, wavlm_features, relative_positions
+            )
+
+        features = torch.concat([gops, durations.unsqueeze(-1), wavlm_features], dim=-1)   
 
         phone_scores[phone_scores != -1] /= 50
         word_scores[word_scores != -1] /= 50
         sentence_scores /= 50
-
-        durations = torch.tensor(durations)
-        gops = torch.tensor(gops)
-        wavlm_features = torch.tensor(wavlm_features)
-        relative_positions = torch.tensor(relative_positions)
-
-        features = torch.concat([gops, durations.unsqueeze(-1), wavlm_features], dim=-1)        
+        fluency_scores /= 50
+        intonation_scores /= 50
+     
         return {
             "ids": ids,
             "features": features,
             "phone_ids": phone_ids,
             "word_ids": word_ids,
-            "phone_scores":phone_scores,
-            "word_scores":word_scores,
-            "sentence_scores":sentence_scores,
+            "phone_scores": phone_scores,
+            "word_scores": word_scores,
+            "sentence_scores": sentence_scores,
+            "fluency_scores": fluency_scores,
+            "intonation_scores": intonation_scores,
             "relative_positions": relative_positions
         }
         
@@ -121,6 +171,8 @@ class PrepDataset(Dataset):
         phone_scores = self.phone_scores[index]
         word_scores = self.word_scores[index]
         sentence_scores = self.sentence_scores[index]
+        fluency_scores = self.fluency_scores[index]
+        intonation_scores = self.intonation_scores[index]
 
         gops = self.gops[index]
         durations = self.durations[index]
@@ -134,6 +186,8 @@ class PrepDataset(Dataset):
             phone_scores=phone_scores,
             word_scores=word_scores,
             sentence_scores=sentence_scores,
+            fluency_scores=fluency_scores,
+            intonation_scores=intonation_scores,
             gops=gops,
             durations=durations,
             wavlm_features=wavlm_features,

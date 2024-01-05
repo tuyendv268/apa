@@ -128,6 +128,31 @@ class DepthwiseSeparableConvolution(nn.Module):
         x = x.transpose(1,2)
         return x
 
+
+class PositionalEncoding(nn.Module):
+    def __init__(self, d_model: int, dropout: float = 0.1, max_len: int = 5000):
+        super(PositionalEncoding, self).__init__()
+        self.dropout = nn.Dropout(p=dropout)
+
+        # Compute the positional encodings once in log space.
+        pe = torch.zeros(max_len, d_model)
+        position = torch.arange(0, max_len).unsqueeze(1).float()
+        div_term = torch.exp(torch.arange(0, d_model, 2).float() * -(math.log(10000.0) / d_model))
+        pe[:, 0::2] = torch.sin(position * div_term)
+        pe[:, 1::2] = torch.cos(position * div_term)
+        pe = pe.unsqueeze(0)
+        self.register_buffer("pe", pe)
+
+    def forward(self, x: torch.FloatTensor) -> torch.FloatTensor:
+        """
+        Args:
+            x: `embeddings`, shape (batch, max_len, d_model)
+
+        Returns:
+            `encoder input`, shape (batch, max_len, d_model)
+        """
+        return self.pe[:, : x.size(1)]
+    
 class PrepModel(nn.Module):
     def __init__(self, embed_dim, num_heads, depth, input_dim=84, max_length=50, num_phone=40, dropout=0.1):
         super().__init__()
@@ -135,8 +160,9 @@ class PrepModel(nn.Module):
         self.embed_dim = embed_dim
         self.num_phone = num_phone
 
-        self.pos_embed = nn.Parameter(torch.zeros(1, max_length+1, self.embed_dim))
-        trunc_normal_(self.pos_embed, std=.02)
+        # self.pos_embed = nn.Parameter(torch.zeros(1, max_length+1, self.embed_dim))
+        self.pos_embed = PositionalEncoding(d_model=self.embed_dim, max_len=max_length)
+        # trunc_normal_(self.pos_embed, std=.02)
         
         self.phn_proj = nn.Linear(num_phone, embed_dim)
         self.in_proj = nn.Linear(input_dim, embed_dim)
@@ -174,9 +200,12 @@ class PrepModel(nn.Module):
         self.utt_addi = AdditiveAttention(hidden_dim=embed_dim)
 
         self.phone_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
-        self.utt_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
         self.word_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
 
+        self.utt_acc_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
+        self.utt_int_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
+        self.utt_flu_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
+        
     def forward(self, x, phn, rel_pos):
         batch_size, seq_length, embedd_dim = x.shape[0], x.shape[1], x.shape[2]
 
@@ -186,7 +215,8 @@ class PrepModel(nn.Module):
         if self.embed_dim != self.input_dim:
             x = self.in_proj(x)
 
-        p_x = x + phn_embed + self.pos_embed[:,:seq_length,:]
+        # p_x = x + phn_embed + self.pos_embed[:,:seq_length,:]
+        p_x = x + phn_embed + self.pos_embed(x)
         for block in self.phone_encoders:
             p_x = block(p_x)
         phone_score = self.phone_head(p_x)
@@ -204,7 +234,39 @@ class PrepModel(nn.Module):
         u_x = p_x + w_x
 
         u_x, attn = self.utt_addi(query=u_x, key=u_x, value=u_x)
-        utt_score = self.utt_head(u_x.squeeze(1))
+        
+        utt_score = self.utt_acc_head(u_x.squeeze(1))
+        flu_score = self.utt_flu_head(u_x.squeeze(1))
+        int_score = self.utt_int_head(u_x.squeeze(1))
 
-        return utt_score, phone_score, word_score
+        return utt_score, phone_score, word_score, flu_score, int_score
     
+    def extract_embedding(self, x, phn, rel_pos=None):
+        phn_one_hot = torch.nn.functional.one_hot(
+            phn.long()+1, num_classes=self.num_phone).float()
+        
+        phn_embed = self.phn_proj(phn_one_hot)
+        if self.embed_dim != self.input_dim:
+            x = self.in_proj(x)
+
+        p_x = x + phn_embed + self.pos_embed(x)
+        for block in self.phone_encoders:
+            p_x = block(p_x)
+
+        return p_x
+    
+    def forwar_phn(self, x, phn, rel_pos=None):
+        phn_one_hot = torch.nn.functional.one_hot(
+            phn.long()+1, num_classes=self.num_phone).float()
+        
+        phn_embed = self.phn_proj(phn_one_hot)
+        if self.embed_dim != self.input_dim:
+            x = self.in_proj(x)
+
+        p_x = x + phn_embed + self.pos_embed(x)
+        for block in self.phone_encoders:
+            p_x = block(p_x)
+
+        phone_score = self.phone_head(p_x)
+        
+        return phone_score

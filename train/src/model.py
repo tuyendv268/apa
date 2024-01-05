@@ -200,9 +200,12 @@ class PrepModel(nn.Module):
         self.utt_addi = AdditiveAttention(hidden_dim=embed_dim)
 
         self.phone_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
-        self.utt_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
         self.word_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
 
+        self.utt_acc_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
+        self.utt_int_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
+        self.utt_flu_head = nn.Sequential(nn.LayerNorm(embed_dim), nn.Linear(embed_dim, 1))
+        
     def forward(self, x, phn, rel_pos):
         batch_size, seq_length, embedd_dim = x.shape[0], x.shape[1], x.shape[2]
 
@@ -231,9 +234,12 @@ class PrepModel(nn.Module):
         u_x = p_x + w_x
 
         u_x, attn = self.utt_addi(query=u_x, key=u_x, value=u_x)
-        utt_score = self.utt_head(u_x.squeeze(1))
+        
+        utt_score = self.utt_acc_head(u_x.squeeze(1))
+        flu_score = self.utt_flu_head(u_x.squeeze(1))
+        int_score = self.utt_int_head(u_x.squeeze(1))
 
-        return utt_score, phone_score, word_score
+        return utt_score, phone_score, word_score, flu_score, int_score
     
     def extract_embedding(self, x, phn, rel_pos=None):
         phn_one_hot = torch.nn.functional.one_hot(

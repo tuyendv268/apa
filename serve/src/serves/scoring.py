@@ -158,15 +158,14 @@ class Scoring_Model:
                 durations, 
                 wavlm_features
             ], dim=-1)
-
-        utterance_scores, phone_scores, word_scores = self.model(
+        utterance_scores, phone_scores, word_scores, flu_score, int_score = self.model(
             x=features, phn=phone_ids, rel_pos=rel_position)
         
         utterance_scores = utterance_scores.squeeze(-1)
         phone_scores = phone_scores.squeeze(-1)
         word_scores = word_scores.squeeze(-1)
 
-        return utterance_scores, phone_scores, word_scores
+        return utterance_scores, phone_scores, word_scores, flu_score, int_score
 
     @serve.batch(max_batch_size=64, batch_wait_timeout_s=0.1)
     async def run(self, batch):
@@ -184,7 +183,7 @@ class Scoring_Model:
         durations = batch["durations"].unsqueeze(-1)
         phone_ids = batch["phone_ids"]
 
-        utterance_scores, phone_scores, word_scores = self.run_scoring(
+        utterance_scores, phone_scores, word_scores, flu_scores, int_scores = self.run_scoring(
             wavlm_features=wavlm_features, 
             gop_features=gop_features, 
             rel_position=relative_positions,
@@ -198,23 +197,29 @@ class Scoring_Model:
         outputs = self.postprocess(
             utterance_scores=utterance_scores, 
             phone_scores=phone_scores, 
-            word_scores=word_scores
+            word_scores=word_scores,
+            flu_scores=flu_scores, 
+            int_scores=int_scores
         )
 
         return outputs
 
-    def postprocess(self, utterance_scores, phone_scores, word_scores):
+    def postprocess(self, utterance_scores, phone_scores, word_scores, flu_scores, int_scores):
         outputs = []
 
         for index in range(len(utterance_scores)):
             utterance_score = utterance_scores[index]
             phone_score = phone_scores[index]
             word_score = word_scores[index]
+            flu_score = flu_scores[index]
+            int_score = int_scores[index]
 
             sample = {
                 "utterance_score": utterance_score,
                 "phone_score": phone_score,
                 "word_score": word_score,
+                # "flu_score":flu_score, 
+                # "int_score": int_score
             }
 
             outputs.append(sample)

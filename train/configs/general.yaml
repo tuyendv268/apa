@@ -1,6 +1,6 @@
 data-dir: "data/test"
 
-n-split: 20
+n-split: 40
 trans-dir: 'exp/kaldi/trans'
 num-senones: 6152
 device: 'cuda:0'

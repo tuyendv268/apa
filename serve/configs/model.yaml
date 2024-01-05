@@ -3,4 +3,4 @@ num-heads: 1
 depth: 3
 input-dim: 855
 num-phone: 44
-max-length: 128
+max-length: 256

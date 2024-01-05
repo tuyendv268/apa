@@ -136,7 +136,8 @@ align_app = Forced_Aligner.bind(configs)
 gop_app = GOP_Recipe.bind(configs)
 
 configs = load_config("configs/model.yaml")
-gopt_ckpt_path = "../train/exp/ckpts/dev/ckpts-eph=24-mse=0.16040000319480896/model.pt"
+gopt_ckpt_path = "exp/ckpts/ckpts-eph=18-mse=0.08669999986886978/model.pt"
+# gopt_ckpt_path = "../train/exp/fine-tuning/ckpts-eph=19-mse=0.2442999929189682/model.pt"
 score_app = Scoring_Model.bind(configs, gopt_ckpt_path)
 
 pretrained_path = "exp/ckpts/wavlm-base+.pt"
